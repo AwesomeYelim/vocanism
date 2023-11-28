@@ -1,10 +1,13 @@
 import axios from "axios";
+import dotenv from "dotenv";
+
+dotenv.config({ path: ".env.local", override: true });
 
 const key = process.env.DICTIONARY_KEY;
 
 const options = {
   method: "GET",
-  url: `https://www.dictionaryapi.com/api/v3/references/collegiate/json/over?key=${key}`,
+  url: `https://www.dictionaryapi.com/api/v3/references/collegiate/json/babe?key=${key}`,
 };
 
 const excute = async () => {

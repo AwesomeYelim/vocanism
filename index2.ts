@@ -44,8 +44,7 @@ const getHtml = async () => {
           console.log(res);
 
           return res;
-          // ja[differ] = res.data.message.result.translatedText;
-          // // 경로 - 절대 경로로 설정, prettier 자동 세팅
+          
           // fs.writeFile(
           //   "src/locales/ja/translation.json",
           //   prettier.format(JSON.stringify(ja), { filepath: "src/locales/ja/translation.json" }),
