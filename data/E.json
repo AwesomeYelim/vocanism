@@ -1,0 +1,400 @@
+[
+  {
+    "rank": 1,
+    "root": "ear",
+    "meaning": ["귀", "ear"],
+    "origin": ["eare"],
+    "from": "OldEnglish",
+    "ex": [{ "ear": "귀" }]
+  },
+  {
+    "rank": 2,
+    "root": "earn",
+    "meaning": ["earn"],
+    "origin": ["earnian", "esne"],
+    "from": "OldEnglish",
+    "ex": [{ "earning": "벌기" }, { "earnings": "소득" }]
+  },
+  {
+    "rank": 3,
+    "root": "earth",
+    "meaning": ["땅", "earth"],
+    "origin": ["eorþe", "eorthe"],
+    "from": "OldEnglish",
+    "ex": [{ "earthen": "흙으로된" }]
+  },
+  {
+    "rank": 4,
+    "root": "ease",
+    "meaning": ["쉬움", "easy"],
+    "origin": ["aise", "aiser"],
+    "from": "French",
+    "ex": [{ "disease": "질병" }, { "ease": "쉬움" }, { "easily": "쉽게" }, { "easy": "쉬운" }, { "uneasy": "불안한" }]
+  },
+  {
+    "rank": 5,
+    "root": "east",
+    "meaning": ["동쪽", "east"],
+    "origin": ["east", "eastan", "east-"],
+    "from": "OldEnglish",
+    "ex": [{ "eastern": "동쪽에[으로]위치한[향한]" }]
+  },
+  {
+    "rank": 6,
+    "root": "ech(ech-)",
+    "meaning": ["소리", "sound"],
+    "origin": ["ekhein", "echo", "ekhe"],
+    "from": "Greek",
+    "ex": [{ "echo": "울림" }]
+  },
+  {
+    "rank": 7,
+    "root": "eco(eco-)",
+    "meaning": ["집", "환경", "house"],
+    "origin": ["oikos"],
+    "from": "Greek",
+    "ex": [
+      { "eco": "환경/생태" },
+      { "ecocide": "생태계[환경]파괴" },
+      { "ecological": "생태계[학]의" },
+      { "ecologist": "생태학자" },
+      { "ecology": "생태" },
+      { "economic": "경제의" },
+      { "economical": "경제적인" },
+      { "economically": "경제의측면에서" },
+      { "economics": "경제학" },
+      { "economist": "경제학자" },
+      { "economy": "경기" },
+      { "ecosystem": "생태계" },
+      { "ecotherapy": "친환경치료요법" }
+    ]
+  },
+  {
+    "rank": 8,
+    "root": "eder(ed-, es-, eder-)",
+    "meaning": ["먹다", "생산하다", "eat", ""],
+    "origin": ["edere", "esus", "editus", "edax"],
+    "from": "Latin",
+    "ex": [
+      { "comedo": "여드름" },
+      { "comestible": "먹을수있는" },
+      { "edacious": "탐식" },
+      { "edacity": "왕성한식욕" },
+      { "eder-": "~을낳다" },
+      { "edible": "먹을수있는" },
+      { "edit": "수정[가필]하다" },
+      { "edition": "판" },
+      { "editor": "편집장" },
+      { "editorial": "편집의" },
+      { "obese": "비만인" },
+      { "obesity": "비만" }
+    ]
+  },
+  {
+    "rank": 9,
+    "root": "Egypt",
+    "meaning": ["이집트", "Egypt"],
+    "origin": ["Egypte"],
+    "from": "French",
+    "ex": [{ "Egyptian": "이집트사람" }, { "Egyptologist": "이집트학자" }]
+  },
+  {
+    "rank": 10,
+    "root": "eight",
+    "meaning": ["여덟", "8", "eight"],
+    "origin": ["eahta", "æhta"],
+    "from": "OldEnglish",
+    "ex": [{ "eighteen": "18" }, { "eighteenth": "제18의" }, { "eighth": "제8" }]
+  },
+  {
+    "rank": 11,
+    "root": "electr(electr-)",
+    "meaning": ["전기"],
+    "origin": ["elektron"],
+    "from": "Greek",
+    "ex": [
+      { "electr": "전기의" },
+      { "electric": "전기의" },
+      { "electrical": "전기의" },
+      { "electrician": "전기기사[기술자]" },
+      { "electricity": "전기" },
+      { "electro": "전기" },
+      { "electrode": "전극" },
+      { "electrolysis": "전기분해요법" },
+      { "electron": "전자" },
+      { "electronic": "전자의" },
+      { "electronically": "전자" },
+      { "electronics": "전자공학" }
+    ]
+  },
+  {
+    "rank": 12,
+    "root": "element",
+    "meaning": ["요소", "element"],
+    "origin": ["elementum"],
+    "from": "Latin",
+    "ex": [{ "element": "요소" }, { "elementary": "초보의" }]
+  },
+  {
+    "rank": 13,
+    "root": "emer(emer-, em-, empt-)",
+    "meaning": ["사다", "buy"],
+    "origin": ["emere", "emptus"],
+    "from": "Latin",
+    "ex": [
+      { "example": "예[사례/보기]" },
+      { "exempt": "면제되는" },
+      { "premium": "보험료" },
+      { "prompt": "" },
+      { "redeem": "보완[벌충/상쇄]하다" },
+      { "sample": "표본" },
+      { "vintage": "어느일정한수확에서얻어지는포도주" }
+    ]
+  },
+  {
+    "rank": 14,
+    "root": "end",
+    "meaning": ["끝", "end"],
+    "origin": ["ende"],
+    "from": "OldEnglish",
+    "ex": [{ "ending": "결말" }, { "endlessly": "끝없이" }]
+  },
+  {
+    "rank": 15,
+    "root": "endo",
+    "meaning": ["안", "내부"],
+    "origin": ["endon"],
+    "from": "Greek",
+    "ex": [{ "endogenous": "내생" }, { "endothelial": "내피" }]
+  },
+  {
+    "rank": 16,
+    "root": "entom(entom-, entomo-)",
+    "meaning": ["곤충"],
+    "origin": ["entomon"],
+    "from": "Greek",
+    "ex": [{ "entomo": "곤충" }]
+  },
+  {
+    "rank": 17,
+    "root": "environ",
+    "meaning": ["둘러싸다", "environ"],
+    "origin": ["environer", "environ", "viron", "virer"],
+    "from": "French",
+    "ex": [
+      { "environ": "둘러싸다" },
+      { "environment": "환경" },
+      { "environmental": "환경의[환경과관련된]" },
+      { "environmentalist": "환경운동가" },
+      { "environmentally": "환경적으로" }
+    ]
+  },
+  {
+    "rank": 18,
+    "root": "equ",
+    "meaning": ["동등한", "equal"],
+    "origin": ["aequus", "aequare"],
+    "from": "Latin",
+    "ex": [
+      { "adequate": "충분한[적절한]" },
+      { "equ-": "동등" },
+      { "equal": "동일한[같은]" },
+      { "equality": "평등" },
+      { "equally": "똑같이" },
+      { "equate": "동일시하다" },
+      { "equation": "방정식" },
+      { "equator": "적도" },
+      { "equity": "자기자본" },
+      { "equivalent": "동등한[맞먹는]" },
+      { "equivocal": "모호한" },
+      { "inequality": "불평등" },
+      { "iniquity": "부당성" },
+      { "unequal": "불공평한" }
+    ]
+  },
+  {
+    "rank": 19,
+    "root": "erg(erg-, org-, urg-)",
+    "meaning": ["일하다", "work"],
+    "origin": ["wergon", "ergon", "ergates"],
+    "from": "Greek",
+    "ex": [
+      { "allergy": "알레르기" },
+      { "argon": "아르곤" },
+      { "energetic": "정력[활동]적인" },
+      { "energise": "열기[열정]를돋우다" },
+      { "energize": "열기[열정]를돋우다" },
+      { "energy": "정력" },
+      { "erg": "일[작업]" }
+    ]
+  },
+  {
+    "rank": 20,
+    "root": "err",
+    "meaning": ["길을잃은", "stray"],
+    "origin": ["errare"],
+    "from": "Latin",
+    "ex": [{ "error": "실수[오류]" }]
+  },
+  {
+    "rank": 21,
+    "root": "esse(esse, ess-)",
+    "meaning": ["존재", "tobe"],
+    "origin": ["esse", "futurus", "futura"],
+    "from": "Latin",
+    "ex": [
+      { "absence": "부재" },
+      { "absent": "결석한" },
+      { "essence": "본질" },
+      { "essential": "필수적인" },
+      { "essentially": "근본[기본/본질]적으로" },
+      { "future": "미래" },
+      { "futuristic": "초현대적인" },
+      { "futurologist": "미래학자" },
+      { "futurology": "미래학" },
+      { "interest": "관심" },
+      { "interested": "관심[흥미]있어하는" },
+      { "interesting": "재미있는" },
+      { "Interestingly": "흥미있게" }
+    ]
+  },
+  {
+    "rank": 22,
+    "root": "estim",
+    "meaning": ["평가", "살피다", "value"],
+    "origin": ["aestimatus", "aestimare"],
+    "from": "Latin",
+    "ex": [
+      { "aim": "목적" },
+      { "esteem": "존경[찬탄]하다" },
+      { "estimate": "추정" },
+      { "estimation": "판단[평가]" },
+      { "overestimate": "과대평가하다" },
+      { "overestimation": "과대평가" },
+      { "underestimate": "너무적게잡다[추산하다]" }
+    ]
+  },
+  {
+    "rank": 23,
+    "root": "eth",
+    "meaning": ["윤리", "관습", "custom"],
+    "origin": ["ethein", "ethos", "ethikos"],
+    "from": "Greek",
+    "ex": [
+      { "ethic": "윤리" },
+      { "ethical": "윤리적인" },
+      { "ethically": "윤리" },
+      { "ethics": "윤리학" },
+      { "ethology": "인성학" },
+      { "ethos": "기풍[정신]" }
+    ]
+  },
+  {
+    "rank": 24,
+    "root": "ethn",
+    "meaning": ["사람", "인종", "people"],
+    "origin": ["ethnos", "ethnikos"],
+    "from": "Greek",
+    "ex": [{ "ethnic": "민족[종족]의" }]
+  },
+  {
+    "rank": 25,
+    "root": "etym(etym-)",
+    "meaning": ["진실", "true"],
+    "origin": ["etumos", "etymos", "etymon"],
+    "from": "Greek",
+    "ex": [
+      { "etymologic": "어원의" },
+      { "etymologically": "어원적으로" },
+      { "etymologize": "…의어원을조사하다[나타내다]" },
+      { "etymology": "어원학" },
+      { "etymon": "원형" }
+    ]
+  },
+  {
+    "rank": 26,
+    "root": "eur",
+    "meaning": ["넓은", "wide"],
+    "origin": ["eurus"],
+    "from": "Greek",
+    "ex": [{ "Europe": "유럽" }, { "European": "유럽인" }]
+  },
+  {
+    "rank": 27,
+    "root": "ever",
+    "meaning": ["ever"],
+    "origin": ["æfre"],
+    "from": "OldEnglish",
+    "ex": [
+      { "ever": "어느때고" },
+      { "never": "결코[절대/한번도]…않다" },
+      { "nevertheless": "그렇기는하지만" },
+      { "whatsoever": "…한어떤것" }
+    ]
+  },
+  {
+    "rank": 28,
+    "root": "evite",
+    "meaning": ["피하다", "evite"],
+    "origin": ["evitare"],
+    "from": "Latin",
+    "ex": [{ "evitable": "피할수있는" }, { "inevitable": "불가피한" }]
+  },
+  {
+    "rank": 29,
+    "root": "examin(examin-)",
+    "meaning": ["시험", "examine"],
+    "origin": ["examinare", "examen"],
+    "from": "Latin",
+    "ex": [{ "exam": "시험" }, { "examination": "조사" }, { "examine": "조사[검토]하다" }]
+  },
+  {
+    "rank": 30,
+    "root": "exo",
+    "meaning": ["야외", "외국", "outside"],
+    "origin": ["exo"],
+    "from": "Greek",
+    "ex": [{ "exotic": "외국의" }]
+  },
+  {
+    "rank": 31,
+    "root": "exter(exter, extrem)",
+    "meaning": ["밖의", "outward", "utmost"],
+    "origin": ["exter", "exterus", "extremus", "extera", "exterum", "exterior", "extimus"],
+    "from": "Latin",
+    "ex": [
+      { "exterior": "외부[겉]의" },
+      { "extern": "밖의" },
+      { "external": "외부[겉/외면]의" },
+      { "extreme": "극도의" },
+      { "extremely": "극도로" },
+      { "extremity": "맨끝" }
+    ]
+  },
+  {
+    "rank": 32,
+    "root": "extra",
+    "meaning": ["멀리", "밖", "outer"],
+    "origin": ["extra", "extraneus"],
+    "from": "Latin",
+    "ex": [
+      { "estrange": "멀어지게하다" },
+      { "extra": "추가의" },
+      { "extraordinary": "기이한" },
+      { "extravagance": "낭비" },
+      { "extravagant": "낭비하는" },
+      { "extrovert": "외향적인사람" },
+      { "strange": "이상한" },
+      { "strangely": "이상하게" },
+      { "stranger": "낯선[모르는]사람" }
+    ]
+  },
+  {
+    "rank": 33,
+    "root": "eye",
+    "meaning": ["눈", "eye"],
+    "origin": ["eage"],
+    "from": "OldEnglish",
+    "ex": [{ "eyebrow": "눈썹" }]
+  }
+]

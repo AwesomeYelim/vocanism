@@ -1,0 +1,60 @@
+[
+  {
+    "rank": 1,
+    "root": "kill",
+    "meaning": ["죽이다", "kill"],
+    "origin": ["cwellan", "cwelan", "quellian", "quell", "cyllan"],
+    "from": "OldEnglish",
+    "ex": [{ "": "…을죽이는[없애는]사람[동물/것]" }, { "killer": {} }]
+  },
+  {
+    "rank": 2,
+    "root": "kin",
+    "meaning": ["혈연", "family"],
+    "origin": ["cynn", "gecynd"],
+    "from": "OldEnglish",
+    "ex": [
+      { "": "친족" },
+      { "kin": "친절한" },
+      { "kind": "친절" },
+      { "kindness": "일가친척" },
+      { "kindred": "왕" },
+      { "king": "왕국" },
+      { "kingdom": "친족" },
+      { "kinship": "친척" },
+      { "kinsman": "일가[친척]의여자" },
+      { "kinswoman": "불쾌한" },
+      { "unkind": {} }
+    ]
+  },
+  {
+    "rank": 3,
+    "root": "klepto(klepto-, klept)",
+    "meaning": ["훔치다", "steal"],
+    "origin": ["kleptein", "kleptes"],
+    "from": "Greek",
+    "ex": [{ "": "책도둑" }, { "biblioklept": "도둑" }, { "klepto": "병적도벽" }, { "kleptomania": {} }]
+  },
+  {
+    "rank": 4,
+    "root": "knot(knot-, knit-)",
+    "meaning": ["매듭", "knot"],
+    "origin": ["cnotta", "cnyttan"],
+    "from": "OldEnglish",
+    "ex": [{ "": "뜨다[짜다]" }, { "knit": "뜨개질감" }, { "knitting": "매듭" }, { "knot": {} }]
+  },
+  {
+    "rank": 5,
+    "root": "know",
+    "meaning": ["알다", "know"],
+    "origin": ["cnawan", "gecnowan"],
+    "from": "OldEnglish",
+    "ex": [
+      { "": "알다" },
+      { "know": "다안다는듯한" },
+      { "knowing": "지식" },
+      { "knowledge": "자신도모르는[알아채지못하는]" },
+      { "unknowing": {} }
+    ]
+  }
+]

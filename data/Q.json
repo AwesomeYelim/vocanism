@@ -1,0 +1,42 @@
+[
+  {
+    "rank": 1,
+    "root": "qual",
+    "meaning": ["품질"],
+    "origin": ["qualis(Latin)"],
+    "from": "",
+    "ex": [{ "qualification": "자격[자격증]" }, { "qualify": "자격[자격증]을얻다[취득하다]" }, { "quality": "질" }]
+  },
+  {
+    "rank": 2,
+    "root": "quati-(quati, -cuti-, quass-, -cuss-)",
+    "meaning": ["shake"],
+    "origin": ["quatere(Latin)"],
+    "from": "",
+    "ex": [{ "discuss": "상의[의논/논의]하다" }, { "discussion": "논의" }, { "rescue": "구하다" }]
+  },
+  {
+    "rank": 3,
+    "root": "quest(quest, -quer-, -quir-, quesit-, -quisit-)",
+    "meaning": ["찾다", "ask"],
+    "origin": ["quaerere", "quaesitus(Latin)"],
+    "from": "",
+    "ex": [
+      { "acquire": "습득하다[얻다]" },
+      { "acquisition": "습득" },
+      { "conquer": "정복하다" },
+      { "conquest": "정복" },
+      { "enquire": "문의하다" },
+      { "inquire": "묻다" },
+      { "inquiry": "연구" },
+      { "query": "문의" },
+      { "quest": {} },
+      { "question": "질문" },
+      { "questionary": "설문지" },
+      { "questionnaire": "설문지" },
+      { "request": "요청[신청]" },
+      { "require": "필요[요구]하다" },
+      { "requirement": {} }
+    ]
+  }
+]

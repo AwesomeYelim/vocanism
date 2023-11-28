@@ -1,0 +1,323 @@
+[
+  {
+    "rank": 1,
+    "root": "tact(tact-, tax)",
+    "meaning": ["접하다", "touch"],
+    "origin": ["tangere", "tactus", "taxare(Latin)"],
+    "from": "",
+    "ex": [
+      { "attack": "폭행" },
+      { "contact": "연락[접촉]" },
+      { "contagious": "전염되는" },
+      { "contaminate": "오염시키다" },
+      { "detach": "떼다[분리하다]" },
+      { "intact": {} },
+      { "task": "일" },
+      { "tax": "세금" },
+      { "taxation": "조세" },
+      { "taxi": "택시" },
+      { "touch": "촉각" }
+    ]
+  },
+  {
+    "rank": 2,
+    "root": "techno",
+    "meaning": ["기술", "skill", "기교"],
+    "origin": [""],
+    "from": "",
+    "ex": [
+      { "agro-tech": "농업기술" },
+      { "technic": "전문적인[학술적]방법[법칙]" },
+      { "technical": "과학기술의" },
+      { "technician": "기술자" },
+      { "technique": "기법" },
+      { "technology": "기술" },
+      { "technophile": "신기술에열광하는사람" }
+    ]
+  },
+  {
+    "rank": 3,
+    "root": "tect(teg-, tect-)",
+    "meaning": ["덮힌"],
+    "origin": ["tegere", "tectus(Latin)"],
+    "from": "",
+    "ex": [
+      { "architect": "건축가" },
+      { "architectural": "건축학[술]의" },
+      { "architecture": "건축학[술]" },
+      { "detect": "발견하다[알아내다/감지하다]" },
+      { "detection": {} },
+      { "detective": "탐정의" },
+      { "detector": "탐지기" },
+      { "protect": "보호하다" },
+      { "protection": "보호" },
+      { "protective": "보호하는" },
+      { "protector": "보호자" },
+      { "tile": "타일" }
+    ]
+  },
+  {
+    "rank": 4,
+    "root": "temp",
+    "meaning": ["시간"],
+    "origin": ["tempus", "temporis", "temperare(Latin)"],
+    "from": "",
+    "ex": [{ "contemporary": "동시대의" }, { "temper": "성질[성미]" }, { "temperature": "온도" }, { "temporary": {} }]
+  },
+  {
+    "rank": 5,
+    "root": "ten(tain-, -tin-, tent-)",
+    "meaning": ["잡다", "hold"],
+    "origin": ["tenere", "tentus"],
+    "from": "",
+    "ex": [
+      { "abstain": "기권하다" },
+      { "contain": "…이들어[함유되어]있다" },
+      { "container": "그릇" },
+      { "content": "만족[자족]하는" },
+      { "continence": "억제[금욕]" },
+      { "continent": "대륙" },
+      { "continual": "거듭[반복]되는" },
+      { "continue": "계속되다" },
+      { "continuous": "계속되는" },
+      { "continuously": "연달아" },
+      { "detain": "구금[억류]하다" },
+      { "detention": "구금[구류]" },
+      { "entertain": "접대하다" },
+      { "entertainment": "오락" },
+      { "incontinence": "실금" },
+      { "maintain": "유지하다[지키다]" },
+      { "maintenance": "유지" },
+      { "obtain": "얻다[구하다/입수하다]" },
+      { "retain": "유지[보유]하다" },
+      { "sustain": "살아가게[존재하게/지탱하게]하다" },
+      { "sustainable": "지속가능한" },
+      { "tenant": "세입자" },
+      { "tenement": "공동[다세대]주택" },
+      { "tenure": "재임기간" }
+    ]
+  },
+  {
+    "rank": 6,
+    "root": "tend(tend-, tempt-)",
+    "meaning": ["뻗치다", "잡아당기다", ""],
+    "origin": ["temptare", "tentare", "tendere", "tensus"],
+    "from": "",
+    "ex": [
+      { "attempt": "시도하다" },
+      { "attend": "참석하다" },
+      { "attention": "주의" },
+      { "contend": "주장하다" },
+      { "content": "만족[자족]하는" },
+      { "extend": "더길게[크게/넓게]만들다" },
+      { "extension": "확대" },
+      { "extensive": "아주넓은[많은]" },
+      { "intend": "의도[작정]하다" },
+      { "intense": "극심한" },
+      { "intensification": "강화" },
+      { "intension": {} },
+      { "intensity": "강렬함" },
+      { "intent": "강한관심[흥미]을보이는" },
+      { "intention": "의사" },
+      { "intentional": "의도적인" },
+      { "intentionally": "고의로" },
+      { "intently": "골똘하게" },
+      { "pretend": "…인척하다[것처럼굴다]" },
+      { "tempt": "유혹하다[부추기다]" },
+      { "temptation": "유혹" },
+      { "tend": "경향이있다" },
+      { "tendency": {} },
+      { "tension": "긴장상태" },
+      { "tent": "텐트" },
+      { "unintentional": "고의가아닌" },
+      { "unintentionally": "아무런생각도없이" }
+    ]
+  },
+  {
+    "rank": 7,
+    "root": "tex",
+    "meaning": ["짜다"],
+    "origin": ["texere", "textus(Latin)"],
+    "from": "",
+    "ex": [
+      { "context": "맥락" },
+      { "pretext": "구실" },
+      { "subtle": "미묘한" },
+      { "subtly": "미묘하게" },
+      { "text": "본문" },
+      { "texting": "휴대전화를이용한문자메시지주고받기" },
+      { "texture": "감촉[질감]" },
+      { "tissue": "조직" }
+    ]
+  },
+  {
+    "rank": 8,
+    "root": "thea",
+    "meaning": ["이론", "view"],
+    "origin": ["theasthai", "theatron(Greek)"],
+    "from": "",
+    "ex": [{ "theater": "극장" }, { "theatre": "공연장" }]
+  },
+  {
+    "rank": 9,
+    "root": "theo",
+    "meaning": ["신"],
+    "origin": ["theos"],
+    "from": "",
+    "ex": [{ "enthusiasm": "열광" }, { "theocracy": "신권정체" }, { "theology": "신학" }]
+  },
+  {
+    "rank": 10,
+    "root": "theori",
+    "meaning": ["추측"],
+    "origin": ["theoretikos", "theorema", "theoria(Greek)"],
+    "from": "",
+    "ex": [
+      { "theoretical": "이론의" },
+      { "theoretically": "이론상으로" },
+      { "theorist": "이론가" },
+      { "theory": "이론" }
+    ]
+  },
+  {
+    "rank": 11,
+    "root": "therm",
+    "meaning": ["열", "heat"],
+    "origin": ["theresthai", "therme", "thermos"],
+    "from": "",
+    "ex": [{ "thermal": "열의" }]
+  },
+  {
+    "rank": 12,
+    "root": "thes",
+    "meaning": ["놓음"],
+    "origin": ["tithenai", "thetos", "thetikos", "thesis", "thema", "theke(Latin)"],
+    "from": "",
+    "ex": [
+      { "deem": "여기다[생각하다]" },
+      { "doom": "죽음" },
+      { "epithet": "별칭[묘사]" },
+      { "hypothesis": "가설" },
+      { "photosynthesis": "광합성" },
+      { "synthesis": {} },
+      { "synthetic": "합성한" },
+      { "theme": "주제" },
+      { "thesis": "학위논문" },
+      { "treasure": {} }
+    ]
+  },
+  {
+    "rank": 13,
+    "root": "thrive",
+    "meaning": ["thrive"],
+    "origin": [""],
+    "from": "",
+    "ex": [{ "thrift": "절약" }, { "thrifty": "절약[검약]하는" }]
+  },
+  {
+    "rank": 14,
+    "root": "tone",
+    "meaning": ["소리", "stretch"],
+    "origin": ["teinein", "tonos", "tonikos(Greek)"],
+    "from": "",
+    "ex": [{ "catatonia": "긴장증" }, { "tone": "어조" }, { "tonic": "토닉" }, { "tune": "곡" }]
+  },
+  {
+    "rank": 15,
+    "root": "tract",
+    "meaning": ["draw", "pull"],
+    "origin": ["tractare", "trahere", "tractus(Latin)"],
+    "from": "",
+    "ex": [
+      { "abstract": "추상화" },
+      { "attract": "마음을끌다" },
+      { "attraction": "끌림" },
+      { "attractive": "매력적인" },
+      { "contract": "계약[약정]" },
+      { "distract": "집중이안되게[산만하게/산란하게]하다" },
+      { "distraught": "완전히제정신이아닌" },
+      { "extract": "발췌" },
+      { "portray": "그리다[묘사하다]" },
+      { "retrace": "되짚어가다" },
+      { "trace": "추적하다" },
+      { "track": "길" },
+      { "traction": "끌기" },
+      { "trail": "자국[흔적]" },
+      { "train": "기차" },
+      { "trait": "특성" },
+      { "treat": "대하다[다루다/취급하다/대우하다]" }
+    ]
+  },
+  {
+    "rank": 16,
+    "root": "trans",
+    "meaning": ["건너가다", "across"],
+    "origin": ["trans(Latin)"],
+    "from": "",
+    "ex": [
+      { "tradition": "전통" },
+      { "traditionally": "전통적으로" },
+      { "transcend": "초월하다" },
+      { "transcendent": "초월하는" },
+      { "transcript": "글로옮긴기록[인쇄/전사한것]" },
+      { "transfer": "옮기다" },
+      { "transform": "변형시키다" },
+      { "transfusion": "투입" },
+      { "transit": {} },
+      { "transition": "변천" },
+      { "translate": "번역[통역]하다" },
+      { "translator": "번역가" },
+      { "transmission": "전염" },
+      { "transmit": "전송[송신/방송]하다" },
+      { "transparent": {} },
+      { "transplant": "이식하다" },
+      { "transport": "수송" }
+    ]
+  },
+  {
+    "rank": 17,
+    "root": "tree",
+    "meaning": ["나무"],
+    "origin": [""],
+    "from": "",
+    "ex": [
+      { "true": "사실인" },
+      { "truly": "정말로" },
+      { "trust": "신뢰" },
+      { "trustworthiness": "신뢰성" },
+      { "trustworthy": "신뢰할[믿을]수있는" },
+      { "truth": "사실" },
+      { "untrustworthy": "신뢰할[믿을]수없는" }
+    ]
+  },
+  {
+    "rank": 18,
+    "root": "trude",
+    "meaning": ["찌르다"],
+    "origin": ["trudere", "trusus(Latin)"],
+    "from": "",
+    "ex": [{ "extrude": "밀어내다" }, { "extrusion": "밀어냄" }, { "threat": "협박" }]
+  },
+  {
+    "rank": 19,
+    "root": "tuber",
+    "meaning": ["혹", "뾰루지"],
+    "origin": ["tuber", "tuberculum(Latin)"],
+    "from": "",
+    "ex": [{ "tuberculosis": "폐결핵" }, { "tuberculous": "결핵" }]
+  },
+  {
+    "rank": 20,
+    "root": "typ(typ-, type-)",
+    "meaning": ["소인", "모형", "stamp", "model"],
+    "origin": ["tuptein", "tupos", "tupikos", "tumpanon", "typikos", "typos(Greek)"],
+    "from": "",
+    "ex": [
+      { "prototype": "원형" },
+      { "stereotype": "고정관념" },
+      { "stereotypical": "연판법의[에의한]" },
+      { "type": "형" },
+      { "typical": "전형적인" }
+    ]
+  }
+]

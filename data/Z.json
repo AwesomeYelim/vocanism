@@ -1,0 +1,24 @@
+[
+  {
+    "rank": 1,
+    "root": "zon",
+    "meaning": ["belt", "girdle"],
+    "origin": ["zonnunai", "zone", "zoster(Greek)"],
+    "from": "",
+    "ex": [{ "zone": "지역[지구/구역]" }, { "zoster": "허리띠" }]
+  },
+  {
+    "rank": 2,
+    "root": "zoo",
+    "meaning": ["동물(animal)"],
+    "origin": ["zoion(Greek)"],
+    "from": "",
+    "ex": [
+      { "Cryptozoology": "미확인생물의연구" },
+      { "Paleozoology": "고" },
+      { "Protozoology": "원생동물학" },
+      { "zoo": "동물원" },
+      { "zoology": "동물학" }
+    ]
+  }
+]

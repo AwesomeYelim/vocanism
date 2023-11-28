@@ -1,0 +1,45 @@
+[
+  {
+    "rank": 1,
+    "root": "radi",
+    "meaning": ["빛나다"],
+    "origin": ["radius", "radiare(Latin)"],
+    "from": "",
+    "ex": [
+      { "radar": "레이더" },
+      { "radiation": {} },
+      { "radio": "라디오" },
+      { "radiocarbon": "방사성탄소" },
+      { "ray": {} }
+    ]
+  },
+  {
+    "rank": 2,
+    "root": "roma",
+    "meaning": ["로마", "이야기"],
+    "origin": [""],
+    "from": "",
+    "ex": [{ "romantic": "로맨틱한" }]
+  },
+  { "rank": 3, "root": "room", "meaning": ["방"], "origin": [""], "from": "", "ex": [{ "anteroom": "대기실" }] },
+  {
+    "rank": 4,
+    "root": "rupt(rump-, rupt-)",
+    "meaning": ["깨지다"],
+    "origin": ["rumpere", "ruptus(Latin)"],
+    "from": "",
+    "ex": [
+      { "abrupt": "돌연한" },
+      { "corrupt": "부패한" },
+      { "corruption": {} },
+      { "disrupt": "방해하다" },
+      { "disruption": {} },
+      { "erupt": {} },
+      { "eruption": "폭발" },
+      { "interrupt": "방해하다[중단시키다/가로막다]" },
+      { "interruption": "중단" },
+      { "route": "길[경로/루트]" },
+      { "routine": "틀" }
+    ]
+  }
+]

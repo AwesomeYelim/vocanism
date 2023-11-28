@@ -1,6 +1,7 @@
 import axios from "axios";
 
-const key = "87a86d65-05b0-4250-b2f3-c757c7bce66a";
+const key = process.env.DICTIONARY_KEY;
+
 const options = {
   method: "GET",
   url: `https://www.dictionaryapi.com/api/v3/references/collegiate/json/over?key=${key}`,

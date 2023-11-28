@@ -1,0 +1,1147 @@
+[
+  {
+    "rank": 1,
+    "root": "fabr(fabr-)",
+    "meaning": ["천(직물)", "fabric"],
+    "origin": ["fabrica", "faber", "fabri", "forge"],
+    "from": "Latin",
+    "ex": [{ "fabric": "직물" }]
+  },
+  {
+    "rank": 2,
+    "root": "fac(fac, fact, -fect, fic)",
+    "meaning": ["만들다", "하다", "make"],
+    "origin": ["facere", "factus", "ficus", "facilis"],
+    "from": "Latin",
+    "ex": [
+      { "affair": "일[문제]" },
+      { "affect": "영향을미치다" },
+      { "affecting": "충격적인" },
+      { "affection": "애착" },
+      { "affectionate": "다정한" },
+      { "affectionately": "다정하게" },
+      { "artefact": "인공물[가공품]" },
+      { "artficial": "제작" },
+      { "artifact": "인공물" },
+      { "artifice": "책략" },
+      { "artificial": "인공[인조]의" },
+      { "artificially": "인위적으로" },
+      { "benefaction": "기부금" },
+      { "benefactor": "후원자" },
+      { "benefice": "유급성직자의직책" },
+      { "beneficiary": "수혜자" },
+      { "benefit": "혜택" },
+      { "calefaction": "가열" },
+      { "calefactory": "난방[가열]용의" },
+      { "chafe": "쓸리다[까이다]" },
+      { "defeat": "패배시키다[물리치다/이기다]" },
+      { "defect": "결함" },
+      { "deficiency": "결핍[부족]" },
+      { "deficient": "부족한[결핍된]" },
+      { "deficit": "적자" },
+      { "difficult": "어려운" },
+      { "difficulty": "어려움" },
+      { "edifice": "건물;조직" },
+      { "effect": "영향" },
+      { "effective": "효과적인" },
+      { "effectively": "효과적으로" },
+      { "effectiveness": "유효" },
+      { "effects": "물품" },
+      { "efficiency": "효율" },
+      { "efficient": "능률적인" },
+      { "efficiently": "능률적으로" },
+      { "face": "얼굴" },
+      { "facial": "얼굴의" },
+      { "facile": "술술하는" },
+      { "facilitate": "가능하게[용이하게]하다" },
+      { "facility": "시설[기관]" },
+      { "fact": "점[실상/실제]" },
+      { "faction": "파벌" },
+      { "factor": "요인" },
+      { "factory": "공장" },
+      { "faculty": "능력[기능]" },
+      { "fashion": "유행" },
+      { "fashionable": "유행하는" },
+      { "fashioned": "…식[류" },
+      { "feat": "위업" },
+      { "feature": "특색" },
+      { "fiat": "명령" },
+      { "ineffective": "효과[효력]없는" },
+      { "inefficient": "비효율[비능률]적인" },
+      { "infect": "감염시키다" },
+      { "infection": "감염" },
+      { "infectious": "전염되는[전염성의]" },
+      { "insufficient": "불충분한" },
+      { "laissez-faire": "자유방임주의" },
+      { "manufacture": "제조[생산]하다" },
+      { "non-profit": "비영리적인" },
+      { "perfect": "완벽한[완전한/온전한]" },
+      { "perfection": "완벽" },
+      { "perfectionist": "완벽주의자" },
+      { "perfectly": "완전히" },
+      { "proficiency": "숙달" },
+      { "proficient": "능숙한" },
+      { "profit": "이익" },
+      { "profitable": "수익성이있는[있을것같은]" },
+      { "sacrifice": "희생" },
+      { "satisfaction": "만족" },
+      { "suffice": "충분하다" },
+      { "sufficient": "충분한" },
+      { "sufficiently": "충분히" },
+      { "surface": "표면[표층]" },
+      { "surficial": "표면의" }
+    ]
+  },
+  {
+    "rank": 3,
+    "root": "fair",
+    "meaning": ["공정한", "fair"],
+    "origin": ["fæger"],
+    "from": "OldEnglish",
+    "ex": [
+      { "fair": "타당한" },
+      { "fairly": "상당히" },
+      { "fairness": "공정성" },
+      { "fairway": "페어웨이" },
+      { "unfair": "부당한" },
+      { "unfairly": "불공평하게" },
+      { "unfairness": "불공평" }
+    ]
+  },
+  {
+    "rank": 4,
+    "root": "fall",
+    "meaning": ["거짓", "속이다", "false"],
+    "origin": ["fallere", "falsus", "fallax", "fallacis"],
+    "from": "Latin",
+    "ex": [
+      { "default": "채무불이행" },
+      { "fail": "~실패하다" },
+      { "failure": "실패" },
+      { "fallible": "실수를할[틀릴]수있는" },
+      { "false": "틀린" },
+      { "fault": "잘못" }
+    ]
+  },
+  {
+    "rank": 5,
+    "root": "famili",
+    "meaning": ["시중드는사람"],
+    "origin": ["familia", "famulus", "famula", "famulanter", "famulitas", "familiaricus", "familiaritas"],
+    "from": "Latin",
+    "ex": [
+      { "familial": "가족의" },
+      { "familiar": "익숙한" },
+      { "family": "가족" },
+      { "materfamilias": "모친" },
+      { "paterfamilias": "가장" },
+      { "unfamiliar": "익숙지않은" }
+    ]
+  },
+  {
+    "rank": 6,
+    "root": "far",
+    "meaning": ["멀리", "먼", "far"],
+    "origin": ["feorr", "feor"],
+    "from": "OldEnglish",
+    "ex": [{ "far": "멀리" }, { "faraway": "멀리떨어진" }, { "further": "더멀리에[로]" }]
+  },
+  {
+    "rank": 7,
+    "root": "far(far-, fat-, fam-)",
+    "meaning": ["이야기", "speak"],
+    "origin": ["fari", "fateri", "fatus", "fama", "fabula", "fantis", "fans"],
+    "from": "Latin",
+    "ex": [
+      { "confess": "자백하다" },
+      { "confession": "자백" },
+      { "fable": "우화" },
+      { "fabulous": "기막히게좋은[멋진]" },
+      { "fairy": "요정" },
+      { "fame": "명성" },
+      { "famous": "유명한" },
+      { "famously": "유명하게" },
+      { "fatal": "죽음을초래하는" },
+      { "fate": "운명" },
+      { "fess": "고백하다" },
+      { "infamous": "악명높은" },
+      { "infancy": "유아기" },
+      { "infant": "유아" },
+      { "preface": "서문" },
+      { "profess": "주장하다" },
+      { "profession": "직업[직종]" },
+      { "professional": "직업[직종]의" },
+      { "professionally": "직업적으로" },
+      { "professor": "정교수[교수]" }
+    ]
+  },
+  {
+    "rank": 8,
+    "root": "fare",
+    "meaning": ["가다[여행]", "요금", "fare"],
+    "origin": ["fær", "faru", "faran"],
+    "from": "OldEnglish",
+    "ex": [
+      { "fare": "요금" },
+      { "farewell": "작별" },
+      { "ferry": "연락선[" },
+      { "warfare": "전투[-전]" },
+      { "welfare": "안녕[행복]" }
+    ]
+  },
+  {
+    "rank": 9,
+    "root": "fascin",
+    "meaning": ["매력", "charm"],
+    "origin": ["fascinatus", "fascinare", "fascinus", "fascinum"],
+    "from": "Latin",
+    "ex": [
+      { "fascinate": "마음을사로잡다" },
+      { "fascinated": "마음을다빼앗긴" },
+      { "fascinating": "대단히흥미로운" },
+      { "fascination": "매력" }
+    ]
+  },
+  {
+    "rank": 10,
+    "root": "fast",
+    "meaning": ["빠른", "fast"],
+    "origin": ["fæst", "fæstan"],
+    "from": "OldEnglish",
+    "ex": [{ "fast": "빠른" }]
+  },
+  {
+    "rank": 11,
+    "root": "fat",
+    "meaning": ["살찐", "지방", "fat"],
+    "origin": ["fætt", "fættian"],
+    "from": "OldEnglish",
+    "ex": [{ "fat": "뚱뚱한" }, { "fatness": "뚱뚱함" }]
+  },
+  {
+    "rank": 12,
+    "root": "father",
+    "meaning": ["아버지", "father"],
+    "origin": ["fæder"],
+    "from": "OldEnglish",
+    "ex": [{ "father": "아버지[아비]가되다" }]
+  },
+  {
+    "rank": 13,
+    "root": "favor",
+    "meaning": ["호의", "favor"],
+    "origin": ["favorem", "favor", "favere"],
+    "from": "Latin",
+    "ex": [{ "favorable": "호의적인" }, { "favourite": "좋아하는" }]
+  },
+  {
+    "rank": 14,
+    "root": "fear",
+    "meaning": ["두려움", "fear"],
+    "origin": ["fær", "færan"],
+    "from": "OldEnglish",
+    "ex": [{ "fear": "공포" }, { "fearful": "걱정[우려/염려]하는" }]
+  },
+  {
+    "rank": 15,
+    "root": "feder(feder-)",
+    "meaning": ["조약", "협정"],
+    "origin": ["foederare", "foedus", "foederis", "fides"],
+    "from": "Latin",
+    "ex": [{ "federal": "연방제의" }]
+  },
+  {
+    "rank": 16,
+    "root": "feeble",
+    "meaning": ["허약", "feeble"],
+    "origin": ["flebilis", "flere"],
+    "from": "Latin",
+    "ex": [{ "feeble": "아주약한" }]
+  },
+  {
+    "rank": 17,
+    "root": "femin",
+    "meaning": ["여성", "women"],
+    "origin": ["femina", "femella"],
+    "from": "Latin",
+    "ex": [{ "female": "여성[여자]인" }, { "feminine": "여성스러운" }, { "feminist": "페미니스트" }]
+  },
+  {
+    "rank": 18,
+    "root": "fend",
+    "meaning": ["치다", "때리다", "strike"],
+    "origin": ["fendere", "fensus"],
+    "from": "Latin",
+    "ex": [
+      { "defence": "방어" },
+      { "defenceless": "무방비의" },
+      { "defend": "방어[수비]하다" },
+      { "defender": "수비선수" },
+      { "defense": "막기" },
+      { "defensive": "방어[수비]의" },
+      { "fence": "울타리" },
+      { "fend": "치다" },
+      { "inoffensive": "남의마음을상하게하지않을" },
+      { "offence": "위법[범법]행위" },
+      { "offend": "기분상하게[불쾌하게]하다" },
+      { "offender": "범죄자" },
+      { "offense": "위법[범법]행위" },
+      { "offensive": "모욕적인" }
+    ]
+  },
+  {
+    "rank": 19,
+    "root": "fer",
+    "meaning": ["운반", "견디다", "carry"],
+    "origin": ["ferre"],
+    "from": "Latin",
+    "ex": [
+      { "circumference": "원주" },
+      { "confer": "상의하다" },
+      { "conference": "회의[학회]" },
+      { "differ": "다르다" },
+      { "difference": "차이" },
+      { "different": "다른" },
+      { "differently": "다르게" },
+      { "fertile": "비옥한" },
+      { "fertilise": "수정시키다" },
+      { "fertility": "비옥함" },
+      { "fertilization": "기름지게함[하는법]" },
+      { "fertilize": "수정시키다" },
+      { "infer": "추론하다" },
+      { "lucifer": "악마" },
+      { "offer": "제의[제안]하다" },
+      { "prefer": "…을좋아하다[원하다/택하다]" },
+      { "refer": "…의탓[덕]으로여기다" },
+      { "referee": "심판" },
+      { "reference": "말하기" },
+      { "suffer": "시달리다" },
+      { "suffering": "고통" },
+      { "transfer": "옮기다" }
+    ]
+  },
+  {
+    "rank": 20,
+    "root": "fest",
+    "meaning": ["우글거리다", "infest"],
+    "origin": ["infest", "-festtus"],
+    "from": "Latin",
+    "ex": [
+      { "flea-infested": "벼룩이우굴거리는" },
+      { "infest": "들끓다" },
+      { "infested": "창궐하는" },
+      { "manifest": "나타내다[드러내보이다]" }
+    ]
+  },
+  {
+    "rank": 21,
+    "root": "fest(-fest-)",
+    "meaning": ["기쁘다", "joyful", "merry"],
+    "origin": ["festum", "festa", "festus", "festivus"],
+    "from": "Latin",
+    "ex": [{ "feast": "연회" }, { "festival": "축제[기념제]" }, { "festive": "축제의" }]
+  },
+  {
+    "rank": 22,
+    "root": "few",
+    "meaning": ["few", "소수의"],
+    "origin": ["feawe", "feawa"],
+    "from": "OldEnglish",
+    "ex": [{ "few": "많지않은[적은]" }]
+  },
+  {
+    "rank": 23,
+    "root": "fid(fid-, find-, fiss-)",
+    "meaning": ["나누다", "분할"],
+    "origin": ["-fidus", "findere"],
+    "from": "Latin",
+    "ex": [{ "fission": "핵분열" }]
+  },
+  {
+    "rank": 24,
+    "root": "fid(fid-, fis-)",
+    "meaning": ["믿음", "trust"],
+    "origin": ["fidere", "fides", "fidelis"],
+    "from": "Latin",
+    "ex": [
+      { "confide": "털어놓다" },
+      { "confidence": "신뢰" },
+      { "confident": "자신감있는" },
+      { "confidential": "비밀[기밀]의" },
+      { "confidently": "확신을갖고" },
+      { "defy": "반항[저항/거역]하다" },
+      { "faith": "믿음[신뢰]" },
+      { "faithful": "충실한" },
+      { "faithfully": "충실히" },
+      { "fiance": "약혼자" },
+      { "fiancee": "약혼녀" },
+      { "fid": "믿다[신뢰하다]" },
+      { "fidelity": "충실함" }
+    ]
+  },
+  {
+    "rank": 25,
+    "root": "fierce",
+    "meaning": ["거친", "fierce"],
+    "origin": ["ferus"],
+    "from": "Latin",
+    "ex": [{ "fierce": "사나운" }]
+  },
+  {
+    "rank": 26,
+    "root": "fig(fig-)",
+    "meaning": ["모양", "form", "shape"],
+    "origin": ["fingere", "fictio", "figurare", "figura"],
+    "from": "Latin",
+    "ex": [
+      { "configuration": "배열" },
+      { "configure": "환경을설정하다" },
+      { "faint": "희미한[약한]" },
+      { "faintly": "희미하게" },
+      { "feign": "가장하다[…인척하다]" },
+      { "feigned": "거짓의" },
+      { "fiction": "소설" },
+      { "fictional": "허구적인" },
+      { "figure": "수치" }
+    ]
+  },
+  {
+    "rank": 27,
+    "root": "fight",
+    "meaning": ["fight"],
+    "origin": ["feohtan", "feoht", "feohte", "gefeoht"],
+    "from": "OldEnglish",
+    "ex": [{ "fight": "싸우다[전투하다]" }, { "fighter": "전투기" }, { "fighting": "싸움" }]
+  },
+  {
+    "rank": 28,
+    "root": "fil(fil-)",
+    "meaning": ["실", "가닥", "thread"],
+    "origin": ["filum", "filare"],
+    "from": "Latin",
+    "ex": [{ "defile": "" }, { "filament": "필라멘트" }, { "file": "파일" }, { "profile": "옆얼굴" }]
+  },
+  {
+    "rank": 29,
+    "root": "film",
+    "meaning": ["영화", "얇은막", "film", "membrane"],
+    "origin": ["filmen", "fel"],
+    "from": "OldEnglish",
+    "ex": [{ "film": "영화" }]
+  },
+  {
+    "rank": 30,
+    "root": "filter",
+    "meaning": ["여과하다", "filter"],
+    "origin": ["filtrare", "filtrum"],
+    "from": "Latin",
+    "ex": [{ "infiltrate": "잠입[침투]하다[시키다]" }]
+  },
+  {
+    "rank": 31,
+    "root": "fin",
+    "meaning": ["끝내다", "경계", "end"],
+    "origin": ["finis", "finire"],
+    "from": "Latin",
+    "ex": [
+      { "affine": "인척" },
+      { "affinity": "친밀감" },
+      { "confine": "국한시키다" },
+      { "define": "정의하다" },
+      { "definite": "확실한" },
+      { "definitely": "분명히[틀림없이]" },
+      { "definition": "정의" },
+      { "final": "마지막의" },
+      { "finale": "마지막부분" },
+      { "finally": "마침내" },
+      { "finance": "재원[자금]" },
+      { "financial": "금융[재정]의" },
+      { "financially": "재정적으로" },
+      { "financier": "자본가" },
+      { "fine": "벌금" },
+      { "finely": "잘게[곱게]" },
+      { "finish": "끝내다[마치다/마무리짓다]" },
+      { "finished": "끝난" },
+      { "finite": "한정된" },
+      { "infinite": "무한한[무한정의]" },
+      { "refine": "정제[제련]하다" },
+      { "unfinished": "완료되지[끝나지]않은" }
+    ]
+  },
+  {
+    "rank": 32,
+    "root": "find",
+    "meaning": ["찾다", "find"],
+    "origin": ["findan"],
+    "from": "OldEnglish",
+    "ex": [{ "finding": "결과[결론]" }]
+  },
+  {
+    "rank": 33,
+    "root": "firm(firm-)",
+    "meaning": ["견고함", "firm"],
+    "origin": ["firmus", "firmare"],
+    "from": "Latin",
+    "ex": [
+      { "affirm": "단언하다" },
+      { "confirm": "사실임을보여주다[확인해주다]" },
+      { "confirmation": "확인" },
+      { "farm": "농사를짓다[경작하다]" },
+      { "farmer": "농부" },
+      { "firm": "회사" },
+      { "firmament": "창공" },
+      { "infirm": "병약한" }
+    ]
+  },
+  {
+    "rank": 34,
+    "root": "fish",
+    "meaning": ["물고기"],
+    "origin": ["-"],
+    "from": "Latin",
+    "ex": [{ "archerfish": "사수어" }, { "fishing": "낚시" }]
+  },
+  {
+    "rank": 35,
+    "root": "fit",
+    "meaning": ["fit"],
+    "origin": ["fitt"],
+    "from": "OldEnglish",
+    "ex": [{ "fitful": "잠깐씩하다가마는" }]
+  },
+  {
+    "rank": 36,
+    "root": "fix",
+    "meaning": ["부착", "attach"],
+    "origin": ["fixare", "figere", "fixus"],
+    "from": "Latin",
+    "ex": [
+      { "crucifix": "십자가상" },
+      { "fix": "고정시키다[박다]" },
+      { "fixed": "고정된" },
+      { "fixture": "경기" },
+      { "prefix": "접두사" },
+      { "suffix": "접미사" },
+      { "terrific": "아주좋은" },
+      { "traffic": "차량들" }
+    ]
+  },
+  {
+    "rank": 37,
+    "root": "fla",
+    "meaning": ["불꽃", "바람이불다", "blow"],
+    "origin": ["flare", "flatus"],
+    "from": "Latin",
+    "ex": [
+      { "deflate": "공기를빼다" },
+      { "deflation": "디플레이션" },
+      { "flatus": "가스" },
+      { "flavor": "풍미" },
+      { "flavour": "풍미[맛]" },
+      { "inflate": "부풀리다[부풀다]" },
+      { "inflation": "인플레이션" }
+    ]
+  },
+  {
+    "rank": 38,
+    "root": "flame",
+    "meaning": ["불꽃", "flame"],
+    "origin": ["flammula", "flamma", "flagrare", "flagrans"],
+    "from": "Latin",
+    "ex": [
+      { "aflame": "불타는" },
+      { "flagrant": "노골적인" },
+      { "flame": "불길" },
+      { "inflame": "흥분[격앙/격분]시키다" }
+    ]
+  },
+  {
+    "rank": 39,
+    "root": "flect(flect-, flex)",
+    "meaning": ["구부러짐", "bend"],
+    "origin": ["flectere", "flexus"],
+    "from": "Latin",
+    "ex": [
+      { "deflect": "방향을바꾸다[바꾸게하다]" },
+      { "flect": "굽히다[굽혀지다]" },
+      { "flex": "몸을풀다" },
+      { "flexibility": "구부리기[휘기]쉬움" },
+      { "flexible": "신축성[융통성]있는" },
+      { "flexibly": "유연하게" },
+      { "inflect": "굴절하다[어미/어형변화를하다]" },
+      { "inflection": "굴절[어미/어형변화]" },
+      { "inflexible": "융통성[신축성]없는" },
+      { "reflect": "비추다" },
+      { "reflection": "상[모습]" },
+      { "reflex": "반사작용[운동]" }
+    ]
+  },
+  {
+    "rank": 40,
+    "root": "flict",
+    "meaning": ["때리다", "strike", "hit"],
+    "origin": ["fligere", "flIctus"],
+    "from": "Latin",
+    "ex": [
+      { "afflict": "괴롭히다" },
+      { "conflict": "갈등[충돌]" },
+      { "flict": "내동댕이치다" },
+      { "inflict": "가하다[안기다]" },
+      { "profligacy": "방탕" }
+    ]
+  },
+  {
+    "rank": 41,
+    "root": "floor",
+    "meaning": ["바닥", "floor"],
+    "origin": ["flor"],
+    "from": "OldEnglish",
+    "ex": [{ "floor": "바닥" }]
+  },
+  {
+    "rank": 42,
+    "root": "flora(flora-, flos-, flor)",
+    "meaning": ["꽃", "flower"],
+    "origin": ["flos", "floris"],
+    "from": "Latin",
+    "ex": [
+      { "flora": "식물군[상]" },
+      { "floral": "꽃그림의" },
+      { "flour": "가루" },
+      { "flourish": "번창하다" },
+      { "flower": "꽃" }
+    ]
+  },
+  {
+    "rank": 43,
+    "root": "flue(flue-)",
+    "meaning": ["흐르다", "flow"],
+    "origin": ["fluens", "fluentis", "fluere", "fluxus"],
+    "from": "Latin",
+    "ex": [
+      { "flu": "독감" },
+      { "fluctuate": "변동[등락]을거듭하다" },
+      { "fluent": "유창한[능숙한]" },
+      { "fluid": "유체" },
+      { "fluidity": "부드러움" },
+      { "flush": "홍조" },
+      { "flux": "끊임없는변화[유동]" },
+      { "influence": "영향을주다[미치다]" },
+      { "influent": "유입하는" },
+      { "influenza": "인플루엔자" }
+    ]
+  },
+  {
+    "rank": 44,
+    "root": "fluor",
+    "meaning": ["플루오르성(性)의"],
+    "origin": ["-"],
+    "from": "Latin",
+    "ex": [{ "fluorescent": "형광성의" }]
+  },
+  {
+    "rank": 45,
+    "root": "flush",
+    "meaning": ["빨리움직이다"],
+    "origin": ["flusshen"],
+    "from": "MiddleEnglish",
+    "ex": [{ "flush": "붉어지다" }]
+  },
+  {
+    "rank": 46,
+    "root": "fly",
+    "meaning": ["날다", "파리", "fly"],
+    "origin": ["fleoge", "fleogende", "fleogan", "fleon", "flion"],
+    "from": "OldEnglish",
+    "ex": [{ "flea": "벼룩" }, { "flea-infested": "벼룩이우굴거리는" }, { "flight": "여행" }, { "fly": "날다" }]
+  },
+  {
+    "rank": 47,
+    "root": "foc",
+    "meaning": ["목", "식도", "throat"],
+    "origin": ["fauces"],
+    "from": "Latin",
+    "ex": [{ "suffocation": "질식" }]
+  },
+  {
+    "rank": 48,
+    "root": "foc(foc-, focus-)",
+    "meaning": ["난로", "hearth"],
+    "origin": ["focus", "focalia", "focalis"],
+    "from": "Latin",
+    "ex": [{ "focal": "중심의" }, { "focus": "집중하다[시키다]" }, { "fuel": "연료" }]
+  },
+  {
+    "rank": 49,
+    "root": "fog",
+    "meaning": ["안개", "fog"],
+    "origin": ["fjuk"],
+    "from": "OldNorse",
+    "ex": [{ "fog": "안개" }, { "foggy": "안개가낀" }]
+  },
+  {
+    "rank": 50,
+    "root": "fold",
+    "meaning": ["접다", "fold"],
+    "origin": ["faldan", "fealdan", "falæd", "falud", "fald"],
+    "from": "OldEnglish",
+    "ex": [{ "unfold": "펴다[펼치다]" }]
+  },
+  {
+    "rank": 51,
+    "root": "foli(foli-, folio-)",
+    "meaning": ["잎", "leaf", "sheet"],
+    "origin": ["folium", "foglio"],
+    "from": "Latin",
+    "ex": [{ "defoliant": "고엽제" }, { "portfolio": "서류가방" }]
+  },
+  {
+    "rank": 52,
+    "root": "follow",
+    "meaning": ["따르다", "follow"],
+    "origin": ["folgian", "fylgian", "fylgan"],
+    "from": "OldEnglish",
+    "ex": [{ "follow": "따라가다[오다]" }, { "following": "그다음의" }]
+  },
+  {
+    "rank": 53,
+    "root": "font",
+    "meaning": ["분수", "spring"],
+    "origin": ["fons", "fontis"],
+    "from": "Latin",
+    "ex": [{ "font": "세례반" }, { "fountain": "분수" }]
+  },
+  {
+    "rank": 54,
+    "root": "food",
+    "meaning": ["음식", "먹이다", "food"],
+    "origin": ["foda", "fedan", "fostor"],
+    "from": "OldEnglish",
+    "ex": [{ "feed": "밥[우유]을먹이다" }, { "food": "식량" }, { "foster": "조성하다" }]
+  },
+  {
+    "rank": 55,
+    "root": "fool",
+    "meaning": ["바보", "fool"],
+    "origin": ["follus", "follis"],
+    "from": "Latin",
+    "ex": [{ "fool": "바보" }, { "foolish": "어리석은" }]
+  },
+  {
+    "rank": 56,
+    "root": "fora",
+    "meaning": ["파다", "뚫다", "bore", "drill"],
+    "origin": ["forare", "foratus", "ferire"],
+    "from": "Latin",
+    "ex": [{ "interfere": "간섭[개입/참견]하다" }, { "interference": "간섭" }]
+  },
+  { "rank": 57, "root": "ford", "meaning": ["얕은여울"], "origin": ["-"], "from": "Latin", "ex": [{ "ford": "" }] },
+  {
+    "rank": 58,
+    "root": "fore",
+    "meaning": ["앞", "선(先)", "fore"],
+    "origin": ["fore", "forð", "forþ", "for"],
+    "from": "OldEnglish",
+    "ex": [
+      { "afford": "여유[형편]가되다" },
+      { "before": "전[앞]에" },
+      { "beforehand": "사전에" },
+      { "first": "첫" },
+      { "fore": "사전에" },
+      { "forecast": "예측" },
+      { "forefront": "맨끝" },
+      { "forehead": "이마" },
+      { "foresee": "…일것이라고생각하다" },
+      { "foreseeable": "예측[예견]할수있는" },
+      { "forethought": "사전숙고" },
+      { "forth": "…에서멀리" },
+      { "forward": "앞으로" },
+      { "forwards": "앞으로" }
+    ]
+  },
+  {
+    "rank": 59,
+    "root": "fores(fores-, forest-)",
+    "meaning": ["문밖", "outside"],
+    "origin": ["fores", "foris", "forestis", "forum", "foraneus", "foras"],
+    "from": "Latin",
+    "ex": [{ "foreign": "외국의" }, { "foreigner": "외국인" }, { "forest": "숲" }, { "forum": "포럼" }]
+  },
+  {
+    "rank": 60,
+    "root": "form",
+    "meaning": ["형태", "shape"],
+    "origin": ["forma", "formare", "formatus"],
+    "from": "Latin",
+    "ex": [
+      { "conform": "집단의다른구성원들과행동[생각]을같이하다" },
+      { "deform": "변형시키다" },
+      { "deformed": "기형의" },
+      { "deformity": "기형" },
+      { "form": "종류" },
+      { "formal": "격식을차린" },
+      { "formally": "정식으로" },
+      { "format": "구성방식" },
+      { "formation": "형성" },
+      { "formula": "공식" },
+      { "formulate": "만들어내다" },
+      { "inform": "알리다[통지하다]" },
+      { "informal": "격식에얽매이지않는" },
+      { "informally": "비공식으로" },
+      { "information": "정보" },
+      { "misinformation": "오보" },
+      { "platform": "플랫폼" },
+      { "reform": "개혁[개선]하다" },
+      { "transform": "변형시키다" },
+      { "transformation": "변화[탈바꿈]" },
+      { "uniform": "제복" }
+    ]
+  },
+  {
+    "rank": 61,
+    "root": "fort",
+    "meaning": ["강함", "기회", "chance"],
+    "origin": ["fors", "fortis", "fortare", "fortuna"],
+    "from": "Latin",
+    "ex": [
+      { "comfort": "안락" },
+      { "comfortable": "편" },
+      { "comfortably": "편안[편리]하게" },
+      { "comforter": "위안을주는[위로가되는]사람[것]" },
+      { "comforting": "위로가되는" },
+      { "effort": "수고" },
+      { "enforce": "집행[시행/실시]하다" },
+      { "enforcement": "시행" },
+      { "force": "물리력" },
+      { "forceful": "단호한" },
+      { "forcible": "물리력[힘]에의한" },
+      { "fort": "보루" },
+      { "fortress": "요새" },
+      { "fortunate": "다행스럽게도" },
+      { "fortunate": "운좋은" },
+      { "fortune": "운[행운]" },
+      { "uncomfortable": "불편한" },
+      { "unfortunate": "운이없는[나쁜]" },
+      { "unfortunately": "불행하게도" }
+    ]
+  },
+  {
+    "rank": 62,
+    "root": "frag(frag-, frang-, -fring-, fract-)",
+    "meaning": ["깨뜨리다", "break"],
+    "origin": ["frangere", "fractus"],
+    "from": "Latin",
+    "ex": [
+      { "defray": "돌려주다[갚아주다]" },
+      { "fraction": "부분" },
+      { "fragile": "부서지기[손상되기]쉬운" },
+      { "fragment": "조각" },
+      { "infringe": "위반하다" },
+      { "refract": "굴절시키다" },
+      { "refraction": "굴절" },
+      { "refrain": "삼가다" }
+    ]
+  },
+  {
+    "rank": 63,
+    "root": "frai(fric-, frict-, frai)",
+    "meaning": ["⑴문지르다(rub)", "⑵)평화"],
+    "origin": ["frithu"],
+    "from": "OldEnglish",
+    "ex": [
+      { "affray": "소란[폭력]행위" },
+      { "afraid": "두려워[무서워]하는" },
+      { "fray": "해어지다[해어지게하다]" },
+      { "friction": "마찰" }
+    ]
+  },
+  {
+    "rank": 64,
+    "root": "frank",
+    "meaning": ["솔직한", "frank"],
+    "origin": ["franc"],
+    "from": "French",
+    "ex": [
+      { "franchise": "가맹점영업권[독점판매권]" },
+      { "frank": "솔직한[노골적인]" },
+      { "frankly": "솔직히[노골적으로]" }
+    ]
+  },
+  {
+    "rank": 65,
+    "root": "frater",
+    "meaning": ["형제"],
+    "origin": ["-"],
+    "from": "French",
+    "ex": [{ "brethren": "신도들" }, { "frater": "" }, { "fraternal": "" }, { "friar": "" }, { "pal": "" }]
+  },
+  {
+    "rank": 66,
+    "root": "fraud",
+    "meaning": ["cheating", "속임수", "속이다"],
+    "origin": ["fraus", "fraudis"],
+    "from": "Latin",
+    "ex": [
+      { "defraud": "사취하다" },
+      { "fraud": "사기" },
+      { "fraudster": "사기꾼[범]" },
+      { "fraudulent": "사기를치는[치기위한]" },
+      { "fraudulently": "속여서" }
+    ]
+  },
+  {
+    "rank": 67,
+    "root": "free",
+    "meaning": ["자유", "free"],
+    "origin": ["freo", "freon", "freogan"],
+    "from": "OldEnglish",
+    "ex": [
+      { "free": "자유로운" },
+      { "freedom": "자유" },
+      { "freelance": "프리랜서[자유계약자]로일하는" },
+      { "freely": "자유롭게" },
+      { "freeware": "프리웨어" },
+      { "freeway": "고속도로" },
+      { "freewill": "자유의지의" }
+    ]
+  },
+  {
+    "rank": 68,
+    "root": "freeze",
+    "meaning": ["얼다", "freeze"],
+    "origin": ["freosan", "forst", "frost"],
+    "from": "OldEnglish",
+    "ex": [
+      { "freeze": "얼다" },
+      { "freezing": "꽁꽁얼게[너무나]추운" },
+      { "frost": "서리" },
+      { "frosted": "반투명인" },
+      { "frozen": "냉동된" }
+    ]
+  },
+  {
+    "rank": 69,
+    "root": "frequent",
+    "meaning": ["잦은", "빈번한", "frequent"],
+    "origin": ["frequens"],
+    "from": "Latin",
+    "ex": [{ "frequency": "빈도" }, { "frequent": "잦은" }, { "frequently": "자주" }]
+  },
+  {
+    "rank": 70,
+    "root": "fresh",
+    "meaning": ["신선한", "fresh"],
+    "origin": ["fersc", "frec"],
+    "from": "OldEnglish",
+    "ex": [{ "fresh": "신선한" }]
+  },
+  {
+    "rank": 71,
+    "root": "friend",
+    "meaning": ["친구", "frend"],
+    "origin": ["freond"],
+    "from": "OldEnglish",
+    "ex": [{ "friendly": "친절한[우호적인]" }, { "friendship": "교우관계" }, { "unfriendly": "비우호적인" }]
+  },
+  {
+    "rank": 72,
+    "root": "frig",
+    "meaning": ["차가운", "cold"],
+    "origin": ["frigere", "frigerare", "frigus", "frigor-"],
+    "from": "Latin",
+    "ex": [{ "refrigerate": "냉장하다[냉장고에보관하다]" }, { "refrigerator": "냉장고" }]
+  },
+  {
+    "rank": 73,
+    "root": "fright",
+    "meaning": ["놀라다", "fright"],
+    "origin": ["fryhto", "fyrhtu", "fyrhtan"],
+    "from": "OldEnglish",
+    "ex": [
+      { "affright": "공포" },
+      { "fright": "놀람" },
+      { "frighten": "겁먹게[놀라게]만들다" },
+      { "frightened": "겁먹은" },
+      { "frightening": "무서운" },
+      { "frightful": "끔찍한[엉망인]" }
+    ]
+  },
+  {
+    "rank": 74,
+    "root": "frog",
+    "meaning": ["개구리", "frog"],
+    "origin": ["frogga", "frosc", "forsc", "frox"],
+    "from": "OldEnglish",
+    "ex": [{ "frog": "개구리" }]
+  },
+  {
+    "rank": 75,
+    "root": "from",
+    "meaning": ["from"],
+    "origin": ["fram"],
+    "from": "OldEnglish",
+    "ex": [{ "fro": "저쪽으로" }, { "from": "…에서" }]
+  },
+  {
+    "rank": 76,
+    "root": "front",
+    "meaning": ["이마", "앞", "forehead"],
+    "origin": ["frons", "frontis"],
+    "from": "Latin",
+    "ex": [
+      { "confront": "닥치다" },
+      { "confrontation": "대치" },
+      { "confrontational": "대립을일삼는" },
+      { "forefront": "맨끝" },
+      { "front": "앞면[앞부분]" }
+    ]
+  },
+  {
+    "rank": 77,
+    "root": "fruct(fruct-, frug-)",
+    "meaning": ["fruit"],
+    "origin": ["rux", "frugis", "fuuctus"],
+    "from": "Latin",
+    "ex": [{ "frugal": "절약하는" }, { "frugality": "절약" }]
+  },
+  {
+    "rank": 78,
+    "root": "frust",
+    "meaning": ["injury", "harm"],
+    "origin": ["fraus", "frustra", "frustrari", "frustratus"],
+    "from": "Latin",
+    "ex": [{ "frustrate": "좌절감을주다" }, { "frustration": "불만" }]
+  },
+  {
+    "rank": 79,
+    "root": "fug(fug-, fugit-)",
+    "meaning": ["달아나다", "flee"],
+    "origin": ["fugere"],
+    "from": "Latin",
+    "ex": [
+      { "centrifugal": "원심" },
+      { "centrifuge": "원심분리기" },
+      { "fugitive": "도망자" },
+      { "refuge": "피난" },
+      { "refugee": "난민" }
+    ]
+  },
+  {
+    "rank": 80,
+    "root": "full",
+    "meaning": ["가득한", "full"],
+    "origin": ["full", "ful", "fyllo", "fyllu"],
+    "from": "OldEnglish",
+    "ex": [
+      { "fill": "채우다[메우다]" },
+      { "fulfil": "실현[성취]하다" },
+      { "fulfilment": "이행" },
+      { "full": "가득한" },
+      { "fully": "완전히" }
+    ]
+  },
+  {
+    "rank": 81,
+    "root": "fun",
+    "meaning": ["즐거운", "fun"],
+    "origin": ["fonne", "fon", "fonnen", "fonned"],
+    "from": "MiddleEnglish",
+    "ex": [
+      { "fond": "애정을느끼는[좋아하는]" },
+      { "fun": "재미[즐거움]" },
+      { "funny": "우스운" },
+      { "unfunny": "우습지[재미있지]않은" }
+    ]
+  },
+  {
+    "rank": 82,
+    "root": "funct",
+    "meaning": ["수행하다", "perform"],
+    "origin": ["fungi", "functus"],
+    "from": "Latin",
+    "ex": [{ "function": "기능" }, { "functional": "기능위주의" }, { "fungible": "대체" }]
+  },
+  {
+    "rank": 83,
+    "root": "fund",
+    "meaning": ["기초", "found", "bottom"],
+    "origin": ["fundus", "fundare"],
+    "from": "Latin",
+    "ex": [
+      { "co-founder": "공동창설[창립]자" },
+      { "found": "설립하다" },
+      { "foundation": "토대[기초]" },
+      { "founder": "창립자" },
+      { "fund": "기금[자금]" },
+      { "fundament": "궁둥이" },
+      { "fundamental": "근본[본질]적인" },
+      { "fundamentalist": "근본주의신자" },
+      { "fundamentally": "근본[본질]적으로" },
+      { "funding": "자금" },
+      { "profound": "엄청난[깊은]" },
+      { "profundity": "깊이" },
+      { "unfounded": "근거없는" }
+    ]
+  },
+  {
+    "rank": 84,
+    "root": "funeral",
+    "meaning": ["장례", "funeral"],
+    "origin": ["funeralia", "funeralis", "funus", "funeris"],
+    "from": "Latin",
+    "ex": [{ "funeral": "장례식의" }]
+  },
+  {
+    "rank": 85,
+    "root": "fungi",
+    "meaning": ["균류"],
+    "origin": ["-"],
+    "from": "Latin",
+    "ex": [{ "fungicide": "살진균제" }]
+  },
+  {
+    "rank": 86,
+    "root": "fur",
+    "meaning": ["털", "fur"],
+    "origin": ["forrer", "fourrer", "fuerre"],
+    "from": "French",
+    "ex": [{ "furry": "털로덮인" }]
+  },
+  {
+    "rank": 87,
+    "root": "furn",
+    "meaning": ["공급", "furnish", "provide"],
+    "origin": ["furniss", "forniss", "furnir", "fornir", "fourniture"],
+    "from": "French",
+    "ex": [
+      { "furnish": "비치하다" },
+      { "furnishing": "가구" },
+      { "furniture": "가구" },
+      { "perform": "행하다[수행하다/실시하다]" },
+      { "performance": "공연" },
+      { "performer": "연기자[연주자]" }
+    ]
+  },
+  {
+    "rank": 88,
+    "root": "fus(fus-, fund-)",
+    "meaning": ["붓다", "녹이다", "pour"],
+    "origin": ["fundere", "fusus", "fus-"],
+    "from": "Latin",
+    "ex": [
+      { "confound": "어리둥절[당혹]하게만들다" },
+      { "confuse": "혼란시키다" },
+      { "confusion": "혼란" },
+      { "fund": "붓다[따르다]" },
+      { "fuse": "붓다[따르다]" },
+      { "fusion": "융합" },
+      { "infuse": "불어넣다[스미게하다]" },
+      { "profuse": "많은" },
+      { "profusion": "다량" },
+      { "refund": "환불" },
+      { "refusal": "거절" },
+      { "refuse": "거절[거부]하다" },
+      { "transfusion": "투입" }
+    ]
+  }
+]

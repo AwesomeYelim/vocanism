@@ -3,7 +3,11 @@
     "axios": "^1.6.2",
     "cheerio": "^1.0.0-rc.12",
     "express": "^4.18.2",
+    "fs": "^0.0.1-security",
     "init": "^0.1.2",
     "wordnet": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0"
   }
 }

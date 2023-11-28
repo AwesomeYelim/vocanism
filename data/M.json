@@ -1,0 +1,1331 @@
+[
+  {
+    "rank": 1,
+    "root": "mag",
+    "meaning": ["마법", "magic"],
+    "origin": ["magike", "magikos", "magos"],
+    "from": "Greek",
+    "ex": [{ "magic": "마법" }, { "magical": "마력이있는" }, { "magician": "마술사" }]
+  },
+  {
+    "rank": 2,
+    "root": "magistr(magistr-)",
+    "meaning": ["chief", "director"],
+    "origin": ["magistratus", "magistrare", "magister"],
+    "from": "Latin",
+    "ex": [{ "magistrate": "치안판사" }, { "master": "주인" }]
+  },
+  {
+    "rank": 3,
+    "root": "magn(magn-, magnet-)",
+    "meaning": ["큰", "great", "large"],
+    "origin": ["magnus"],
+    "from": "Latin",
+    "ex": [
+      { "magnificent": "참으로아름다운[감명깊은/훌륭한]" },
+      { "magnify": "확대하다" },
+      { "magnitude": "규모[중요도]" }
+    ]
+  },
+  {
+    "rank": 4,
+    "root": "magnet",
+    "meaning": ["자석", "lodestone"],
+    "origin": ["magnes", "magnetos", "Magnesia", "magnetum"],
+    "from": "Greek",
+    "ex": [
+      { "magnet": "자석" },
+      { "magnetic": "자석같은" },
+      { "magnetise": "자화" },
+      { "magnetism": "자성" },
+      { "magnetize": "자화" }
+    ]
+  },
+  {
+    "rank": 5,
+    "root": "mail",
+    "meaning": ["메일", "우편", "mail"],
+    "origin": ["male"],
+    "from": "French",
+    "ex": [{ "e-mail": "이메일" }]
+  },
+  {
+    "rank": 6,
+    "root": "main",
+    "meaning": ["가장큰", "main"],
+    "origin": ["mægen", "mægen-"],
+    "from": "OldEnglish",
+    "ex": [{ "main": "가장큰[중요한]" }]
+  },
+  {
+    "rank": 7,
+    "root": "major",
+    "meaning": ["크게", "greater"],
+    "origin": ["major", "maior", "majus"],
+    "from": "Latin",
+    "ex": [{ "major": "주요한" }, { "majority": "가장많은수[다수]" }, { "mayor": "시장[구청장]" }]
+  },
+  {
+    "rank": 8,
+    "root": "make",
+    "meaning": ["만들다", "make", "match"],
+    "origin": ["macian", "gemaca", "gemæcc", "gemæcca"],
+    "from": "OldEnglish",
+    "ex": [
+      { "homemade": "집에서만든" },
+      { "made": "몸집이…한" },
+      { "make": "만들다[제작/제조하다]" },
+      { "maker": "…을만드는[생산하는]사람[회사/기계]" },
+      { "makeup": "조립" },
+      { "make-up": "화장품" },
+      { "making": "만들기" },
+      { "match": "경기" },
+      { "matching": "어울리는" },
+      { "remake": "리메이크" }
+    ]
+  },
+  {
+    "rank": 9,
+    "root": "mal",
+    "meaning": ["악(惡)"],
+    "origin": ["malus"],
+    "from": "Latin",
+    "ex": [{ "malaria": "말라리아" }, { "malicious": "악의있는" }, { "malware": "악성소프트웨어" }]
+  },
+  {
+    "rank": 10,
+    "root": "mamm",
+    "meaning": ["엄마", "가슴", "mother"],
+    "origin": ["mamma"],
+    "from": "Latin",
+    "ex": [
+      { "mama": "엄마" },
+      { "mamm": "유방" },
+      { "mamma": "유방" },
+      { "mammal": "포유동물" },
+      { "mammals": "포유류" },
+      { "mammary": "유방[유선]의" },
+      { "mammogram": "유방조영상" }
+    ]
+  },
+  {
+    "rank": 11,
+    "root": "man",
+    "meaning": ["사람", "인간", "person"],
+    "origin": ["man", "mann"],
+    "from": "OldEnglish",
+    "ex": [
+      { "businessman": "회사원" },
+      { "caveman": "혈거인" },
+      { "freeman": "명예시민훈장을받은사람" },
+      { "gentleman": "신사" },
+      { "kinsman": "친척" },
+      { "kinswoman": "일가[친척]의여자" },
+      { "man": "남자" },
+      { "manliness": "남자다움" },
+      { "manly": "남자다운" },
+      { "manned": "유인" },
+      { "statesman": "정치인[정치가]" },
+      { "woman": "여자" }
+    ]
+  },
+  {
+    "rank": 12,
+    "root": "man(man-, main, mans-)",
+    "meaning": ["머둘다", "stay"],
+    "origin": ["manere", "mansus"],
+    "from": "Latin",
+    "ex": [
+      { "man": "머물다" },
+      { "manor": "영주의저택" },
+      { "manse": "목사의주택" },
+      { "mansion": "대저택" },
+      { "permanence": "영구성" },
+      { "permanent": "영구[영속]적인" },
+      { "permanently": "영구히" },
+      { "remain": "계속[여전히]…이다" },
+      { "remainder": "나머지" },
+      { "remnant": "남은부분" }
+    ]
+  },
+  {
+    "rank": 13,
+    "root": "mand(mand-, -mend-)",
+    "meaning": ["명령", "commit"],
+    "origin": ["mandare", "mandatus"],
+    "from": "Latin",
+    "ex": [
+      { "command": "명령하다" },
+      { "commander": "지휘관" },
+      { "commandment": "계명" },
+      { "commend": "칭찬하다" },
+      { "demand": "요구하다" },
+      { "mand": "주문[명령]하다" },
+      { "mandate": "권한" },
+      { "mandatory": "법에정해진" },
+      { "recommend": "추천[천거]하다" },
+      { "recommendation": "권고" }
+    ]
+  },
+  {
+    "rank": 14,
+    "root": "mania(-mania, man-, mant-)",
+    "meaning": ["…광(狂)", "crazy.심취(心醉)"],
+    "origin": ["mania", "manikos", "mainesthai"],
+    "from": "Greek",
+    "ex": [
+      { "bibliomania": "장서벽" },
+      { "decalcomania": "도안/그림등의전사" },
+      { "kleptomania": "병적도벽" },
+      { "maniac": "미치광이" }
+    ]
+  },
+  {
+    "rank": 15,
+    "root": "mantle",
+    "meaning": ["mantle"],
+    "origin": ["mantellum", "mantellum"],
+    "from": "Latin",
+    "ex": [{ "dismantle": "분해[해체]하다" }, { "mantle": "~의역할[책임]" }]
+  },
+  {
+    "rank": 16,
+    "root": "manu(manu-)",
+    "meaning": ["손", "hand"],
+    "origin": ["manus", "manualis", "manuarius", "manuale"],
+    "from": "Latin",
+    "ex": [
+      { "maintain": "유지하다[지키다]" },
+      { "manage": "간신히[용케]해내다" },
+      { "manageable": "관리[감당/처리]할수있는" },
+      { "management": "경영[운영/관리]" },
+      { "manager": "경영자[운영자/관리자]" },
+      { "managerial": "경영[관리/운영]의" },
+      { "managing": "관리하기" },
+      { "manifest": "나타내다[드러내보이다]" },
+      { "manipulate": "조종하다" },
+      { "manipulation": "교묘한처리" },
+      { "manner": "방식" },
+      { "manu": "손" },
+      { "manual": "손으로하는" },
+      { "manually": "수작업으로" },
+      { "manufacture": "제조[생산]하다" },
+      { "manuscript": "원고" },
+      { "micromanage": "소소한것까지챙기다" },
+      { "micromanagement": "세부사항까지통제하기" },
+      { "micromanager": "사소한일까지챙기는사람" }
+    ]
+  },
+  {
+    "rank": 17,
+    "root": "many",
+    "meaning": ["many"],
+    "origin": ["menigu", "monig", "manig", "mænig"],
+    "from": "OldEnglish",
+    "ex": [{ "many": "많은[여러]" }]
+  },
+  {
+    "rank": 18,
+    "root": "margin",
+    "meaning": ["edger", "margin"],
+    "origin": ["margo", "marginis", "marginalis"],
+    "from": "Latin",
+    "ex": [
+      { "margin": "여백" },
+      { "marginal": "미미한" },
+      { "marginalise": "하찮은존재같은기분이들게하다[존재로만들다]" }
+    ]
+  },
+  {
+    "rank": 19,
+    "root": "marin(marin, mari-)",
+    "meaning": ["바다", "sea"],
+    "origin": ["mare", "maris", "marinus"],
+    "from": "Latin",
+    "ex": [
+      { "marinade": "양념장[마리네이드]" },
+      { "marinate": "양념장에재워두다" },
+      { "marine": "바다의" },
+      { "maritime": "바다의" },
+      { "submarine": "잠수함" }
+    ]
+  },
+  {
+    "rank": 20,
+    "root": "mark",
+    "meaning": ["표시", "부호", "mark"],
+    "origin": ["mearc", "gemerce", "merc", "mearcian", "merciga", "marc"],
+    "from": "OldEnglish",
+    "ex": [
+      { "mark": "표시하다" },
+      { "marker": "표시[표지]" },
+      { "remark": "발언[말/논평/언급]" },
+      { "remarkable": "놀랄만한" },
+      { "remarkably": "두드러지게" }
+    ]
+  },
+  {
+    "rank": 21,
+    "root": "marry",
+    "meaning": ["결혼", "marry"],
+    "origin": ["maritare", "maritus"],
+    "from": "Latin",
+    "ex": [{ "marriage": "결혼생활" }, { "marry": "결혼하다" }]
+  },
+  {
+    "rank": 22,
+    "root": "Mars",
+    "meaning": ["전쟁", "화성", "Mars"],
+    "origin": ["Mars"],
+    "from": "Latin",
+    "ex": [{ "March": "3월" }, { "Mars": "화성" }, { "martial": "싸움의" }, { "Martian": "화성의" }]
+  },
+  {
+    "rank": 23,
+    "root": "mas",
+    "meaning": ["남성"],
+    "origin": ["mas", "maris", "masculus", "masculi"],
+    "from": "Latin",
+    "ex": [{ "masculine": "남자같은" }, { "masculinity": "남성성" }]
+  },
+  {
+    "rank": 24,
+    "root": "mash",
+    "meaning": ["으깨다", "mash"],
+    "origin": ["mæscan", "masc"],
+    "from": "OldEnglish",
+    "ex": [
+      { "mash": "으깬것" },
+      { "mashed": "으깬" },
+      { "mush": "곤죽" },
+      { "musher": "개썰매를모는사람" },
+      { "mushy": "곤죽같은" }
+    ]
+  },
+  {
+    "rank": 25,
+    "root": "mass",
+    "meaning": ["덩어리", "mass"],
+    "origin": ["maza", "massein"],
+    "from": "Greek",
+    "ex": [{ "mass": "덩어리[덩이]" }, { "massive": "거대한" }, { "massively": "육중하게" }]
+  },
+  {
+    "rank": 26,
+    "root": "mat",
+    "meaning": ["생각", "활기찬", "thinking"],
+    "origin": ["matos"],
+    "from": "Greek",
+    "ex": [
+      { "automate": "자동화하다" },
+      { "automatic": "자동의" },
+      { "automation": "자동화" },
+      { "automatism": "오토마티즘" },
+      { "automaton": "로봇같은사람" }
+    ]
+  },
+  {
+    "rank": 27,
+    "root": "mate",
+    "meaning": ["친구", "mate"],
+    "origin": ["mate", "gemate"],
+    "from": "MiddleLowGerman",
+    "ex": [{ "inmate": "수감자" }, { "mate": "친구" }, { "mating": "짝짓기[교미]" }]
+  },
+  {
+    "rank": 28,
+    "root": "mathem(mathem-, math-, mathy-)",
+    "meaning": ["배우다", "지식", "learn"],
+    "origin": ["manthanein", "mathema", "mathematos"],
+    "from": "Greek",
+    "ex": [
+      { "mathem": "배우다" },
+      { "mathematic": "수학적" },
+      { "mathematical": "수학" },
+      { "mathematician": "수학자" },
+      { "mathematics": "수학" },
+      { "maths": "수학" },
+      { "polymath": "박식가" }
+    ]
+  },
+  {
+    "rank": 29,
+    "root": "matr(matr-, mater-)",
+    "meaning": ["어머니", "물질", "mother"],
+    "origin": ["mater", "matris", "materia"],
+    "from": "Latin",
+    "ex": [
+      { "mater": "어머니" },
+      { "materfamilias": "모친" },
+      { "material": "직물" },
+      { "maternity": "어머니[임부]인상태" },
+      { "matriarch": "여자가장[우두머리]" },
+      { "matrix": "수학" },
+      { "matter": "문제[일/사안]" },
+      { "metropolis": "주요도시" },
+      { "metropolitan": "대도시[수도]의" }
+    ]
+  },
+  {
+    "rank": 30,
+    "root": "mature",
+    "meaning": ["익은", "mature"],
+    "origin": ["maturare", "maturus"],
+    "from": "Latin",
+    "ex": [{ "mature": "어른스러운" }, { "premature": "정상[예상]보다이른" }, { "prematurely": "이르게" }]
+  },
+  {
+    "rank": 31,
+    "root": "maxim(max-, maxim-)",
+    "meaning": ["최고", "가장큰", "greatest"],
+    "origin": ["maxima", "maximus"],
+    "from": "Latin",
+    "ex": [
+      { "max": "최대" },
+      { "maxim": "격언" },
+      { "maximal": "최대한의" },
+      { "maximise": "극대화하다" },
+      { "maximum": "최고[최대]의" }
+    ]
+  },
+  {
+    "rank": 32,
+    "root": "maze",
+    "meaning": ["maze", "깜짝놀란"],
+    "origin": ["mæs"],
+    "from": "OldEnglish",
+    "ex": [{ "amaze": "놀라게하다" }, { "amazed": "" }, { "amazing": "놀라운" }, { "amazingly": "놀랄만큼" }]
+  },
+  {
+    "rank": 33,
+    "root": "meal",
+    "meaning": ["식사[끼니]", "meal"],
+    "origin": ["mæl"],
+    "from": "OldEnglish",
+    "ex": [{ "meal": "식사[끼니]" }]
+  },
+  {
+    "rank": 34,
+    "root": "mean(mean, moan)",
+    "meaning": ["뜻하다", "한탄", "mean", "moan"],
+    "origin": ["mænan", "manan"],
+    "from": "OldEnglish",
+    "ex": [
+      { "bemoan": "한탄하다" },
+      { "mean": "…라는뜻[의미]이다" },
+      { "meaning": "뜻[의미]" },
+      { "meaningful": "의미있는" },
+      { "meaningless": "의미없는[무의미한]" },
+      { "moan": "신음하다" }
+    ]
+  },
+  {
+    "rank": 35,
+    "root": "mechan",
+    "meaning": ["기계", "장치", "machine"],
+    "origin": ["mekhane", "mekhanikos", "makhana", "mechane"],
+    "from": "Greek",
+    "ex": [
+      { "machine": "기계" },
+      { "mechanic": "정비공" },
+      { "mechanical": "기계로작동되는" },
+      { "mechanism": "기계장치[기구]" }
+    ]
+  },
+  {
+    "rank": 36,
+    "root": "medi",
+    "meaning": ["중도", "middle"],
+    "origin": ["medius", "mediare"],
+    "from": "Latin",
+    "ex": [
+      { "immediate": "즉각적인" },
+      { "immediately": "즉시" },
+      { "intermediary": "중재자" },
+      { "intermediate": "중간의" },
+      { "mean": "중용" },
+      { "meanwhile": "그동안에" },
+      { "medi": "중간" },
+      { "media": "매체[미디어/대중매체]" },
+      { "medieval": "중세의" },
+      { "Mediterranean": "지중해의" },
+      { "medium": "매체[수단]" },
+      { "meridian": "자오선" }
+    ]
+  },
+  {
+    "rank": 37,
+    "root": "medic(med-, medic-)",
+    "meaning": ["치유하다", "고치다", "heal"],
+    "origin": ["mederi", "medicus", "medeor"],
+    "from": "Latin",
+    "ex": [
+      { "biomedical": "생물[생체]의학의" },
+      { "med": "치료하다" },
+      { "medic": "의대생" },
+      { "medical": "의학[의료]의" },
+      { "medically": "의학상으로" },
+      { "Medicare": "노인의료보험제도" },
+      { "medication": "약[약물]" },
+      { "medicinal": "약효[치유력]가있는" },
+      { "medicine": "의학" },
+      { "remedial": "교정[개선]하기위한" },
+      { "remedy": "처리방안" }
+    ]
+  },
+  {
+    "rank": 38,
+    "root": "medit(medit-)",
+    "meaning": ["thinkover", "reflect", "ponder", ""],
+    "origin": ["meditari", "meditatus"],
+    "from": "Latin",
+    "ex": [{ "meditate": "명상[묵상]하다" }, { "meditation": "명상" }, { "meditator": "묵상가" }]
+  },
+  {
+    "rank": 39,
+    "root": "meet",
+    "meaning": ["만나더", "발견하다", "meet"],
+    "origin": ["metan"],
+    "from": "OldEnglish",
+    "ex": [{ "meet": "만나다" }, { "meeting": "회의" }]
+  },
+  {
+    "rank": 40,
+    "root": "melan(melan-, melas-)",
+    "meaning": ["검은", "black", "dark"],
+    "origin": ["melas", "melanos"],
+    "from": "Greek",
+    "ex": [{ "calomel": "감홍" }]
+  },
+  {
+    "rank": 41,
+    "root": "mell(mell-, mel-)",
+    "meaning": ["달콤", "honey"],
+    "origin": ["mel", "mellis"],
+    "from": "Latin",
+    "ex": [{ "caramel": "캐러멜" }]
+  },
+  {
+    "rank": 42,
+    "root": "melo",
+    "meaning": ["노래", "song"],
+    "origin": ["meloidia", "melos"],
+    "from": "Greek",
+    "ex": [{ "melody": "멜로디[선율]" }]
+  },
+  {
+    "rank": 43,
+    "root": "melt",
+    "meaning": ["녹다", "melt"],
+    "origin": ["meltan", "mieltan", "gemæltan"],
+    "from": "OldEnglish",
+    "ex": [{ "melt": "녹다[녹이다]" }]
+  },
+  {
+    "rank": 44,
+    "root": "memor",
+    "meaning": ["생각", "기억", "remember"],
+    "origin": ["memor"],
+    "from": "Latin",
+    "ex": [
+      { "commemorate": "기념하다" },
+      { "memo": "메모" },
+      { "memoir": "회고록" },
+      { "memor": "유념하다" },
+      { "memorabilia": "수집품[기념품]" },
+      { "memorable": "기억할만한" },
+      { "memorandum": "메모" },
+      { "memorial": "기념비" },
+      { "memorise": "암기하다" },
+      { "memory": "기억" },
+      { "misremember": "부정확하게기억하다" },
+      { "remember": "기억하다[나다]" }
+    ]
+  },
+  {
+    "rank": 45,
+    "root": "mend",
+    "meaning": ["잘못", "티", "fault"],
+    "origin": ["menda", "mendum", "mendax"],
+    "from": "Latin",
+    "ex": [{ "amend": "개정[수정]하다" }, { "amendment": "개정[수정]" }, { "mend": "수리하다" }]
+  },
+  {
+    "rank": 46,
+    "root": "meno(meno-, men-)",
+    "meaning": ["달(月)"],
+    "origin": ["men"],
+    "from": "Greek",
+    "ex": [{ "emmenagogue": "월경촉진약" }, { "menopausal": "폐경기의" }, { "menopause": "폐경기" }]
+  },
+  {
+    "rank": 47,
+    "root": "mens(mens-, meas-)",
+    "meaning": ["측량", "measure"],
+    "origin": ["mensus", "metiri", "mensura"],
+    "from": "Latin",
+    "ex": [
+      { "dimension": "크기" },
+      { "dimensional": "…치수의" },
+      { "immense": "엄청난" },
+      { "measure": "측정하다[재다]" },
+      { "measurement": "측정" },
+      { "mens": "측정하다" }
+    ]
+  },
+  {
+    "rank": 48,
+    "root": "ment",
+    "meaning": ["마음", "mind"],
+    "origin": ["mens", "mentis"],
+    "from": "Latin",
+    "ex": [
+      { "comment": "논평" },
+      { "commentate": "실황방송을하다" },
+      { "commentator": "해설자" },
+      { "dement": "미치게하다" },
+      { "dementia": "치매" },
+      { "ment": "마음" },
+      { "mental": "정신의" },
+      { "mentality": "사고방식" },
+      { "mentally": "정신적으로" },
+      { "mention": "말하다" },
+      { "reminisce": "추억[회상]에잠기다" },
+      { "reminiscence": "추억담" },
+      { "reminiscent": "연상시키는" }
+    ]
+  },
+  {
+    "rank": 49,
+    "root": "merc(merc-)",
+    "meaning": ["보상", "상업", "reward"],
+    "origin": ["merx", "mercis"],
+    "from": "Latin",
+    "ex": [
+      { "commerce": "무역" },
+      { "commercial": "상업의" },
+      { "market": "시장[장]" },
+      { "marketer": "장보러가는사람" },
+      { "merc": "물품" },
+      { "merchandise": "물품" },
+      { "merchant": "상인" },
+      { "mercy": "자비" },
+      { "supermarket": "슈퍼마켓" }
+    ]
+  },
+  {
+    "rank": 50,
+    "root": "merge(merge-, mers-)",
+    "meaning": ["담그다", "dip", "plunge"],
+    "origin": ["mergere"],
+    "from": "Latin",
+    "ex": [
+      { "emerge": "나오다[모습을드러내다]" },
+      { "emergence": "출현" },
+      { "emergency": "비상" },
+      { "emergent": "신생의" },
+      { "emerging": "최근생겨난" },
+      { "immerse": "담그다" },
+      { "immersible": "내수성" },
+      { "immersion": "담금[잠금]" },
+      { "immersive": "에워싸는듯한" },
+      { "merge": "합병[병합]하다" },
+      { "submerge": "잠수하다" }
+    ]
+  },
+  {
+    "rank": 51,
+    "root": "mesmer",
+    "meaning": ["최면술"],
+    "origin": ["Mesmer"],
+    "from": "French",
+    "ex": [
+      { "Mesmer": "메스머" },
+      { "mesmerise": "최면을걸듯마음을사로잡다" },
+      { "mesmerism": "최면술" },
+      { "mesmerize": "최면을걸듯마음을사로잡다" }
+    ]
+  },
+  {
+    "rank": 52,
+    "root": "meta",
+    "meaning": ["높은곳", "above"],
+    "origin": ["meta"],
+    "from": "Greek",
+    "ex": [
+      { "ametabolic": "불변태" },
+      { "meta": "~위에" },
+      { "metabolic": "물질[신진]대사의" },
+      { "metabolism": "신진[물질]대사" },
+      { "metaphor": "은유" },
+      { "metaphoric": "은유의" },
+      { "metaphorical": "은유[비유]의" },
+      { "metaphorically": "은유적으로" },
+      { "metastasis": "전이" },
+      { "metaverse": "메타버스" },
+      { "method": "방법" },
+      { "methodical": "질서정연한" },
+      { "methodically": "계통적으로" },
+      { "methodology": "방법론" }
+    ]
+  },
+  {
+    "rank": 53,
+    "root": "metal(metal-, metall-)",
+    "meaning": ["광산", "금속", "mine"],
+    "origin": ["metallon", "metallikos", "metalleuein"],
+    "from": "Greek",
+    "ex": [{ "medal": "메달" }, { "medallist": "메달을탄사람" }, { "metal": "금속" }, { "metallic": "금속성의" }]
+  },
+  {
+    "rank": 54,
+    "root": "meter(meter, metr)",
+    "meaning": ["측량", "척도", "measure"],
+    "origin": ["metron"],
+    "from": "Greek",
+    "ex": [
+      { "astrometry": "측성학" },
+      { "bolometer": "볼로미터" },
+      { "calorimeter": "열량계" },
+      { "centimeter": "센티미터" },
+      { "chronometer": "크로노미터" },
+      { "diameter": "지름" },
+      { "galvanometer": "검류계" },
+      { "geometry": "기하학" },
+      { "kilometer": "킬로미터" },
+      { "kilometre": "킬로미터" },
+      { "meter": "계량기" },
+      { "metre": "미터" },
+      { "metric": "미터법의" },
+      { "parameter": "한도" },
+      { "parametric": "매개변수의" }
+    ]
+  },
+  {
+    "rank": 55,
+    "root": "mid",
+    "meaning": ["가운데", "middle"],
+    "origin": ["mid", "midd", "midde"],
+    "from": "OldEnglish",
+    "ex": [{ "amid": "가운데[중]에" }, { "mid": "중앙의" }, { "middle": "중앙" }, { "midlife": "중년기" }]
+  },
+  {
+    "rank": 56,
+    "root": "mid",
+    "meaning": ["with"],
+    "origin": ["mid"],
+    "from": "OldEnglish",
+    "ex": [{ "midwife": "산파" }]
+  },
+  {
+    "rank": 57,
+    "root": "migr",
+    "meaning": ["이동", "move"],
+    "origin": ["migrare", "migratus"],
+    "from": "Latin",
+    "ex": [
+      { "emigrate": "이민을가다" },
+      { "immigrant": "이민자[이주민]" },
+      { "immigrate": "이주해[이민을]오다" },
+      { "immigration": "이주[이민]" },
+      { "migr": "이동하다" },
+      { "migrant": "이주자" },
+      { "migrate": "이동하다" },
+      { "migration": "이주[이동]" }
+    ]
+  },
+  {
+    "rank": 58,
+    "root": "mil",
+    "meaning": ["부드러운", "mild"],
+    "origin": ["milde"],
+    "from": "OldEnglish",
+    "ex": [{ "mild": "가벼운[순한/약한]" }]
+  },
+  {
+    "rank": 59,
+    "root": "milit",
+    "meaning": ["군인", "soldier"],
+    "origin": ["miles", "militis", "militaris"],
+    "from": "Latin",
+    "ex": [
+      { "ex-military": "전직군" },
+      { "milit": "군인" },
+      { "militant": "공격적인" },
+      { "military": "군사의" },
+      { "militia": "민병대" }
+    ]
+  },
+  {
+    "rank": 60,
+    "root": "mill",
+    "meaning": ["천", "1000"],
+    "origin": ["mille"],
+    "from": "Latin",
+    "ex": [
+      { "billion": "10억" },
+      { "billionaire": "억만장자" },
+      { "mile": "마일" },
+      { "millennial": "천년간의" },
+      { "millennials": "밀레니얼세대" },
+      { "millennium": "천년" },
+      { "million": "100만" }
+    ]
+  },
+  {
+    "rank": 61,
+    "root": "milli",
+    "meaning": ["1000분의1"],
+    "origin": ["-"],
+    "from": "Latin",
+    "ex": [{ "milligram": "밀리그램" }]
+  },
+  {
+    "rank": 62,
+    "root": "mimic",
+    "meaning": ["흉내", "모방", "mimic"],
+    "origin": ["mimikos", "mimeisthai", "mimos"],
+    "from": "Greek",
+    "ex": [{ "mimic": "흉내를내다" }]
+  },
+  {
+    "rank": 63,
+    "root": "min",
+    "meaning": ["돌출", "jut", "project"],
+    "origin": ["minere"],
+    "from": "Latin",
+    "ex": [
+      { "eminence": "명성" },
+      { "eminent": "저명한" },
+      { "imminent": "금방이라도닥칠듯한" },
+      { "prominence": "중요성" },
+      { "prominent": "중요한;유명한" }
+    ]
+  },
+  {
+    "rank": 64,
+    "root": "min(minor, min-)",
+    "meaning": ["작은", "less", "smaller"],
+    "origin": ["minor", "minus", "minuere", "minimus"],
+    "from": "Latin",
+    "ex": [
+      { "diminish": "줄어들다" },
+      { "menu": "메뉴" },
+      { "min": "작은" },
+      { "minim": "미님" },
+      { "minimal": "아주적은" },
+      { "minimally": "최소량[수]으로" },
+      { "minimise": "최소화하다" },
+      { "minimize": "최소화하다" },
+      { "minimum": "최저의" },
+      { "minor": "작은[가벼운]" },
+      { "minority": "소수" },
+      { "minus": "빼기[마이너스]부호" },
+      { "minute": "분" }
+    ]
+  },
+  {
+    "rank": 65,
+    "root": "mine",
+    "meaning": ["캐다", "mine"],
+    "origin": ["mina", "minera"],
+    "from": "Latin",
+    "ex": [
+      { "mine": "광산" },
+      { "miner": "광부" },
+      { "mineral": "광물" },
+      { "mining": "채굴" },
+      { "undermine": "약화시키다" }
+    ]
+  },
+  {
+    "rank": 66,
+    "root": "mini",
+    "meaning": ["축소의", "miniature"],
+    "origin": ["miniare", "minium"],
+    "from": "Latin",
+    "ex": [{ "miniature": "아주작은[소형의]" }]
+  },
+  {
+    "rank": 67,
+    "root": "minister(minister-)",
+    "meaning": ["관리", "운영", "serve"],
+    "origin": ["ministrare"],
+    "from": "Latin",
+    "ex": [
+      { "admin": "관리[행정]" },
+      { "administer": "관리하다[운영하다]" },
+      { "administrate": "관리하다[운영하다]" },
+      { "administration": "관리[행정]" },
+      { "administrative": "관리[행정]상의" },
+      { "administrator": "관리자" },
+      { "minister": "장관[각료]" },
+      { "ministry": "부처" }
+    ]
+  },
+  {
+    "rank": 68,
+    "root": "mir(mir-)",
+    "meaning": ["감탄", "경이", "wonder"],
+    "origin": ["mirari", "mirus", "mirare"],
+    "from": "Latin",
+    "ex": [
+      { "admiration": "감탄" },
+      { "admire": "존경하다" },
+      { "admired": "존경받는" },
+      { "marvel": "경이" },
+      { "marvellous": "기막히게좋은" },
+      { "marvelous": "놀라운" },
+      { "mir": "경이로운[아주멋진]" },
+      { "miracle": "기적" },
+      { "mirror": "거울" }
+    ]
+  },
+  {
+    "rank": 69,
+    "root": "misc(misc-, mix-)",
+    "meaning": ["혼합", "mix"],
+    "origin": ["miscere", "mixtus"],
+    "from": "Latin",
+    "ex": [
+      { "meddle": "간섭하다[참견하다/끼어들다]" },
+      { "meddling": "간섭" },
+      { "mix": "섞이다" },
+      { "mixture": "혼합물[혼합체]" }
+    ]
+  },
+  {
+    "rank": 70,
+    "root": "mit",
+    "meaning": ["보내다", "send", "put"],
+    "origin": ["mittere", "missus"],
+    "from": "Latin",
+    "ex": [
+      { "admission": "들어감" },
+      { "admit": "인정[시인]하다유의어" },
+      { "commission": "위원회[위원단]" },
+      { "commissioner": "위원" },
+      { "commit": "저지르다[범하다]" },
+      { "commitment": "약속" },
+      { "committed": "헌신적인" },
+      { "committee": "위원회" },
+      { "compromise": "타협[절충]" },
+      { "dismiss": "묵살[일축]하다" },
+      { "dismissal": "해고" },
+      { "emission": "배출" },
+      { "emit": "내다[내뿜다]" },
+      { "intermittent": "간헐적인" },
+      { "mess": "엉망" },
+      { "message": "전갈[메시지/성명]" },
+      { "messenger": "전달자[배달원]" },
+      { "messy": "지저분한" },
+      { "mise": "협정" },
+      { "missile": "미사일" },
+      { "mission": "임무" },
+      { "missionary": "선교사" },
+      { "mit": "보내다" },
+      { "omission": "생략" },
+      { "omit": "빠뜨리다" },
+      { "permissible": "허용되는" },
+      { "permission": "허락" },
+      { "permit": "허용[허락]하다" },
+      { "premise": "전제" },
+      { "promise": "약속" },
+      { "promising": "유망한" },
+      { "submission": "항복" },
+      { "submit": "제출하다" },
+      { "surmise": "추측[추정]하다" },
+      { "transmission": "전염" },
+      { "transmit": "전송[송신/방송]하다" }
+    ]
+  },
+  {
+    "rank": 71,
+    "root": "mitis",
+    "meaning": ["gentle", "soft", "mild"],
+    "origin": ["mitis"],
+    "from": "Latin",
+    "ex": [{ "mitigate": "완화[경감]시키다" }]
+  },
+  { "rank": 72, "root": "mn", "meaning": [""], "origin": ["-"], "from": "Latin", "ex": [{ "autumn": "가을" }] },
+  {
+    "rank": 73,
+    "root": "mob(mob-. mov-, mot-)",
+    "meaning": ["움직임", "move"],
+    "origin": ["motus", "movere"],
+    "from": "Latin",
+    "ex": [
+      { "automobile": "자동차" },
+      { "demote": "강등[좌천]시키다" },
+      { "demotivate": "의욕을꺾다" },
+      { "emote": "감정을과장되게드러내다" },
+      { "emotion": "" },
+      { "emotional": "정서의" },
+      { "emotionally": "감정적으로" },
+      { "mob": "군중[무리]" },
+      { "mobile": "이동하는" },
+      { "mobility": "유동성" },
+      { "mobilization": "동원" },
+      { "mobilize": "동원되다[하다]" },
+      { "moment": "잠깐" },
+      { "momentous": "중대한" },
+      { "momentum": "탄력[가속도]" },
+      { "motion": "운동" },
+      { "motional": "운동의" },
+      { "motivate": "이유[원인]가되다" },
+      { "motivated": "자극받은" },
+      { "motivation": "자극" },
+      { "motivational": "동기를주는" },
+      { "motive": "동기" },
+      { "motor": "모터" },
+      { "motorist": "운전자" },
+      { "move": "움직이다" },
+      { "movement": "움직임" },
+      { "moving": "가슴[마음]을뭉클하게[아프게]하는" },
+      { "promotable": "증진[진전]시킬수있는" },
+      { "promote": "촉진[고취]하다" },
+      { "promotion": "승진" },
+      { "remote": "외진" },
+      { "remotely": "아주약간" },
+      { "removal": "없애기" },
+      { "remove": "치우다[내보내다]" }
+    ]
+  },
+  {
+    "rank": 74,
+    "root": "mode",
+    "meaning": ["양식", "측량", "measure"],
+    "origin": ["modus", "modestus", "moderari", "moderare"],
+    "from": "Latin",
+    "ex": [
+      { "accommodate": "공간을제공하다" },
+      { "accommodation": "거처" },
+      { "commode": "옷장" },
+      { "commodity": "상품" },
+      { "immodest": "자만하는" },
+      { "mode": "방식[방법/유형]" },
+      { "model": "모형" },
+      { "modeller": "모형제작자" },
+      { "moderate": "보통의" },
+      { "moderation": "적당함" },
+      { "modern": "현대의" },
+      { "modest": "그다지대단하지는않은" },
+      { "modesty": "겸손" },
+      { "modification": "수정[변경]" },
+      { "modify": "수정[변경]하다" },
+      { "module": "모듈" },
+      { "mold": "틀" },
+      { "mood": "법" },
+      { "mould": "거푸집" },
+      { "postmodern": "포스트모던의" }
+    ]
+  },
+  {
+    "rank": 75,
+    "root": "moist",
+    "meaning": ["촉촉한", "moist"],
+    "origin": ["moiste", "moite"],
+    "from": "French",
+    "ex": [{ "moisture": "수분" }]
+  },
+  {
+    "rank": 76,
+    "root": "mol",
+    "meaning": ["갈다", "grind", "mill"],
+    "origin": ["mola", "molere", "molitus"],
+    "from": "Latin",
+    "ex": [{ "mill": "방앗간" }, { "treadmill": "다람쥐쳇바퀴같은일[생활]" }]
+  },
+  {
+    "rank": 77,
+    "root": "mole",
+    "meaning": ["덩어리", "mole"],
+    "origin": ["moles"],
+    "from": "French",
+    "ex": [{ "molecule": "분자" }]
+  },
+  {
+    "rank": 78,
+    "root": "mon",
+    "meaning": ["충고하다", "warn"],
+    "origin": ["monere", "monitus"],
+    "from": "Latin",
+    "ex": [
+      { "admonish": "꾸짖다" },
+      { "admonisher": "충고[권고]하는사람" },
+      { "admonition": "책망" },
+      { "mon": "기억나게하다" },
+      { "monitor": "화면" },
+      { "monument": "기념물" }
+    ]
+  },
+  {
+    "rank": 79,
+    "root": "mong",
+    "meaning": ["섞이다", "혼잡", "mingle"],
+    "origin": ["gemengan", "gemang"],
+    "from": "OldEnglish",
+    "ex": [{ "among": "…에둘러싸인" }, { "amongst": "…에둘러싸인" }]
+  },
+  {
+    "rank": 80,
+    "root": "monger(-monger-)",
+    "meaning": ["소문내는사람", "~상인"],
+    "origin": ["-"],
+    "from": "OldEnglish",
+    "ex": [{ "doomonger": "종말을소문내는사람이다" }]
+  },
+  {
+    "rank": 81,
+    "root": "mono",
+    "meaning": ["혼자", "one"],
+    "origin": ["monos", "monas", "monados"],
+    "from": "Greek",
+    "ex": [
+      { "monad": "모나드" },
+      { "monarch": "군주" },
+      { "monarchy": "군주제" },
+      { "monk": "수도자" },
+      { "monochromatic": "단색의" },
+      { "monochrome": "흑백의" },
+      { "monodrama": "모노드라마" },
+      { "monolingual": "하나의언어[단일어]를사용하는" },
+      { "monopoly": "독점" },
+      { "monorail": "단궤철도" },
+      { "monoxide": "일산화물" }
+    ]
+  },
+  {
+    "rank": 82,
+    "root": "monstr(monstr-, monster-)",
+    "meaning": ["징조", "놀라움", "show"],
+    "origin": ["monstrare", "monstrum", "monere"],
+    "from": "Latin",
+    "ex": [
+      { "demonstrable": "보여줄[입증할]수있는" },
+      { "demonstrably": "논증할수있도록" },
+      { "demonstrate": "증거[실례]를들어가며보여주다" },
+      { "demonstration": "시위" },
+      { "demonstrative": "숨기지않는[드러내놓고표현하는]" },
+      { "monster": "괴물" },
+      { "monstr": "기억나게하다" },
+      { "monstrous": "도저히말도안되는" }
+    ]
+  },
+  {
+    "rank": 83,
+    "root": "mont",
+    "meaning": ["오르다", "산", "mountain"],
+    "origin": ["mons", "montis"],
+    "from": "Latin",
+    "ex": [
+      { "amount": "총액" },
+      { "dismount": "내리다" },
+      { "insurmountable": "대처[극복]할수없는" },
+      { "montage": "몽타주" },
+      { "mount": "산" },
+      { "mount": "시작하다" },
+      { "mountain": "산" },
+      { "surmount": "극복하다" }
+    ]
+  },
+  {
+    "rank": 84,
+    "root": "mood",
+    "meaning": ["mood"],
+    "origin": ["mod"],
+    "from": "OldEnglish",
+    "ex": [{ "moody": "기분변화가심한" }]
+  },
+  {
+    "rank": 85,
+    "root": "moon",
+    "meaning": ["달", "moon"],
+    "origin": ["mona"],
+    "from": "OldEnglish",
+    "ex": [{ "Monday": "월요일" }, { "month": "달" }, { "monthly": "한달에한번의" }]
+  },
+  {
+    "rank": 86,
+    "root": "mor",
+    "meaning": ["예의", "manners", "morals"],
+    "origin": ["mos", "mor-", "moris", "mores", "moralis", "moralia"],
+    "from": "Latin",
+    "ex": [
+      { "immoral": "비도덕적인" },
+      { "immorality": "부도덕" },
+      { "immorally": "부도덕하게" },
+      { "mor": "방식" },
+      { "moral": "도덕과관련된" },
+      { "moralist": "도덕주의자" },
+      { "moralistic": "도덕주의자처럼구는" },
+      { "morality": "도덕" },
+      { "morally": "도덕[도의]적으로" },
+      { "mores": "관습" }
+    ]
+  },
+  {
+    "rank": 87,
+    "root": "morn",
+    "meaning": ["아침", "morning"],
+    "origin": ["morgen", "morne", "margen", "marne", "morgne"],
+    "from": "OldEnglish",
+    "ex": [{ "morning": "아침" }]
+  },
+  {
+    "rank": 88,
+    "root": "morph",
+    "meaning": ["형태", "form", "shape"],
+    "origin": ["morphe"],
+    "from": "Greek",
+    "ex": [
+      { "anthropomorph": "의인화된그림이나조각품" },
+      { "anthropomorphise": "를의인화하다" },
+      { "anthropomorphize": "인격화하다" }
+    ]
+  },
+  {
+    "rank": 89,
+    "root": "mort",
+    "meaning": ["죽음", "death"],
+    "origin": ["mors", "mortis"],
+    "from": "Latin",
+    "ex": [
+      { "immortal": "" },
+      { "mortal": "영원히살수는없는" },
+      { "mortality": "언젠가는죽어야함" },
+      { "mortify": "" },
+      { "mortuary": "" }
+    ]
+  },
+  {
+    "rank": 90,
+    "root": "mortar",
+    "meaning": ["회반죽", "막자사발", "mortar"],
+    "origin": ["mortarium"],
+    "from": "Latin",
+    "ex": [{ "mortar": "모르타르" }]
+  },
+  {
+    "rank": 91,
+    "root": "most(most, more, much)",
+    "meaning": ["많은", "최대의", "most"],
+    "origin": ["mara", "micel", "mast", "mæst", "ma"],
+    "from": "OldEnglish",
+    "ex": [
+      { "almost": "거의" },
+      { "more": "더많은수[양]의" },
+      { "most": "최대[최고]" },
+      { "mostly": "주로" },
+      { "much": "많은" }
+    ]
+  },
+  {
+    "rank": 92,
+    "root": "mother",
+    "meaning": ["어머니", "mother"],
+    "origin": ["modor"],
+    "from": "OldEnglish",
+    "ex": [{ "mother": "어미" }]
+  },
+  {
+    "rank": 93,
+    "root": "moustache",
+    "meaning": ["moustache"],
+    "origin": ["moustakion", "Doricmystax", "mystax", "mystakos", "mastax", "mustax", "mustak-"],
+    "from": "Greek",
+    "ex": [{ "moustache": "콧수염" }]
+  },
+  {
+    "rank": 94,
+    "root": "mouth",
+    "meaning": ["입", "mouth"],
+    "origin": ["muþ", "muth", "munth-"],
+    "from": "OldEnglish",
+    "ex": [{ "mouth": "입" }, { "mouthful": "한입" }, { "mouthpiece": "송화구" }]
+  },
+  {
+    "rank": 95,
+    "root": "mud",
+    "meaning": ["진흙", "mud"],
+    "origin": ["modde"],
+    "from": "MiddleDutch",
+    "ex": [{ "mud": "진흙" }, { "muddle": "헝클어뜨리다" }]
+  },
+  {
+    "rank": 96,
+    "root": "murder",
+    "meaning": ["살해", "murder"],
+    "origin": ["murdre", "morþer", "morðor"],
+    "from": "OldEnglish",
+    "ex": [{ "murder": "살인" }, { "murderer": "살인범[자]" }, { "murderess": "여자살인범[자]" }]
+  },
+  {
+    "rank": 97,
+    "root": "mus",
+    "meaning": ["쥐", "mouse"],
+    "origin": ["mus", "muos"],
+    "from": "Greek",
+    "ex": [{ "muscle": "근육" }, { "mussel": "홍합" }]
+  },
+  {
+    "rank": 98,
+    "root": "muse",
+    "meaning": ["음악", "music"],
+    "origin": ["Mousa"],
+    "from": "Greek",
+    "ex": [
+      { "amuse": "즐겁게[미소짓게/재미있게]하다" },
+      { "amusement": "재미" },
+      { "amusing": "재미있는" },
+      { "muse": "뮤즈" },
+      { "museum": "박물관" },
+      { "music": "음악" },
+      { "musical": "음악의" },
+      { "musician": "음악가" }
+    ]
+  },
+  {
+    "rank": 99,
+    "root": "mut",
+    "meaning": ["변화", "change"],
+    "origin": ["mutare", "mutatus"],
+    "from": "Latin",
+    "ex": [
+      { "commute": "통근하다" },
+      { "immutable": "변경할수없는" },
+      { "mut": "바꾸다" },
+      { "mutate": "돌연변이가되다" },
+      { "mutual": "상호간의" }
+    ]
+  },
+  {
+    "rank": 100,
+    "root": "myelo",
+    "meaning": ["골수", "호박", "marrow"],
+    "origin": ["myelos"],
+    "from": "Greek",
+    "ex": [{ "poliomyelitis": "급성회백수염" }]
+  },
+  {
+    "rank": 101,
+    "root": "myst",
+    "meaning": ["비밀", "신비", "secret"],
+    "origin": ["mystes", "mysterion", "mysteria"],
+    "from": "Greek",
+    "ex": [
+      { "mysterious": "이해[설명]하기힘든" },
+      { "mystery": "수수께끼" },
+      { "mystic": "신비주의자" },
+      { "mystify": "혼란스럽게[얼떨떨하게]만들다" }
+    ]
+  },
+  {
+    "rank": 102,
+    "root": "myth",
+    "meaning": ["이야기", "story"],
+    "origin": ["muthos", "mythos"],
+    "from": "Greek",
+    "ex": [{ "mythical": "신화속에나오는" }, { "mythology": "신화" }]
+  }
+]

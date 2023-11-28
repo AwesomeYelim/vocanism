@@ -1,0 +1,508 @@
+[
+  {
+    "rank": 1,
+    "root": "ocean",
+    "meaning": ["대양", "ocean"],
+    "origin": ["okeanos"],
+    "from": "Greek",
+    "ex": [{ "ocean": "대양" }, { "oceanographer": "해양학자" }]
+  },
+  {
+    "rank": 2,
+    "root": "ocul",
+    "meaning": ["눈", "eye"],
+    "origin": ["oculus", "oculare"],
+    "from": "Latin",
+    "ex": [{ "ocular": "눈[안구]의" }]
+  },
+  {
+    "rank": 3,
+    "root": "od(od-, hod-)",
+    "meaning": ["길", "way"],
+    "origin": ["hodos"],
+    "from": "Greek",
+    "ex": [
+      { "cathode": "음극" },
+      { "diode": "다이오드" },
+      { "electrode": "전극" },
+      { "episode": "사건[에피소드]" },
+      { "episodic": "가끔씩발생하는" },
+      { "episodically": "삽화적[에피소드풍]으로" },
+      { "exodus": "탈출[이동]" },
+      { "hode": "가는것[가기]" },
+      { "method": "방법" },
+      { "methodical": "질서정연한" },
+      { "methodically": "계통적으로" },
+      { "methodology": "방법론" },
+      { "period": "기간" },
+      { "periodic": "주기적인" }
+    ]
+  },
+  {
+    "rank": 4,
+    "root": "odd",
+    "meaning": ["odd"],
+    "origin": ["oddi"],
+    "from": "OldNorse",
+    "ex": [{ "oddly": "이상[특이]하게" }, { "odds": "공산[가능성]" }]
+  },
+  {
+    "rank": 5,
+    "root": "ode",
+    "meaning": ["노래", "song"],
+    "origin": ["oide"],
+    "from": "Greek",
+    "ex": [
+      { "comedian": "코미디언" },
+      { "comedy": "코미디" },
+      { "melody": "멜로디[선율]" },
+      { "ode": "시" },
+      { "tragedy": "비극" }
+    ]
+  },
+  {
+    "rank": 6,
+    "root": "odi",
+    "meaning": ["싫어함", "hate"],
+    "origin": ["odium"],
+    "from": "Latin",
+    "ex": [
+      { "annoy": "짜증나게[약오르게]하다" },
+      { "annoyance": "짜증" },
+      { "annoyed": "짜증이난" },
+      { "ennui": "따분함" }
+    ]
+  },
+  {
+    "rank": 7,
+    "root": "off(off, of)",
+    "meaning": ["분리", "away"],
+    "origin": ["of", "af", "æf"],
+    "from": "OldEnglish",
+    "ex": [
+      { "layoff": "일시[강제]해고[휴직]" },
+      { "off": "멀리" },
+      { "offload": "" },
+      { "offset": "상쇄[벌충]하다" },
+      { "offside": "오프사이드의" },
+      { "offspring": "자식" },
+      { "offstage": "" }
+    ]
+  },
+  {
+    "rank": 8,
+    "root": "office",
+    "meaning": ["사무실", "직업", "office"],
+    "origin": ["officium", "opificium"],
+    "from": "Latin",
+    "ex": [
+      { "office": "근무처" },
+      { "officer": "장교" },
+      { "official": "공무[직무]상의" },
+      { "officially": "공식적으로[정식으로]" }
+    ]
+  },
+  {
+    "rank": 9,
+    "root": "often",
+    "meaning": ["자주", "흔히", "often"],
+    "origin": ["oft"],
+    "from": "OldEnglish",
+    "ex": [{ "often": "자주" }]
+  },
+  {
+    "rank": 10,
+    "root": "oil",
+    "meaning": ["올리브[오일/나무]", "기름", "oil"],
+    "origin": ["elaion", "elaia"],
+    "from": "Greek",
+    "ex": [{ "oil": "석유[기름]" }]
+  },
+  {
+    "rank": 11,
+    "root": "OK(OK, Okay)",
+    "meaning": ["OK", "Okay"],
+    "origin": ["OK"],
+    "from": "AmericanEnglish",
+    "ex": [{ "OK": "네" }, { "Okay": "괜찮은" }]
+  },
+  {
+    "rank": 12,
+    "root": "old",
+    "meaning": ["오래된", "old"],
+    "origin": ["ald", "eald"],
+    "from": "OldEnglish",
+    "ex": [
+      { "elderly": "연세가드신" },
+      { "old": "나이[태어난지/만들어진지등]가…인" },
+      { "olden": "옛날의" },
+      { "older": "연상의" }
+    ]
+  },
+  {
+    "rank": 13,
+    "root": "olesc(olesc, alesc)",
+    "meaning": ["성장", "증가", "growup"],
+    "origin": ["alescere"],
+    "from": "Latin",
+    "ex": [
+      { "adolesce": "사춘[청년]기에이르다" },
+      { "adolescence": "청소년기" },
+      { "adolescent": "청소년" },
+      { "adult": "성인" },
+      { "adulthood": "성인" },
+      { "coalition": "연립정부" }
+    ]
+  },
+  {
+    "rank": 14,
+    "root": "om",
+    "meaning": ["염색체", "chromosom"],
+    "origin": ["-"],
+    "from": "Latin",
+    "ex": [{ "genom": "유전체" }, { "genome": "게놈" }, { "genomic": "게놈의" }, { "legume": "콩과식물" }]
+  },
+  {
+    "rank": 15,
+    "root": "omen",
+    "meaning": ["재수없는"],
+    "origin": ["ominosus"],
+    "from": "Latin",
+    "ex": [{ "omen": "징조" }, { "ominous": "불길한" }]
+  },
+  {
+    "rank": 16,
+    "root": "omni",
+    "meaning": ["모두", "all"],
+    "origin": ["omnis", "omnibus"],
+    "from": "Latin",
+    "ex": [{ "bus": "버스" }, { "omnibus": "옴니버스" }, { "omnivore": "잡식동물" }]
+  },
+  {
+    "rank": 17,
+    "root": "oner",
+    "meaning": ["짐[부담]", "load", "burden"],
+    "origin": ["onus", "oneris"],
+    "from": "Latin",
+    "ex": [
+      { "patron": "후원자" },
+      { "patronise": "가르치려들다" },
+      { "patronising": "잘난[윗사람인]체하는" },
+      { "patronize": "가르치려들다" }
+    ]
+  },
+  {
+    "rank": 18,
+    "root": "onym",
+    "meaning": ["이름", "어(語)", "name"],
+    "origin": ["onuma", "onyma", "onoma"],
+    "from": "Greek",
+    "ex": [
+      { "acronym": "두문자어" },
+      { "anonymous": "익명인" },
+      { "cryptonym": "익명" },
+      { "onym": "이름" },
+      { "synonym": "동의어" }
+    ]
+  },
+  {
+    "rank": 19,
+    "root": "ope(ope-, ops-)",
+    "meaning": ["목소리", "voice", "speak"],
+    "origin": ["ops", "opos"],
+    "from": "Greek",
+    "ex": [{ "calliope": "증기오르간" }]
+  },
+  {
+    "rank": 20,
+    "root": "open",
+    "meaning": ["열다", "open"],
+    "origin": ["open", "openian"],
+    "from": "OldEnglish",
+    "ex": [{ "openly": "터놓고" }]
+  },
+  {
+    "rank": 21,
+    "root": "oper(oper-, opera-)",
+    "meaning": ["일하다", "work"],
+    "origin": ["opus", "operis", "opera", "operari"],
+    "from": "Latin",
+    "ex": [
+      { "cooperate": "협력[합동]하다" },
+      { "cooperation": "협력" },
+      { "cooperative": "협력[협동]하는" },
+      { "opera": "오페라" },
+      { "operate": "작동[가동]되다" },
+      { "operatic": "가극의" },
+      { "operation": "수술" },
+      { "opus": "작품" }
+    ]
+  },
+  {
+    "rank": 22,
+    "root": "opinion",
+    "meaning": ["견해", "추측", "opinion"],
+    "origin": ["opinionem", "opinio", "opinari"],
+    "from": "Latin",
+    "ex": [{ "opinion": "의견[견해/생각]" }]
+  },
+  {
+    "rank": 23,
+    "root": "ops(ops-, opt-)",
+    "meaning": ["눈", "eye"],
+    "origin": ["opsesthai", "optos", "optikos", "ops"],
+    "from": "Greek",
+    "ex": [
+      { "autopsy": "부검" },
+      { "biopsy": "생체[조직]검사" },
+      { "Europe": "유럽" },
+      { "European": "유럽인" },
+      { "optic": "눈[시력]의" },
+      { "optical": "시각적인" },
+      { "optics": "광학" }
+    ]
+  },
+  {
+    "rank": 24,
+    "root": "opt",
+    "meaning": ["고르다", "choose"],
+    "origin": ["optare"],
+    "from": "Latin",
+    "ex": [
+      { "adopt": "입양하다" },
+      { "adoption": "입양" },
+      { "biopsy": "생체[조직]검사" },
+      { "opt": "택하다" },
+      { "option": "선택" }
+    ]
+  },
+  {
+    "rank": 25,
+    "root": "optim",
+    "meaning": ["최선의", "best"],
+    "origin": ["optimus"],
+    "from": "Latin",
+    "ex": [
+      { "optimal": "최선의" },
+      { "optimism": "낙관론" },
+      { "optimistic": "낙관적인" },
+      { "optimistically": "낙관적으로" }
+    ]
+  },
+  {
+    "rank": 26,
+    "root": "or",
+    "meaning": ["아니면[또는]", "or"],
+    "origin": ["oþþe"],
+    "from": "OldEnglish",
+    "ex": [{ "or": "아니면" }]
+  },
+  {
+    "rank": 27,
+    "root": "or(or-)",
+    "meaning": ["입", "mouth"],
+    "origin": ["os", "oris"],
+    "from": "Latin",
+    "ex": [{ "oral": "구두[구술/구전]의" }, { "orally": "구두로" }]
+  },
+  {
+    "rank": 28,
+    "root": "ora(ora-)",
+    "meaning": ["말하다.speak"],
+    "origin": ["orare"],
+    "from": "Latin",
+    "ex": [{ "adore": "흠모[사모]하다" }, { "orate": "연설하다" }, { "oration": "연설" }, { "oratory": "웅변술" }]
+  },
+  {
+    "rank": 29,
+    "root": "orange",
+    "meaning": ["오렌지(나무)", "orange"],
+    "origin": ["orange", "orenge"],
+    "from": "French",
+    "ex": [{ "orange": "오렌지" }]
+  },
+  {
+    "rank": 30,
+    "root": "orb",
+    "meaning": ["원", "궤도", "circle"],
+    "origin": ["orbis", "orbita"],
+    "from": "Latin",
+    "ex": [{ "exorbitant": "과도한" }, { "orbit": "궤도" }]
+  },
+  {
+    "rank": 31,
+    "root": "orches",
+    "meaning": ["춤추다", "dance"],
+    "origin": ["orkheisthai"],
+    "from": "Greek",
+    "ex": [{ "orchestra": "오케스트라" }]
+  },
+  {
+    "rank": 32,
+    "root": "order",
+    "meaning": ["질서", "order"],
+    "origin": ["ordo", "ordinis"],
+    "from": "Latin",
+    "ex": [
+      { "coordinate": "조직화[편성]하다" },
+      { "coordination": "조직" },
+      { "coordinator": "동격으로하는것[사람]" },
+      { "disorder": "엉망" },
+      { "extraordinary": "기이한" },
+      { "order": "순서" },
+      { "ordinary": "보통의" },
+      { "ordination": "성직서임" },
+      { "ordnance": "포" },
+      { "subordinate": "종속된" },
+      { "subordination": "예속시킴" }
+    ]
+  },
+  {
+    "rank": 33,
+    "root": "organ(organ-)",
+    "meaning": ["시행하다", "도구기구"],
+    "origin": ["organon"],
+    "from": "Greek",
+    "ex": [
+      { "organ": "장기[기관]" },
+      { "organic": "유기농의" },
+      { "organisation": "조직" },
+      { "organise": "준비[조직]하다" },
+      { "organised": "조직화된" },
+      { "organiser": "조직자" },
+      { "organising": "조직" },
+      { "organism": "유기체" },
+      { "organization": "조직" },
+      { "organize": "준비[조직]하다" },
+      { "organized": "조직화된" },
+      { "organizer": "조직자" },
+      { "organoid": "" },
+      { "orgiastic": "" }
+    ]
+  },
+  {
+    "rank": 34,
+    "root": "ori(ori-, ort-)",
+    "meaning": ["일으키다", "rise"],
+    "origin": ["oriri", "oriens", "orient", "origo"],
+    "from": "Latin",
+    "ex": [
+      { "abort": "유산[낙태]시키다" },
+      { "abortion": "낙태" },
+      { "orient": "지향하게하다" },
+      { "orientation": "방향" },
+      { "origin": "기원" },
+      { "original": "원래[본래]의" },
+      { "originally": "원래" },
+      { "originate": "비롯되다" }
+    ]
+  },
+  {
+    "rank": 35,
+    "root": "ortho",
+    "meaning": ["올바름", "straight"],
+    "origin": ["orthos"],
+    "from": "Greek",
+    "ex": [{ "orthodox": "정통의" }]
+  },
+  {
+    "rank": 36,
+    "root": "other",
+    "meaning": ["그밖의", "다른other"],
+    "origin": ["oþer", "other"],
+    "from": "OldEnglish",
+    "ex": [{ "another": "또하나" }, { "other": "다른" }, { "otherwise": "그렇지않으면[않았다면]" }]
+  },
+  {
+    "rank": 37,
+    "root": "oti",
+    "meaning": ["ease", "leisure"],
+    "origin": ["otium"],
+    "from": "Latin",
+    "ex": [{ "negotiate": "협상[교섭]하다" }, { "negotiation": "협상" }]
+  },
+  { "rank": 38, "root": "ou", "meaning": ["not"], "origin": ["ou"], "from": "Greek", "ex": [{ "utopia": "이상향" }] },
+  {
+    "rank": 39,
+    "root": "out(out, ut)",
+    "meaning": ["밖", "이상의", "out"],
+    "origin": ["ut"],
+    "from": "OldEnglish",
+    "ex": [
+      { "about": "이리저리움직여" },
+      { "but": "그러나[-이나]" },
+      { "checkout": "계산대" },
+      { "layout": "레이아웃[배치]" },
+      { "out": "으로부터" },
+      { "outcome": "결과" },
+      { "outcry": "격렬한반응[항의]" },
+      { "outdate": "구식이되게하다" },
+      { "outdated": "구식인" },
+      { "outer": "바깥표면의" },
+      { "outland": "변두리" },
+      { "outlandish": "이상한" },
+      { "outlet": "발산[배출]수단" },
+      { "outline": "개요를서술하다" },
+      { "outlook": "관점" },
+      { "outperform": "더나은결과를내다" },
+      { "output": "생산량" },
+      { "outside": "겉에" },
+      { "outsider": "국외자[아웃사이더]" },
+      { "outstanding": "뛰어난" },
+      { "outward": "표면상의" },
+      { "outwardly": "겉으로는" },
+      { "outweigh": "…보다더크다[대단하다]" }
+    ]
+  },
+  {
+    "rank": 40,
+    "root": "ove",
+    "meaning": ["over"],
+    "origin": ["ufan"],
+    "from": "OldEnglish",
+    "ex": [{ "above": "…보다위에[위로]" }]
+  },
+  {
+    "rank": 41,
+    "root": "over",
+    "meaning": ["너무", "over"],
+    "origin": ["ofer", "uffera"],
+    "from": "OldEnglish",
+    "ex": [
+      { "makeover": "수리" },
+      { "over": "…위에" },
+      { "overactive": "과민성의" },
+      { "overall": "종합[전반]적인" },
+      { "overcome": "극복하다" },
+      { "overcomer": "" },
+      { "overconsumption": "과소비" },
+      { "overestimate": "과대평가하다" },
+      { "overestimation": "과대평가" },
+      { "overpopulation": "인구과잉[과밀]" }
+    ]
+  },
+  {
+    "rank": 42,
+    "root": "ovo",
+    "meaning": ["알", "egg"],
+    "origin": ["ovum"],
+    "from": "Latin",
+    "ex": [{ "oocyte": "난모" }, { "ovary": "난소" }, { "ovulation": "배란" }, { "ovule": "밑씨[배주" }]
+  },
+  {
+    "rank": 43,
+    "root": "ox(ox-, oxo-)",
+    "meaning": ["산소의", "sharp", "acid"],
+    "origin": ["oxus", "oxys"],
+    "from": "Greek",
+    "ex": [
+      { "antioxidant": "산화[노화]방지제" },
+      { "dioxide": "이산화물" },
+      { "monoxide": "일산화물" },
+      { "oxidant": "산화제" },
+      { "oxide": "산화물" },
+      { "oxidize": "산화시키다" },
+      { "oxygen": "산소" }
+    ]
+  }
+]
