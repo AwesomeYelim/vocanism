@@ -2,9 +2,9 @@ import path from "path";
 import fs from "fs";
 import { NextResponse } from "next/server";
 
-export async function GET(res: Response, req: Request) {
+export async function GET(res: Response) {
   //   const { data } = await res.query;
-  console.log(res, req);
+  //   console.log(res, req);
 
   //   const thePath = path.join(process.cwd(), "data", "md", `${data}.md`);
 
