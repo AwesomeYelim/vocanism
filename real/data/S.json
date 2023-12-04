@@ -1,0 +1,592 @@
+[
+  {
+    "rank": 1,
+    "root": "sali(sali-, -sili-, salt-)",
+    "meaning": ["jump"],
+    "origin": ["salire", "saltus(Latin)"],
+    "from": "",
+    "ex": {
+      "assault": {},
+      "insult": "모욕",
+      "resile": "되튀다",
+      "resilience": "회복력",
+      "resilient": "회복력있는",
+      "result": "결과"
+    }
+  },
+  {
+    "rank": 2,
+    "root": "salv",
+    "meaning": ["건강", "안전"],
+    "origin": ["salvus", "salvare(Latin)"],
+    "from": "",
+    "ex": {
+      "safe": "안전한",
+      "salvage": "구조",
+      "salvation": "구원",
+      "salve": "연고",
+      "save": "구하다",
+      "saving": "절약",
+      "saviour": "구원자"
+    }
+  },
+  {
+    "rank": 3,
+    "root": "scope",
+    "meaning": ["보다"],
+    "origin": ["skopion", "scopein(Greek)"],
+    "from": "",
+    "ex": {
+      "horoscope": "점성술",
+      "kaleidoscope": "만화경",
+      "telescope": "망원경"
+    }
+  },
+  {
+    "rank": 4,
+    "root": "seize",
+    "meaning": ["seize"],
+    "origin": [""],
+    "from": "",
+    "ex": { "seizure": "압수[몰수]" }
+  },
+  {
+    "rank": 5,
+    "root": "sen",
+    "meaning": ["늙은", "old"],
+    "origin": ["senex", "senis(Latin)"],
+    "from": "",
+    "ex": {
+      "senate": "상원",
+      "senator": "상원의원",
+      "senior": "고위[고급/상급/상위]의"
+    }
+  },
+  {
+    "rank": 6,
+    "root": "sent(sent, sens)",
+    "meaning": ["느낌", "feel"],
+    "origin": ["sentire", "sensus(Latin)"],
+    "from": "",
+    "ex": {
+      "calescent": "차차더워[뜨거워]지는",
+      "consensus": {},
+      "consent": "",
+      "dissent": "반대",
+      "resent": "분하게[억울하게]여기다",
+      "resentment": "분함",
+      "scent": "향기",
+      "sensate": "오감[감각]으로아는",
+      "sensation": "느낌",
+      "sense": "감각",
+      "sensible": "분별[양식]있는",
+      "sensitive": "세심한",
+      "sensory": "감각의",
+      "sentence": "문장",
+      "sentient": "지각이있는",
+      "sentiment": "정서"
+    }
+  },
+  {
+    "rank": 7,
+    "root": "seri(serious)",
+    "meaning": ["무거운", "weighty", "중요한"],
+    "origin": ["seriosus", "serius(Latin)"],
+    "from": "",
+    "ex": { "serious": "심각한", "seriously": "심", "seriousness": "심각함" }
+  },
+  {
+    "rank": 8,
+    "root": "sert(sert-)",
+    "meaning": ["결합", "attach"],
+    "origin": ["serere", "sertus", "series(Latin)"],
+    "from": "",
+    "ex": {
+      "assert": {},
+      "assertion": {},
+      "desert": "사막",
+      "exert": "가하다[행사하다]",
+      "exertion": "노력",
+      "insert": {},
+      "insertion": "삽입",
+      "serial": {},
+      "series": "연속"
+    }
+  },
+  {
+    "rank": 9,
+    "root": "sever",
+    "meaning": ["엄격"],
+    "origin": ["severus(Latin)"],
+    "from": "",
+    "ex": {
+      "perseverance": "인내",
+      "persevere": "인내하며[굴하지않고]계속하다",
+      "severe": "극심한"
+    }
+  },
+  {
+    "rank": 10,
+    "root": "sick",
+    "meaning": ["sick"],
+    "origin": [""],
+    "from": "",
+    "ex": { "sickness": "질병" }
+  },
+  {
+    "rank": 11,
+    "root": "sider",
+    "meaning": ["별", "star", "천체"],
+    "origin": ["sidus", "sideris(Latin)"],
+    "from": "",
+    "ex": {
+      "consider": "사려[고려/숙고]하다",
+      "consideration": "사려",
+      "considered": "깊이생각한",
+      "desirable": "바람직한",
+      "desire": "욕구",
+      "undesirable": "원하지않는"
+    }
+  },
+  {
+    "rank": 12,
+    "root": "sign",
+    "meaning": ["표시"],
+    "origin": ["signare", "signum(Latin)"],
+    "from": "",
+    "ex": {
+      "assign": "맡기다[배정하다/부과하다]",
+      "design": "디자인",
+      "designate": "지정[지적]하다",
+      "designing": "설계",
+      "insignificant": "대수롭지않은",
+      "redesign": "다시디자인하다",
+      "re-designing": "재설계",
+      "resign": "사직[사임]하다",
+      "sign": "징후",
+      "signal": "신호",
+      "signature": "서명",
+      "significant": "중요한[의미있는/커다란]",
+      "significantly": "상당히[크게]"
+    }
+  },
+  {
+    "rank": 13,
+    "root": "simil",
+    "meaning": ["유사", "likeness"],
+    "origin": ["sembler", "simulare", "simul", "similis(Latin)"],
+    "from": "",
+    "ex": {
+      "assemble": "모이다",
+      "assembly": "의회",
+      "assimilate": "완전히이해하다[소화하다]",
+      "assimilation": "흡수",
+      "resemble": "닮다",
+      "semblance": "외관",
+      "similar": "비슷한",
+      "similarity": "유사성",
+      "similarly": "비슷하게",
+      "simulate": "…한체[척]하다",
+      "simulation": "시뮬레이션",
+      "simultaneous": "동시의"
+    }
+  },
+  {
+    "rank": 14,
+    "root": "sist(sist-)",
+    "meaning": ["서다"],
+    "origin": ["sistere(Latin)"],
+    "from": "",
+    "ex": {
+      "assist": "돕다",
+      "assistance": "도움",
+      "assistant": "조수",
+      "consist": "되어있다",
+      "consistency": "한결같음",
+      "exist": "존재[실재/현존]하다",
+      "existence": "존재",
+      "existential": "존재에관한[관련된]",
+      "insist": "고집하다[주장하다/우기다]",
+      "persist": "집요하게[고집스럽게/끈질기게]계속하다",
+      "persistence": "고집",
+      "resist": "저항[반대]하다",
+      "resistant": "저항력있는"
+    }
+  },
+  {
+    "rank": 15,
+    "root": "soci",
+    "meaning": ["교제", "집단"],
+    "origin": ["socius", "sociare(Latin)"],
+    "from": "",
+    "ex": {
+      "associate": "연상하다",
+      "association": "협회",
+      "sociable": "사람들과어울리기좋아하는",
+      "social": "사회의",
+      "socially": "사회적으로",
+      "societal": "사회의",
+      "society": "사회"
+    }
+  },
+  {
+    "rank": 16,
+    "root": "solar(sol-)",
+    "meaning": ["태양"],
+    "origin": ["solaris", "sol", "solis(Latin)"],
+    "from": "",
+    "ex": {
+      "desolate": "황량한",
+      "solar": "태양의",
+      "solemn": "침통한",
+      "solidarity": "연대",
+      "solo": "솔로",
+      "Sunday": "일요일"
+    }
+  },
+  {
+    "rank": 17,
+    "root": "solve",
+    "meaning": ["풀다"],
+    "origin": ["solubilis", "solvere", "solutus(Latin)"],
+    "from": "",
+    "ex": {
+      "absolute": "완전한",
+      "absolutely": "전적으로",
+      "aerosol": "에어로졸",
+      "dissolve": "녹다",
+      "resolute": "단호한",
+      "resolution": "결의안",
+      "resolve": "해결하다",
+      "soluble": "녹는",
+      "solution": "해법",
+      "solve": "해결[타결]하다",
+      "unresolved": "미해결의"
+    }
+  },
+  {
+    "rank": 18,
+    "root": "soma(-soma, -some)",
+    "meaning": ["몸"],
+    "origin": ["soma", "somatos(Greek)"],
+    "from": "",
+    "ex": {
+      "awesome": "경탄할만한",
+      "chromosome": "염색체",
+      "gruesome": "섬뜩한"
+    }
+  },
+  {
+    "rank": 19,
+    "root": "soph",
+    "meaning": ["현명"],
+    "origin": ["sophisticatus", "sophisticare", "sophos(Greek)"],
+    "from": "",
+    "ex": {
+      "philosopher": "철학자",
+      "philosophy": "철학",
+      "sophist": "소피스트",
+      "sophisticate": "세련된[교양있는]사람",
+      "sophisticated": "세련된"
+    }
+  },
+  {
+    "rank": 20,
+    "root": "south",
+    "meaning": ["남(南)"],
+    "origin": [""],
+    "from": "",
+    "ex": { "southern": "남쪽[남부]에위치한" }
+  },
+  {
+    "rank": 21,
+    "root": "spati",
+    "meaning": ["공간", "우주"],
+    "origin": ["spatium(Latin)"],
+    "from": "",
+    "ex": { "aerospace": "항공우주산업" }
+  },
+  {
+    "rank": 22,
+    "root": "spec",
+    "meaning": ["보다", "see"],
+    "origin": ["specere", "spectare", "speculari", "species(Latin)"],
+    "from": "",
+    "ex": {
+      "aspect": "측면",
+      "auspex": "복점관",
+      "auspice": "보호",
+      "auspicious": "상서로운",
+      "circumspect": "신중한",
+      "despise": "경멸하다",
+      "despite": "…에도불구하고",
+      "disrespect": "무례",
+      "especial": "특별한",
+      "expect": "예상[기대]하다",
+      "expectancy": "기대",
+      "expectation": "예상",
+      "expected": "예상되는",
+      "inspect": "점검[검사]하다",
+      "inspection": "사찰[순시]",
+      "inspector": "조사관",
+      "nonspecific": "특이하지않은",
+      "perspective": "관점",
+      "prospect": "가망[가능성]",
+      "prospective": {},
+      "respect": "존경",
+      "respectable": "존경할만한",
+      "respective": "각자의",
+      "special": "특수한[특별한]",
+      "specialist": "전문가",
+      "speciality": "전문음식[요리]",
+      "specie": "정금",
+      "species": "종",
+      "specific": "구체적인",
+      "specifically": "분명히",
+      "specification": "설명서",
+      "specify": "명시하다",
+      "specimen": "견본",
+      "spectacle": "구경거리[행사]",
+      "spectacular": "장관을이루는",
+      "spectator": {},
+      "spectrum": "스펙트럼",
+      "speculate": "추측[짐작]하다",
+      "speculation": "추측",
+      "speculative": "추측에근거한",
+      "spice": "양념",
+      "spicy": "양념맛이강한",
+      "spite": {},
+      "suspect": "의심하다",
+      "suspicion": {},
+      "suspicious": {},
+      "unexpected": "예기치않은"
+    }
+  },
+  {
+    "rank": 23,
+    "root": "spin",
+    "meaning": ["가시", "척추"],
+    "origin": ["(Latin)"],
+    "from": "",
+    "ex": { "spinal": "척추의", "spine": "척추" }
+  },
+  {
+    "rank": 24,
+    "root": "spire",
+    "meaning": ["호흡"],
+    "origin": ["spirare", "spiritus(Latin)"],
+    "from": "",
+    "ex": {
+      "aspiration": "열망",
+      "aspire": "열망[염원]하다",
+      "conspiracy": "음모",
+      "conspire": "음모[모의]를꾸미다",
+      "expire": "만료되다",
+      "inspire": "고무[격려]하다",
+      "respiration": "호흡",
+      "respiratory": "호흡의",
+      "respire": "호흡하다",
+      "spirit": "정신",
+      "spiritual": "정신의"
+    }
+  },
+  {
+    "rank": 25,
+    "root": "stal",
+    "meaning": ["stall"],
+    "origin": ["stallum(Latin)"],
+    "from": "",
+    "ex": { "install": "설치[설비]하다" }
+  },
+  {
+    "rank": 26,
+    "root": "stand",
+    "meaning": ["stand"],
+    "origin": [""],
+    "from": "",
+    "ex": {
+      "misunderstanding": "오해",
+      "stand": "서다",
+      "understand": "이해하다"
+    }
+  },
+  {
+    "rank": 27,
+    "root": "state(stat-)",
+    "meaning": ["상태", "stand"],
+    "origin": ["stare", "statuere", "status(Latin)"],
+    "from": "",
+    "ex": {
+      "arrest": "체포하다",
+      "circumstance": "환경",
+      "consist": "되어있다",
+      "constant": "끊임없는",
+      "constantly": "끊임없이",
+      "constitute": "…이되는것으로여겨지다",
+      "contrast": "차이",
+      "cost": "값",
+      "distance": "거리",
+      "distant": "먼",
+      "establish": "설립[설정]하다",
+      "established": "인정받는",
+      "estate": "사유지[토지]",
+      "instance": {},
+      "instant": "즉각적인",
+      "obstacle": "장애",
+      "press": "신문",
+      "stable": "안정된",
+      "stance": "입장[태도]",
+      "state": "말하다[쓰다]",
+      "statement": "성명",
+      "static": "고정된[고정적인]",
+      "station": "역",
+      "statistic": "통계",
+      "statue": "조각상",
+      "status": "신분[자격]",
+      "stay": "계속[그대로]있다[머무르다/남다]",
+      "substance": "물질",
+      "substantial": "상당한",
+      "substantially": "상당히",
+      "substitute": "대신하는사람[것]"
+    }
+  },
+  {
+    "rank": 28,
+    "root": "stick",
+    "meaning": ["stick"],
+    "origin": ["sticca", "stician(OldEnglish)"],
+    "from": "",
+    "ex": { "sticker": "스티커" }
+  },
+  {
+    "rank": 29,
+    "root": "stinct",
+    "meaning": ["찌르다", "apart"],
+    "origin": ["stinguere"],
+    "from": "",
+    "ex": {
+      "distinct": "뚜렷한",
+      "distinction": "",
+      "distinctive": "독특한",
+      "distinguish": "구별하다",
+      "extinct": "멸종된",
+      "extinction": "멸종",
+      "instinct": "본능"
+    }
+  },
+  {
+    "rank": 30,
+    "root": "strain(strain-)",
+    "meaning": ["조이다"],
+    "origin": ["stringere", "strictus(Latin)"],
+    "from": "",
+    "ex": {
+      "distress": "고통",
+      "distressing": "괴로움을주는",
+      "prestige": "위신",
+      "prestigious": "명망있는[높은]",
+      "restrain": "저지[제지]하다",
+      "restrict": "제한[한정]하다",
+      "restriction": "제한[규제]",
+      "strain": "부담",
+      "stress": "스트레스",
+      "stressful": "스트레스가많은",
+      "strict": "엄격한[엄한]",
+      "stringent": "엄중한"
+    }
+  },
+  {
+    "rank": 31,
+    "root": "strat",
+    "meaning": ["군대", "군(軍)"],
+    "origin": ["stratos", "strategia(Greek)"],
+    "from": "",
+    "ex": {
+      "strategic": "전략상중요한[전략적인]",
+      "strategist": "전략가",
+      "strategy": "계획[전략]"
+    }
+  },
+  {
+    "rank": 32,
+    "root": "struct(struct-)",
+    "meaning": ["세움", "build"],
+    "origin": ["struere", "structus(Latin)"],
+    "from": "",
+    "ex": {
+      "construct": "건설하다",
+      "construction": "건설",
+      "destroy": "파괴하다",
+      "destructive": {},
+      "industrialise": "산업[공업]화하다[되다]",
+      "industry": "산업",
+      "infrastructure": "사회[공공]기반시설",
+      "instruct": "지시하다",
+      "instruction": "설명",
+      "instrument": "기구",
+      "restructure": "구조를조정하다[개혁하다]",
+      "structure": "구조"
+    }
+  },
+  {
+    "rank": 33,
+    "root": "stup",
+    "meaning": ["놀라움", "wonder"],
+    "origin": ["stupere(Latin)"],
+    "from": "",
+    "ex": { "stupid": "어리석은" }
+  },
+  {
+    "rank": 34,
+    "root": "super(super-)",
+    "meaning": ["위", "over", "beyond"],
+    "origin": ["super(Latin)"],
+    "from": "",
+    "ex": {
+      "Soprano": "소프라노",
+      "summit": "정상",
+      "superb": "최고의",
+      "superior": "우수한[우세한/우월한]",
+      "supermarket": "슈퍼마켓",
+      "supernatural": "초자연적인",
+      "supervise": "감독[지휘/지도]하다",
+      "supervisor": "감독관",
+      "supreme": "최고의",
+      "surname": "성",
+      "surplus": {},
+      "surround": "둘러싸다",
+      "survive": "살아남다",
+      "survivor": "생존자"
+    }
+  },
+  {
+    "rank": 35,
+    "root": "sure",
+    "meaning": ["안전", "sure"],
+    "origin": ["securus(Latin)"],
+    "from": "",
+    "ex": {
+      "assurance": "확언",
+      "assure": "장담하다",
+      "ensure": "반드시…하게[이게]하다",
+      "Insurance": "보험",
+      "reassurance": "안심시키기",
+      "reassure": "안심시키다",
+      "sure": "확신하는",
+      "surely": "확실히",
+      "surety": "보증금"
+    }
+  },
+  {
+    "rank": 36,
+    "root": "system",
+    "meaning": ["시스템", "system"],
+    "origin": ["systema", "synistanai(Greek)"],
+    "from": "",
+    "ex": {
+      "ecosystem": "생태계",
+      "system": "제도",
+      "unsystematic": "비체계적인"
+    }
+  }
+]

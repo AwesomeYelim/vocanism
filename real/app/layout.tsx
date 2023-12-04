@@ -7,6 +7,7 @@ import GoogleAnalytics from '~/components/google-analytics';
 import siteConfig from '~/libs/site-config';
 
 import { Providers } from './providers';
+import { MainLayout } from './MainLayout';
 
 export const metadata: Metadata = {
   title: {
@@ -51,7 +52,9 @@ export default function RootLayout({
         <Providers>
           <div className="blur-layer" aria-hidden="true"></div>
           <div className="container mx-auto max-w-page py-page">
-            <div className="main-grid">{children}</div>
+            <div className="main-grid">
+              <MainLayout>{children}</MainLayout>
+            </div>
             <FloatScrollTopButton />
           </div>
         </Providers>

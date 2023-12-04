@@ -10,16 +10,7 @@ export const Block = (): JSX.Element => {
     <div className="block_wrapper" data-animate data-animate-stage={2}>
       {arr.map((el) => {
         return (
-          <Link
-            key={el}
-            href={`/main/${el}`}
-            className="block"
-            // onClick={async (e) => {
-            //   await axios.get(`/api/word`, { data: e.currentTarget.innerText }).then((res) => {
-            //     console.log(res);
-            //   });
-            // }}
-          >
+          <Link key={el} href={`/main/${el}`} className="block">
             {el}
           </Link>
         );

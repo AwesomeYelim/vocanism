@@ -1,0 +1,2024 @@
+[
+  {
+    "rank": 1,
+    "root": "cabin",
+    "meaning": ["오두막", "cabin"],
+    "origin": ["capanna", "cavanna"],
+    "from": "Latin",
+    "ex": { "cabinet": "내각" }
+  },
+  {
+    "rank": 2,
+    "root": "cad(cad-, cas-, cid-)",
+    "meaning": ["던지다", "fall"],
+    "origin": ["cadere", "casus"],
+    "from": "Latin",
+    "ex": {
+      "accident": "사고[재해]",
+      "accidental": "우연한",
+      "accidentally": "우연히",
+      "cadence": "억양",
+      "cadent": "리듬있는",
+      "cascade": "작은폭포",
+      "case": "경우",
+      "casual": "태평스러운",
+      "casually": "우연히",
+      "casualty": "사상자",
+      "chance": "가능성",
+      "cheat": "속이다",
+      "chute": "활송장치",
+      "coincide": "동시에일어나다",
+      "coincidence": "우연의일치",
+      "coincident": "일치하는",
+      "decadence": "타락",
+      "decadent": "타락한",
+      "decay": "부패",
+      "escheat": "복귀",
+      "incidence": "발생정도[영향범위]",
+      "incident": "일[사건]",
+      "occasion": "때[기회/경우]",
+      "occasional": "가끔의",
+      "occasionally": "가끔",
+      "occident": "서양",
+      "parachute": "낙하산"
+    }
+  },
+  {
+    "rank": 3,
+    "root": "cael",
+    "meaning": ["천국", "하늘", "heaven", "sky"],
+    "origin": ["caelum"],
+    "from": "Latin",
+    "ex": { "celestial": "하늘의", "cerulean": "푸른빛의" }
+  },
+  {
+    "rank": 4,
+    "root": "cage",
+    "meaning": ["우리", "cage"],
+    "origin": ["cavea"],
+    "from": "Latin",
+    "ex": { "cage": "우리" }
+  },
+  {
+    "rank": 5,
+    "root": "cake",
+    "meaning": ["납작한빵", "cake"],
+    "origin": ["kaka"],
+    "from": "OldNorse",
+    "ex": { "cake": "케이크", "cookie": "쿠키" }
+  },
+  {
+    "rank": 6,
+    "root": "cal(cal-, calend-, class-)",
+    "meaning": ["부르다", "call"],
+    "origin": ["calare", "classis", "calendarium"],
+    "from": "Latin",
+    "ex": {
+      "calendar": "달력",
+      "calendric": "달력의",
+      "calends": "초하루",
+      "class": "학급[반]",
+      "classic": "일류의",
+      "classical": "고전주의의",
+      "classification": "분류",
+      "classify": "분류[구분]하다",
+      "intercalate": "윤일[달"
+    }
+  },
+  {
+    "rank": 7,
+    "root": "calc",
+    "meaning": ["tread", "pressin"],
+    "origin": ["calcare"],
+    "from": "Latin",
+    "ex": {
+      "cockatrice": "계사",
+      "decal": "판박이그림",
+      "decalcomania": "도안/그림등의전사",
+      "inculcate": "심어주다"
+    }
+  },
+  {
+    "rank": 8,
+    "root": "calc(calc-, calcul-, cal-)",
+    "meaning": ["석회암", "생각", "compute"],
+    "origin": ["calx", "calcis", "calculus", "calculare"],
+    "from": "Latin",
+    "ex": {
+      "cach": "낚시",
+      "calc": "석회석[암]",
+      "calcaneus": "종골",
+      "calcite": "방해석",
+      "calcitrant": "고집센",
+      "calcium": "칼슘",
+      "calculate": "계산하다",
+      "calculation": "계산",
+      "calculus": "미적분학",
+      "chalk": "백악",
+      "recalcitrant": "저항[반항]하는"
+    }
+  },
+  {
+    "rank": 9,
+    "root": "cale(cale-, cal-)",
+    "meaning": ["열", "heat"],
+    "origin": ["calere", "calor", "caloris"],
+    "from": "Latin",
+    "ex": {
+      "caldarium": "온탕욕실",
+      "caldera": "칼데라",
+      "calefacient": "발온",
+      "calefaction": "가열",
+      "calefactory": "난방[가열]용의",
+      "calendrical": "달력의",
+      "calendula": "금잔화",
+      "calenture": "열대성열병",
+      "calescent": "차차더워[뜨거워]지는",
+      "calid": "뜨거운",
+      "calor": "열",
+      "calore": "열",
+      "caloric": "열의",
+      "calorie": "열량",
+      "calorifacient": "열을발생하는",
+      "calorific": "칼로리의",
+      "calorigenic": "열량생산적",
+      "calorimeter": "열량계",
+      "caudle": "죽에달걀/향신료를넣은따뜻한자양유동식",
+      "cauldron": "가마솥",
+      "chafe": "쓸리다[까이다]"
+    }
+  },
+  {
+    "rank": 10,
+    "root": "call",
+    "meaning": ["부르다", "call"],
+    "origin": ["kalla"],
+    "from": "OldNorse",
+    "ex": { "call": "이름을지어주다", "called": "…라는이름의" }
+  },
+  {
+    "rank": 11,
+    "root": "calli(calli-, calo-, cal, kal-)",
+    "meaning": ["beautiful", "아름다움"],
+    "origin": ["kalos", "kallos", "kallistos"],
+    "from": "Greek",
+    "ex": {
+      "calisthenics": "미용체조법",
+      "calli": "아름다음",
+      "calligraphy": "서도",
+      "calliope": "증기오르간",
+      "callipygian": "예쁜엉덩이를가진",
+      "Callista": "칼리스타",
+      "Callisto": "칼리스토",
+      "calomel": "감홍",
+      "kaleidoscope": "만화경",
+      "kalon": "완벽한아름다움"
+    }
+  },
+  {
+    "rank": 12,
+    "root": "calum(calum-, calv-)",
+    "meaning": ["속임수", "거짓"],
+    "origin": ["calumnia", "calvi"],
+    "from": "Latin",
+    "ex": { "challenge": "도전[시험대]" }
+  },
+  {
+    "rank": 13,
+    "root": "cameria(cameria-)",
+    "meaning": ["아치형지붕", "vault"],
+    "origin": ["camera"],
+    "from": "Latin",
+    "ex": { "camaraderie": "동지애", "camera": "카메라", "chamber": "회의실" }
+  },
+  {
+    "rank": 14,
+    "root": "camp",
+    "meaning": ["들판", "field"],
+    "origin": ["campus", "campania"],
+    "from": "Latin",
+    "ex": {
+      "camp": "야영지",
+      "campaign": "캠페인",
+      "campaigner": "운동가[활동가]",
+      "camping": "캠핑",
+      "campsite": "야영지",
+      "campus": "교정[구내]",
+      "champertous": "소송을원조하기로약속한",
+      "champerty": "소송원조[대리]",
+      "champignon": "샴피뇽",
+      "champion": "챔피언",
+      "championship": "선수권대회",
+      "decamp": "서둘러떠나다",
+      "encamp": "야영하다",
+      "encampment": "야영지"
+    }
+  },
+  {
+    "rank": 15,
+    "root": "can",
+    "meaning": ["할수있다", "알다", "can"],
+    "origin": ["cunnan"],
+    "from": "OldEnglish",
+    "ex": { "can": "…할수있다" }
+  },
+  {
+    "rank": 16,
+    "root": "cancel",
+    "meaning": ["취소", "cancel"],
+    "origin": ["cancellare", "cancelli", "cancellus"],
+    "from": "Latin",
+    "ex": { "cancel": "취소하다" }
+  },
+  {
+    "rank": 17,
+    "root": "cancer",
+    "meaning": ["암", "cancer"],
+    "origin": ["cancer"],
+    "from": "OldEnglish",
+    "ex": { "cancer": "암", "cancerous": "암의" }
+  },
+  {
+    "rank": 18,
+    "root": "cand(cand-, cend-)",
+    "meaning": ["빛나는", "무지갯빛의", "glowing"],
+    "origin": ["candere"],
+    "from": "Latin",
+    "ex": {
+      "cand": "빛나다",
+      "candid": "솔직한",
+      "candidate": "입후보자[출마자]",
+      "candle": "양초",
+      "incendiary": "방화의"
+    }
+  },
+  {
+    "rank": 19,
+    "root": "cane",
+    "meaning": ["막대", "갈대", "reed"],
+    "origin": ["kanna", "kanne", "kanon"],
+    "from": "Greek",
+    "ex": {
+      "can": "통조림",
+      "canal": "운하",
+      "cane": "줄기",
+      "canebrake": "등나무숲",
+      "canister": "통",
+      "cannon": "대포",
+      "cannula": "캐뉼라",
+      "canon": "성당참사회회원",
+      "canonize": "성인으로공표하다[시성하다]",
+      "canyon": "협곡",
+      "caramel": "캐러멜",
+      "channel": "채널"
+    }
+  },
+  {
+    "rank": 20,
+    "root": "cannibal",
+    "meaning": ["식인", "육식", "cannibal"],
+    "origin": ["canibal", "caribal", "Canibales"],
+    "from": "Spanish",
+    "ex": { "cannibalism": "동족끼리잡아먹기" }
+  },
+  {
+    "rank": 21,
+    "root": "cant(cant-, cent-)",
+    "meaning": ["노래하다", "sing"],
+    "origin": ["canere", "cantus"],
+    "from": "Latin",
+    "ex": {
+      "accent": "말씨[악센트]",
+      "cant": "노래하다",
+      "chant": "구호",
+      "charm": "매력",
+      "enchant": "황홀하게[넋을잃게]만들다",
+      "enchantment": "황홀감",
+      "incentive": "장려[우대]책"
+    }
+  },
+  {
+    "rank": 22,
+    "root": "cap",
+    "meaning": ["머리", "head"],
+    "origin": ["caput", "capitis", "cappa"],
+    "from": "Latin",
+    "ex": {
+      "achieve": "달성하다",
+      "achievement": "업적",
+      "anticipate": "예상하다",
+      "cad": "비열한인간[놈]",
+      "caddie": "캐디",
+      "cadet": "간부[사관]후보생",
+      "cap": "모자",
+      "cape": "망토",
+      "capital": "수도",
+      "capitalisation": "대문자사용",
+      "capitalism": "자본주의",
+      "capitalist": "자본주의자",
+      "capitalization": "대문자사용",
+      "capitular": "성당[교회]의참사회원",
+      "capitulate": "굴복하다",
+      "captain": "선장",
+      "cattle": "소",
+      "chapter": "장",
+      "chef": "요리사",
+      "chief": "주된",
+      "escape": "달아나다",
+      "recap": "개요를말하다",
+      "recapitulate": "개요를말하다"
+    }
+  },
+  {
+    "rank": 23,
+    "root": "caps",
+    "meaning": ["상자", "box", "case"],
+    "origin": ["capsa", "capere"],
+    "from": "Latin",
+    "ex": {
+      "caps": "상자",
+      "capsule": "캡슐",
+      "case": "상자",
+      "cash": "현금",
+      "cashless": "현금이없는[불필요한]",
+      "cassette": "카세트"
+    }
+  },
+  {
+    "rank": 24,
+    "root": "capt(capt-, ceive-, cept-)",
+    "meaning": ["쥐다", "take"],
+    "origin": ["capere", "cipere", "captus", "capax"],
+    "from": "Latin",
+    "ex": {
+      "accept": "받아들이다",
+      "acceptance": "받아들임[수락]",
+      "cable": "케이블",
+      "capability": "능력",
+      "capable": "~을할수있는",
+      "capacious": "널찍한",
+      "capacity": "용량",
+      "capt": "취하다",
+      "caption": "캡션",
+      "captious": "흠잡기잘하는",
+      "captivate": "…의마음을사로잡다[매혹하다]",
+      "captive": "사로잡힌",
+      "captivity": "감금",
+      "capture": "포로로잡다",
+      "catch": "잡다[받다]",
+      "catching": "잘옮는[전염되는]",
+      "cater": "음식을공급하다",
+      "chase": "뒤쫓다",
+      "conceit": "자만심",
+      "conceive": "마음속으로하다[품다]",
+      "concept": "개념",
+      "conception": "구상",
+      "contracept": "수태시키지않다",
+      "contraception": "피임",
+      "cop": "경찰관",
+      "deceit": "속임수",
+      "deceitfully": "속여서",
+      "deceive": "속이다",
+      "deception": "속임",
+      "deceptive": "기만적인",
+      "except": "제외하고는[외에는]",
+      "exception": "예외",
+      "exceptional": "이례적일정도로우수한",
+      "exceptionally": "유난히",
+      "incapable": "…을할수없는",
+      "incipient": "막시작된",
+      "intercept": "가로막다[가로채다]",
+      "interdisciplinary": "학제간의",
+      "occupation": "직업",
+      "occupy": "차지하다",
+      "participant": "참가자",
+      "participate": "참가[참여]하다",
+      "participation": "참가",
+      "perceive": "감지[인지]하다",
+      "percept": "지각된것",
+      "perception": "지각",
+      "pre-conceived": "사전에형성된",
+      "pre-conception": "예상",
+      "receipt": "영수증",
+      "receive": "받다",
+      "receiver": "수화기",
+      "receptor": "감각기관",
+      "recipe": "조리[요리]법",
+      "recipient": "받는사람",
+      "unacceptable": "받아들일[용납할/인정할]수없는"
+    }
+  },
+  {
+    "rank": 25,
+    "root": "car",
+    "meaning": ["마차", "(차에)싣다", "car"],
+    "origin": ["carrus", "carra", "carrum", "carricare"],
+    "from": "Latin",
+    "ex": {
+      "car": "승용차",
+      "career": "직업",
+      "cargo": "화물",
+      "carriage": "객차",
+      "carry": "들고[데리고]있다",
+      "cart": "수레",
+      "charge": "요금",
+      "discharge": "떠나는것을허락하다"
+    }
+  },
+  {
+    "rank": 26,
+    "root": "carbo(carbo-, carb-)",
+    "meaning": ["탄소", "carbon"],
+    "origin": ["carbo", "carbonis"],
+    "from": "Latin",
+    "ex": {
+      "carbohydrate": "탄수화물",
+      "carbon": "탄소",
+      "carbonate": "탄산염",
+      "carborundum": "카보런덤",
+      "decarbonise": "탄소를제거하다",
+      "decarbonize": "탄소를제거하다",
+      "radiocarbon": "방사성탄소"
+    }
+  },
+  {
+    "rank": 27,
+    "root": "cardio(cardio-)",
+    "meaning": ["심장", "heart"],
+    "origin": ["kardia", "kardiakos"],
+    "from": "Greek",
+    "ex": {
+      "cardiac": "심장",
+      "cardio": "심장",
+      "cardiogram": "심박동곡선",
+      "cardiologist": "심장병전문의",
+      "cardiology": "심장",
+      "cardiovascular": "심혈관의"
+    }
+  },
+  {
+    "rank": 28,
+    "root": "care",
+    "meaning": ["돌보다", "care"],
+    "origin": ["carian", "cearian", "caru", "cearu"],
+    "from": "OldEnglish",
+    "ex": {
+      "care": "돌봄",
+      "careful": "조심하는",
+      "carefully": "주의하여",
+      "careless": "부주의한",
+      "carer": "간병인",
+      "caring": "배려하는"
+    }
+  },
+  {
+    "rank": 29,
+    "root": "carn",
+    "meaning": ["flesh"],
+    "origin": ["caro", "carn-"],
+    "from": "Latin",
+    "ex": { "carnivore": "육식동물" }
+  },
+  {
+    "rank": 30,
+    "root": "cast",
+    "meaning": ["던지다", "cast", "throw"],
+    "origin": ["kasta"],
+    "from": "OldNorse",
+    "ex": {
+      "broadcast": "방송하다",
+      "cast": "던지다[보내다]",
+      "caster": "던지는사람"
+    }
+  },
+  {
+    "rank": 31,
+    "root": "cast(cast-)",
+    "meaning": ["슌수", "자르다", "cut", "pure"],
+    "origin": ["castrare", "castigatus", "castus", "carere", "castrum"],
+    "from": "Latin",
+    "ex": {
+      "cast-": "깨끗한",
+      "caste": "카스트[계급]",
+      "castigate": "크게책망하다",
+      "castle": "성",
+      "castrate": "거세하다",
+      "chaste": "순결한",
+      "chasten": "잘못을깨닫게하다",
+      "chastise": "꾸짖다",
+      "chastity": "순결",
+      "incest": "근친상간"
+    }
+  },
+  {
+    "rank": 32,
+    "root": "cata(cata-, cath-, cat-)",
+    "meaning": ["아래(down)", "반(反)"],
+    "origin": ["kata"],
+    "from": "Greek",
+    "ex": {
+      "catabolic": "이화",
+      "catabolism": "이화작용",
+      "catacomb": "지하묘지",
+      "catalog": "목록",
+      "catalogue": "목록",
+      "catalysis": "촉매작용",
+      "catalyst": "촉매",
+      "catastrophe": "참사",
+      "catastrophic": "대변동[큰재앙]의",
+      "catatonia": "긴장증",
+      "cathode": "음극",
+      "cation": "양이온"
+    }
+  },
+  {
+    "rank": 33,
+    "root": "category",
+    "meaning": ["범주", "category"],
+    "origin": ["kategoria", "kategorein"],
+    "from": "Greek",
+    "ex": { "category": "범주" }
+  },
+  {
+    "rank": 34,
+    "root": "caus(caus, cuse)",
+    "meaning": ["이유", "cause", "motive"],
+    "origin": ["causa"],
+    "from": "Latin",
+    "ex": {
+      "accusation": "혐의",
+      "accuse": "고발[기소/비난]하다",
+      "because": "…때문에",
+      "causal": "인과관계의",
+      "causality": "인과관계",
+      "causation": "야기",
+      "causative": "원인이되는",
+      "cause": "원인",
+      "causing": "~을일으키는",
+      "excuse": "용서하다[봐주다]",
+      "recuse": "기피하다",
+      "ruse": "계략"
+    }
+  },
+  {
+    "rank": 35,
+    "root": "caust(caust-, calm-)",
+    "meaning": ["태우다", "타다", "burn"],
+    "origin": ["kaiein", "kaustos", "kautos", "kaustikos)", "kausis", "kauma"],
+    "from": "Greek",
+    "ex": {
+      "calm": "침착한",
+      "calmly": "고요히",
+      "caust": "태우다",
+      "caustic": "가성의",
+      "ink": "잉크"
+    }
+  },
+  {
+    "rank": 36,
+    "root": "caut",
+    "meaning": ["주의", "caution"],
+    "origin": ["cautio", "cavere"],
+    "from": "Latin",
+    "ex": { "caution": "조심", "cautious": "조심스러운" }
+  },
+  {
+    "rank": 37,
+    "root": "cease",
+    "meaning": ["중단", "cease"],
+    "origin": ["cessare"],
+    "from": "Latin",
+    "ex": { "cease": "중단되다" }
+  },
+  {
+    "rank": 38,
+    "root": "cede(cede-, cess-)",
+    "meaning": ["가다", "go"],
+    "origin": ["cedere", "cessus"],
+    "from": "Latin",
+    "ex": {
+      "accede": "응하다",
+      "access": "입장[접근]",
+      "accessibility": "접근",
+      "accessible": "접근[입장/이용]가능한",
+      "accessory": "부대용품",
+      "ancestor": "조상",
+      "ancestral": "조상의",
+      "antecedent": "선행사건",
+      "cede": "가다",
+      "cession": "이양[양도]",
+      "concede": "인정하다[수긍하다]",
+      "concession": "양보[양해]",
+      "decease": "사망",
+      "deceased": "사망한",
+      "exceed": "넘다[초과하다/초월하다]",
+      "excess": "지나침",
+      "excessive": "지나친",
+      "necessarily": "어쩔수없이",
+      "necessary": "필요한",
+      "necessity": "필요",
+      "precede": "…에앞서다[선행하다]",
+      "precedence": "우선",
+      "procedure": "절차[방법]",
+      "proceed": "진행하다[되다]",
+      "process": "과정[절차]",
+      "processed": "가공",
+      "procession": "행진",
+      "processor": "가공처리용기계",
+      "recede": "물러나다[멀어지다]",
+      "recess": "휴회기간",
+      "succeed": "성공하다",
+      "success": "성공",
+      "successful": "성공한",
+      "successfully": "성공적으로",
+      "successive": "연속적인",
+      "successor": "후임자",
+      "unnecessary": "불필요한",
+      "unprecedented": "전례없는",
+      "unsuccessful": "성공하지못한"
+    }
+  },
+  {
+    "rank": 39,
+    "root": "cel(cel-)",
+    "meaning": ["hide", "작은방", "숨기다"],
+    "origin": ["cella", "celare", "clam"],
+    "from": "Latin",
+    "ex": {
+      "ceil": "…에천장반자를붙이다",
+      "ceiling": "천장",
+      "cell": "숨기다",
+      "cellar": "지하저장고",
+      "cellular": "세포의",
+      "cellule": "작은세포",
+      "cellulite": "셀룰라이트",
+      "cellulose": "셀룰로오스",
+      "clandestine": "비밀리에하는",
+      "conceal": "감추다",
+      "occult": "비술[주술]적인"
+    }
+  },
+  {
+    "rank": 40,
+    "root": "celebr",
+    "meaning": ["영광스런", "honoured"],
+    "origin": ["celebratus", "celebrare", "celeber"],
+    "from": "Latin",
+    "ex": {
+      "celeb": "명사",
+      "celebr": "빈번한",
+      "celebrate": "기념하다",
+      "celebration": "기념[축하]행사",
+      "celebrity": "유명인사"
+    }
+  },
+  {
+    "rank": 41,
+    "root": "celer(celer-)",
+    "meaning": ["촉진", "quick"],
+    "origin": ["celerare", "celer"],
+    "from": "Latin",
+    "ex": {
+      "accelerable": "촉진할수있는",
+      "accelerate": "가속화되다",
+      "acceleration": "가속",
+      "accelerative": "가속적인",
+      "accelerator": "액셀러레이터",
+      "celer": "신속한",
+      "celerity": "민첩함",
+      "decelerate": "속도를줄이다",
+      "deceleration": "감속"
+    }
+  },
+  {
+    "rank": 42,
+    "root": "cens(cens-)",
+    "meaning": ["assess"],
+    "origin": ["censere", "census"],
+    "from": "Latin",
+    "ex": { "censure": "견책", "census": "인구조사" }
+  },
+  {
+    "rank": 43,
+    "root": "cent(cent-, centi-)",
+    "meaning": ["백(100)", "100분의1", "hundred"],
+    "origin": ["centuria", "centum"],
+    "from": "Latin",
+    "ex": {
+      "bicentenary": "200주년기념해[일]의",
+      "cent": "센트",
+      "centenary": "100주년",
+      "centennial": "100주년",
+      "centiare": "센티아르",
+      "centigram": "센티그램",
+      "centimeter": "센티미터",
+      "centipede": "지네",
+      "century": "년",
+      "percent": "퍼센트",
+      "percentage": "백분율",
+      "tercentenary": "300주년"
+    }
+  },
+  {
+    "rank": 44,
+    "root": "center(center-, centri-, centr-)",
+    "meaning": ["중심", "center"],
+    "origin": ["kentron"],
+    "from": "Greek",
+    "ex": {
+      "acentric": "중심이없는",
+      "anthropocentric": "인간중심주의의",
+      "biocentric": "생명을중심으로하는",
+      "center": "중심",
+      "central": "중심되는",
+      "centre": "중심",
+      "centred": "중심을잃지않는",
+      "centric": "중심의",
+      "centrifugal": "원심",
+      "centrifuge": "원심분리기",
+      "centripetal": "구심",
+      "centroid": "중심",
+      "centromere": "동원체",
+      "centromeric": "중심절",
+      "centrosphere": "지구의중심부",
+      "centrum": "중심",
+      "concentrate": "집중하다[집중시키다]",
+      "concentration": "정신집중",
+      "concentric": "중심이같은",
+      "eccentric": "괴짜인"
+    }
+  },
+  {
+    "rank": 45,
+    "root": "cern(cer-, cern-, cert-)",
+    "meaning": ["구분", "변화", "separate"],
+    "origin": ["cernere", "certus", "certare", "criminis"],
+    "from": "Latin",
+    "ex": {
+      "cern": "나누다",
+      "cert": "확실한일",
+      "certain": "확실한",
+      "certainly": "틀림없이",
+      "certainty": "확실한것",
+      "certificate": "증서",
+      "certified": "보증[증명]된",
+      "certify": "증명하다",
+      "concern": "영향을미치다[관련되다]",
+      "concerned": "걱정[염려]하는",
+      "concert": "연주회",
+      "concerted": "합심한",
+      "crime": "범죄",
+      "criminal": "범죄의",
+      "decree": "법령",
+      "discern": "알아차리다[파악하다/포착하다]",
+      "discreet": "신중한",
+      "discretion": "재량",
+      "discretionary": "자유재량에의한",
+      "discriminate": "식별[구별]하다",
+      "discrimination": "차별",
+      "excrement": "대변",
+      "excrete": "배설[분비]하다",
+      "excretion": "배설[배출",
+      "indiscriminate": "무분별한[무차별적인]",
+      "indiscriminately": "무비판적으로",
+      "secret": "비밀의",
+      "secretive": "비밀스러운",
+      "secretly": "비밀히",
+      "uncertain": "확신이없는"
+    }
+  },
+  {
+    "rank": 46,
+    "root": "change",
+    "meaning": ["교환", "barter"],
+    "origin": ["cambire", "cambiare"],
+    "from": "Latin",
+    "ex": {
+      "change": "변하다",
+      "changeable": "바뀔수도있는",
+      "changer": "체인저",
+      "exchange": "교환",
+      "interchange": "교환",
+      "unchangeable": "바꿀[변경할]수없는",
+      "unchanged": "바뀌지않은"
+    }
+  },
+  {
+    "rank": 47,
+    "root": "chaos(chaos, chaot-, gas)",
+    "meaning": ["chaos", "gas"],
+    "origin": ["khaos", "chaos"],
+    "from": "Greek",
+    "ex": {
+      "chaos": "혼돈",
+      "chaotic": "혼돈[혼란]상태인",
+      "gas": "기체",
+      "gasoline": "휘발유"
+    }
+  },
+  {
+    "rank": 48,
+    "root": "character",
+    "meaning": ["성격", "character"],
+    "origin": ["kharakterizein", "kharakter", "kharassein", "kharax"],
+    "from": "Greek",
+    "ex": {
+      "character": "성격",
+      "characterise": "특징이되다",
+      "characteristic": "특징"
+    }
+  },
+  {
+    "rank": 49,
+    "root": "chart(chart, card)",
+    "meaning": ["종이", "chart", "card"],
+    "origin": ["khartes"],
+    "from": "Greek",
+    "ex": { "card": "두꺼운종이", "cartoon": "만화", "chart": "도표" }
+  },
+  {
+    "rank": 50,
+    "root": "chatter",
+    "meaning": ["새소리", "twitter", "chirp"],
+    "origin": ["-"],
+    "from": "Greek",
+    "ex": { "chat": "담소[이야기]를나누다", "chatty": "수다스러운" }
+  },
+  {
+    "rank": 51,
+    "root": "check",
+    "meaning": ["check"],
+    "origin": ["shah", "sah"],
+    "from": "Persian",
+    "ex": { "checker": "계산대직원" }
+  },
+  {
+    "rank": 52,
+    "root": "cheer",
+    "meaning": ["cheer"],
+    "origin": ["kara"],
+    "from": "Greek",
+    "ex": { "cheerful": "발랄한", "cheerleader": "치어리더" }
+  },
+  {
+    "rank": 53,
+    "root": "chem(chem-, chemo-, chemi-, chemico-)",
+    "meaning": ["화학", "연금술의"],
+    "origin": ["khemeia"],
+    "from": "Greek",
+    "ex": {
+      "alchemy": "연금술",
+      "biochemical": "생화학의",
+      "chem": "화학",
+      "chemic": "화학의",
+      "chemical": "화학의",
+      "chemicals": "화학약품",
+      "chemicophysics": "물리화학",
+      "chemist": "약사",
+      "chemistry": "화학",
+      "chemotherapy": "화학요법",
+      "chemurgy": "농산",
+      "geochemist": "지구화학자",
+      "immunohistochemical": "면역조직화학"
+    }
+  },
+  {
+    "rank": 54,
+    "root": "child",
+    "meaning": ["아이", "child"],
+    "origin": ["cild"],
+    "from": "OldEnglish",
+    "ex": {
+      "child": "아이",
+      "childhood": "어린시절",
+      "childish": "어린애같은",
+      "childless": "자식[아이]이없는",
+      "childlike": "아이같은"
+    }
+  },
+  {
+    "rank": 55,
+    "root": "chill",
+    "meaning": ["차가운", "chill"],
+    "origin": ["ciele", "cele"],
+    "from": "OldEnglish",
+    "ex": { "chill": "아주춥게만들다", "chilly": "쌀쌀한" }
+  },
+  {
+    "rank": 56,
+    "root": "chol(chol-, chole-, cholo-)",
+    "meaning": ["담즙", "gall", "bile"],
+    "origin": ["chole", "cholos", "khole"],
+    "from": "Greek",
+    "ex": { "cholesterol": "콜레스테롤" }
+  },
+  {
+    "rank": 57,
+    "root": "chord",
+    "meaning": ["노끈", "밧줄"],
+    "origin": ["khorde"],
+    "from": "Greek",
+    "ex": { "chord": "화음", "cord": "끈" }
+  },
+  {
+    "rank": 58,
+    "root": "chore(chore, choreo)",
+    "meaning": ["춤", "dance"],
+    "origin": ["khoreia", "khoros"],
+    "from": "Greek",
+    "ex": { "choreo": "춤", "choreograph": "안무를하다", "chorus": "후렴" }
+  },
+  {
+    "rank": 59,
+    "root": "chrom(chrom-, -chroous, -chroic)",
+    "meaning": ["색깔의", "color"],
+    "origin": ["khroma"],
+    "from": "Greek",
+    "ex": {
+      "achromat": "색",
+      "chrom": "색",
+      "chroma": "채도",
+      "chromatic": "반음계의",
+      "chromatin": "염색질",
+      "chrome": "크롬",
+      "chromium": "크롬",
+      "chromophobia": "난염성",
+      "chromophore": "발색단",
+      "chromosome": "염색체",
+      "dichroic": "이색성의",
+      "dichroism": "2색성",
+      "dichromatic": "두색을가진",
+      "monochromatic": "단색의",
+      "monochrome": "흑백의",
+      "photochromy": "천연색사진술",
+      "trichromatic": "3색"
+    }
+  },
+  {
+    "rank": 60,
+    "root": "chrono(chron-. chrono-)",
+    "meaning": ["시간", "time"],
+    "origin": ["khronos"],
+    "from": "Greek",
+    "ex": {
+      "anachronism": "시대착오적인사람[관습/생각]",
+      "asynchronous": "동시에존재[발생]하지않는",
+      "biochronology": "생물연대학",
+      "chronic": "만성적인",
+      "chrono": "때",
+      "chronological": "발생[시간]순서대로된",
+      "chronology": "연대순",
+      "chronometer": "크로노미터",
+      "geochronology": "지질연대학",
+      "synchronic": "공시적인",
+      "synchronize": "동시에발생하다[움직이다]",
+      "synchronous": "동시발생[존재]하는"
+    }
+  },
+  {
+    "rank": 61,
+    "root": "cide",
+    "meaning": ["끊다", "cut", "죽이다"],
+    "origin": ["caedere", "caementa", "cidere", "caesus", "cidium"],
+    "from": "Latin",
+    "ex": {
+      "cement": "시멘트",
+      "cementation": "침탄",
+      "cementite": "시멘타이트",
+      "cementitious": "시멘트질",
+      "chisel": "끌",
+      "cide": "죽임",
+      "circumcise": "할례를하다[성기의거죽끝을자르다]",
+      "concise": "간결한",
+      "decide": "결정하다",
+      "decision": "결정",
+      "decisive": "결정적인",
+      "ecocide": "생태계[환경]파괴",
+      "excide": "",
+      "fungicide": "살진균제",
+      "genocide": "집단[종족]학살",
+      "homicide": "살인",
+      "insecticide": "살충제",
+      "pesticide": "살충제",
+      "precise": "정확한",
+      "precisely": "바로",
+      "precision": "정확",
+      "scissor": "가위로자르다",
+      "scissors": "가위",
+      "suicide": "자살"
+    }
+  },
+  {
+    "rank": 62,
+    "root": "cigar",
+    "meaning": ["담배", "cigar"],
+    "origin": ["cigare"],
+    "from": "French",
+    "ex": { "cigarette": "담배" }
+  },
+  {
+    "rank": 63,
+    "root": "circ(circ-)",
+    "meaning": ["원", "circle"],
+    "origin": ["circulari", "circus"],
+    "from": "Latin",
+    "ex": {
+      "circ": "원",
+      "circle": "원형",
+      "circular": "원형의",
+      "circulate": "순환하다",
+      "circulation": "순환",
+      "circus": "서커스단"
+    }
+  },
+  {
+    "rank": 64,
+    "root": "cite(cite-, cit-)",
+    "meaning": ["부르다", "call"],
+    "origin": ["ciere", "citare", "citus"],
+    "from": "Latin",
+    "ex": {
+      "cite": "들다[끌어대다]",
+      "excite": "흥분시키다[들뜨게만들다]",
+      "excitement": "흥분",
+      "exciting": "신나는",
+      "incite": "선동[조장]하다",
+      "incitement": "선동[조장]",
+      "recital": "발표회",
+      "recite": "암송[낭송/낭독]하다",
+      "solicit": "간청[요청]하다",
+      "solicitude": "배려"
+    }
+  },
+  {
+    "rank": 65,
+    "root": "civ(civ-, civil-, cit-)",
+    "meaning": ["시민", "citizen"],
+    "origin": ["civis", "civilis", "civitas"],
+    "from": "Latin",
+    "ex": {
+      "citadel": "성채[요새]",
+      "citify": "도시화하다",
+      "citizen": "시민",
+      "citizenship": "시민[공민]권",
+      "city": "도시",
+      "civic": "시의",
+      "civil": "시민",
+      "civilian": "민간인",
+      "civilisation": "문명",
+      "civility": "정중함",
+      "civilization": "문명",
+      "civilize": "개화[교화]하다",
+      "civilized": "문명화된",
+      "uncivil": "정중하지못한",
+      "uncivilized": "예의없는"
+    }
+  },
+  {
+    "rank": 66,
+    "root": "clam(clam-)",
+    "meaning": ["부르다", "요구", "cryout"],
+    "origin": ["clamare"],
+    "from": "Latin",
+    "ex": {
+      "claim": "주장하다",
+      "declaim": "말하다[읊다]",
+      "declamation": "열변[웅변]",
+      "exclaim": "소리치다",
+      "exclamation": "외침",
+      "proclaim": "선언[선포]하다",
+      "reclaim": "되찾다[돌려달라고하다]"
+    }
+  },
+  {
+    "rank": 67,
+    "root": "clan",
+    "meaning": ["씨족[문중]", "clan"],
+    "origin": ["cland"],
+    "from": "OldIrish",
+    "ex": { "clan": "씨족[문중]" }
+  },
+  {
+    "rank": 68,
+    "root": "clar(clar-)",
+    "meaning": ["밝음", "clear"],
+    "origin": ["clarus", "clarare"],
+    "from": "Latin",
+    "ex": {
+      "clarification": "깨끗하게함",
+      "clarify": "명확하게하다",
+      "clarity": "명료성",
+      "clear": "알아듣기[보기]쉬운",
+      "clearly": "또렷하게",
+      "declaration": "선언문[서]",
+      "declare": "선언[선포/공표]하다"
+    }
+  },
+  {
+    "rank": 69,
+    "root": "clast",
+    "meaning": ["부서진", "broken"],
+    "origin": ["klastos"],
+    "from": "Greek",
+    "ex": { "clast": "부서진" }
+  },
+  {
+    "rank": 70,
+    "root": "clean",
+    "meaning": ["clean"],
+    "origin": ["clæne"],
+    "from": "OldEnglish",
+    "ex": { "clean": "깨끗한", "cleanliness": "청결", "cleanly": "" }
+  },
+  {
+    "rank": 71,
+    "root": "clerk",
+    "meaning": ["사무원", "clerk"],
+    "origin": ["klerikos", "kleros"],
+    "from": "Greek",
+    "ex": { "clerk": "사무원[점원]으로일하다" }
+  },
+  {
+    "rank": 72,
+    "root": "climate",
+    "meaning": ["기후", "climate"],
+    "origin": ["klima"],
+    "from": "Greek",
+    "ex": { "climate": "기후", "climatologist": "기후학자" }
+  },
+  {
+    "rank": 73,
+    "root": "clin(clin-)",
+    "meaning": ["임상", "침대", "bed"],
+    "origin": ["kline"],
+    "from": "Greek",
+    "ex": {
+      "clinic": "병원[병동]",
+      "clinical": "임상의",
+      "clinician": "임상의"
+    }
+  },
+  {
+    "rank": 74,
+    "root": "cline(cline, clin-)",
+    "meaning": ["굽다.bend"],
+    "origin": ["clinare"],
+    "from": "Latin",
+    "ex": {
+      "cline": "구부리다",
+      "decline": "감소[하락/축소]",
+      "inclination": "의향[뜻]",
+      "incline": "~쪽으로기울다[기울어지게하다]",
+      "recline": "비스듬히기대다[눕다]"
+    }
+  },
+  {
+    "rank": 75,
+    "root": "clip",
+    "meaning": ["꽉쥐다"],
+    "origin": ["-"],
+    "from": "Latin",
+    "ex": {
+      "clamber": "",
+      "cliff": "절벽",
+      "cliffhanger": "",
+      "cliffsman": "",
+      "cliffy": "",
+      "climb": "오르다"
+    }
+  },
+  {
+    "rank": 76,
+    "root": "clone",
+    "meaning": ["클론", "복제", "clone"],
+    "origin": ["klon"],
+    "from": "Greek",
+    "ex": { "cloning": "클로닝" }
+  },
+  {
+    "rank": 77,
+    "root": "cloth",
+    "meaning": ["천", "옷", "cloth"],
+    "origin": ["claþ"],
+    "from": "OldEnglish",
+    "ex": {
+      "cloth": "옷감",
+      "clothe": "옷을입히다",
+      "clothes": "옷",
+      "clothing": "옷[의복]"
+    }
+  },
+  {
+    "rank": 78,
+    "root": "cloud",
+    "meaning": ["구름", "cloud"],
+    "origin": ["clud"],
+    "from": "OldEnglish",
+    "ex": { "cloud": "구름", "cloudy": "흐린" }
+  },
+  {
+    "rank": 79,
+    "root": "club",
+    "meaning": ["곤봉", "club"],
+    "origin": ["klubba"],
+    "from": "OldNorse",
+    "ex": { "club": "클럽" }
+  },
+  {
+    "rank": 80,
+    "root": "clude(clude-)",
+    "meaning": ["닫다", "shut", "close"],
+    "origin": ["claudere", "clausus"],
+    "from": "Latin",
+    "ex": {
+      "clause": "절",
+      "close": "닫다[치다]",
+      "closely": "접근하여",
+      "closure": "토론종결의표결에붙이다",
+      "conclude": "…결론[판단]을내리다",
+      "conclusion": "결론",
+      "exclude": "제외[배제]하다",
+      "exclusion": "제외",
+      "exclusive": "독점적인",
+      "include": "포함하다",
+      "included": "함유된",
+      "including": "…을포함하여",
+      "inclusive": "일체의경비가포함된[…이포함된]",
+      "inclusivity": "포용력",
+      "occlude": "가리다[막다]",
+      "occlusion": "폐색",
+      "preclude": "들여보내지않다",
+      "recluse": "은둔자",
+      "seclude": "은둔하다",
+      "sluice": "수문"
+    }
+  },
+  {
+    "rank": 81,
+    "root": "coach",
+    "meaning": ["코치", "coach"],
+    "origin": ["kocsi", "Kocs"],
+    "from": "Hungarian",
+    "ex": { "coach": "코치" }
+  },
+  {
+    "rank": 82,
+    "root": "coal",
+    "meaning": ["석탄", "coal"],
+    "origin": ["col"],
+    "from": "OldEnglish",
+    "ex": { "coal": "석탄", "collie": "콜리" }
+  },
+  {
+    "rank": 83,
+    "root": "coc",
+    "meaning": ["cook", "요리하다"],
+    "origin": ["cocus", "coquus", "coquere"],
+    "from": "Latin",
+    "ex": {
+      "biscuit": "비스킷",
+      "cook": "요리하다",
+      "cooking": "요리용의",
+      "uncooked": "익히지않은"
+    }
+  },
+  {
+    "rank": 84,
+    "root": "cocco",
+    "meaning": ["열매", "씨앗"],
+    "origin": ["kokkos"],
+    "from": "Latin",
+    "ex": { "coccus": "구균" }
+  },
+  {
+    "rank": 85,
+    "root": "cock",
+    "meaning": ["cock"],
+    "origin": ["cocc", "cocken"],
+    "from": "OldEnglish",
+    "ex": { "chicken": "닭", "cocktail": "칵테일" }
+  },
+  {
+    "rank": 86,
+    "root": "code",
+    "meaning": ["암호", "부호", "code"],
+    "origin": ["codex", "caudex"],
+    "from": "Latin",
+    "ex": { "encode": "암호로바꾸다" }
+  },
+  {
+    "rank": 87,
+    "root": "coffee",
+    "meaning": ["커피", "coffee"],
+    "origin": ["qahwah"],
+    "from": "Arabic",
+    "ex": { "caffeine": "카페인", "coffee": "커피" }
+  },
+  {
+    "rank": 88,
+    "root": "cogn(cogn-, cognit-)",
+    "meaning": ["알다", "인식하다", "learn"],
+    "origin": ["cognoscere", "cognitus", "cognit"],
+    "from": "Latin",
+    "ex": {
+      "acquaint": "익히다",
+      "acquaintance": "아는사람",
+      "cogn": "알게되다",
+      "cognition": "인식",
+      "cognitive": "인식[인지]의",
+      "cognizance": "인지",
+      "cognize": "인식하다",
+      "connoisseur": "감정가[전문가]",
+      "quaint": "별스러워재미있는",
+      "recognisable": "",
+      "recognise": "알아보다[알다]",
+      "recognition": "알아봄",
+      "recognizable": "알[알아볼]수있는",
+      "recognizably": "",
+      "recognizant": "",
+      "recognize": "알아보다[알다]",
+      "unrecognised": "의식[자각]되지못하는",
+      "unrecognized": "의식[자각]되지못하는"
+    }
+  },
+  {
+    "rank": 89,
+    "root": "cohort",
+    "meaning": ["집단", "울타리", "cohort"],
+    "origin": ["cohortem", "cohors", "cohort", "cortina", "cortem", "cors"],
+    "from": "Latin",
+    "ex": {
+      "cohort": "집단",
+      "court": "법정",
+      "courteous": "공손한",
+      "courtesy": "공손함",
+      "curtain": "커튼",
+      "discourteous": "예의없는"
+    }
+  },
+  {
+    "rank": 90,
+    "root": "col",
+    "meaning": ["접착(제)", "glue"],
+    "origin": ["kolla"],
+    "from": "Greek",
+    "ex": { "protocol": "외교의례" }
+  },
+  {
+    "rank": 91,
+    "root": "coll",
+    "meaning": ["목", "neck"],
+    "origin": ["collum"],
+    "from": "Latin",
+    "ex": { "collar": "칼라" }
+  },
+  {
+    "rank": 92,
+    "root": "color",
+    "meaning": ["색상", "color"],
+    "origin": ["color", "colos"],
+    "from": "Latin",
+    "ex": {
+      "colorful": "색채가풍부한",
+      "colour": "…에색칠[채색/염색]하다",
+      "colouring": "색소"
+    }
+  },
+  {
+    "rank": 93,
+    "root": "com",
+    "meaning": ["흥청대다", "revel"],
+    "origin": ["komos"],
+    "from": "Greek",
+    "ex": { "comedy": "코미디", "comic": "웃기는" }
+  },
+  {
+    "rank": 94,
+    "root": "come",
+    "meaning": ["오다", "come"],
+    "origin": ["cuman"],
+    "from": "OldEnglish",
+    "ex": {
+      "become": "…",
+      "becoming": "생성",
+      "come": "오다[움직이다]",
+      "income": "소득",
+      "outcome": "결과"
+    }
+  },
+  {
+    "rank": 95,
+    "root": "commun(commun-, comun-)",
+    "meaning": ["보통의", "공공의", "common", "public"],
+    "origin": ["communis"],
+    "from": "Latin",
+    "ex": {
+      "common": "흔한",
+      "commonly": "흔히",
+      "commun": "보통의",
+      "communicate": "연락을주고받다",
+      "communication": "의사소통",
+      "communicator": "의사를전달하는사람",
+      "miscommunication": "의사소통오류",
+      "uncommon": "흔하지않은"
+    }
+  },
+  {
+    "rank": 96,
+    "root": "concil(concil-, counsil-)",
+    "meaning": ["모임", "meeting"],
+    "origin": ["concilium", "conciliatus", "conciliare"],
+    "from": "Latin",
+    "ex": {
+      "concil": "모임",
+      "conciliable": "달랠[회유할]수있는",
+      "conciliate": "달래다",
+      "conciliatingly": "누그러뜨리며",
+      "conciliation": "위로",
+      "conciliator": "달래는사람",
+      "council": "의회",
+      "councillor": "의원",
+      "councilor": "고문관",
+      "reconcile": "조화시키다",
+      "reconciliation": "화해"
+    }
+  },
+  {
+    "rank": 97,
+    "root": "conlang",
+    "meaning": ["conlang"],
+    "origin": ["-"],
+    "from": "Latin",
+    "ex": { "conlanging": "인공어만들기" }
+  },
+  {
+    "rank": 98,
+    "root": "contra(contra-, contro-)",
+    "meaning": ["뒤", "against"],
+    "origin": ["contra"],
+    "from": "Latin",
+    "ex": {
+      "contra": "…에",
+      "contracept": "수태시키지않다",
+      "contraception": "피임",
+      "contradict": "부정[부인]하다",
+      "contradiction": "모순",
+      "contradictory": "모순되는",
+      "contraindicate": "사용을금하다",
+      "contrast": "차이",
+      "contravene": "위반[위배]하다",
+      "control": "지배",
+      "controversial": "논란이많은",
+      "controversy": "논란",
+      "controvert": "반박[반증]하다",
+      "counter": "반박[논박]하다",
+      "country": "국가",
+      "encounter": "맞닥뜨리다[부딪히다]",
+      "out-of-control": "통제불능의",
+      "uncontrolled": "억제[제어]되지않는"
+    }
+  },
+  {
+    "rank": 99,
+    "root": "cool",
+    "meaning": ["시원한", "cool"],
+    "origin": ["col", "colian"],
+    "from": "OldEnglish",
+    "ex": { "cooler": "냉장고[냉장박스]", "cooling": "냉각" }
+  },
+  {
+    "rank": 100,
+    "root": "cord(cord-)",
+    "meaning": ["진심", "heart"],
+    "origin": ["cordis", "cor"],
+    "from": "Latin",
+    "ex": {
+      "accord": "합의",
+      "accordance": "일치",
+      "accordant": "일치[조화]하여",
+      "according": "…에따라서[응해서/준하여]",
+      "accordingly": "부응해서",
+      "concord": "화합",
+      "cordial": "화기애애한",
+      "cordiality": "진심",
+      "core": "속[심]",
+      "courage": "용기",
+      "discord": "불화",
+      "discourage": "막다[말리다]",
+      "encourage": "격려[고무]하다",
+      "encouragement": "격려[고무]",
+      "encouraging": "격려[장려]의",
+      "record": "기록"
+    }
+  },
+  {
+    "rank": 101,
+    "root": "corn",
+    "meaning": ["뿔", "horn"],
+    "origin": ["cornu"],
+    "from": "Latin",
+    "ex": { "corner": "모서리", "scorn": "경멸[멸시]", "unicorn": "일각수" }
+  },
+  {
+    "rank": 102,
+    "root": "coron(coron-, coroll-)",
+    "meaning": ["crown"],
+    "origin": ["corona", "coronare", "corolla"],
+    "from": "Latin",
+    "ex": {
+      "corolla": "화관[꽃부리]",
+      "corollary": "필연적인결과",
+      "corona": "광환[코로나]",
+      "coronal": "왕관",
+      "coronary": "관상동맥의",
+      "coronate": "…에관을씌우다",
+      "coronation": "대관식",
+      "coronavirus": "코로나바이러스",
+      "coronet": "작은관",
+      "crown": "왕관"
+    }
+  },
+  {
+    "rank": 103,
+    "root": "corp(corp-, corpor-)",
+    "meaning": ["육체", "body"],
+    "origin": ["corpus", "corporis"],
+    "from": "Latin",
+    "ex": {
+      "corporal": "상등병",
+      "corporate": "기업[회사]의",
+      "corporation": "기업[회사]",
+      "corporative": "법인[단체]의",
+      "corps": "군단",
+      "corpse": "시체",
+      "corpulent": "뚱뚱한",
+      "corpus": "말뭉치",
+      "corpuscle": "혈구",
+      "disincorporate": "자격을박탈하다",
+      "incorporate": "포함하다",
+      "incorporation": "법인격부여"
+    }
+  },
+  {
+    "rank": 104,
+    "root": "costa(costa-, cost-)",
+    "meaning": ["늑골", "rib"],
+    "origin": ["costa"],
+    "from": "Latin",
+    "ex": {
+      "accost": "다가가말을걸다",
+      "coast": "해안",
+      "coastal": "해안[연안]의",
+      "costa": "늑골",
+      "costal": "늑골의",
+      "costate": "늑골이있는",
+      "entrecote": "스테이크용갈빗살"
+    }
+  },
+  {
+    "rank": 105,
+    "root": "cot",
+    "meaning": ["cot"],
+    "origin": ["kot"],
+    "from": "OldNorse",
+    "ex": { "cottage": "작은집" }
+  },
+  {
+    "rank": 106,
+    "root": "count",
+    "meaning": ["계산", "count"],
+    "origin": ["computare"],
+    "from": "Latin",
+    "ex": {
+      "account": "계좌",
+      "accountability": "책임",
+      "accountable": "책임이있는",
+      "accountant": "회계원",
+      "count": "세다",
+      "counter": "계산대",
+      "countless": "무수한",
+      "recount": "이야기하다[말하다]",
+      "uncountable": "셀수없는"
+    }
+  },
+  {
+    "rank": 107,
+    "root": "cover",
+    "meaning": ["덮다", "cover"],
+    "origin": ["coperire", "cooperire"],
+    "from": "Latin",
+    "ex": {
+      "cover": "씌우다[가리다]",
+      "covert": "비밀의",
+      "discover": "발견하다",
+      "discovery": "발견",
+      "recover": "회복되다",
+      "recovery": "회복",
+      "rediscover": "재발견하다",
+      "uncover": "덮개를벗기다"
+    }
+  },
+  {
+    "rank": 108,
+    "root": "crab",
+    "meaning": ["게", "crab"],
+    "origin": ["crabba"],
+    "from": "OldEnglish",
+    "ex": { "crab": "게" }
+  },
+  {
+    "rank": 109,
+    "root": "crack",
+    "meaning": ["crack"],
+    "origin": ["cracian", "cearcian"],
+    "from": "OldEnglish",
+    "ex": { "chirp": "짹짹[찍찍]거리다" }
+  },
+  {
+    "rank": 110,
+    "root": "cracy(cracy-)",
+    "meaning": ["지배", "rule"],
+    "origin": ["kratein", "kratos", "kratia"],
+    "from": "Greek",
+    "ex": {
+      "autocracy": "전제[독재]정치",
+      "autocrat": "전제군주",
+      "bureaucracy": "요식체계",
+      "cracy": "「…의지배",
+      "democracy": "민주주의",
+      "democratic": "민주주의의",
+      "theocracy": "신권정체"
+    }
+  },
+  {
+    "rank": 111,
+    "root": "craze",
+    "meaning": ["craze", "열풍"],
+    "origin": ["crasen", "craisen"],
+    "from": "MiddleEnglish",
+    "ex": { "crazy": "정상이아닌" }
+  },
+  {
+    "rank": 112,
+    "root": "crea(crea-)",
+    "meaning": ["만들다", "create"],
+    "origin": ["creare", "creatus", ""],
+    "from": "Latin",
+    "ex": {
+      "create": "창조[창작/창출]하다",
+      "creation": "창조",
+      "creative": "창조적인",
+      "creativity": "창조적임",
+      "creator": "창조[창안/창작]자",
+      "creature": "생명이있는존재",
+      "recreate": "되살리다[재현하다]",
+      "re-create": "다시만들다",
+      "recreation": "레크리에이션"
+    }
+  },
+  {
+    "rank": 113,
+    "root": "cred",
+    "meaning": ["신용", "믿다", "believe"],
+    "origin": ["credere", "creditus", "credulus"],
+    "from": "Latin",
+    "ex": {
+      "accredit": "…가한것으로믿다[간주하다]",
+      "accreditation": "승인",
+      "cred": "신뢰하다",
+      "credal": "교의",
+      "credence": "신빙성",
+      "credential": "신임장",
+      "credentials": "자격",
+      "credibility": "신뢰성",
+      "credible": "믿을[신뢰할]수있는",
+      "credit": "신용거래",
+      "creditable": "칭찬할만한",
+      "creditor": "채권자",
+      "credo": "신조",
+      "credulity": "쉽게[잘]믿음",
+      "credulous": "잘믿는[속는]",
+      "creed": "교리",
+      "incredible": "믿을수없는",
+      "incredibly": "믿을수없을정도로"
+    }
+  },
+  {
+    "rank": 114,
+    "root": "creep",
+    "meaning": ["기다", "creep"],
+    "origin": ["creopan"],
+    "from": "OldEnglish",
+    "ex": { "creepy": "오싹하게하는" }
+  },
+  {
+    "rank": 115,
+    "root": "cresc",
+    "meaning": ["커지다", "grow", "rise"],
+    "origin": ["crescere", "crescens"],
+    "from": "Latin",
+    "ex": {
+      "concrete": "콘크리트로된",
+      "crescent": "초승달모양",
+      "crew": "승무원",
+      "decrease": "줄다[감소하다]",
+      "increase": "증가하다",
+      "increasingly": "점점더",
+      "recruit": "모집하다[뽑다]",
+      "recruitment": "신병모집"
+    }
+  },
+  {
+    "rank": 116,
+    "root": "cricket",
+    "meaning": ["귀뚜라미"],
+    "origin": ["criquet", "criquer"],
+    "from": "French",
+    "ex": { "cricket": "귀뚜라미" }
+  },
+  {
+    "rank": 117,
+    "root": "crisp",
+    "meaning": ["곱슬털의", "curled"],
+    "origin": ["crispus"],
+    "from": "Latin",
+    "ex": { "crisp": "바삭바삭한" }
+  },
+  {
+    "rank": 118,
+    "root": "crit(crit-, crisi)",
+    "meaning": ["구분", "판단", "judge"],
+    "origin": ["krinein", "krisis", "krima"],
+    "from": "Greek",
+    "ex": {
+      "crisis": "위기",
+      "criterion": "기준",
+      "critic": "비평가",
+      "critical": "비판적인",
+      "criticise": "비판[비난]하다",
+      "criticism": "비판",
+      "criticize": "비판[비난]하다",
+      "critique": "비평한글",
+      "diacritic": "발음구별부호",
+      "diacritical": "구별을위한",
+      "hypercritical": "혹평하는",
+      "hypocrisy": "위선",
+      "hypocrite": "위선자"
+    }
+  },
+  {
+    "rank": 119,
+    "root": "crook",
+    "meaning": ["갈고리", "crook"],
+    "origin": ["krokr", "krakr"],
+    "from": "OldNorse",
+    "ex": { "encroach": "침해하다" }
+  },
+  {
+    "rank": 120,
+    "root": "crowd",
+    "meaning": ["가득메우다"],
+    "origin": ["-"],
+    "from": "OldNorse",
+    "ex": { "crowded": "붐비는" }
+  },
+  {
+    "rank": 121,
+    "root": "crud",
+    "meaning": ["날것", "crude", "raw"],
+    "origin": ["crudus", "cruor", "crudelis"],
+    "from": "Latin",
+    "ex": { "cruel": "잔혹한", "cruelly": "잔혹하게" }
+  },
+  {
+    "rank": 122,
+    "root": "cruise",
+    "meaning": ["횡단", "순항", "cross"],
+    "origin": ["crucem", "crux", "crucis"],
+    "from": "Latin",
+    "ex": {
+      "across": "건너서",
+      "cross": "십자기호",
+      "crucial": "중대한",
+      "crucially": "결정적으로",
+      "crucifix": "십자가상",
+      "crucify": "십자가에매달아죽이다",
+      "cruise": "유람선여행",
+      "crusade": "운동"
+    }
+  },
+  {
+    "rank": 123,
+    "root": "crunch",
+    "meaning": ["바삭바삭", "crunch"],
+    "origin": ["crunch"],
+    "from": "imitative/echoic",
+    "ex": { "crunchy": "아삭아삭한" }
+  },
+  {
+    "rank": 124,
+    "root": "cry",
+    "meaning": ["울다", "cry"],
+    "origin": ["-"],
+    "from": "imitative/echoic",
+    "ex": { "crying": "울음소리", "outcry": "격렬한반응[항의]" }
+  },
+  {
+    "rank": 125,
+    "root": "crypt(crypt-)",
+    "meaning": ["비밀"],
+    "origin": ["kryptos", "kruptein", "kruptos"],
+    "from": "Greek",
+    "ex": {
+      "crypt": "지하실",
+      "cryptic": "수수께끼같은",
+      "cryptocurrency": "암호화폐",
+      "cryptogram": "암호",
+      "cryptograph": "암호쓰는법",
+      "cryptographer": "암호사용자",
+      "cryptography": "암호작성[해독]술",
+      "cryptology": "암호작성[해독]술",
+      "cryptonym": "익명",
+      "Cryptozoology": "미확인생물의연구",
+      "decrypt": "해독[복호]하다",
+      "encrypt": "암호화하다",
+      "encryption": "부호매김",
+      "grotesque": "터무니없는",
+      "grotto": "작은동굴",
+      "krypton": "크립톤"
+    }
+  },
+  {
+    "rank": 126,
+    "root": "cub",
+    "meaning": ["cube"],
+    "origin": ["kubos"],
+    "from": "Greek",
+    "ex": { "cube": "세제곱하다", "cuboid": "직육면체" }
+  },
+  {
+    "rank": 127,
+    "root": "cult(col-, cult-)",
+    "meaning": ["경작", "농장", "거주"],
+    "origin": ["colere", "cultus", "cultivate", "colonia"],
+    "from": "Latin",
+    "ex": {
+      "acculturate": "다른문화에성공적으로동화되다[동화시키다]",
+      "acculturation": "문화변용",
+      "agriculture": "농업",
+      "bracelet": "농업의",
+      "colonial": "식민",
+      "colonise": "식민지로만들다",
+      "colonize": "식민지로만들다",
+      "colony": "식민지",
+      "cult": "돌보다",
+      "cultivable": "경작할수있는",
+      "cultivate": "경작하다",
+      "cultivation": "경작",
+      "cultural": "문화와관련된",
+      "culture": "문화",
+      "domicile": "거주지[주소]",
+      "horticulture": "원예학"
+    }
+  },
+  {
+    "rank": 128,
+    "root": "cumul",
+    "meaning": ["mound", "heap"],
+    "origin": ["cumulatus", "cumulare", "cumulus"],
+    "from": "Latin",
+    "ex": {
+      "accumulate": "모으다",
+      "accumulation": "축적",
+      "cumulate": "포개어쌓다"
+    }
+  },
+  {
+    "rank": 129,
+    "root": "cur",
+    "meaning": ["보살피다"],
+    "origin": ["curare", "cura"],
+    "from": "Latin",
+    "ex": {
+      "accuracy": "정확",
+      "accurate": "정확한",
+      "accurately": "정확히",
+      "curable": "치유가능한",
+      "curate": "목사보",
+      "curator": "큐레이터",
+      "cure": "낫게하다",
+      "curio": "작고특이한수집품",
+      "curiosity": "호기심",
+      "curious": "궁금한",
+      "inaccurate": "부정확한",
+      "proctor": "시험감독관",
+      "procurator": "대리인",
+      "procure": "구하다[입수하다]",
+      "proxy": "대리[위임]",
+      "secure": "안심하는",
+      "security": "보안"
+    }
+  },
+  {
+    "rank": 130,
+    "root": "curl",
+    "meaning": ["곱슬곱슬", "curl"],
+    "origin": ["krul"],
+    "from": "MiddleDutch",
+    "ex": { "curling": "곱슬곱슬함" }
+  },
+  {
+    "rank": 131,
+    "root": "curr",
+    "meaning": ["흐르다", "달리다", "run"],
+    "origin": ["currens", "currere", "cursus"],
+    "from": "Latin",
+    "ex": {
+      "corridor": "복도",
+      "course": "강의",
+      "cryptocurrency": "암호화폐",
+      "currency": "통화",
+      "current": "현재의",
+      "currently": "현재",
+      "curriculum": "교육과정",
+      "cursive": "필기체인",
+      "cursor": "커서",
+      "cursory": "대충하는",
+      "discourse": "담론",
+      "excursion": "여행",
+      "incur": "초래하다[처하게되다]",
+      "intercourse": "교류[교제/소통]",
+      "occur": "일어나다",
+      "precursor": "선도자",
+      "recur": "되돌아가다",
+      "recurring": "되풀이하여발생하는"
+    }
+  },
+  {
+    "rank": 132,
+    "root": "curse",
+    "meaning": ["저주"],
+    "origin": ["-"],
+    "from": "Latin",
+    "ex": { "accursed": "", "curse": "욕", "cuss": "" }
+  },
+  {
+    "rank": 133,
+    "root": "curt",
+    "meaning": ["cut", "short"],
+    "origin": ["curtus"],
+    "from": "Latin",
+    "ex": { "curtail": "축소[삭감/단축]시키다" }
+  },
+  {
+    "rank": 134,
+    "root": "cust(cust-, custo-)",
+    "meaning": ["수호자", "guardian"],
+    "origin": ["custos", "custodia"],
+    "from": "Latin",
+    "ex": { "custodian": "관리인", "custody": "양육권" }
+  },
+  {
+    "rank": 135,
+    "root": "cuth(cuth, couth, can)",
+    "meaning": ["알다", "할수있다", "know"],
+    "origin": ["cuð", "cunnan"],
+    "from": "OldEnglish",
+    "ex": { "cuddly": "꼭껴안고싶은" }
+  },
+  {
+    "rank": 136,
+    "root": "cycle(cycl-)",
+    "meaning": ["순환", "반복"],
+    "origin": ["kyklos", "kuklos", "kyklon", "kuklikos"],
+    "from": "Greek",
+    "ex": {
+      "anticyclonic": "역선풍의",
+      "bicycle": "자전거",
+      "cycle": "자전거",
+      "cyclic": "순환하는",
+      "cycling": "자전거타기",
+      "cyclist": "자전거타는사람",
+      "cyclone": "사이클론",
+      "epicycle": "작은원",
+      "recycle": "재활용[재생]하다",
+      "recycling": "재활용"
+    }
+  },
+  {
+    "rank": 137,
+    "root": "cyst",
+    "meaning": ["cyst", "낭(囊)", "포낭"],
+    "origin": ["-"],
+    "from": "Greek",
+    "ex": { "cholecyst": "", "cyst": "낭포", "cystic": "포낭이있는" }
+  },
+  {
+    "rank": 138,
+    "root": "cyte",
+    "meaning": ["세포"],
+    "origin": ["kutos"],
+    "from": "Greek",
+    "ex": { "leucocyte": "", "oocyte": "난모" }
+  }
+]

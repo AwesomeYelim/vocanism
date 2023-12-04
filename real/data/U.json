@@ -5,7 +5,7 @@
     "meaning": ["fullof"],
     "origin": ["ulentus(Latin)"],
     "from": "",
-    "ex": [{ "corpulent": "뚱뚱한" }]
+    "ex": { "corpulent": "뚱뚱한" }
   },
   {
     "rank": 2,
@@ -13,7 +13,7 @@
     "meaning": ["가장먼", "가장멀리"],
     "origin": ["ultimus(Latin)"],
     "from": "",
-    "ex": [{ "ultimate": "궁극[최종]적인" }, { "ultimately": "궁극적으로" }]
+    "ex": { "ultimate": "궁극[최종]적인", "ultimately": "궁극적으로" }
   },
   {
     "rank": 3,
@@ -21,13 +21,13 @@
     "meaning": ["파도", "wave"],
     "origin": ["unda(Latin)"],
     "from": "",
-    "ex": [
-      { "abound": "아주많다" },
-      { "abundance": "풍부" },
-      { "abundant": "풍부한" },
-      { "compound": "복합체" },
-      { "surround": "둘러싸다" }
-    ]
+    "ex": {
+      "abound": "아주많다",
+      "abundance": "풍부",
+      "abundant": "풍부한",
+      "compound": "복합체",
+      "surround": "둘러싸다"
+    }
   },
   {
     "rank": 4,
@@ -35,6 +35,6 @@
     "meaning": ["도시"],
     "origin": ["urbs", "urbis", "urb(Latin)"],
     "from": "",
-    "ex": [{ "suburb": {} }, { "suburban": "교외의" }, { "urban": "도시의" }]
+    "ex": { "suburb": {}, "suburban": "교외의", "urban": "도시의" }
   }
 ]

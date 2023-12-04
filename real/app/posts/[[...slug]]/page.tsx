@@ -23,7 +23,7 @@ export function generateStaticParams() {
 }
 
 function getDocFromParams({ params }: PageProps) {
-  console.log(params);
+  console.log(params.slug);
 
   const slug = params.slug.join('/');
   const post = allDocuments.find((doc) => doc.slug === slug);

@@ -1,0 +1,1050 @@
+[
+  {
+    "rank": 1,
+    "root": "abba(abba-)",
+    "meaning": ["아버지(father)"],
+    "origin": ["abbas", "abbatia"],
+    "from": "Latin",
+    "ex": {
+      "abbacy": "대수도원장의관할구역[직",
+      "abbatial": "대수도원의",
+      "abbess": "수녀원장",
+      "abbey": "수도원",
+      "abbot": "수도원장"
+    }
+  },
+  {
+    "rank": 2,
+    "root": "abdomen",
+    "meaning": ["복부", "배", "abdomen"],
+    "origin": ["abdomen"],
+    "from": "Latin",
+    "ex": { "abdomen": "배", "abdominal": "복부의" }
+  },
+  {
+    "rank": 3,
+    "root": "ac(ac-)",
+    "meaning": ["cure"],
+    "origin": ["akeisthai", "ake", "akos", "akeos"],
+    "from": "Greek",
+    "ex": {
+      "acacia": "아카시아",
+      "autacoid": "오타코이드",
+      "panacea": "만병통치약"
+    }
+  },
+  {
+    "rank": 4,
+    "root": "academ(academ-)",
+    "meaning": ["학문의", "academic"],
+    "origin": ["Akademos", "Akademeia"],
+    "from": "Greek",
+    "ex": {
+      "academe": "학구적생활",
+      "academia": "학계",
+      "academic": "학업의",
+      "academically": "학술적으로",
+      "academy": "학교"
+    }
+  },
+  {
+    "rank": 5,
+    "root": "acanth(acanth-)",
+    "meaning": ["가시"],
+    "origin": ["akantha"],
+    "from": "Greek",
+    "ex": { "Acanthaster": "불가사리의일종" }
+  },
+  {
+    "rank": 6,
+    "root": "acer",
+    "meaning": ["(맛이)신", "날카로운", "sharp"],
+    "origin": ["acer", "acris", "acerbus", "acere"],
+    "from": "Latin",
+    "ex": {
+      "acer": "맛이시다",
+      "acrid": "매캐한[콕쏘는듯한]",
+      "eager": "열렬한",
+      "eagerly": "열망하여",
+      "exacerbate": "악화시키다",
+      "vinegar": "식초"
+    }
+  },
+  {
+    "rank": 7,
+    "root": "ache",
+    "meaning": ["고통", "pain", "ache"],
+    "origin": ["acan", "æce", "ece"],
+    "from": "OldEnglish",
+    "ex": { "ache": "아프다", "aching": "쑤시는" }
+  },
+  {
+    "rank": 8,
+    "root": "acid",
+    "meaning": ["acidic", "sour"],
+    "origin": ["acidus"],
+    "from": "Latin",
+    "ex": { "acid": "산" }
+  },
+  {
+    "rank": 9,
+    "root": "acr(acr-, acro-)",
+    "meaning": ["높이", "꼭대기", "height"],
+    "origin": ["ake", "akros", "akron", "akro-"],
+    "from": "Greek",
+    "ex": { "acro": "선단", "acrobat": "곡예사", "acrogen": "정생" }
+  },
+  {
+    "rank": 10,
+    "root": "acu(acu-)",
+    "meaning": ["뾰족한", "sharp"],
+    "origin": ["acus", "acuere", "acutus"],
+    "from": "Latin",
+    "ex": {
+      "acerose": "바늘모양의",
+      "acuity": "명민함",
+      "aculeate": "끝이뾰족한",
+      "acumen": "감각",
+      "acuminate": "뾰족한",
+      "acupressure": "지압",
+      "acupuncture": "침술",
+      "acute": "격심한",
+      "cute": "귀여운"
+    }
+  },
+  {
+    "rank": 11,
+    "root": "add(add-)",
+    "meaning": ["더하다", "add", "참가하다"],
+    "origin": ["addere", "additio", "dare", "dere"],
+    "from": "Latin",
+    "ex": {
+      "add": "첨가[추가]하다",
+      "adding": "추가",
+      "addition": "덧셈",
+      "additional": "추가의"
+    }
+  },
+  {
+    "rank": 12,
+    "root": "advant(advant, advan, , abante)",
+    "meaning": ["앞에서", "advance"],
+    "origin": ["abanteare", "abante"],
+    "from": "Latin",
+    "ex": {
+      "advance": "전진",
+      "advanced": "선진의",
+      "advantage": "유리한점",
+      "disadvantage": "불리한점",
+      "disadvantaged": "사회적으로혜택을받지못한"
+    }
+  },
+  {
+    "rank": 13,
+    "root": "aedi(aedi-, edi-)",
+    "meaning": ["건물", "사원", "building"],
+    "origin": ["-"],
+    "from": "Latin",
+    "ex": { "edifice": "건물;조직", "fixed": "작은건물" }
+  },
+  {
+    "rank": 14,
+    "root": "aero",
+    "meaning": ["공기", "항공", "air"],
+    "origin": ["aer", "aeros"],
+    "from": "Greek",
+    "ex": {
+      "aerial": "항공기에의한",
+      "aero": "항공",
+      "aerobatic": "고등[곡예]비행의",
+      "aerobic": "호기성의",
+      "aerobiology": "공중생물학",
+      "aerodynamic": "공기역학의",
+      "aeronaut": "열기구[비행선]조종사",
+      "aeronautics": "항공학",
+      "aeroplane": "비행기",
+      "aerosol": "에어로졸",
+      "aerospace": "항공우주산업",
+      "air": "공기",
+      "airborne": "비행중인",
+      "airplane": "비행기",
+      "airport": "공항"
+    }
+  },
+  {
+    "rank": 15,
+    "root": "aesthet",
+    "meaning": ["인지", "perceive"],
+    "origin": ["aisthetikos", "aisthanesthai", "aistheta", "aisthesthai"],
+    "from": "Greek",
+    "ex": { "aesthetic": "심미적", "esthetic": "심미적" }
+  },
+  {
+    "rank": 16,
+    "root": "aev",
+    "meaning": ["시대", "age"],
+    "origin": ["aetaticum", "aetatem", "aetas", "aevum", "aeon"],
+    "from": "Latin",
+    "ex": {
+      "aeon": "영겁",
+      "age": "나이",
+      "aged": "",
+      "ageing": "노화",
+      "ageism": "노인차별",
+      "coetaneous": "같은시대[기간]의",
+      "coeval": "시작시기가같은",
+      "eternal": "영원한",
+      "eternity": "영원",
+      "longevity": "장수",
+      "medieval": "중세의",
+      "primaeval": "태고의",
+      "primeval": "태고의",
+      "teenage": "십대의"
+    }
+  },
+  {
+    "rank": 17,
+    "root": "afford",
+    "meaning": ["제안하다", "더멀리에", ""],
+    "origin": ["geforðian"],
+    "from": "OldEnglish",
+    "ex": { "affordable": "줄수있는" }
+  },
+  {
+    "rank": 18,
+    "root": "after",
+    "meaning": ["뒤쪽", "after"],
+    "origin": ["-"],
+    "from": "OldEnglish",
+    "ex": {
+      "aftermath": "여파[후유증]",
+      "afternoon": "오후",
+      "afterward": "후에",
+      "afterwards": "나중에"
+    }
+  },
+  {
+    "rank": 19,
+    "root": "ag",
+    "meaning": ["행위", "이끌다", "drive"],
+    "origin": ["agere", "actus", "agitare"],
+    "from": "Latin",
+    "ex": {
+      "act": "행동[행위/짓]",
+      "acting": "대행",
+      "action": "행동",
+      "activate": "작동시키다",
+      "activation": "활동적으로하기",
+      "active": "활동적인",
+      "actively": "활발히",
+      "activist": "운동가",
+      "actor": "배우",
+      "actress": "여배우",
+      "actual": "실제의",
+      "actuality": "실제",
+      "ag-": "이끌다",
+      "agency": "대리점",
+      "agenda": "의제[안건]",
+      "agent": "대리인",
+      "agile": "날렵한",
+      "agitate": "주장하다[요구하다]",
+      "agitated": "불안해하는",
+      "ambiguity": "애매성",
+      "ambiguous": "애매모호한",
+      "castigate": "크게책망하다",
+      "chastise": "꾸짖다",
+      "circumnavigate": "세계일주를하다",
+      "cogent": "설득력있는",
+      "cogitate": "숙고하다",
+      "enact": "제정하다",
+      "essay": "과제물[리포트/에세이]",
+      "exact": "정확한",
+      "exactly": "정확히",
+      "inactivate": "활동을정지시키다",
+      "inactive": "활동하지않는",
+      "interact": "소통하다[교류하다]",
+      "interaction": "상호작용",
+      "interactive": "상호적인",
+      "mitigate": "완화[경감]시키다",
+      "navigate": "길을찾다[방향을읽다]",
+      "navigation": "항해[운항/조종]",
+      "react": "반응하다",
+      "reaction": "반응"
+    }
+  },
+  {
+    "rank": 20,
+    "root": "agger",
+    "meaning": ["heap", "heapup", "accumulate"],
+    "origin": ["aggerare", "agger", "aggeris", "aggerere"],
+    "from": "Latin",
+    "ex": { "exaggerate": "과장하다" }
+  },
+  {
+    "rank": 21,
+    "root": "ago(ago, own)",
+    "meaning": ["again", "own"],
+    "origin": ["agan", "agen", "agnian", "ongan", "ongean"],
+    "from": "OldEnglish",
+    "ex": {
+      "again": "한번더",
+      "against": "…에반대하여[맞서]",
+      "ago": "전에",
+      "owner": "주인",
+      "ownership": "소유"
+    }
+  },
+  {
+    "rank": 22,
+    "root": "agog",
+    "meaning": ["지도자", "이끌다"],
+    "origin": ["agein", "agogos", "agon", "agogon"],
+    "from": "Greek",
+    "ex": {
+      "agogue": "촉진",
+      "agon": "경품이걸린경기",
+      "agonist": "투쟁자",
+      "agonistic": "운동경기의",
+      "agonize": "고민하다",
+      "agony": "극도의",
+      "antagonistic": "적대적인",
+      "demagogue": "선동정치가",
+      "demagogy": "민중선동",
+      "emmenagogue": "월경촉진약",
+      "pedagogue": "교사",
+      "pedant": "지나치게규칙을찾는[세세한것에얽매이는]사람",
+      "pedantic": "지나치게규칙을찾는[세세한것에얽매이는]",
+      "protagonist": "주인공",
+      "strategy": "계획[전략]",
+      "synagogue": "유대교회당"
+    }
+  },
+  {
+    "rank": 23,
+    "root": "agr(agr-, agro-)",
+    "meaning": ["농사"],
+    "origin": ["ager", "agris"],
+    "from": "Latin",
+    "ex": {
+      "agricultural": "농업의",
+      "agriculture": "농업",
+      "agro-tech": "농업기술"
+    }
+  },
+  {
+    "rank": 24,
+    "root": "aid",
+    "meaning": ["aid"],
+    "origin": ["adiuta", "adiutus", "adjutare", "adjuvare", "adiuvare"],
+    "from": "Latin",
+    "ex": { "aid": "원조" }
+  },
+  {
+    "rank": 25,
+    "root": "alb(alb-)",
+    "meaning": ["흰색", "white"],
+    "origin": ["albus", "album"],
+    "from": "Latin",
+    "ex": { "album": "앨범" }
+  },
+  {
+    "rank": 26,
+    "root": "alcohol",
+    "meaning": ["알코홀", "alcohol"],
+    "origin": ["alcohol"],
+    "from": "Latin",
+    "ex": { "alcohol": "술", "alcoholic": "술의" }
+  },
+  {
+    "rank": 27,
+    "root": "alg(alg-, -algia, -algy)",
+    "meaning": ["pain"],
+    "origin": ["algos", "algein", "algesis"],
+    "from": "Greek",
+    "ex": { "nostalgia": "향수", "nostalgic": "향수" }
+  },
+  {
+    "rank": 28,
+    "root": "alien",
+    "meaning": ["생경한", "alien"],
+    "origin": ["alienus", "alius"],
+    "from": "Latin",
+    "ex": { "alibi": "알리바이", "alien": "생경한" }
+  },
+  {
+    "rank": 29,
+    "root": "all",
+    "meaning": ["all"],
+    "origin": ["eall"],
+    "from": "OldEnglish",
+    "ex": {
+      "all": "모든",
+      "almost": "거의",
+      "already": "이미",
+      "also": "또한",
+      "although": "…이긴하지만",
+      "always": "항상",
+      "overall": "전부의"
+    }
+  },
+  {
+    "rank": 30,
+    "root": "alli",
+    "meaning": ["결합", "연합", "unite"],
+    "origin": ["alligare"],
+    "from": "Latin",
+    "ex": {
+      "alliance": "동맹",
+      "ally": "동맹국",
+      "rally": "결집[단결]하다[시키다]"
+    }
+  },
+  {
+    "rank": 31,
+    "root": "allo",
+    "meaning": ["다른것", "other"],
+    "origin": ["allos", "allelos", "allelois"],
+    "from": "Greek",
+    "ex": { "allergy": "알레르기", "parallel": "평행한" }
+  },
+  {
+    "rank": 32,
+    "root": "alone(alone, lone)",
+    "meaning": ["혼자", "alone"],
+    "origin": ["allana", "all", "an"],
+    "from": "OldEnglish",
+    "ex": { "alone": "혼자", "loneliness": "고독", "lonely": "외로운" }
+  },
+  {
+    "rank": 33,
+    "root": "alph",
+    "meaning": ["알파"],
+    "origin": ["alpha"],
+    "from": "Greek",
+    "ex": { "alphabet": "알파벳", "alphabetically": "ABC순으로" }
+  },
+  {
+    "rank": 34,
+    "root": "alt",
+    "meaning": ["높은", "고도의", "high"],
+    "origin": ["altitudo", "altus"],
+    "from": "Latin",
+    "ex": {
+      "alt": "높은",
+      "altar": "제단",
+      "altitude": "고도",
+      "exalt": "승격[격상]시키다"
+    }
+  },
+  {
+    "rank": 35,
+    "root": "alter",
+    "meaning": ["다른쪽", "변경", "theother"],
+    "origin": ["alterare", "alter", "alternare"],
+    "from": "Latin",
+    "ex": {
+      "alter": "변하다",
+      "alternate": "번갈아나오게만들다",
+      "alternative": "대체가능한",
+      "alternatively": "그대신에"
+    }
+  },
+  {
+    "rank": 36,
+    "root": "alum",
+    "meaning": ["명반", "백반", "alum"],
+    "origin": ["alumen"],
+    "from": "Latin",
+    "ex": { "aluminium": "알루미늄", "aluminum": "알루미늄" }
+  },
+  {
+    "rank": 37,
+    "root": "amble",
+    "meaning": ["산보.walk"],
+    "origin": ["ambulare"],
+    "from": "Latin",
+    "ex": { "ambulance": "구급차" }
+  },
+  {
+    "rank": 38,
+    "root": "amine(amin-, -amine, amino)",
+    "meaning": ["(화학)아민", "amine"],
+    "origin": ["amine"],
+    "from": "English",
+    "ex": { "amine": "아민" }
+  },
+  {
+    "rank": 39,
+    "root": "ammon",
+    "meaning": ["암모니아", "ammonia"],
+    "origin": ["Amun"],
+    "from": "Egyptian",
+    "ex": { "ammonia": "암모니아" }
+  },
+  {
+    "rank": 40,
+    "root": "amor(amor-, am-, amat-, amic-, -imic-)",
+    "meaning": ["사랑", "love", "friend"],
+    "origin": ["amare", "amicus", "amoenus"],
+    "from": "Latin",
+    "ex": {
+      "amateur": "아마추어선수",
+      "amenity": "생활편의시설",
+      "amicable": "우호적인",
+      "amor": "사랑",
+      "amour": "정사",
+      "enemy": "적",
+      "enmity": "원한"
+    }
+  },
+  {
+    "rank": 41,
+    "root": "amph(amph-, amphi-)",
+    "meaning": ["양쪽", "둘다", "both"],
+    "origin": ["amphi"],
+    "from": "Greek",
+    "ex": { "amphibole": "각섬석" }
+  },
+  {
+    "rank": 42,
+    "root": "ampl",
+    "meaning": ["넓은", "충분한", "large"],
+    "origin": ["amplus"],
+    "from": "Latin",
+    "ex": { "ample": "충분한", "amplify": "증폭시키다" }
+  },
+  {
+    "rank": 43,
+    "root": "an",
+    "meaning": ["하나", "one", "an", "a"],
+    "origin": ["an", "ænig"],
+    "from": "OldEnglish",
+    "ex": {
+      "a": "하나의[…당]",
+      "an": "",
+      "another": "또하나",
+      "any": "어느",
+      "anyone": "누구",
+      "anything": "무엇",
+      "anyway": "게다가",
+      "anywhere": "어디든",
+      "one": "하나"
+    }
+  },
+  {
+    "rank": 44,
+    "root": "anger",
+    "meaning": ["분노", "anger"],
+    "origin": ["angr", "angra"],
+    "from": "OldNorse",
+    "ex": { "anger": "화", "angrily": "노하여" }
+  },
+  {
+    "rank": 45,
+    "root": "angle",
+    "meaning": ["각(角)", "구석", "corner"],
+    "origin": ["angulus"],
+    "from": "Latin",
+    "ex": { "angle": "각도" }
+  },
+  {
+    "rank": 46,
+    "root": "angle",
+    "meaning": ["낚시바늘", "fishhook"],
+    "origin": ["angel", "anga", "angul"],
+    "from": "OldEnglish",
+    "ex": { "angle": "낚시" }
+  },
+  {
+    "rank": 47,
+    "root": "anim(anim-)",
+    "meaning": ["생명", "breath"],
+    "origin": ["anima"],
+    "from": "Latin",
+    "ex": {
+      "animal": "짐승",
+      "animate": "살아있는",
+      "animation": "생기",
+      "anime": "일본만화영화",
+      "unanimous": "만장[전원]일치의"
+    }
+  },
+  {
+    "rank": 48,
+    "root": "anni(anni-, ann-, enn-)",
+    "meaning": ["년", "해"],
+    "origin": ["annusm-ennialis"],
+    "from": "Latin",
+    "ex": {
+      "anni": "년",
+      "anniversary": "기념일",
+      "annual": "매년의",
+      "annually": "일년에한번",
+      "biennial": "년에한번씩의",
+      "centennial": "100주년",
+      "ennial": "년도의",
+      "millennial": "천년간의",
+      "millennials": "밀레니얼세대",
+      "millennium": "천년",
+      "perennial": "지속되는"
+    }
+  },
+  {
+    "rank": 49,
+    "root": "anomalo(anomalo-)",
+    "meaning": ["비정상적인"],
+    "origin": ["anomalos"],
+    "from": "Greek",
+    "ex": { "anomaly": "변칙" }
+  },
+  {
+    "rank": 50,
+    "root": "ante",
+    "meaning": ["앞", "before"],
+    "origin": ["ante", "anti"],
+    "from": "Latin",
+    "ex": {
+      "ancestor": "조상",
+      "ancestral": "조상의",
+      "ancient": "고대의",
+      "ante-": "앞",
+      "antebellum": "전쟁전의",
+      "antecedent": "선행사건",
+      "anterior": "앞쪽인",
+      "anteroom": "대기실",
+      "antic": "색다른",
+      "anticipate": "예상하다",
+      "antique": "골동품",
+      "rampart": "성곽"
+    }
+  },
+  {
+    "rank": 51,
+    "root": "anthropo",
+    "meaning": ["사람", "human"],
+    "origin": ["anthropos"],
+    "from": "Greek",
+    "ex": {
+      "anthropo": "사람",
+      "anthropocentric": "인간중심주의의",
+      "anthropoid": "사람비슷한",
+      "anthropologist": "인류학자",
+      "anthropology": "인류학",
+      "anthropomorphize": "인격화하다",
+      "anthropomorphous": "사람모양을한",
+      "anthrozoologist": "인간동물학자",
+      "anthrozoology": "인간동물학"
+    }
+  },
+  {
+    "rank": 52,
+    "root": "anx(anx-)",
+    "meaning": ["화가나다", "choke"],
+    "origin": ["anxius", "angere"],
+    "from": "Latin",
+    "ex": {
+      "anxiety": "불안",
+      "anxious": "불안해하는",
+      "anxiously": "근심[걱정]하여"
+    }
+  },
+  {
+    "rank": 53,
+    "root": "apple",
+    "meaning": ["사괴", "apple"],
+    "origin": ["æppel"],
+    "from": "OldEnglish",
+    "ex": { "apple": "사과" }
+  },
+  {
+    "rank": 54,
+    "root": "apt(apt-)",
+    "meaning": ["적당히", "fit"],
+    "origin": ["aptus", "apere"],
+    "from": "Latin",
+    "ex": {
+      "adapt": "맞추다[조정하다]",
+      "adaptable": "적응할수있는",
+      "adaptation": "각색",
+      "apt": "적절한",
+      "aptitude": "소질",
+      "attitude": "태도[자세]"
+    }
+  },
+  {
+    "rank": 55,
+    "root": "aqua",
+    "meaning": ["물", "water"],
+    "origin": ["aqua"],
+    "from": "Latin",
+    "ex": { "Aquarius": "물병자리", "aquatic": "물속[물가]에서자라는[사는]" }
+  },
+  {
+    "rank": 56,
+    "root": "arbiter",
+    "meaning": ["중재"],
+    "origin": ["arbiter"],
+    "from": "Latin",
+    "ex": { "arbitrary": "임의적인", "arbitrate": "중재하다" }
+  },
+  {
+    "rank": 57,
+    "root": "arc(arc-, arch-)",
+    "meaning": ["활", "궁형(아치형)"],
+    "origin": ["arcus"],
+    "from": "Latin",
+    "ex": {
+      "arc": "호",
+      "arch": "아치형구조물",
+      "arched": "아치모양의",
+      "archer": "활쏘는사람",
+      "archeress": "여자궁수",
+      "archerfish": "사수어",
+      "archery": "궁도"
+    }
+  },
+  {
+    "rank": 58,
+    "root": "arcan(arcan-, arc-, erc-)",
+    "meaning": ["상자", "숨기다", "box"],
+    "origin": ["arcanus", "arcere", "arca"],
+    "from": "Latin",
+    "ex": {
+      "arcane": "비밀의",
+      "ark": "방주",
+      "coerce": "강압하다[강제하다]",
+      "coercion": "강제[강압]",
+      "exercise": "운동"
+    }
+  },
+  {
+    "rank": 59,
+    "root": "arch(arch, archi, archy)",
+    "meaning": ["지도자", "lead"],
+    "origin": ["arkhein", "arkhon", "arkhe"],
+    "from": "Greek",
+    "ex": {
+      "anarchism": "무정부주의",
+      "anarchist": "무정부주의자",
+      "anarchy": "무정부상태",
+      "arch-": "처음이되다",
+      "archbishop": "대주교",
+      "archipelago": "다도해",
+      "architect": "건축가",
+      "architectural": "건축학[술]의",
+      "architecture": "건축학[술]",
+      "archon": "집정관",
+      "autarch": "독재자",
+      "autarchy": "독재권",
+      "autarky": "경제적자급자족",
+      "gynarchy": "여권정치",
+      "hierarchical": "계급[계층]에따른",
+      "hierarchy": "계급[계층]",
+      "matriarch": "여자가장[우두머리]",
+      "monarch": "군주",
+      "monarchy": "군주제",
+      "octarchy": "8두",
+      "patriarch": "가장",
+      "patriarchy": "가부장제"
+    }
+  },
+  {
+    "rank": 60,
+    "root": "archaeo(archaeo-, archeo-, archi-, archae-, arche-)",
+    "meaning": ["고대의", "ancient"],
+    "origin": ["arkhaios"],
+    "from": "Greek",
+    "ex": {
+      "archaeo": "「고대의",
+      "archaeology": "고고학",
+      "archaic": "낡은",
+      "archeology": "고고학"
+    }
+  },
+  {
+    "rank": 61,
+    "root": "arct(arct-)",
+    "meaning": ["북극", "곰", "NorthPole"],
+    "origin": ["arktos", "arktikos"],
+    "from": "Greek",
+    "ex": {
+      "antarctic": "남극의",
+      "Antarctica": "남극대륙",
+      "arctic": "북극의"
+    }
+  },
+  {
+    "rank": 62,
+    "root": "arena",
+    "meaning": ["arena"],
+    "origin": ["harena", "arena"],
+    "from": "Latin",
+    "ex": { "arena": "경기장[공연장]" }
+  },
+  {
+    "rank": 63,
+    "root": "argue(argue-)",
+    "meaning": ["만들다", "알다"],
+    "origin": ["arguere", "argutare"],
+    "from": "Latin",
+    "ex": {
+      "argue": "언쟁을하다",
+      "argument": "논쟁",
+      "argumentative": "따지기좋아하는"
+    }
+  },
+  {
+    "rank": 64,
+    "root": "arm",
+    "meaning": ["무기", "arm"],
+    "origin": ["arma", "armare"],
+    "from": "Latin",
+    "ex": {
+      "alarm": "불안",
+      "arm": "팔",
+      "armed": "무기가사용되는",
+      "arms": "무기",
+      "army": "군대"
+    }
+  },
+  {
+    "rank": 65,
+    "root": "art",
+    "meaning": ["예술", "기술", "art"],
+    "origin": ["ars", "artis", "artitus", "artire"],
+    "from": "Latin",
+    "ex": {
+      "art": "미술",
+      "artefact": "인공물[가공품]",
+      "artifact": "인공물",
+      "artifice": "책략",
+      "artificial": "인공[인조]의",
+      "artificially": "인위적으로",
+      "artisan": "장인",
+      "artisanal": "공예가의",
+      "artist": "화가",
+      "artistic": "예술의",
+      "inert": "기력이없는"
+    }
+  },
+  {
+    "rank": 66,
+    "root": "artic",
+    "meaning": ["연결", "joint", "part"],
+    "origin": ["articulus", "artus"],
+    "from": "Latin",
+    "ex": {
+      "article": "글",
+      "articulate": "분명히표현하다[설명하다]",
+      "articulated": "연결된"
+    }
+  },
+  {
+    "rank": 67,
+    "root": "asper",
+    "meaning": ["거친"],
+    "origin": ["asper"],
+    "from": "Latin",
+    "ex": { "asperate": "꺼칠꺼칠한", "exasperate": "몹시화나게[짜증나게]하다" }
+  },
+  {
+    "rank": 68,
+    "root": "ass",
+    "meaning": ["ass"],
+    "origin": ["assa"],
+    "from": "OldEnglish",
+    "ex": { "ass": "멍청이" }
+  },
+  {
+    "rank": 69,
+    "root": "assassin",
+    "meaning": ["암살범", "assassin"],
+    "origin": ["assassinus"],
+    "from": "Latin",
+    "ex": {
+      "assassin": "암살범",
+      "assassinate": "암살하다",
+      "assassination": "암살"
+    }
+  },
+  {
+    "rank": 70,
+    "root": "astro(astro-)",
+    "meaning": ["별", "star"],
+    "origin": ["aster", "astron", "astro"],
+    "from": "Greek",
+    "ex": {
+      "Acanthaster": "불가사리의일종",
+      "aster": "별",
+      "asterisk": "별표",
+      "asteroid": "소행성",
+      "astral": "별의",
+      "astro": "별[천체]의",
+      "astrobiology": "우주생물학",
+      "astrobleme": "운석공",
+      "astrology": "점성술[학]",
+      "astrometry": "측성학",
+      "astronaut": "우주비행사",
+      "astronomer": "천문학자",
+      "astronomy": "천문학",
+      "astrophysics": "천체물리학",
+      "disaster": "참사",
+      "disastrous": "처참한"
+    }
+  },
+  {
+    "rank": 71,
+    "root": "athl(athl-)",
+    "meaning": ["운동", "육상", "athlete"],
+    "origin": ["athletes", "athlein", "athlos", "athlon"],
+    "from": "Greek",
+    "ex": {
+      "athl": "상",
+      "athlete": "선수",
+      "athletic": "탄탄한",
+      "athletics": "육상경기",
+      "biathlon": "바이애슬론",
+      "triathlon": "철인3종경기"
+    }
+  },
+  {
+    "rank": 72,
+    "root": "aud(aud-, audi-, audio-)",
+    "meaning": ["듣다"],
+    "origin": ["auditus", "audire"],
+    "from": "Latin",
+    "ex": {
+      "audible": "잘들리는",
+      "audience": "청중[관중]",
+      "audio": "소리",
+      "audiology": "청각학",
+      "audiovisual": "시청각의",
+      "audit": "회계를감사하다",
+      "audition": "오디션",
+      "auditor": "회계감사관",
+      "auditorium": "객석",
+      "auditory": "청각의"
+    }
+  },
+  {
+    "rank": 73,
+    "root": "aug(aug-, auct-)",
+    "meaning": ["커지다", "grow"],
+    "origin": ["augere", "auctor", "auctio", "auctus"],
+    "from": "Latin",
+    "ex": {
+      "auction": "경매로팔다",
+      "aug": "8월",
+      "augend": "피가산수",
+      "augment": "늘리다",
+      "augmentation": "증가",
+      "augur": "전조[조짐]가되다",
+      "augury": "전조",
+      "august": "8월",
+      "author": "작가",
+      "authority": "지휘권",
+      "authorize": "재가[인가]하다",
+      "autumn": "가을",
+      "auxiliary": "보조의",
+      "inaugurate": "취임하게하다",
+      "inauguration": "취임"
+    }
+  },
+  {
+    "rank": 74,
+    "root": "aunt",
+    "meaning": ["고모", "이모", "aunt"],
+    "origin": ["amita", "amma"],
+    "from": "Latin",
+    "ex": { "aunty": "아줌마" }
+  },
+  {
+    "rank": 75,
+    "root": "auto",
+    "meaning": ["혼자", "self"],
+    "origin": ["autos"],
+    "from": "Greek",
+    "ex": {
+      "autarch": "독재자",
+      "autarchy": "독재권",
+      "autarky": "경제적자급자족",
+      "authentic": "진본[진품]인",
+      "authenticate": "확실하게하다",
+      "autism": "자폐증",
+      "autistic": "자폐성[자폐증]의",
+      "auto": "자신",
+      "autobiography": "자서전",
+      "autocracy": "전제[독재]정치",
+      "autocrat": "전제군주",
+      "autodyne": "오토다인수신방식",
+      "autograph": "사인",
+      "automate": "자동화하다",
+      "automatic": "자동의",
+      "automation": "자동화",
+      "automatism": "오토마티즘",
+      "automaton": "로봇같은사람",
+      "automobile": "자동차",
+      "autonomy": "자치권"
+    }
+  },
+  {
+    "rank": 76,
+    "root": "ava",
+    "meaning": ["비탈", "downhil"],
+    "origin": ["aval"],
+    "from": "Franco-Provencal",
+    "ex": { "avalanche": "사태" }
+  },
+  {
+    "rank": 77,
+    "root": "aver",
+    "meaning": ["average"],
+    "origin": ["awariyya", "awar", "awira"],
+    "from": "Arabic",
+    "ex": { "average": "평균의" }
+  },
+  {
+    "rank": 78,
+    "root": "avi(avi-, au-)",
+    "meaning": ["새", "bird"],
+    "origin": ["avis"],
+    "from": "Latin",
+    "ex": {
+      "auspex": "복점관",
+      "auspice": "보호",
+      "auspicious": "상서로운",
+      "avi": "새",
+      "avian": "새[조류]의",
+      "aviary": "새장",
+      "aviate": "비행하다",
+      "aviation": "항공",
+      "aviator": "비행사",
+      "aviatrix": "여류비행가",
+      "avionics": "항공전자공학"
+    }
+  },
+  {
+    "rank": 79,
+    "root": "avid",
+    "meaning": ["avid"],
+    "origin": ["avidus", "avere"],
+    "from": "Latin",
+    "ex": { "avid": "열심인[열렬한]" }
+  },
+  {
+    "rank": 80,
+    "root": "awe",
+    "meaning": ["두려움", "awe"],
+    "origin": ["agi"],
+    "from": "OldNorse",
+    "ex": { "awful": "끔찍한", "awfully": "정말" }
+  },
+  {
+    "rank": 81,
+    "root": "awk",
+    "meaning": ["잘못된", "awk"],
+    "origin": ["afugr"],
+    "from": "OldNorse",
+    "ex": { "awkward": "어색한", "awkwardness": "어색함" }
+  }
+]

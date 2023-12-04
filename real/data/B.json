@@ -5,7 +5,7 @@
     "meaning": ["both"],
     "origin": ["begen", "ba"],
     "from": "OldEnglish",
-    "ex": [{ "both": "둘다" }]
+    "ex": { "both": "둘다" }
   },
   {
     "rank": 2,
@@ -13,7 +13,7 @@
     "meaning": ["아기", "babe"],
     "origin": ["babe", "baban"],
     "from": "MiddleEnglish",
-    "ex": [{ "baby": "아기" }]
+    "ex": { "baby": "아기" }
   },
   {
     "rank": 3,
@@ -21,7 +21,12 @@
     "meaning": ["뒤", "back"],
     "origin": ["bæc"],
     "from": "OldEnglish",
-    "ex": [{ "back": "등" }, { "backing": "지원" }, { "backward": "뒤의" }, { "backwards": "뒤로" }]
+    "ex": {
+      "back": "등",
+      "backing": "지원",
+      "backward": "뒤의",
+      "backwards": "뒤로"
+    }
   },
   {
     "rank": 4,
@@ -29,7 +34,7 @@
     "meaning": ["나쁜", "bad"],
     "origin": ["bæddel", "bædling", "bædan"],
     "from": "OldEnglish",
-    "ex": [{ "badly": "몸이아픈" }]
+    "ex": { "badly": "몸이아픈" }
   },
   {
     "rank": 5,
@@ -37,7 +42,7 @@
     "meaning": ["bag"],
     "origin": ["baggi"],
     "from": "OldNorse",
-    "ex": [{ "baggage": "앙금[응어리]" }]
+    "ex": { "baggage": "앙금[응어리]" }
   },
   {
     "rank": 6,
@@ -45,7 +50,7 @@
     "meaning": ["춤", "dance"],
     "origin": ["ballizein"],
     "from": "Greek",
-    "ex": [{ "ballet": "발레" }]
+    "ex": { "ballet": "발레" }
   },
   {
     "rank": 7,
@@ -53,14 +58,14 @@
     "meaning": ["공", "ball"],
     "origin": ["ballo", "bal", "balla"],
     "from": "OldHighGerman",
-    "ex": [
-      { "ball": "공" },
-      { "balloon": "풍선" },
-      { "ballot": "무기명[비밀]투표" },
-      { "baseball": "야구" },
-      { "football": "축구" },
-      { "footballer": "축구선수" }
-    ]
+    "ex": {
+      "ball": "공",
+      "balloon": "풍선",
+      "ballot": "무기명[비밀]투표",
+      "baseball": "야구",
+      "football": "축구",
+      "footballer": "축구선수"
+    }
   },
   {
     "rank": 8,
@@ -68,7 +73,7 @@
     "meaning": ["summon", "command", "proclaim"],
     "origin": ["bannan", "gebann", "bann"],
     "from": "OldEnglish",
-    "ex": [{ "ban": "금" }]
+    "ex": { "ban": "금" }
   },
   {
     "rank": 9,
@@ -76,7 +81,7 @@
     "meaning": ["띠", "묶다", "strip"],
     "origin": ["bend"],
     "from": "OldEnglish",
-    "ex": [{ "band": "밴드" }, { "bandage": "붕대" }, { "bond": "유대" }]
+    "ex": { "band": "밴드", "bandage": "붕대", "bond": "유대" }
   },
   {
     "rank": 10,
@@ -84,7 +89,7 @@
     "meaning": ["power", "jurisdiction"],
     "origin": ["bannum"],
     "from": "Latin",
-    "ex": [{ "abandon": "버리다[떠나다/유기하다]" }]
+    "ex": { "abandon": "버리다[떠나다/유기하다]" }
   },
   {
     "rank": 11,
@@ -92,14 +97,14 @@
     "meaning": ["은행", "table", "bench"],
     "origin": ["banc"],
     "from": "French",
-    "ex": [
-      { "bank": "은행" },
-      { "banker": "은행가" },
-      { "banking": "은행업무" },
-      { "bankrupt": "파산한" },
-      { "bankruptcy": "파산" },
-      { "banquet": "연회[만찬]" }
-    ]
+    "ex": {
+      "bank": "은행",
+      "banker": "은행가",
+      "banking": "은행업무",
+      "bankrupt": "파산한",
+      "bankruptcy": "파산",
+      "banquet": "연회[만찬]"
+    }
   },
   {
     "rank": 12,
@@ -107,15 +112,15 @@
     "meaning": ["막대기", "장벽", "bar"],
     "origin": ["barra"],
     "from": "Latin",
-    "ex": [
-      { "bar": "술집" },
-      { "barrel": "통" },
-      { "barrier": "장벽" },
-      { "embarrass": "당황스럽게[어색하게/쑥스럽게]만들다" },
-      { "embarrassed": "쑥스러운" },
-      { "embarrassing": "난처한" },
-      { "embarrassment": "어색함" }
-    ]
+    "ex": {
+      "bar": "술집",
+      "barrel": "통",
+      "barrier": "장벽",
+      "embarrass": "당황스럽게[어색하게/쑥스럽게]만들다",
+      "embarrassed": "쑥스러운",
+      "embarrassing": "난처한",
+      "embarrassment": "어색함"
+    }
   },
   {
     "rank": 13,
@@ -123,7 +128,7 @@
     "meaning": ["외국인", "용감한", "foreign"],
     "origin": ["barbaros", "barbaroi"],
     "from": "Greek",
-    "ex": [{ "barbarian": "이방인[미개인]" }, { "brave": "용감한" }]
+    "ex": { "barbarian": "이방인[미개인]", "brave": "용감한" }
   },
   {
     "rank": 14,
@@ -131,7 +136,7 @@
     "meaning": ["벌거벗은", "bare", "naked"],
     "origin": ["barian", "bær"],
     "from": "OldEnglish",
-    "ex": [{ "barely": "간신히" }]
+    "ex": { "barely": "간신히" }
   },
   {
     "rank": 15,
@@ -139,24 +144,24 @@
     "meaning": ["걸음", "기초", "step"],
     "origin": ["basis", "bema", "bematos", "bates", "bathron", "bainein"],
     "from": "Greek",
-    "ex": [
-      { "acrobat": "곡예사" },
-      { "acrobatic": "곡예의" },
-      { "aerobatic": "고등[곡예]비행의" },
-      { "anabasis": "진군" },
-      { "anabatic": "상승기류의[로생기는]" },
-      { "base": "맨아래부분" },
-      { "baseball": "야구" },
-      { "based": "근거지[본사]를둔" },
-      { "baseless": "근거없는" },
-      { "basement": "지하층" },
-      { "basic": "기본[근본]적인" },
-      { "basically": "근본적으로" },
-      { "basis": "근거" },
-      { "bass": "베이스" },
-      { "diabetes": "당뇨병" },
-      { "diabetic": "당뇨병환자" }
-    ]
+    "ex": {
+      "acrobat": "곡예사",
+      "acrobatic": "곡예의",
+      "aerobatic": "고등[곡예]비행의",
+      "anabasis": "진군",
+      "anabatic": "상승기류의[로생기는]",
+      "base": "맨아래부분",
+      "baseball": "야구",
+      "based": "근거지[본사]를둔",
+      "baseless": "근거없는",
+      "basement": "지하층",
+      "basic": "기본[근본]적인",
+      "basically": "근본적으로",
+      "basis": "근거",
+      "bass": "베이스",
+      "diabetes": "당뇨병",
+      "diabetic": "당뇨병환자"
+    }
   },
   {
     "rank": 16,
@@ -164,7 +169,7 @@
     "meaning": ["박쥐", "bat"],
     "origin": ["-"],
     "from": "Greek",
-    "ex": [{ "bat": "방망이" }]
+    "ex": { "bat": "방망이" }
   },
   {
     "rank": 17,
@@ -172,17 +177,17 @@
     "meaning": ["타도", "beat"],
     "origin": ["battalia", "batuere", "battuere", "batre"],
     "from": "Latin",
-    "ex": [
-      { "abate": "약해지다;약화시키다" },
-      { "batt": "이기다" },
-      { "battalion": "부대" },
-      { "batter": "두드리다[때리다/구타하다]" },
-      { "battery": "건전지" },
-      { "battle": "전투" },
-      { "combat": "전투" },
-      { "debate": "토론[토의/논의]" },
-      { "rebate": "환불" }
-    ]
+    "ex": {
+      "abate": "약해지다;약화시키다",
+      "batt": "이기다",
+      "battalion": "부대",
+      "batter": "두드리다[때리다/구타하다]",
+      "battery": "건전지",
+      "battle": "전투",
+      "combat": "전투",
+      "debate": "토론[토의/논의]",
+      "rebate": "환불"
+    }
   },
   {
     "rank": 18,
@@ -190,44 +195,44 @@
     "meaning": ["by", "about"],
     "origin": ["be-", "be", "bi", "bi-"],
     "from": "OldEnglish",
-    "ex": [
-      { "about": "약" },
-      { "above": "…보다위에[위로]" },
-      { "become": "…" },
-      { "becoming": "어울리는" },
-      { "before": "전[앞]에" },
-      { "beforehand": "사전에" },
-      { "begin": "시작하다" },
-      { "begrudge": "시기하다" },
-      { "behalf": "이익" },
-      { "behave": "처신[행동]하다" },
-      { "behaviour": "처신" },
-      { "behavioural": "행동하는" },
-      { "behind": "뒤에" },
-      { "behold": "보다" },
-      { "belie": "착각하게만들다" },
-      { "belief": "신념" },
-      { "believable": "그럴듯한" },
-      { "believe": "믿다" },
-      { "belong": "제자리[알맞은위치]에있다" },
-      { "belonging": "소유물" },
-      { "beloved": "~총애받는" },
-      { "bemoan": "한탄하다" },
-      { "beneath": "아래[밑]에" },
-      { "berate": "질책하다" },
-      { "bereave": "사별하다[여의다]" },
-      { "bereft": "~이전무한" },
-      { "beside": "옆에" },
-      { "besides": "외에" },
-      { "betoken": "징조[전조]이다" },
-      { "betray": "넘겨주다[팔아먹다]" },
-      { "between": "사이[중간]에" },
-      { "beyond": "…저편에[너머]" },
-      { "by": "옆[가]에" },
-      { "disbelief": "믿기지않음" },
-      { "misbehave": "못된짓을하다" },
-      { "unbelievable": "믿기어려울정도인[정도로좋은/나쁜/극단적인]" }
-    ]
+    "ex": {
+      "about": "약",
+      "above": "…보다위에[위로]",
+      "become": "…",
+      "becoming": "어울리는",
+      "before": "전[앞]에",
+      "beforehand": "사전에",
+      "begin": "시작하다",
+      "begrudge": "시기하다",
+      "behalf": "이익",
+      "behave": "처신[행동]하다",
+      "behaviour": "처신",
+      "behavioural": "행동하는",
+      "behind": "뒤에",
+      "behold": "보다",
+      "belie": "착각하게만들다",
+      "belief": "신념",
+      "believable": "그럴듯한",
+      "believe": "믿다",
+      "belong": "제자리[알맞은위치]에있다",
+      "belonging": "소유물",
+      "beloved": "~총애받는",
+      "bemoan": "한탄하다",
+      "beneath": "아래[밑]에",
+      "berate": "질책하다",
+      "bereave": "사별하다[여의다]",
+      "bereft": "~이전무한",
+      "beside": "옆에",
+      "besides": "외에",
+      "betoken": "징조[전조]이다",
+      "betray": "넘겨주다[팔아먹다]",
+      "between": "사이[중간]에",
+      "beyond": "…저편에[너머]",
+      "by": "옆[가]에",
+      "disbelief": "믿기지않음",
+      "misbehave": "못된짓을하다",
+      "unbelievable": "믿기어려울정도인[정도로좋은/나쁜/극단적인]"
+    }
   },
   {
     "rank": 19,
@@ -235,7 +240,7 @@
     "meaning": ["콩", "bean"],
     "origin": ["bean"],
     "from": "OldEnglish",
-    "ex": [{ "bean": "콩" }]
+    "ex": { "bean": "콩" }
   },
   {
     "rank": 20,
@@ -243,7 +248,12 @@
     "meaning": ["참다", "bear"],
     "origin": ["beran", "bær", "boren", "byrde", "gebyrde"],
     "from": "OldEnglish",
-    "ex": [{ "bear": "참다" }, { "berth": "침상" }, { "birth": "낳다" }, { "birthday": "생일" }]
+    "ex": {
+      "bear": "참다",
+      "berth": "침상",
+      "birth": "낳다",
+      "birthday": "생일"
+    }
   },
   {
     "rank": 21,
@@ -251,7 +261,11 @@
     "meaning": ["beat"],
     "origin": ["beatan"],
     "from": "OldEnglish",
-    "ex": [{ "beat": "이기다" }, { "beating": "때림" }, { "unbeatable": "패배시킬수없는" }]
+    "ex": {
+      "beat": "이기다",
+      "beating": "때림",
+      "unbeatable": "패배시킬수없는"
+    }
   },
   {
     "rank": 22,
@@ -259,18 +273,18 @@
     "meaning": ["싸움", "전쟁", "war"],
     "origin": ["bellona", "bellare", "bellum", "belli", "bellicus"],
     "from": "Latin",
-    "ex": [
-      { "antebellum": "전쟁전의" },
-      { "bell-": "전쟁" },
-      { "bellicose": "호전적인" },
-      { "belligerent": "적대적인" },
-      { "Bellona": "전쟁의여신" },
-      { "bellum": "전쟁" },
-      { "postbellum": "전후" },
-      { "rebel": "반란[모반]을일으키다" },
-      { "rebellion": "반란" },
-      { "rebellious": "반항적인" }
-    ]
+    "ex": {
+      "antebellum": "전쟁전의",
+      "bell-": "전쟁",
+      "bellicose": "호전적인",
+      "belligerent": "적대적인",
+      "Bellona": "전쟁의여신",
+      "bellum": "전쟁",
+      "postbellum": "전후",
+      "rebel": "반란[모반]을일으키다",
+      "rebellion": "반란",
+      "rebellious": "반항적인"
+    }
   },
   {
     "rank": 23,
@@ -278,19 +292,19 @@
     "meaning": ["아름다운", "미(美)"],
     "origin": ["bella", "bellus"],
     "from": "Latin",
-    "ex": [
-      { "beauteous": "어여쁜" },
-      { "beautician": "미용사" },
-      { "beautiful": "아름다운" },
-      { "beautifully": "아름답게" },
-      { "beauty": "아름다움" },
-      { "beldam": "노파" },
-      { "belladonna": "벨라도나" },
-      { "Bellar": "여자이름" },
-      { "belle": "미인" },
-      { "belvedere": "전망대" },
-      { "embellish": "장식하다" }
-    ]
+    "ex": {
+      "beauteous": "어여쁜",
+      "beautician": "미용사",
+      "beautiful": "아름다운",
+      "beautifully": "아름답게",
+      "beauty": "아름다움",
+      "beldam": "노파",
+      "belladonna": "벨라도나",
+      "Bellar": "여자이름",
+      "belle": "미인",
+      "belvedere": "전망대",
+      "embellish": "장식하다"
+    }
   },
   {
     "rank": 24,
@@ -298,7 +312,7 @@
     "meaning": ["bench"],
     "origin": ["benc"],
     "from": "OldEnglish",
-    "ex": [{ "bench": "벤치" }]
+    "ex": { "bench": "벤치" }
   },
   {
     "rank": 25,
@@ -306,20 +320,20 @@
     "meaning": ["좋은"],
     "origin": ["bene"],
     "from": "Latin",
-    "ex": [
-      { "benedict": "신혼의남성" },
-      { "benediction": "축복" },
-      { "benefaction": "기부금" },
-      { "benefactor": "후원자" },
-      { "benefic": "은혜를베푸는" },
-      { "benefice": "유급성직자의직책" },
-      { "beneficial": "유익한" },
-      { "beneficiary": "수혜자" },
-      { "benefit": "혜택" },
-      { "benevolence": "자비심" },
-      { "benevolent": "자애로운" },
-      { "benign": "상냥한" }
-    ]
+    "ex": {
+      "benedict": "신혼의남성",
+      "benediction": "축복",
+      "benefaction": "기부금",
+      "benefactor": "후원자",
+      "benefic": "은혜를베푸는",
+      "benefice": "유급성직자의직책",
+      "beneficial": "유익한",
+      "beneficiary": "수혜자",
+      "benefit": "혜택",
+      "benevolence": "자비심",
+      "benevolent": "자애로운",
+      "benign": "상냥한"
+    }
   },
   {
     "rank": 26,
@@ -327,7 +341,7 @@
     "meaning": ["berry"],
     "origin": ["berie"],
     "from": "OldEnglish",
-    "ex": [{ "berry": "베리" }]
+    "ex": { "berry": "베리" }
   },
   {
     "rank": 27,
@@ -335,7 +349,7 @@
     "meaning": ["best"],
     "origin": ["-"],
     "from": "OldEnglish",
-    "ex": [{ "bestselling": "베스트셀러의" }]
+    "ex": { "bestselling": "베스트셀러의" }
   },
   {
     "rank": 28,
@@ -343,7 +357,7 @@
     "meaning": ["bet"],
     "origin": ["beter"],
     "from": "French",
-    "ex": [{ "abet": "사주하다[교사하다]" }, { "bet": "돈을걸다" }, { "betting": "내기" }]
+    "ex": { "abet": "사주하다[교사하다]", "bet": "돈을걸다", "betting": "내기" }
   },
   {
     "rank": 29,
@@ -351,7 +365,7 @@
     "meaning": ["around"],
     "origin": ["by", "BE-"],
     "from": "MiddleEnglish",
-    "ex": [{ "because": "…때문에" }, { "beware": "조심[주의]하다" }]
+    "ex": { "because": "…때문에", "beware": "조심[주의]하다" }
   },
   {
     "rank": 30,
@@ -359,25 +373,25 @@
     "meaning": ["둘(2)", "two"],
     "origin": ["bi", "bis", "bini", "bi-"],
     "from": "Latin",
-    "ex": [
-      { "balance": "균형[평형]" },
-      { "balanced": "균형잡힌" },
-      { "bi": "두번[두배]" },
-      { "biathlon": "바이애슬론" },
-      { "bicentenary": "200주년기념해[일]의" },
-      { "bicycle": "자전거" },
-      { "biennial": "년에한번씩의" },
-      { "bilateral": "쌍방의" },
-      { "bilingual": "두개언어를할줄아는" },
-      { "billion": "10억" },
-      { "billionaire": "억만장자" },
-      { "binary": "2진법의" },
-      { "bine": "둘의제곱" },
-      { "biscuit": "비스킷" },
-      { "combination": "조합[결합]" },
-      { "combine": "결합하다[되다]" },
-      { "imbalance": "불균형" }
-    ]
+    "ex": {
+      "balance": "균형[평형]",
+      "balanced": "균형잡힌",
+      "bi": "두번[두배]",
+      "biathlon": "바이애슬론",
+      "bicentenary": "200주년기념해[일]의",
+      "bicycle": "자전거",
+      "biennial": "년에한번씩의",
+      "bilateral": "쌍방의",
+      "bilingual": "두개언어를할줄아는",
+      "billion": "10억",
+      "billionaire": "억만장자",
+      "binary": "2진법의",
+      "bine": "둘의제곱",
+      "biscuit": "비스킷",
+      "combination": "조합[결합]",
+      "combine": "결합하다[되다]",
+      "imbalance": "불균형"
+    }
   },
   {
     "rank": 31,
@@ -385,16 +399,16 @@
     "meaning": ["마시다", "음료", "drink"],
     "origin": ["bibere", "bibulus"],
     "from": "Latin",
-    "ex": [
-      { "beer": "맥주" },
-      { "bever": "가벼운식사" },
-      { "beverage": "음료" },
-      { "bib": "잘마시다" },
-      { "bibber": "술꾼" },
-      { "bibulous": "술고래인" },
-      { "imbibe": "마시다" },
-      { "winebibber": "술고래" }
-    ]
+    "ex": {
+      "beer": "맥주",
+      "bever": "가벼운식사",
+      "beverage": "음료",
+      "bib": "잘마시다",
+      "bibber": "술꾼",
+      "bibulous": "술고래인",
+      "imbibe": "마시다",
+      "winebibber": "술고래"
+    }
   },
   {
     "rank": 32,
@@ -402,24 +416,24 @@
     "meaning": ["책", "종이", "book"],
     "origin": ["biblion"],
     "from": "Greek",
-    "ex": [
-      { "Bible": "성경" },
-      { "biblio": "책" },
-      { "biblioclast": "서적파괴[주의]자" },
-      { "bibliographic": "서지" },
-      { "bibliography": "서지학" },
-      { "biblioklept": "책도둑" },
-      { "bibliolatry": "서적숭배" },
-      { "bibliology": "서적학" },
-      { "bibliomancy": "서적점" },
-      { "bibliomania": "장서벽" },
-      { "bibliophile": "애서가" },
-      { "bibliophilia": "책좋아하는사람" },
-      { "bibliophobe": "서적혐오자[기피자]" },
-      { "bibliophobia": "서적혐오자[기피자]" },
-      { "bibliotaph": "책을묻어서숨기는사람" },
-      { "Bibliotherapy": "독서요법" }
-    ]
+    "ex": {
+      "Bible": "성경",
+      "biblio": "책",
+      "biblioclast": "서적파괴[주의]자",
+      "bibliographic": "서지",
+      "bibliography": "서지학",
+      "biblioklept": "책도둑",
+      "bibliolatry": "서적숭배",
+      "bibliology": "서적학",
+      "bibliomancy": "서적점",
+      "bibliomania": "장서벽",
+      "bibliophile": "애서가",
+      "bibliophilia": "책좋아하는사람",
+      "bibliophobe": "서적혐오자[기피자]",
+      "bibliophobia": "서적혐오자[기피자]",
+      "bibliotaph": "책을묻어서숨기는사람",
+      "Bibliotherapy": "독서요법"
+    }
   },
   {
     "rank": 33,
@@ -427,7 +441,7 @@
     "meaning": ["명령", "bid", "command"],
     "origin": ["beodan", "biddan"],
     "from": "OldEnglish",
-    "ex": [{ "bid": "가격제시" }, { "forbid": "금" }]
+    "ex": { "bid": "가격제시", "forbid": "금" }
   },
   {
     "rank": 34,
@@ -435,7 +449,7 @@
     "meaning": ["큰", "big"],
     "origin": ["bugge"],
     "from": "Norwegian",
-    "ex": [{ "big": "큰" }]
+    "ex": { "big": "큰" }
   },
   {
     "rank": 35,
@@ -443,7 +457,7 @@
     "meaning": ["bill"],
     "origin": ["billa", "bulla"],
     "from": "Latin",
-    "ex": [{ "bill": "고지서" }]
+    "ex": { "bill": "고지서" }
   },
   {
     "rank": 36,
@@ -451,7 +465,7 @@
     "meaning": ["bin"],
     "origin": ["binne"],
     "from": "OldEnglish",
-    "ex": [{ "bin": "쓰레기통" }]
+    "ex": { "bin": "쓰레기통" }
   },
   {
     "rank": 37,
@@ -459,7 +473,7 @@
     "meaning": ["묶다", "감다", "bind"],
     "origin": ["bindan", "bunden"],
     "from": "OldEnglish",
-    "ex": [{ "bind": "묶다" }, { "bound": "꼭…할것같은" }, { "bundle": "꾸러미" }]
+    "ex": { "bind": "묶다", "bound": "꼭…할것같은", "bundle": "꾸러미" }
   },
   {
     "rank": 38,
@@ -467,42 +481,42 @@
     "meaning": ["생명", "life"],
     "origin": ["bioun", "bios", "biotos", "biotikos", "biosis"],
     "from": "Greek",
-    "ex": [
-      { "abio": "생" },
-      { "abiogenesis": "자연발생" },
-      { "abiotic": "생명과관련없는" },
-      { "aerobic": "호기성의" },
-      { "aerobiology": "공중생물학" },
-      { "amphibious": "양서류인" },
-      { "antibiosis": "항생" },
-      { "antibiotic": "항생제" },
-      { "antibiotics": "항생물질" },
-      { "astrobiology": "우주생물학" },
-      { "autobiography": "자서전" },
-      { "bio": "생물학" },
-      { "biocentric": "생명을중심으로하는" },
-      { "biochemical": "생화학의" },
-      { "biochronology": "생물연대학" },
-      { "biogenesis": "생물발생" },
-      { "biograph": "…의전기" },
-      { "biography": "전기" },
-      { "biological": "생물학의" },
-      { "biologically": "생물학적으로" },
-      { "biologist": "생물학자" },
-      { "biology": "생물학" },
-      { "biome": "생물군계" },
-      { "bionics": "생체[생물]공학" },
-      { "biophilia": "생명애" },
-      { "biopsy": "생체[조직]검사" },
-      { "bioscientist": "생명[생물]과학자" },
-      { "biotic": "생물의" },
-      { "biotin": "비오틴" },
-      { "microbe": "미생물" },
-      { "microbial": "미생물의" },
-      { "microbiologist": "미생물학자" },
-      { "microbiology": "미생물학" },
-      { "microbiome": "마이크로바이옴" }
-    ]
+    "ex": {
+      "abio": "생",
+      "abiogenesis": "자연발생",
+      "abiotic": "생명과관련없는",
+      "aerobic": "호기성의",
+      "aerobiology": "공중생물학",
+      "amphibious": "양서류인",
+      "antibiosis": "항생",
+      "antibiotic": "항생제",
+      "antibiotics": "항생물질",
+      "astrobiology": "우주생물학",
+      "autobiography": "자서전",
+      "bio": "생물학",
+      "biocentric": "생명을중심으로하는",
+      "biochemical": "생화학의",
+      "biochronology": "생물연대학",
+      "biogenesis": "생물발생",
+      "biograph": "…의전기",
+      "biography": "전기",
+      "biological": "생물학의",
+      "biologically": "생물학적으로",
+      "biologist": "생물학자",
+      "biology": "생물학",
+      "biome": "생물군계",
+      "bionics": "생체[생물]공학",
+      "biophilia": "생명애",
+      "biopsy": "생체[조직]검사",
+      "bioscientist": "생명[생물]과학자",
+      "biotic": "생물의",
+      "biotin": "비오틴",
+      "microbe": "미생물",
+      "microbial": "미생물의",
+      "microbiologist": "미생물학자",
+      "microbiology": "미생물학",
+      "microbiome": "마이크로바이옴"
+    }
   },
   {
     "rank": 39,
@@ -510,7 +524,7 @@
     "meaning": ["bird"],
     "origin": ["bird", "bridd"],
     "from": "OldEnglish",
-    "ex": [{ "bird": "새를잡다[쏘다]" }]
+    "ex": { "bird": "새를잡다[쏘다]" }
   },
   {
     "rank": 40,
@@ -518,7 +532,7 @@
     "meaning": ["주교", "관찰자"],
     "origin": ["bisceop"],
     "from": "OldEnglish",
-    "ex": [{ "archbishop": "대주교" }, { "bishop": "주교" }]
+    "ex": { "archbishop": "대주교", "bishop": "주교" }
   },
   {
     "rank": 41,
@@ -526,7 +540,7 @@
     "meaning": ["물다", "쓰라린", "bite"],
     "origin": ["bitan", "biterian", "bitere", "biter"],
     "from": "OldEnglish",
-    "ex": [{ "bitter": "격렬한" }, { "bitterness": "씀" }]
+    "ex": { "bitter": "격렬한", "bitterness": "씀" }
   },
   {
     "rank": 42,
@@ -534,7 +548,7 @@
     "meaning": ["black"],
     "origin": ["blæc"],
     "from": "OldEnglish",
-    "ex": [{ "black": "검은" }]
+    "ex": { "black": "검은" }
   },
   {
     "rank": 43,
@@ -542,7 +556,7 @@
     "meaning": ["blade"],
     "origin": ["blæd"],
     "from": "OldEnglish",
-    "ex": [{ "blade": "날" }]
+    "ex": { "blade": "날" }
   },
   {
     "rank": 44,
@@ -550,7 +564,7 @@
     "meaning": ["흰색의", "blank"],
     "origin": ["blanc", "blanche"],
     "from": "French",
-    "ex": [{ "blank": "빈" }, { "blanket": "담요" }]
+    "ex": { "blank": "빈", "blanket": "담요" }
   },
   {
     "rank": 45,
@@ -558,7 +572,7 @@
     "meaning": ["blast"],
     "origin": ["blæst", "blæstan"],
     "from": "OldEnglish",
-    "ex": [{ "blast": "폭발시키다" }]
+    "ex": { "blast": "폭발시키다" }
   },
   {
     "rank": 46,
@@ -566,7 +580,7 @@
     "meaning": ["bless"],
     "origin": ["bletsian", "bledsian", "bibles", "blod"],
     "from": "OldEnglish",
-    "ex": [{ "blessing": "축복" }]
+    "ex": { "blessing": "축복" }
   },
   {
     "rank": 47,
@@ -574,7 +588,7 @@
     "meaning": ["눈이멀다", "blind"],
     "origin": ["blind", "blendan"],
     "from": "OldEnglish",
-    "ex": [{ "blindness": "맹목" }]
+    "ex": { "blindness": "맹목" }
   },
   {
     "rank": 48,
@@ -582,7 +596,7 @@
     "meaning": ["블로그"],
     "origin": ["weblog"],
     "from": "English",
-    "ex": [{ "blog": "블로그" }]
+    "ex": { "blog": "블로그" }
   },
   {
     "rank": 49,
@@ -590,7 +604,7 @@
     "meaning": ["blond"],
     "origin": ["blundus"],
     "from": "Latin",
-    "ex": [{ "blonde": "금발인" }]
+    "ex": { "blonde": "금발인" }
   },
   {
     "rank": 50,
@@ -598,15 +612,15 @@
     "meaning": ["피", "출생", "blood"],
     "origin": ["blod", "bredan"],
     "from": "OldEnglish",
-    "ex": [
-      { "bleed": "피를흘리다" },
-      { "blood": "피" },
-      { "bloody": "피비린내나는" },
-      { "breed": "새끼를낳다" },
-      { "breeding": "사육" },
-      { "inbreed": "동종번식[교배]시키다" },
-      { "inbreeding": "근친[동계]교배" }
-    ]
+    "ex": {
+      "bleed": "피를흘리다",
+      "blood": "피",
+      "bloody": "피비린내나는",
+      "breed": "새끼를낳다",
+      "breeding": "사육",
+      "inbreed": "동종번식[교배]시키다",
+      "inbreeding": "근친[동계]교배"
+    }
   },
   {
     "rank": 51,
@@ -614,7 +628,7 @@
     "meaning": ["bloom"],
     "origin": ["blomi"],
     "from": "OldNorse",
-    "ex": [{ "bloom": "꽃" }]
+    "ex": { "bloom": "꽃" }
   },
   {
     "rank": 52,
@@ -622,16 +636,23 @@
     "meaning": ["blossom"],
     "origin": ["blostma", "blosma", "blostm", "blostmian"],
     "from": "OldEnglish",
-    "ex": [{ "blossom": "꽃" }]
+    "ex": { "blossom": "꽃" }
   },
-  { "rank": 53, "root": "blue", "meaning": ["blue"], "origin": ["bleu"], "from": "French", "ex": [{ "blue": "파란" }] },
+  {
+    "rank": 53,
+    "root": "blue",
+    "meaning": ["blue"],
+    "origin": ["bleu"],
+    "from": "French",
+    "ex": { "blue": "파란" }
+  },
   {
     "rank": 54,
     "root": "board(board, border)",
     "meaning": ["판자", "경계"],
     "origin": ["bord"],
     "from": "OldEnglish",
-    "ex": [{ "board": "판자" }, { "boardlike": "" }, { "border": "국경[경계]" }]
+    "ex": { "board": "판자", "boardlike": "", "border": "국경[경계]" }
   },
   {
     "rank": 55,
@@ -639,7 +660,7 @@
     "meaning": ["boast"],
     "origin": ["bost"],
     "from": "French",
-    "ex": [{ "boast": "뽐내다" }, { "boasting": "" }]
+    "ex": { "boast": "뽐내다", "boasting": "" }
   },
   {
     "rank": 56,
@@ -647,7 +668,7 @@
     "meaning": ["body"],
     "origin": ["bodig"],
     "from": "OldEnglish",
-    "ex": [{ "bodily": "신체의" }, { "body": "몸" }, { "embody": "상징[구현]하다" }]
+    "ex": { "bodily": "신체의", "body": "몸", "embody": "상징[구현]하다" }
   },
   {
     "rank": 57,
@@ -655,41 +676,41 @@
     "meaning": ["던지다", "throw"],
     "origin": ["bole", "blema", "ballein"],
     "from": "Greek",
-    "ex": [
-      { "ametabolic": "불변태" },
-      { "amphibole": "각섬석" },
-      { "anabolic": "동화" },
-      { "anabolism": "동화작용" },
-      { "astrobleme": "운석공" },
-      { "ballista": "노포" },
-      { "ballistic": "탄도학의" },
-      { "bole": "던지다" },
-      { "bolide": "불덩이[폭발]유성" },
-      { "bolometer": "볼로미터" },
-      { "catabolic": "이화" },
-      { "catabolism": "이화작용" },
-      { "devil": "악마" },
-      { "diabolic": "악마의[같은]" },
-      { "diabolo": "디아볼로" },
-      { "emblem": "상징" },
-      { "embolic": "색전" },
-      { "embolus": "색전" },
-      { "hyperbola": "쌍곡선" },
-      { "hyperbole": "과장" },
-      { "metabolic": "물질[신진]대사의" },
-      { "metabolism": "신진[물질]대사" },
-      { "palaver": "쓸데없는짓" },
-      { "parabola": "포물선" },
-      { "parle": "대화" },
-      { "parley": "교섭" },
-      { "parol": "진술" },
-      { "parole": "가석방" },
-      { "problem": "문제" },
-      { "problematic": "문제가있는[많은]" },
-      { "symbol": "상징" },
-      { "symbolic": "상징적인" },
-      { "symbolize": "상징하다" }
-    ]
+    "ex": {
+      "ametabolic": "불변태",
+      "amphibole": "각섬석",
+      "anabolic": "동화",
+      "anabolism": "동화작용",
+      "astrobleme": "운석공",
+      "ballista": "노포",
+      "ballistic": "탄도학의",
+      "bole": "던지다",
+      "bolide": "불덩이[폭발]유성",
+      "bolometer": "볼로미터",
+      "catabolic": "이화",
+      "catabolism": "이화작용",
+      "devil": "악마",
+      "diabolic": "악마의[같은]",
+      "diabolo": "디아볼로",
+      "emblem": "상징",
+      "embolic": "색전",
+      "embolus": "색전",
+      "hyperbola": "쌍곡선",
+      "hyperbole": "과장",
+      "metabolic": "물질[신진]대사의",
+      "metabolism": "신진[물질]대사",
+      "palaver": "쓸데없는짓",
+      "parabola": "포물선",
+      "parle": "대화",
+      "parley": "교섭",
+      "parol": "진술",
+      "parole": "가석방",
+      "problem": "문제",
+      "problematic": "문제가있는[많은]",
+      "symbol": "상징",
+      "symbolic": "상징적인",
+      "symbolize": "상징하다"
+    }
   },
   {
     "rank": 58,
@@ -697,7 +718,7 @@
     "meaning": ["bold"],
     "origin": ["beald", "bald"],
     "from": "OldEnglish",
-    "ex": [{ "bold": "용감한" }, { "boldness": "" }]
+    "ex": { "bold": "용감한", "boldness": "" }
   },
   {
     "rank": 59,
@@ -705,7 +726,7 @@
     "meaning": ["bolt"],
     "origin": ["bolt"],
     "from": "OldEnglish",
-    "ex": [{ "bolt": "빗장" }]
+    "ex": { "bolt": "빗장" }
   },
   {
     "rank": 60,
@@ -713,7 +734,7 @@
     "meaning": ["bomb"],
     "origin": ["bombus"],
     "from": "Latin",
-    "ex": [{ "bomb": "폭탄" }, { "bombing": "폭격" }]
+    "ex": { "bomb": "폭탄", "bombing": "폭격" }
   },
   {
     "rank": 61,
@@ -721,7 +742,7 @@
     "meaning": ["뼈", "bone"],
     "origin": ["ban", "bone"],
     "from": "OldEnglish",
-    "ex": [{ "bone": "뼈" }]
+    "ex": { "bone": "뼈" }
   },
   {
     "rank": 62,
@@ -729,7 +750,7 @@
     "meaning": ["bonk"],
     "origin": ["-"],
     "from": "OldEnglish",
-    "ex": [{ "bonkers": "완전히제정신이아닌" }]
+    "ex": { "bonkers": "완전히제정신이아닌" }
   },
   {
     "rank": 63,
@@ -737,7 +758,7 @@
     "meaning": ["막대기", "빛줄기", "boom"],
     "origin": ["boun"],
     "from": "Scottish",
-    "ex": [{ "boom": "붐" }, { "boom": "팔" }]
+    "ex": { "boom": "팔" }
   },
   {
     "rank": 64,
@@ -745,12 +766,12 @@
     "meaning": ["bore"],
     "origin": ["borian", "bor"],
     "from": "OldEnglish",
-    "ex": [
-      { "bore": "지루하게[따분하게]만들다" },
-      { "bored": "지루해[따분해]하는" },
-      { "boredom": "지루함" },
-      { "boring": "재미없는" }
-    ]
+    "ex": {
+      "bore": "지루하게[따분하게]만들다",
+      "bored": "지루해[따분해]하는",
+      "boredom": "지루함",
+      "boring": "재미없는"
+    }
   },
   {
     "rank": 65,
@@ -758,7 +779,7 @@
     "meaning": ["borrow"],
     "origin": ["borgian", "borh", "borg"],
     "from": "OldEnglish",
-    "ex": [{ "borrow": "빌리다" }]
+    "ex": { "borrow": "빌리다" }
   },
   {
     "rank": 66,
@@ -766,7 +787,11 @@
     "meaning": ["보스", "boss"],
     "origin": ["baas", "baes"],
     "from": "Dutch",
-    "ex": [{ "beef": "소[쇠]고기" }, { "boss": "상관" }, { "bossy": "우두머리행세를하는" }]
+    "ex": {
+      "beef": "소[쇠]고기",
+      "boss": "상관",
+      "bossy": "우두머리행세를하는"
+    }
   },
   {
     "rank": 67,
@@ -774,7 +799,7 @@
     "meaning": ["bottom"],
     "origin": ["botm", "bodan"],
     "from": "OldEnglish",
-    "ex": [{ "bottom": "맨아래" }]
+    "ex": { "bottom": "맨아래" }
   },
   {
     "rank": 68,
@@ -782,7 +807,7 @@
     "meaning": ["경계", "한계;bound"],
     "origin": ["bunda", "bodina"],
     "from": "Latin",
-    "ex": [{ "boundary": "경계[한계]" }]
+    "ex": { "boundary": "경계[한계]" }
   },
   {
     "rank": 69,
@@ -790,7 +815,7 @@
     "meaning": ["절하다", "bow"],
     "origin": ["bugan", "beag", "bogen"],
     "from": "OldEnglish",
-    "ex": [{ "bowed": "굽은" }]
+    "ex": { "bowed": "굽은" }
   },
   {
     "rank": 70,
@@ -798,7 +823,7 @@
     "meaning": ["box"],
     "origin": ["-"],
     "from": "OldEnglish",
-    "ex": [{ "box": "권투를하다" }, { "boxer": "권투선수" }]
+    "ex": { "box": "권투를하다", "boxer": "권투선수" }
   },
   {
     "rank": 71,
@@ -806,7 +831,7 @@
     "meaning": ["팔"],
     "origin": ["-"],
     "from": "OldEnglish",
-    "ex": [{ "brace": "버팀대" }, { "embrace": "포옹" }]
+    "ex": { "brace": "버팀대", "embrace": "포옹" }
   },
   {
     "rank": 72,
@@ -814,7 +839,11 @@
     "meaning": ["뇌", "brain"],
     "origin": ["brægen"],
     "from": "OldEnglish",
-    "ex": [{ "brain": "뇌" }, { "brainstorming": "창조적집단사고" }, { "brainy": "아주똑똑한" }]
+    "ex": {
+      "brain": "뇌",
+      "brainstorming": "창조적집단사고",
+      "brainy": "아주똑똑한"
+    }
   },
   {
     "rank": 73,
@@ -822,7 +851,7 @@
     "meaning": ["branch"],
     "origin": ["branca"],
     "from": "Latin",
-    "ex": [{ "branch": "나뭇가지" }]
+    "ex": { "branch": "나뭇가지" }
   },
   {
     "rank": 74,
@@ -830,7 +859,7 @@
     "meaning": ["상표", "brand"],
     "origin": ["brand", "brond"],
     "from": "OldEnglish",
-    "ex": [{ "brand": "상표" }]
+    "ex": { "brand": "상표" }
   },
   {
     "rank": 75,
@@ -838,7 +867,12 @@
     "meaning": ["break"],
     "origin": ["brecan"],
     "from": "OldEnglish",
-    "ex": [{ "breach": "위반" }, { "break": "깨어지다" }, { "breakfast": "아침" }, { "breaking": "파괴" }]
+    "ex": {
+      "breach": "위반",
+      "break": "깨어지다",
+      "breakfast": "아침",
+      "breaking": "파괴"
+    }
   },
   {
     "rank": 76,
@@ -846,7 +880,7 @@
     "meaning": ["가슴", "breast"],
     "origin": ["breost"],
     "from": "OldEnglish",
-    "ex": [{ "breast": "유방" }]
+    "ex": { "breast": "유방" }
   },
   {
     "rank": 77,
@@ -854,7 +888,7 @@
     "meaning": ["호흡", "breath"],
     "origin": ["bræð", "bræth"],
     "from": "OldEnglish",
-    "ex": [{ "breath": "입김[숨]" }, { "breathe": "호흡하다" }]
+    "ex": { "breath": "입김[숨]", "breathe": "호흡하다" }
   },
   {
     "rank": 78,
@@ -862,7 +896,7 @@
     "meaning": ["산들바람", "breeze"],
     "origin": ["briza"],
     "from": "OldSpanish",
-    "ex": [{ "breeze": "산들바람" }]
+    "ex": { "breeze": "산들바람" }
   },
   {
     "rank": 79,
@@ -870,14 +904,14 @@
     "meaning": ["작은", "short"],
     "origin": ["brevis", "breve", "breviare"],
     "from": "Latin",
-    "ex": [
-      { "abbreviate": "줄여쓰다[축약하다]" },
-      { "abbreviated": "단축[생략]된" },
-      { "abbreviation": "축약형" },
-      { "abridge": "요약[축약]하다" },
-      { "brief": "짧은" },
-      { "briefly": "잠시" }
-    ]
+    "ex": {
+      "abbreviate": "줄여쓰다[축약하다]",
+      "abbreviated": "단축[생략]된",
+      "abbreviation": "축약형",
+      "abridge": "요약[축약]하다",
+      "brief": "짧은",
+      "briefly": "잠시"
+    }
   },
   {
     "rank": 80,
@@ -885,7 +919,7 @@
     "meaning": ["다리", "bridge"],
     "origin": ["brycge", "brycgian", "brycg"],
     "from": "OldEnglish",
-    "ex": [{ "bridge": "다리" }]
+    "ex": { "bridge": "다리" }
   },
   {
     "rank": 81,
@@ -893,7 +927,7 @@
     "meaning": ["밝은", "bright"],
     "origin": ["beorht", "bryht"],
     "from": "OldEnglish",
-    "ex": [{ "bright": "밝은" }, { "brighten": "밝아지다" }, { "brightly": "밝게" }]
+    "ex": { "bright": "밝은", "brighten": "밝아지다", "brightly": "밝게" }
   },
   {
     "rank": 82,
@@ -901,7 +935,7 @@
     "meaning": ["bring"],
     "origin": ["bringan"],
     "from": "OldEnglish",
-    "ex": [{ "upbringing": "양육" }]
+    "ex": { "upbringing": "양육" }
   },
   {
     "rank": 83,
@@ -909,14 +943,14 @@
     "meaning": ["넓다", "wide"],
     "origin": ["brad"],
     "from": "OldEnglish",
-    "ex": [
-      { "abroad": "해외에" },
-      { "broad": "넓은" },
-      { "broadcast": "방송하다" },
-      { "broadcaster": "방송인" },
-      { "broadcasting": "방송업[계]" },
-      { "broadly": "대략" }
-    ]
+    "ex": {
+      "abroad": "해외에",
+      "broad": "넓은",
+      "broadcast": "방송하다",
+      "broadcaster": "방송인",
+      "broadcasting": "방송업[계]",
+      "broadly": "대략"
+    }
   },
   {
     "rank": 84,
@@ -924,7 +958,7 @@
     "meaning": ["새끼", "태아", "brood"],
     "origin": ["brod", "bred"],
     "from": "OldEnglish",
-    "ex": [{ "brood": "새끼들" }]
+    "ex": { "brood": "새끼들" }
   },
   {
     "rank": 85,
@@ -932,7 +966,7 @@
     "meaning": ["brother"],
     "origin": ["broþor", "brothor"],
     "from": "OldEnglish",
-    "ex": [{ "brother": "형" }]
+    "ex": { "brother": "형" }
   },
   {
     "rank": 86,
@@ -940,7 +974,7 @@
     "meaning": ["이마", "눈썹", "eyebrow"],
     "origin": ["bru", "brua"],
     "from": "OldEnglish",
-    "ex": [{ "brow": "이마" }, { "eyebrow": "눈썹" }]
+    "ex": { "brow": "이마", "eyebrow": "눈썹" }
   },
   {
     "rank": 87,
@@ -948,7 +982,7 @@
     "meaning": ["갈색", "brown"],
     "origin": ["brun"],
     "from": "OldEnglish",
-    "ex": [{ "brown": "갈색[밤색/고동색]의" }]
+    "ex": { "brown": "갈색[밤색/고동색]의" }
   },
   {
     "rank": 88,
@@ -956,7 +990,7 @@
     "meaning": ["brusque"],
     "origin": ["bruko-"],
     "from": "Gaulish",
-    "ex": [{ "brusque": "무뚝뚝한" }]
+    "ex": { "brusque": "무뚝뚝한" }
   },
   {
     "rank": 89,
@@ -964,7 +998,7 @@
     "meaning": ["사슴", "buck"],
     "origin": ["bucca", "buck", "buc"],
     "from": "OldEnglish",
-    "ex": [{ "buck": "달러" }]
+    "ex": { "buck": "달러" }
   },
   {
     "rank": 90,
@@ -972,7 +1006,7 @@
     "meaning": ["양동이", "bucket"],
     "origin": ["buquet"],
     "from": "French",
-    "ex": [{ "bucket": "양동이" }]
+    "ex": { "bucket": "양동이" }
   },
   {
     "rank": 91,
@@ -980,7 +1014,7 @@
     "meaning": ["예산", "budget"],
     "origin": ["bulga"],
     "from": "Latin",
-    "ex": [{ "budget": "예산" }]
+    "ex": { "budget": "예산" }
   },
   {
     "rank": 92,
@@ -988,7 +1022,7 @@
     "meaning": ["완충", "buffer"],
     "origin": ["bufe"],
     "from": "French",
-    "ex": [{ "buffer": "완충제" }]
+    "ex": { "buffer": "완충제" }
   },
   {
     "rank": 93,
@@ -996,13 +1030,13 @@
     "meaning": ["건설", "거주", "build"],
     "origin": ["byldan", "bold", "botl"],
     "from": "OldEnglish",
-    "ex": [
-      { "build": "" },
-      { "buildable": "세울수있는" },
-      { "builder": "건축업자" },
-      { "building": "건물" },
-      { "rebuild": "다시세우다[재건하다]" }
-    ]
+    "ex": {
+      "build": "",
+      "buildable": "세울수있는",
+      "builder": "건축업자",
+      "building": "건물",
+      "rebuild": "다시세우다[재건하다]"
+    }
   },
   {
     "rank": 94,
@@ -1010,7 +1044,7 @@
     "meaning": ["덩어리", "bulk"],
     "origin": ["bulki"],
     "from": "OldNorse",
-    "ex": [{ "bulk": "대부분" }]
+    "ex": { "bulk": "대부분" }
   },
   {
     "rank": 95,
@@ -1018,7 +1052,7 @@
     "meaning": ["거품", "bubble", "flask"],
     "origin": ["bullire", "bulla"],
     "from": "Latin",
-    "ex": [{ "boil": "끓다[끓이다]" }, { "bullet": "총알" }]
+    "ex": { "boil": "끓다[끓이다]", "bullet": "총알" }
   },
   {
     "rank": 96,
@@ -1026,7 +1060,7 @@
     "meaning": ["묶음", "bunch"],
     "origin": ["bondje", "boud"],
     "from": "Flemish",
-    "ex": [{ "bunch": "다발" }]
+    "ex": { "bunch": "다발" }
   },
   {
     "rank": 97,
@@ -1034,7 +1068,7 @@
     "meaning": ["bunk", "헛소리"],
     "origin": ["bunker", "Bunkum"],
     "from": "English",
-    "ex": [{ "aneurysm": "침상" }, { "debunk": "틀렸음을드러내다[밝히다]" }]
+    "ex": { "aneurysm": "침상", "debunk": "틀렸음을드러내다[밝히다]" }
   },
   {
     "rank": 98,
@@ -1042,7 +1076,7 @@
     "meaning": ["사무실", "office"],
     "origin": ["bure", "burrus", "burra", "bura"],
     "from": "Latin",
-    "ex": [{ "bureaucracy": "요식체계" }]
+    "ex": { "bureaucracy": "요식체계" }
   },
   {
     "rank": 99,
@@ -1050,7 +1084,7 @@
     "meaning": ["타오르다", "burn"],
     "origin": ["brenna"],
     "from": "OldNorse",
-    "ex": [{ "burn": "타오르다" }, { "burning": "불타는" }, { "burnt": "덴[탄]" }]
+    "ex": { "burn": "타오르다", "burning": "불타는", "burnt": "덴[탄]" }
   },
   {
     "rank": 100,
@@ -1058,7 +1092,7 @@
     "meaning": ["터지다", "burst"],
     "origin": ["berstan", "bærst", "borsten", "byrst"],
     "from": "OldEnglish",
-    "ex": [{ "burst": "터지다" }]
+    "ex": { "burst": "터지다" }
   },
   {
     "rank": 101,
@@ -1066,7 +1100,7 @@
     "meaning": ["묻다", "bury"],
     "origin": ["byrgan", "beorgan"],
     "from": "OldEnglish",
-    "ex": [{ "burial": "매장" }, { "bury": "묻다[매장하다]" }]
+    "ex": { "burial": "매장", "bury": "묻다[매장하다]" }
   },
   {
     "rank": 102,
@@ -1074,7 +1108,7 @@
     "meaning": ["바쁜", "busy"],
     "origin": ["bisig", "bisgian"],
     "from": "OldEnglish",
-    "ex": [{ "business": "사업" }, { "businessman": "회사원" }]
+    "ex": { "business": "사업", "businessman": "회사원" }
   },
   {
     "rank": 103,
@@ -1082,7 +1116,7 @@
     "meaning": ["버튼", "button"],
     "origin": ["boton", "bouton", "bouter", "boter", "butt"],
     "from": "French",
-    "ex": [{ "buttonophobia": "단추공포증" }, { "buttons": "보이" }]
+    "ex": { "buttonophobia": "단추공포증", "buttons": "보이" }
   },
   {
     "rank": 104,
@@ -1090,7 +1124,7 @@
     "meaning": ["사다", "buy"],
     "origin": ["bycgan", "bicgan"],
     "from": "OldEnglish",
-    "ex": [{ "buy": "사다[사주다]" }, { "buyer": "구매자" }]
+    "ex": { "buy": "사다[사주다]", "buyer": "구매자" }
   },
   {
     "rank": 105,
@@ -1098,7 +1132,7 @@
     "meaning": ["윙윙소리", "buzz"],
     "origin": ["buzz"],
     "from": "imitative/echoic",
-    "ex": [{ "buzz": "윙윙거리다" }]
+    "ex": { "buzz": "윙윙거리다" }
   },
   {
     "rank": 106,
@@ -1106,6 +1140,6 @@
     "meaning": ["바닥", "bottom"],
     "origin": ["byssos"],
     "from": "Greek",
-    "ex": [{ "abysmal": "" }, { "abyss": "심연" }]
+    "ex": { "abysmal": "", "abyss": "심연" }
   }
 ]
