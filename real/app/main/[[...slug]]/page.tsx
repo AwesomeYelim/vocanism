@@ -1,3 +1,4 @@
+import { Detail } from '~/components/detail';
 import { WordRoot } from '~/components/word-root';
 import { getPost, getWords } from '~/service/words';
 import './page.scss';
@@ -22,8 +23,17 @@ export default async function page({ params }: Props) {
   let res = getPost(slug || 'A');
 
   if (typeof slug === 'object' && (slug as string[]).length > 1) {
-    slug = (slug as string[]).join('/');
+    // slug = (slug as string[]).join('/');
     res = getWords(slug);
+    console.log(res);
+
+    return (
+      <div className="root_wrapper" data-animate data-animate-stage={1}>
+        {(await res).map((el: T_Word, i: number) => {
+          return <Detail {...el} />;
+        })}
+      </div>
+    );
   }
 
   return (
