@@ -126,7 +126,7 @@
 
   @media (max-width: 768px) {
     :root {
-      --page-top: 64px;
+      /* --page-top: 64px; */
     }
   }
 }

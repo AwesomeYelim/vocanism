@@ -1,8 +1,0 @@
-@import "src/app/styles/utils.module.scss";
-
-.main {
-  @include flex(center, initial);
-  flex-direction: column;
-  gap: 30px;
-  padding: 6rem;
-}

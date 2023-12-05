@@ -8,6 +8,7 @@ import siteConfig from '~/libs/site-config';
 
 import { Providers } from './providers';
 import { MainLayout } from './MainLayout';
+import Recoil from '~/components/Recoil';
 
 export const metadata: Metadata = {
   title: {
@@ -53,7 +54,9 @@ export default function RootLayout({
           <div className="blur-layer" aria-hidden="true"></div>
           <div className="container mx-auto max-w-page py-page">
             <div className="main-grid">
-              <MainLayout>{children}</MainLayout>
+              <Recoil>
+                <MainLayout>{children}</MainLayout>
+              </Recoil>
             </div>
             <FloatScrollTopButton />
           </div>

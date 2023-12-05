@@ -1,6 +1,8 @@
 import { Detail } from '~/components/detail';
+import { RootList } from '~/components/rootList';
+import { SearchInput } from '~/components/searchInput';
 import { WordRoot } from '~/components/word-root';
-import { getPost, getWords } from '~/service/words';
+import { getPost } from '~/service/words';
 import './page.scss';
 
 interface Props {
@@ -18,29 +20,22 @@ export type T_Word = {
   ex: { [key: string]: string };
 };
 
-export default async function page({ params }: Props) {
-  let { slug } = params;
-  let res = getPost(slug || 'A');
+export default async function WordsPage({ params }: Props) {
+  const { slug } = params;
+  const res = await getPost(slug);
 
   if (typeof slug === 'object' && (slug as string[]).length > 1) {
-    // slug = (slug as string[]).join('/');
-    res = getWords(slug);
-    console.log(res);
-
     return (
       <div className="root_wrapper" data-animate data-animate-stage={1}>
-        {(await res).map((el: T_Word, i: number) => {
-          return <Detail {...el} />;
-        })}
+        <Detail {...res} />
       </div>
     );
   }
+  const props = { res, slug };
 
   return (
     <div className="root_wrapper" data-animate data-animate-stage={1}>
-      {(await res).map((el: T_Word, i: number) => {
-        return <WordRoot {...el} />;
-      })}
+      <RootList {...props} />
     </div>
   );
 }
