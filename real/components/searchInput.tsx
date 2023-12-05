@@ -1,7 +1,6 @@
 'use client';
 
-import React, { useState } from 'react';
-import useSearch from '~/app/libs/hooks/useSearch';
+import React from 'react';
 import { T_Word } from '~/app/main/[[...slug]]/page';
 
 interface Props {
@@ -10,16 +9,6 @@ interface Props {
 
 export const SearchInput = (props: React.ComponentProps<'input'> & Props) => {
   const { res, ...rest } = props;
-
-  const submitHandler = async (e: KeyboardEvent) => {
-    e.stopPropagation();
-
-    const target = (e.target as EventTarget & { value: string }).value;
-    try {
-      //   const postData = await getWords(target);
-      //   console.log(postData);
-    } catch (error) {}
-  };
 
   return (
     <>
