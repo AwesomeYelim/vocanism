@@ -7,10 +7,10 @@
     "from": "",
     "ex": {
       "radar": "레이더",
-      "radiation": {},
+      "radiation": "",
       "radio": "라디오",
       "radiocarbon": "방사성탄소",
-      "ray": {}
+      "ray": ""
     }
   },
   {
@@ -38,10 +38,10 @@
     "ex": {
       "abrupt": "돌연한",
       "corrupt": "부패한",
-      "corruption": {},
+      "corruption": "",
       "disrupt": "방해하다",
-      "disruption": {},
-      "erupt": {},
+      "disruption": "",
+      "erupt": "",
       "eruption": "폭발",
       "interrupt": "방해하다[중단시키다/가로막다]",
       "interruption": "중단",

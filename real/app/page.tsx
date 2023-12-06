@@ -11,7 +11,7 @@ import { filterDraft, sortDateDesc } from '~/libs/mdx';
 export default function Home() {
   return (
     <div className="w-80">
-      <h2 className="mb-4 font-serif text-gray-11">수첩</h2>
+      {/* <h2 className="mb-4 font-serif text-gray-11">수첩</h2> */}
       {/* {allNotes
       .filter(filterDraft)
       .sort(sortDateDesc)

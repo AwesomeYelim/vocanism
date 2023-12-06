@@ -2,20 +2,18 @@ import path from 'path';
 import fs from 'fs';
 import { T_Word } from '~/app/main/[[...slug]]/page';
 
+export const readFile = (arg: string) => {
+  const thePath = path.join(process.cwd(), 'data', `${arg}.json`);
+  const words = fs.readFileSync(thePath, 'utf-8');
+  return JSON.parse(words);
+};
 export async function getPost(word: string | string[]) {
-  const readFile = (arg: string) => {
-    const thePath = path.join(process.cwd(), 'data', `${arg}.json`);
-    const words = fs.readFileSync(thePath, 'utf-8');
-    return words;
-  };
   if (word.length > 1) {
-    const target = JSON.parse(readFile(word[0])).find(
-      (el: T_Word) => el.rank === +word[1],
-    );
+    const target = readFile(word[0]).find((el: T_Word) => el.rank === +word[1]);
     return target;
   }
 
-  return JSON.parse(readFile(word as string));
+  return readFile(word as string);
 }
 
 export async function getWords(searchText: string) {
@@ -24,5 +22,4 @@ export async function getWords(searchText: string) {
     const { ex } = el;
     return Object.keys(ex);
   });
-  console.log(resEn);
 }

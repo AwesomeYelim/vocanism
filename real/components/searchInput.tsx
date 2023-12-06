@@ -12,7 +12,11 @@ export const SearchInput = (props: React.ComponentProps<'input'> & Props) => {
 
   return (
     <>
-      <input {...rest} placeholder="어근을 입력하세요" />
+      <input
+        className="rounded-lg bg-gray-3 pb-1 pl-2 pt-1"
+        {...rest}
+        placeholder="어근을 입력하세요"
+      />
     </>
   );
 };

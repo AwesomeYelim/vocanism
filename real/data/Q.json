@@ -38,13 +38,13 @@
       "inquire": "묻다",
       "inquiry": "연구",
       "query": "문의",
-      "quest": {},
+      "quest": "",
       "question": "질문",
       "questionary": "설문지",
       "questionnaire": "설문지",
       "request": "요청[신청]",
       "require": "필요[요구]하다",
-      "requirement": {}
+      "requirement": ""
     }
   }
 ]

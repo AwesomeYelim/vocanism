@@ -11,7 +11,7 @@
       "contagious": "전염되는",
       "contaminate": "오염시키다",
       "detach": "떼다[분리하다]",
-      "intact": {},
+      "intact": "",
       "task": "일",
       "tax": "세금",
       "taxation": "조세",
@@ -46,7 +46,7 @@
       "architectural": "건축학[술]의",
       "architecture": "건축학[술]",
       "detect": "발견하다[알아내다/감지하다]",
-      "detection": {},
+      "detection": "",
       "detective": "탐정의",
       "detector": "탐지기",
       "protect": "보호하다",
@@ -66,7 +66,7 @@
       "contemporary": "동시대의",
       "temper": "성질[성미]",
       "temperature": "온도",
-      "temporary": {}
+      "temporary": ""
     }
   },
   {
@@ -120,7 +120,7 @@
       "intend": "의도[작정]하다",
       "intense": "극심한",
       "intensification": "강화",
-      "intension": {},
+      "intension": "",
       "intensity": "강렬함",
       "intent": "강한관심[흥미]을보이는",
       "intention": "의사",
@@ -131,7 +131,7 @@
       "tempt": "유혹하다[부추기다]",
       "temptation": "유혹",
       "tend": "경향이있다",
-      "tendency": {},
+      "tendency": "",
       "tension": "긴장상태",
       "tent": "텐트",
       "unintentional": "고의가아닌",
@@ -211,11 +211,11 @@
       "epithet": "별칭[묘사]",
       "hypothesis": "가설",
       "photosynthesis": "광합성",
-      "synthesis": {},
+      "synthesis": "",
       "synthetic": "합성한",
       "theme": "주제",
       "thesis": "학위논문",
-      "treasure": {}
+      "treasure": ""
     }
   },
   {
@@ -280,13 +280,13 @@
       "transfer": "옮기다",
       "transform": "변형시키다",
       "transfusion": "투입",
-      "transit": {},
+      "transit": "",
       "transition": "변천",
       "translate": "번역[통역]하다",
       "translator": "번역가",
       "transmission": "전염",
       "transmit": "전송[송신/방송]하다",
-      "transparent": {},
+      "transparent": "",
       "transplant": "이식하다",
       "transport": "수송"
     }

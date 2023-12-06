@@ -20,16 +20,7 @@ export const MainLayout = ({ children }: Props): JSX.Element => {
           <br />
         </p>
         <Block />
-        <div data-animate data-animate-stage={3} className="mt-12 flex gap-8">
-          <div className="w-80">
-            <h2 className="mb-4 font-serif text-gray-11">오늘의 어근</h2>
-            {children}
-
-            <Link href="/main" className="link inline-block text-gray-11">
-              ...
-            </Link>
-          </div>
-        </div>
+        {children}
       </main>
     </>
   );

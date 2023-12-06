@@ -34,9 +34,6 @@ const getHtml = async () => {
       let from = "";
 
       const translate = async (cont: string) => {
-        // 서버실행 이전에 env path -> 개발환경으로 설정, env file 을 호출
-        // dotEnv.config({ path: ".env.local", override: true });
-
         const config = {
           headers: {
             "X-Naver-Client-Id": process.env.NAVER_CLIENT_ID,

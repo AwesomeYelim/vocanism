@@ -5,7 +5,7 @@
     "meaning": ["죽이다", "kill"],
     "origin": ["cwellan", "cwelan", "quellian", "quell", "cyllan"],
     "from": "OldEnglish",
-    "ex": { "": "…을죽이는[없애는]사람[동물/것]", "killer": {} }
+    "ex": { "killer": "…을죽이는[없애는]사람[동물/것]" }
   },
   {
     "rank": 2,
@@ -24,7 +24,7 @@
       "kinship": "친척",
       "kinsman": "일가[친척]의여자",
       "kinswoman": "불쾌한",
-      "unkind": {}
+      "unkind": ""
     }
   },
   {
@@ -37,7 +37,7 @@
       "": "책도둑",
       "biblioklept": "도둑",
       "klepto": "병적도벽",
-      "kleptomania": {}
+      "kleptomania": ""
     }
   },
   {
@@ -50,7 +50,7 @@
       "": "뜨다[짜다]",
       "knit": "뜨개질감",
       "knitting": "매듭",
-      "knot": {}
+      "knot": ""
     }
   },
   {
@@ -64,7 +64,7 @@
       "know": "다안다는듯한",
       "knowing": "지식",
       "knowledge": "자신도모르는[알아채지못하는]",
-      "unknowing": {}
+      "unknowing": ""
     }
   }
 ]

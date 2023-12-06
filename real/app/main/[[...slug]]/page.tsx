@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import { Detail } from '~/components/detail';
 import { RootList } from '~/components/rootList';
 import { SearchInput } from '~/components/searchInput';

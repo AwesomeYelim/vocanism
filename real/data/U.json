@@ -35,6 +35,6 @@
     "meaning": ["도시"],
     "origin": ["urbs", "urbis", "urb(Latin)"],
     "from": "",
-    "ex": { "suburb": {}, "suburban": "교외의", "urban": "도시의" }
+    "ex": { "suburb": "", "suburban": "교외의", "urban": "도시의" }
   }
 ]

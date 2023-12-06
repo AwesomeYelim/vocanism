@@ -6,7 +6,7 @@
     "origin": ["abbas", "abbatia"],
     "from": "Latin",
     "ex": {
-      "abbacy": "대수도원장의관할구역[직",
+      "abbacy": "대수도원장의관할구역",
       "abbatial": "대수도원의",
       "abbess": "수녀원장",
       "abbey": "수도원",
@@ -188,7 +188,7 @@
     "ex": {
       "aeon": "영겁",
       "age": "나이",
-      "aged": "",
+      "aged": "고령의, 연로한",
       "ageing": "노화",
       "ageism": "노인차별",
       "coetaneous": "같은시대[기간]의",
@@ -205,7 +205,7 @@
   {
     "rank": 17,
     "root": "afford",
-    "meaning": ["제안하다", "더멀리에", ""],
+    "meaning": ["제안하다", "더멀리에"],
     "origin": ["geforðian"],
     "from": "OldEnglish",
     "ex": { "affordable": "줄수있는" }
@@ -521,7 +521,7 @@
     "from": "OldEnglish",
     "ex": {
       "a": "하나의[…당]",
-      "an": "",
+      "an": "하나의[…당] + 모음",
       "another": "또하나",
       "any": "어느",
       "anyone": "누구",
