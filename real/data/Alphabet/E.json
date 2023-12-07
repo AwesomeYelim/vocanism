@@ -410,5 +410,226 @@
     "origin": ["eage"],
     "from": "OldEnglish",
     "ex": { "eyebrow": "눈썹" }
+  },
+  {
+    "like": 0,
+    "rank": 34,
+    "root": "e",
+    "meaning": ["밖으로 (outside)", "멀리(away)"],
+    "origin": [
+      "e",
+      "ec",
+      "ex",
+      "ef",
+      "extra",
+      "\"out or outside\" [refer to the other prefixes]"
+    ],
+    "ex": {},
+    "role": ["Prefix"],
+    "moreEx": ["emit (밖으로 보내다) 방출하다, 방사하다 /"]
+  },
+  {
+    "like": 0,
+    "rank": 35,
+    "root": "ec",
+    "meaning": ["밖으로 (outside)", "멀리(away)"],
+    "origin": [
+      "ec",
+      "ex",
+      "ef",
+      "e",
+      "ecto",
+      "\"out or outside\"  [refer to the other prefixes]"
+    ],
+    "ex": {},
+    "role": ["Prefix"],
+    "moreEx": ["ecstasy", "eccentric (중심에서 벗어나서) 이상한", "eclipse"]
+  },
+  {
+    "like": 0,
+    "rank": 36,
+    "root": "ecto",
+    "meaning": "밖으로 (outside)",
+    "origin": [
+      "ecto",
+      "ec",
+      "ex",
+      "\"outside\"   [Greek ektos \"outside; free from\"]"
+    ],
+    "ex": {},
+    "moreEx": [
+      "ecto(=ec=outside) + derm(=skin) -> 바깥에 있는 피부 -> 외피, 외배엽"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 37,
+    "root": "ee",
+    "meaning": "사람 (one who)",
+    "origin": ["ee", "person"],
+    "ex": { "divorcee": "이혼한", "employee": "종업원", "payee": "돈을" },
+    "role": ["Suffix"],
+    "moreEx": [
+      "사람을 나타내는 접미사 ee는 'er'과 달리 주로 수동/피동의 의미를 담고 있다.  예를 들어, payer 돈을 주는 지급인, payee 돈을 받는 수취인.",
+      "divorcee 이혼한 사람 / employee 종업원 / payee 돈을 받는 수취인"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 38,
+    "root": "eer",
+    "meaning": "~하는 사람(one who)",
+    "origin": [
+      "eer",
+      "er",
+      "ar",
+      "or",
+      "ard",
+      "person  [refer to the other suffixes in this dict.]"
+    ],
+    "ex": { "auctioneer": "경매인", "volunteer": "지원자" },
+    "role": ["Suffix"],
+    "moreEx": ["auctioneer 경매인 / volunteer 지원자"]
+  },
+  {
+    "like": 0,
+    "rank": 39,
+    "root": "en",
+    "meaning": ["(접두사) 만들다 (make)", "~하게 하다(make)"],
+    "origin": ["en", "em", "\"to make\""],
+    "ex": { "enable": "가능하게", "embody": "구체화하다", "embrace": "껴안다" },
+    "role": ["Prefix"],
+    "moreEx": [
+      "[주의!] en은 접두사와 접미사, 두 가지로 활용된다.",
+      "enable 가능하게 하다",
+      "embody 구체화하다 / embrace 껴안다"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 40,
+    "root": "ence",
+    "meaning": ["상태(state)", "행동(act)", "특성(quality)"],
+    "origin": [
+      "ance",
+      "ancy",
+      "ence",
+      "ency",
+      "state or act or quality   [refer to the other suffixes in this dict.]"
+    ],
+    "ex": { "competence": "자격", "dependence": "의존", "residence": "주거" },
+    "role": ["Suffix"],
+    "moreEx": ["competence 자격 / dependence 의존 / residence 주거"]
+  },
+  {
+    "like": 0,
+    "rank": 41,
+    "root": "ency",
+    "meaning": ["상태(state)", "행동(act)", "특성(quality)"],
+    "origin": [
+      "ance",
+      "ancy",
+      "ence",
+      "ency",
+      "state or act or quality [refer to the other suffixes in this dict.]"
+    ],
+    "ex": { "consistency": "일관성", "urgency": "긴급" },
+    "moreEx": ["consistency 일관성 / urgency 긴급"]
+  },
+  {
+    "like": 0,
+    "rank": 42,
+    "root": "enter",
+    "meaning": "사이에 (between)",
+    "origin": ["enter", "entre", "\"between\""],
+    "ex": {},
+    "role": ["Root"],
+    "moreEx": [
+      "enterprise 기업, 진취적인 정신 / entertain (서로의 사이에 놓고) 접대하다, 환대하다"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 43,
+    "root": "ep",
+    "meaning": ["~의 위로(upon/on)", "~으로(toward)"],
+    "origin": [
+      "ep",
+      "epi",
+      "epo",
+      "\"on or upon or toward\"  [from Latin, Greek, Sanscrit]"
+    ],
+    "ex": {
+      "episode": "에피소드",
+      "epicure": "미식가",
+      "epigram": "경구",
+      "epidemic": "유행성의",
+      "epic": "서사시의",
+      "epizoon": "체외",
+      "eponym": "기원이"
+    },
+    "role": ["Prefix"],
+    "moreEx": [
+      "episode 에피소드",
+      "epicenter (지진 등이 중심에 있는 곳)  진앙 / epicure 미식가 / epigram 경구 / epithet 별명, 형용사구 / epilogue 에필로그, 끝맺는 말",
+      "epistle 편지, 서한 / epidemic 유행성의 / epic 서사시의",
+      "epoch 시대, 신기원",
+      "epigraph 비영, 비문",
+      "epidermis 상피, 표피 / epizoon 체외 기생동물 / eponym 기원이 된 인물"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 44,
+    "root": "er",
+    "meaning": "사람 (the one who)",
+    "origin": ["er", "ar", "or", "person [refer to the suffix 'ar' and 'or']"],
+    "ex": { "teacher": "선생" },
+    "role": ["Suffix"],
+    "moreEx": ["teacher 선생"]
+  },
+  {
+    "like": 0,
+    "rank": 45,
+    "root": "ern",
+    "meaning": ["관계된(related)", "관련이 있는"],
+    "origin": ["ern", "related"],
+    "ex": { "eastern": "동쪽의", "modern": "현대의", "western": "서쪽의" },
+    "role": ["Suffix"],
+    "moreEx": ["eastern 동쪽의 / modern 현대의 / western 서쪽의"]
+  },
+  {
+    "like": 0,
+    "rank": 46,
+    "root": "esque",
+    "meaning": [
+      "~과 같은 (esque = like = ish)",
+      "~의 형식이나 방법으로 (in the manner of)",
+      "유사",
+      "관계"
+    ],
+    "origin": ["esque", "like"],
+    "role": ["Suffix"],
+    "ex": {},
+    "moreEx": ["pictureesque; burlesque; grostesque", "picturesque"]
+  },
+  {
+    "like": 0,
+    "rank": 47,
+    "root": "ex",
+    "meaning": ["밖으로 (outside)", "멀리(away)"],
+    "origin": [
+      "ex",
+      "ec",
+      "ef",
+      "e",
+      "extra",
+      "\"out or outside\" [refer to the other prefixes]"
+    ],
+    "ex": {},
+    "role": ["Prefix"],
+    "moreEx": [
+      "export (밖으로 날라서) 수출하다 / exceed (밖으로 더 지나가서) 초과하다"
+    ]
   }
 ]

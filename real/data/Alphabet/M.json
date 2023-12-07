@@ -1393,5 +1393,55 @@
     "origin": ["muthos", "mythos"],
     "from": "Greek",
     "ex": { "mythical": "신화속에나오는", "mythology": "신화" }
+  },
+  {
+    "like": 0,
+    "rank": 103,
+    "root": "ma",
+    "meaning": "그리크 명사형 접미사",
+    "origin": [
+      "ma",
+      "oma",
+      "me",
+      "\"Greek suffix\"      [Etymology dict ; word-forming element, from Greek -oma, with -o-, lengthened stem vowel + -ma]"
+    ],
+    "ex": { "diploma": "졸업장" },
+    "moreEx": [
+      "diploma 졸업장",
+      "angioma / atheroma / biome / carcinoma / diploma / diplomatic",
+      "glioma / granuloma / hematoma / lipoma / lymphoma",
+      "melanoma / mesothelioma / myeloma / papilloma / sarcoma",
+      "sarcoma"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 104,
+    "root": "mis",
+    "meaning": ["가도록(let go)", "보내다 (send)"],
+    "origin": [
+      "mis",
+      "mit",
+      "to send     [mit from Latin mittere (send) / mis from Latin missus (course)]"
+    ],
+    "role": ["Root"],
+    "ex": { "missive": "보내는", "submissive": "복종하는" },
+    "moreEx": [
+      "missive 보내는 '편지' / dismiss 보내버리다, 해고하다 / emissary 사절, 밀사 / remiss 태만한, 소홀한 /",
+      "remission 경감, 완화 / submissive 복종하는",
+      ""
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 105,
+    "root": "multi",
+    "meaning": "많은 (many or much)",
+    "origin": ["multi", "\"many or much\""],
+    "ex": { "multiple": "다수의", "multilingual": "여러" },
+    "moreEx": [
+      "multiple 다수의 / multiply (많이 만들어) 증가시키다, 확대하다",
+      "multilingual 여러 언어를 하는"
+    ]
   }
 ]

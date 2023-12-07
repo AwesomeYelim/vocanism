@@ -3,17 +3,21 @@ import fs from 'fs';
 import { T_Word } from '~/app/main/[[...slug]]/page';
 
 export const readFile = (arg: string) => {
-  const thePath = path.join(process.cwd(), 'data', `${arg}.json`);
-  const words = fs.readFileSync(thePath, 'utf-8');
-  return JSON.parse(words);
+  if (arg) {
+    const thePath = path.join(process.cwd(), 'data', `${arg}.json`);
+    const words = fs.readFileSync(thePath, 'utf-8');
+    return JSON.parse(words);
+  }
 };
 export async function getPost(word: string | string[]) {
-  if (word.length > 1) {
-    const target = readFile(word[0]).find((el: T_Word) => el.rank === +word[1]);
+  if (word?.length > 1) {
+    const target = readFile(`Alphabet/${word[0]}`).find(
+      (el: T_Word) => el.rank === +word[1],
+    );
     return target;
+  } else {
+    return readFile(`Alphabet/${word[0]}`);
   }
-
-  return readFile(word as string);
 }
 
 export async function getWords(searchText: string) {

@@ -343,5 +343,148 @@
       "type": "형",
       "typical": "전형적인"
     }
+  },
+  {
+    "like": 0,
+    "rank": 21,
+    "root": "tac",
+    "meaning": "말없는 (silent)",
+    "origin": ["tac", "tic", "\"silent\""],
+    "role": ["Root"],
+    "ex": { "taciturn": "말수가", "reticent": "말이" },
+    "moreEx": [
+      "tacit 무언의, 암묵의 / taciturn 말수가 적은 / reticent 말이 없는, 과묵한"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 22,
+    "root": "tachy",
+    "meaning": "빠른 (fast)",
+    "origin": ["tachi", "fast"],
+    "ex": { "tachygraphy": "속기술" },
+    "moreEx": ["tachi", "tachygraphy 속기술"]
+  },
+  {
+    "like": 0,
+    "rank": 23,
+    "root": "tail",
+    "meaning": ["모양을(shape) 내기 위해", "자르다 (cut)"],
+    "origin": ["tail", "\"cut or shape\""],
+    "ex": {},
+    "role": ["Root"],
+    "moreEx": [
+      "인간의 꼬리(tail)는 진화 되어 잘라졌다.",
+      "detail (따로 잘게 잘라 놓은) 세부 사항",
+      "tailer (옷감을 자르는) 재단사",
+      "entail 수반하다, 포함하다"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 24,
+    "root": "th",
+    "meaning": "(접미사) 서수를 만드는 단어 (word-forming element making ordinal numbers)",
+    "origin": ["th", "\"suffix making ordinal numbers\""],
+    "ex": {},
+    "role": ["Suffix"],
+    "moreEx": [
+      "숫자는 기수와 서수로 나뉜다. 기수(基數)는 cardinal number, 서수(序數)는 an ordinal number.",
+      "기수인 4 (four), 5 (five), 6 (six)에 'th\"를 붙이면 서수가 되는 것이다.  1, 2, 3 등은 예외다.",
+      "fourth, fifth, sixth, seventh, eighth, neneth, tenth, eleventh, twelvth"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 25,
+    "root": "the",
+    "meaning": "절대적인 신 (God)",
+    "origin": [
+      "the",
+      "theo",
+      "thos",
+      "God'      [from Greek theos \"god\"  thefrom Greek theos \"god\"]"
+    ],
+    "ex": {
+      "theurgy": "신의",
+      "theology": "신학",
+      "theocracy": "신권",
+      "atheism": "무신론",
+      "pantheism": "범신론",
+      "theism": "유신론",
+      "theosophy": "신의"
+    },
+    "moreEx": [
+      "theurgy 신의 에너지를 빌려서 하는 마술",
+      "정관사(definite article) 'the'는 '바로 그것(the very thing)'이라는 의미를 내포한다.   직접적으로는 관련이 없지만 신은 '하나의 힘을 가진 절대적인 존재로 보는 것이 좋다.   (the 'the' form was used in all the masculine oblique cases old days)",
+      "theology 신학 / theocracy 신권 정치",
+      "apotheosis 신격화, 우상화 / atheism 무신론 / enthusiasm 열심, 열중 / monotheism 일신론, 일신교 / pantheism 범신론     theism 유신론",
+      "pantheism 범신론 / polytheism 다신론, 다신교 / theism 유신론",
+      "theosophy 신의 지혜를 공부하는 신지학"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 26,
+    "root": "therap",
+    "meaning": "치료하다(cure/heat/treatment)",
+    "origin": ["therap", "\"cure or heal or treat\""],
+    "role": ["Root"],
+    "ex": {},
+    "moreEx": [
+      "hypno(=sleep) + therap(=cure) + y(=suffix) -> 잠을 자는 동안에 치료하는 것 -> 최면 치료술"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 27,
+    "root": "tocia",
+    "meaning": "분만이나 출생",
+    "origin": [
+      "tocia",
+      "toc(",
+      "delivery or birth) + ia(",
+      "suffix) -> 분만, 출산"
+    ],
+    "ex": { "dystocia": "이상", "dystocial": "이상", "eutocia": "정상" },
+    "moreEx": [
+      "tocia는 몇개의 의학 단어만 연결되어 있다.",
+      "어근 par(분만이나 출생)이 같은 뜻이다.",
+      "dystocia 이상 분만 / dystocial 이상 분만의 / eutocia 정상 분만 / oxytocia (비정상적인 급속 분만)"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 28,
+    "root": "tri",
+    "meaning": ["셋 (three)", "세배의 (triple)"],
+    "origin": ["tri", "'three'"],
+    "ex": {},
+    "role": ["Root", "Prefix"],
+    "moreEx": ["travail (세 개의 기둥에 묶여 있는) 고통"]
+  },
+  {
+    "like": 0,
+    "rank": 29,
+    "root": "troph",
+    "meaning": ["영양을(nourish) 주어", "몸이 돌아가게 하다(turn)"],
+    "origin": ["troph", "\" turn or nourish\""],
+    "role": ["Root", ""],
+    "ex": {},
+    "moreEx": ["hypertrophy ( 과도한 영양으로 비대해지는) 비대증"]
+  },
+  {
+    "like": 0,
+    "rank": 30,
+    "root": "tur",
+    "origin": ["tur(", "tor", "turn)", "﹥ 구부러져 돌다"],
+    "ex": { "turbulent": "휘몰아", "turn": "돌다", "turbulence": "굽어" },
+    "moreEx": [
+      "turbulent 휘몰아 치는, turbulence 굽어 흐르는 기류 ",
+      "turn 돌다",
+      "turbulent 휘몰아 치는, turmoil 마구 돌아가는 소동",
+      "turbulence 굽어 흐르는 기류 ",
+      "turbulent 휘몰아 치는, turmoil 마구 돌아가는 소동, turpitude 비트는 비열한, 천한 "
+    ]
   }
 ]

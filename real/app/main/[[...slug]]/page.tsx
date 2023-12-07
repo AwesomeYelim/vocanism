@@ -24,6 +24,9 @@ export type T_Word = {
 export default async function WordsPage({ params }: Props) {
   const { slug } = params;
   const res = await getPost(slug);
+  if (!slug) {
+    return <></>;
+  }
 
   if (typeof slug === 'object' && (slug as string[]).length > 1) {
     return (

@@ -1,8 +1,15 @@
+/**
+ * 1. 컴포넌트 : naverReqDicAddDetail.ts
+ * 2. 작성일 : 2023.12.07 / 15시 14분 13초
+ * 3. 작성자 : 홍예림
+ * 4. 설명 : 네이버 오픈사전  pro list 디테일 api 요청 함수
+ */
+
 import axios from "axios";
 import fs from "fs";
 import prettier from "prettier";
 
-type IS = { [key in string]: string | number } | any;
+export type IS = { [key in string]: string | number } | any;
 const naverCrawDicFn = async () => {
   try {
     const totalCount = 351; // 18

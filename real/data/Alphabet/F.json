@@ -1193,5 +1193,148 @@
       "refuse": "거절[거부]하다",
       "transfusion": "투입"
     }
+  },
+  {
+    "like": 0,
+    "rank": 89,
+    "root": "feit",
+    "meaning": "만들다",
+    "origin": [
+      "fic",
+      "fict",
+      "fac",
+      "fact",
+      "fec",
+      "fig",
+      "fy",
+      "feit",
+      "etc.",
+      "수정요~~~~~~~~~~ 어원설명"
+    ],
+    "ex": { "forfeit": "몰수당하다" },
+    "moreEx": [
+      "fac의 어근은 활용도가 매우 높다, 매우 많은 단어들을 몰고 다니는 superhero다. (보통 fic-fac-fec '픽팩펙'으로 소리내어 암기한다)",
+      "counterfeit 가짜의, 위조의 / forfeit 몰수당하다 / surfeit 과다, 초과"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 90,
+    "root": "ferv",
+    "meaning": ["불로 타다 (burn)", "불로 끓다(boil)"],
+    "origin": ["ferv", "fer", "ferm", "fir", "\"to fire or burn or boil\""],
+    "ex": {
+      "ferment": "발효하다",
+      "fervent": "열렬한",
+      "effervescent": "거품이",
+      "effervesce": "거품이",
+      "effervescencet": "거품이"
+    },
+    "role": ["Root"],
+    "moreEx": [
+      "ferment 발효하다",
+      "fervent 열렬한 / fervid 열의, 열렬한 / fervor 열렬, 열정",
+      "effervescent 거품이 부글부글 끓는 / effervesce 거품이 부글부글 끓다",
+      "effervescencet 거품이 남"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 91,
+    "root": "fic",
+    "meaning": ["만들다 (make)", "행하다(do/act)"],
+    "origin": [
+      "fic",
+      "fict",
+      "fac",
+      "fact",
+      "fec",
+      "fy",
+      "feas",
+      "\"to make or do\""
+    ],
+    "ex": {
+      "fiction": "소설",
+      "proficient": "능숙한",
+      "sufficient": "충분한",
+      "superficial": "피상적인",
+      "officious": "간섭하는",
+      "deficient": "부족한"
+    },
+    "moreEx": [
+      "fic는 fac의 어근은 활용도가 매우 높다, 매우 많은 단어들을 몰고 다니는 superhero다. (보통 fic-fac-fec '픽팩펙'으로 소리내어 암기한다)",
+      "fiction 소설",
+      "proficient 능숙한 / sufficient 충분한 / superficial 피상적인",
+      "fictional 허구의, 소설의 / officious 간섭하는",
+      "deficient 부족한 / prolific 다산의, 다작의",
+      "munificent 인심좋은, 후한"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 92,
+    "root": "fl",
+    "meaning": ["치다", "때리다 (strike)"],
+    "origin": ["fl", "flict", "to strike"],
+    "ex": { "afflict": "쳐서", "inflict": "쳐서", "conflict": "서로" },
+    "moreEx": [
+      "afflict 쳐서 괴롭히다 / inflict 쳐서 해를 가하다 / conflict 서로 치는 투쟁",
+      "flip, flap, flop, flip-flop, flippant"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 93,
+    "root": "flor",
+    "meaning": "향기나는 꽃 (flower)",
+    "origin": ["flor", "fl", "to flow or lower"],
+    "ex": { "floral": "꽃의" },
+    "role": ["Florence 플로렌스 (이탈리아 피렌쩨 Firenze) , 여자 이름"],
+    "moreEx": [
+      "'flor'은 향기(flagrance)가 흘러(flow)가는 아름다운 꽃(flower)이라는 뜻이다. fl(=flow)의 확장된 형태(extended form of root 'fl(=flow)라고 볼 수 있다.",
+      "floral 꽃의"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 94,
+    "root": "for",
+    "meaning": "힘 (force)",
+    "origin": ["for", "forc", "fort", "\"power\""],
+    "ex": { "fortress": "요새" },
+    "role": ["Root"],
+    "moreEx": ["fortress 요새", "force 힘, 권력 / fort (힘이 있는) 요새, 진지"]
+  },
+  {
+    "like": 0,
+    "rank": 95,
+    "root": "fran",
+    "meaning": "마음 (mind/heart)",
+    "origin": [
+      "fran",
+      "fren",
+      "phrem",
+      "\"mind or heart\" [refer to the root \"phren\" in this dict.]"
+    ],
+    "ex": {},
+    "role": ["Root"],
+    "moreEx": [
+      "frantic (정신이 나가서) 광적인",
+      "frenetic 열광적인, 광적인 / frenzy 열광, 광포",
+      "phren(=fr=mind) + o(=combining vowel) + log(=words or learning) + y(=noun suffix) -> 인간의 두개골(skull or head)를 보고 그 사람의 마음을 읽는 학문 -> 골상학",
+      ""
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 96,
+    "root": "fy",
+    "meaning": "만들다",
+    "origin": null,
+    "ex": { "signify": "의미하다", "uglify": "흉하게", "tamefy": "길들이다" },
+    "moreEx": [
+      "signify 의미하다 / uglify 흉하게 하다 / tamefy 길들이다",
+      "ratify 승인, 인가 / vilify 비방하다, 욕하다"
+    ]
   }
 ]

@@ -530,5 +530,78 @@
       "oxidize": "산화시키다",
       "oxygen": "산소"
     }
+  },
+  {
+    "like": 0,
+    "rank": 44,
+    "root": "olig",
+    "meaning": "작은(small/little)",
+    "origin": ["olig", "oligo", "\"small or little\""],
+    "role": ["Root"],
+    "ex": {},
+    "moreEx": [
+      "oligosaccharide (단당류같은 다당류인) 올리고당",
+      "olig(=small) + uri(=urine+ a(=suffix) -> 소변을 적게 누는 것 -> 소변 감소증"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 45,
+    "root": "oo",
+    "meaning": "동그랗거나 큰 공간(space); 계란 (egg)",
+    "origin": [
+      "[possibly] oo",
+      "round space or egg      [Etymology Dict : word-forming element meaning \"egg\" from Greek ōon.]"
+    ],
+    "ex": { "booth": "칸막이", "taboo": "금기", "room": "방" },
+    "role": ["Root"],
+    "moreEx": [
+      "부엉이 같은 두개의 눈을 가진 새(bird)를 연상하면 좋다.  동그란 모습의 큰 공간을 의미하기도 한다.",
+      "balloon 풍선,기구 / booth 칸막이 / taboo 금기 / room 방",
+      "oocyst / oocyte / oogenesis / oolite / oology"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 46,
+    "root": "ory",
+    "meaning": ["유사(lileness)", "특성(quality)", "행동(action)"],
+    "origin": ["ory", "ary", "likeness or quality or act"],
+    "ex": {
+      "preparatory": "준비의",
+      "promissory": "약속의",
+      "regulatory": "감독의"
+    },
+    "role": ["Suffix"],
+    "moreEx": ["preparatory 준비의 / promissory 약속의 / regulatory 감독의"]
+  },
+  {
+    "like": 0,
+    "rank": 47,
+    "root": "ous",
+    "meaning": "특성 (having the quality of)",
+    "origin": [
+      "ous",
+      "ious",
+      "itious",
+      "aceous",
+      "atious",
+      "uous",
+      "ulous",
+      "eous",
+      "\"having the quality of\""
+    ],
+    "role": ["Suffix"],
+    "ex": {
+      "dangerous": "위험한",
+      "fabulous": "전설적인",
+      "ridiculous": "우스운",
+      "tortuous": "뒤틀린",
+      "igneous": "불같은"
+    },
+    "moreEx": [
+      "dangerous 위험한 / fabulous 전설적인 / ridiculous 우스운 / tortuous 뒤틀린",
+      "igneous 불같은 /  seb(=soap or grease or suet) + aceous(=adjective suffix) -> 기름이 찬 것의 -> 피지를 분비하는"
+    ]
   }
 ]

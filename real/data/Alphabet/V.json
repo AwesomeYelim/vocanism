@@ -331,5 +331,38 @@
       "revolve": "돌다[회전하다]",
       "volume": "용량"
     }
+  },
+  {
+    "like": 0,
+    "rank": 22,
+    "root": "ven",
+    "meaning": ["오다", "가다"],
+    "origin": "coming from Latin 'venire' (to come)",
+    "ex": {
+      "adventure": "모험",
+      "convene": "소집하다",
+      "convenient": "편리한",
+      "eventual": "최후의",
+      "parvenu": "벼락부자"
+    },
+    "moreEx": [
+      "avenue 거리, ~가 / adventure 모험 / convene 소집하다 / convenient 편리한",
+      "eventual 최후의 / intervene 중재하다, 사이에 오다",
+      "advent 도래, 출현 / circumvent 우회하다, 피하다 / contravene 역행하다, 위반하다 / parvenu 벼락부자",
+      "venue, venture, ventilate, adventitious, convent, covenant, event, invent, prevent, souvenir"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 23,
+    "root": "vil",
+    "meaning": "시골(country) 마을(village)의 농부(farmer)",
+    "origin": ["vil", "village or farmer"],
+    "ex": { "village": "마을" },
+    "moreEx": [
+      "귀족에 비해서, 교양도 없고, 글도 모르는, 과거의 시골 마을의 농부는 더럽고 나쁜 사람으로 인식이 되었다.",
+      "village 마을",
+      "vilify 헐뜯다, 중상모략하다"
+    ]
   }
 ]

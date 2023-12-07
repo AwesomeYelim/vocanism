@@ -26,7 +26,7 @@
     "root": "a",
     "meaning": "(라틴 접미사) 단수형 접미어 (a)",
     "origin": "a = suffix [refer to the ptrefix \"ae\" which is plural form of \"a\"]",
-    "from": ["Suffix"],
+    "role": ["Suffix"],
     "ex": ["ampulla 팽대부, 성유그릇, 양손고리가 있는 단지"]
   },
   { "like": 0, "rank": 4, "root": "ab", "meaning": "아님, 부정", "origin": "not" },
@@ -43,7 +43,7 @@
     "root": "able",
     "meaning": "가능한 (able to be)",
     "origin": "able = ible = ile = 'able to be'   [refer to the suffix 'ible' or 'ile']",
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -52,7 +52,7 @@
     "meaning": "~로 부터, 멀리, 분리",
     "origin": "abs = ab = ad = ac = af = ag = ar = as = at = \"toward or to\"  [refer to the other prefixes] [comes from Latin meaning\"from,\" \"away,\" or \"off.\"]",
     "ex": ["abstract (어디로 당겨서 만든) 추상적인"],
-    "from": ["Prefix"]
+    "role": ["Prefix"]
   },
   {
     "like": 0,
@@ -83,7 +83,7 @@
     "root": "acr",
     "meaning": "날카로운(sharp), 뾰죽한(poinjted), 신(sour)",
     "origin": "ac = acr = \"sharp\"   [refer to the root \"acr\" handled separetely in this dict.]",
-    "from": [
+    "role": [
       "ac는 기본적으로 날카롭다는 뜻이다. 신 맛도 그러한 느낌으로 본 것이다.  [comes from the Latin adjective acer, meaning \"sharp\" or \"sour.\"]"
     ]
   },
@@ -116,7 +116,7 @@
     "meaning": "농업을 하는 들판(field)",
     "origin": "agr = agri = agro = 'field'",
     "ex": ["agriculture (땅을 경작하는 일인) 농업", "agrochemical 농약"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -128,7 +128,7 @@
       "altitude 고도 / altimeter 고도계 / old (자라서) 늙은",
       "quality 질 / adolescent 사춘기의 / abolish 폐지하다 / adult 성인"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -137,7 +137,7 @@
     "meaning": "~과 같은(like), 특성을 가진 (having the quality of)",
     "origin": "al = ial =ual = \"having the quality of\"",
     "ex": ["actual 행동하는, 실제의", "lineal (한 라인의) 직계의"],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -150,7 +150,7 @@
       "alternative 대안 / alternate 교대하다",
       "alteration 변화 / altercation 언쟁, 논쟁 / altruism 이타주의 / alter ego 또 다른 자아"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -159,7 +159,7 @@
     "meaning": "[접두사] ~으로(toward)",
     "origin": "a = ad = ac = af = ag = ar = as = at = \"toward or to\" [refer to the other prefixes]",
     "ex": ["allot (몫을 주어) 할당하다"],
-    "from": ["Prefix"]
+    "role": ["Prefix"]
   },
   {
     "like": 0,
@@ -172,7 +172,7 @@
       "amatory 연애의 / amenity 상냥함 / amiable  상냥한 / amicable 우호적인 / amity 우호, 친선",
       "amorous 호색의 / enamored 사랑에 불붙은 / inamorate 애인 / paramour 애인, 정부"
     ],
-    "from": ["Amy 사랑스러운 여인이라는 이름"]
+    "role": ["Amy 사랑스러운 여인이라는 이름"]
   },
   {
     "like": 0,
@@ -180,7 +180,7 @@
     "root": "amb",
     "meaning": "양쪽의 (both)",
     "origin": "amb = ambi = amphi =  'both or around\"",
-    "from": ["Root"],
+    "role": ["Root"],
     "ex": [
       "ambidextrous 양손잡이의 / ambiguous 애매한, 모호한 / ambivalent 반대 감정이 병존하는, 양면 가치 /",
       "ambivalence 유동성 / amphibian 양서동물, 이중인격자 / amphitheater 원형 극장"
@@ -206,7 +206,7 @@
     "meaning": "넓고 큰 (alrge)",
     "origin": "ampl = 'large'",
     "ex": ["ample 광대한 / amplify 확대하다 / amplitude 너비, 폭", "example 보기, 예"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -214,7 +214,7 @@
     "root": "ampl",
     "meaning": "병(bottle), 단지(jar)",
     "origin": "ampl =amphr = \"bottle or jar\"",
-    "from": [
+    "role": [
       "ampl은 원래 Latin어의 amoulus가 부풀어 크다(large)라는 뜻이다. 직접적인 관련이 있는 지는 모르나, 같은 의미로 부풀어 커진 동그란 단지를 연상하면 좋다."
     ],
     "ex": ["ampulla 단지, 팽대부"]
@@ -226,7 +226,7 @@
     "meaning": "[접미사] 사람 (the one who)",
     "origin": "ar = er = or = an = ian = \"person\" [refer to the suffix 'er' and 'or' and 'an'] 구분 Suffix 1. 사람 (the one who)",
     "ex": ["artisan 숙련공 / magician 마법사 / optician 안경사", "librarian (책을 관리하는) 사서"],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -243,7 +243,7 @@
     "meaning": "상태(state), 행동(act), 특성(quality)",
     "origin": "ancy = ance = state or act or quality   [refer to the suffix 'ance']",
     "ex": ["constancy 불변성 / hesitancy 주저함"],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -252,7 +252,7 @@
     "meaning": "각도 (angle)",
     "origin": "angl = angul = 'angle'",
     "ex": ["triangle (각이 세개인) 삼각형 / angulometer 각도기", "rectangle 직사각형"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -264,7 +264,7 @@
       "annals 연대기 / anniversary (1년에 한 번 돌아오는) 기념일 / annual 해마다의",
       "annuity 연금 / biennial 2년마다 발생하는 / perennial 다년간 지속되는 / superannuated 노령으로 퇴직한"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -277,7 +277,7 @@
       "anticipate 예측하다, 예상하다 (미래 개념) / antique 고대의 (과거 개념)",
       "antecedent 앞서 가는, 앞서는"
     ],
-    "from": ["Prefix"]
+    "role": ["Prefix"]
   },
   {
     "like": 0,
@@ -290,7 +290,7 @@
       "antisocial 반사회적인 / antipollution 공해 반대 / anticommunist 반공주의자 / antibiotic 항생제의 /antiartic 남극의",
       "antithesis 정반대"
     ],
-    "from": ["Prefix"]
+    "role": ["Prefix"]
   },
   {
     "like": 0,
@@ -320,7 +320,7 @@
     "meaning": "사람 (the one who)",
     "origin": "ar = er = or = an = person [refer to the suffix 'er' and 'or' and 'an']",
     "ex": ["beggar 거지 / liar 거짓말쟁이"],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -333,7 +333,7 @@
       "anarchy 무정부상태 / monarchy 군주제",
       "archenemy 최대의 적, 사탄, 마왕 / hierarchy 직계제 / oligarchy 과두정치"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -342,7 +342,7 @@
     "meaning": "사람 (one who)",
     "origin": "ard = ar =er = or = ist = person   [refer to the other roots in this dict.]",
     "ex": ["coward 겁쟁이 / drunkard 술고래"],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -350,7 +350,7 @@
     "root": "arg",
     "meaning": "은색으로(silver),  빛나는 (shine)",
     "origin": "arg = shine or silver",
-    "from": ["Root"],
+    "role": ["Root"],
     "ex": ["argent 은색의"]
   },
   {
@@ -360,7 +360,7 @@
     "meaning": "팔 (arm), 무기(weapon)",
     "origin": "arm = 'arm or weapon'",
     "ex": ["army 군대", "alarm 경보"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -377,7 +377,7 @@
     "meaning": "결합 (joint)",
     "origin": "art = arthr = arti = 'joint'",
     "ex": ["article 기사, 품목 / arthritic관절염 환자"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -386,7 +386,7 @@
     "meaning": "[형용사형 접미사] 유사(lileness), 특성(quality), 행동(action)",
     "origin": "ory = ary = likeness or quality or act",
     "ex": ["reactionary 반동의 / revolutionary 혁명의"],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -395,7 +395,7 @@
     "meaning": "상태(state), 행동(act), 특성(quality)",
     "origin": "asm = ism = state or quality",
     "ex": ["enthusiasm 열중 / sarcasm 풍자", "sarcasm 남의 마음을 짜르듯이 말하는 냉소나 야유"],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -407,7 +407,7 @@
       "[주의!] 접미사 ate는 동사, 형용사, 명사 접미사로 활용된다. 여기서는 어떤 특성을 가진 사람을 나타내는 명사형 접미사다. 별도로 구분하였다.",
       "advocate 옹호자 / delegate대표자"
     ],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -419,7 +419,7 @@
       "[주의!] 접미사 ate는 동사, 형용사, 명사 접미사로 활용된다. 여기서는 어떤 특성을 가지고 있다는 의미를 나타내는 형용사형 접미사다. 별도로 구분하였다.",
       "affectionate 애정있는 / literate 읽고 쓸 수 있는 / passionate 열렬한"
     ],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -432,7 +432,7 @@
       "captivate 넋을 빼앗다 / originate 시작하다",
       "formulate"
     ],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -441,7 +441,7 @@
     "meaning": "호흡 (breath)",
     "origin": "atm = atmo = breath",
     "ex": ["atmosphere 대기 / atmospheric pressure 기압"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -454,7 +454,7 @@
       "auditorium 청중석, 강당",
       "audible 들을 수 있는 / audit 회계감사 / auditory 듣기의, 청각의"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -467,7 +467,7 @@
       "autocrat 독재자 / autonomy 독립, 자유 / autopsy 부검 / autograph 자필 서명 / autobiography 자서전",
       "상기의 수능 단어 전체"
     ],
-    "from": ["Prefix"]
+    "role": ["Prefix"]
   },
   {
     "like": 0,
@@ -476,7 +476,7 @@
     "meaning": "부풀어(swollen), 매우 큰(bulky) , 공(ball)",
     "origin": "bal = bul = bulky ball",
     "ex": ["balloon 풍선", "bullet 탄알 / bulletin 게시, 공시 / bulk 크기, 부피"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -485,7 +485,7 @@
     "meaning": "춤추다 (dance)",
     "origin": "bal = to dance",
     "ex": ["ballade 민요 / ballet 발레 / ballerina 발레리나, 무희"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -498,7 +498,7 @@
       "band (사람들이 모여 결속한 음악) 밴드 / bandage 붕대 / bond 결속, 채권 / bind 묶다 / bundle 다발",
       "vagabond 부랑자"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -507,7 +507,7 @@
     "meaning": "금지한다고(forbid) 선언하다(proclaim)",
     "origin": "ban = to forbid or proclaim",
     "ex": ["ban 금지", "contraband (금지하는 것을 반대로 가지고 오는) 밀수품 / abandon 버리다"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -520,7 +520,7 @@
       "embarrass 난처하게 하다",
       "bar는 프랑크 소세지처럼 동그랗고 긴 막대기를 연상한다. "
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -540,7 +540,7 @@
       "basic 바닥인 기초의 / basically 근본적으로 / basis 근거 / basement 지하실 / baseball 야구",
       "ambassador 대사, 사절 / embassy 대사관"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -549,7 +549,7 @@
     "meaning": "치다 (heat)",
     "origin": "bat = bet = beat = to heat or beat",
     "ex": ["batter 타자 / beat 치다 / bet 내기를 걸다", "combat 전투 / debate 논쟁"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -568,7 +568,7 @@
     "root": "bel",
     "meaning": "전쟁 (war)",
     "origin": "bel = war",
-    "from": ["Root"],
+    "role": ["Root"],
     "ex": [
       "antebellum 전쟁 이전의 / bellicose 호전적인 / belligerent 전쟁을 일으키기 좋아하는; 교전국",
       "rebel (다시 전쟁을 일으키려고) 반항, 반역자"
@@ -586,7 +586,7 @@
       "benign (좋은 태생이라서) 친절한",
       "benign 친절한 / benefactor 후원자, 은인 / beneficent  선을 행하는, 친절한 / benevolent 자선의, 자비로운"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -595,7 +595,7 @@
     "meaning": "명령하다 (order)",
     "origin": "bid = to order",
     "ex": ["bid 명령하다", "forbid (하지 못하도록 명령하여) 금지하다"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -604,7 +604,7 @@
     "meaning": "생명 (life)",
     "origin": "bio = \"life\"",
     "ex": ["biology 생물학 / biography 전기 / biotechnology 생명 공학", "autobiography 자서전"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -613,7 +613,7 @@
     "meaning": "물다 (bite)",
     "origin": "bit = bite",
     "ex": ["backbite 험담하다 / bitterly 몹시"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -626,7 +626,7 @@
       "chronic 오랫동안 지속되는, 습관적인 / chronicle 연대기 / chronology연대학, 연대순 배열",
       "anachronism 시대착오 / diachronic 통시적인"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -651,7 +651,7 @@
       "acclivity 오르막길 / declivity 내리막길 / proclivity 경향, 기호",
       "disinclination 마음이 내키지 않음 / inclination 성향, 의향 / recline 기대다, 눕다"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -671,7 +671,7 @@
       "co라는 어근으로 뒤따라 오는 다른 어근와 결합시, 그 어근의 첫 번째 철자와 같은 것을 취한다. 예로 correct = co(r) + rect",
       "coalesce 합체하다, 합동하다 / coerce 강요하다 / cogent 설득력 있는 / cognate 같은 조상의, 동족의"
     ],
-    "from": ["Prefix"]
+    "role": ["Prefix"]
   },
   {
     "like": 0,
@@ -684,7 +684,7 @@
       "collide 충돌하다, 부딪히다 / collaborate 협력하다, 공동으로 일하다",
       "collateral 평행의, 나란히 있는 / colloquy 대담"
     ],
-    "from": ["Prefix"]
+    "role": ["Prefix"]
   },
   {
     "like": 0,
@@ -693,7 +693,7 @@
     "meaning": "오다 (come)",
     "origin": "com = come = \"to come\"   [from Latin 'comen']",
     "ex": ["come 오다 / income (안으로 들어온) 수입 / (outcome 밖으로 나온) 성과"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -706,7 +706,7 @@
       "commensurate 동등한, 같은 / commodious 넓고 편리한 / compatriot 동포, 동료 / complacent 자기 만족",
       "compliant 고분고분한 / compatible 사이좋게 지낼 수 있는 / complicity 공모, 연루 / compunction 양심의 가책"
     ],
-    "from": ["Prefix"]
+    "role": ["Prefix"]
   },
   {
     "like": 0,
@@ -721,7 +721,7 @@
       "consecrate 신성하게 만들다 / consonate 일치하는 / constrain 강요하다 / contentious 논쟁을 좋아하는 /",
       "contrition 후회, 뉘우침 / convalescence 회복 / convoluted 복잡한, 뒤얽힌"
     ],
-    "from": ["Prefix"]
+    "role": ["Prefix"]
   },
   {
     "like": 0,
@@ -733,7 +733,7 @@
       "contrary 반대하는 / contrast (반대로 놓아서) 대조하다",
       "contraband 밀수품 / contradict 반박하다 / contravene 역행하다 / incontrovertible 논의하기가 불가능한, 명백한"
     ],
-    "from": ["Prefix"]
+    "role": ["Prefix"]
   },
   {
     "like": 0,
@@ -741,7 +741,7 @@
     "root": "cor",
     "meaning": "피부 (skin)",
     "origin": "cor = cori = cuir = \"skin\"",
-    "from": ["Root"],
+    "role": ["Root"],
     "ex": ["corium 진피 (복수형) / coria 진피(단수형) / corious 가죽의 / cuirass 갑옷"]
   },
   {
@@ -751,7 +751,7 @@
     "meaning": "[접두사] 완전히, 모두 함께 (together)",
     "origin": "co = con = com = col = cor = \"together or with or intensive\"  [refer to the other suffixes in this dict.]",
     "ex": ["correct (모두 올바르게 만들다) 수정하다"],
-    "from": ["Prefix"]
+    "role": ["Prefix"]
   },
   {
     "like": 0,
@@ -771,7 +771,7 @@
       "increase 증가하다 / increment 증가된 것 / decrescent 줄어드는 / decrement 감소, 감소량",
       "accretion 축적, 누적 / accrue 발생하다, 생기다 / crescendo 점점 세어지기, 최고조"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -784,7 +784,7 @@
       "incubate 알을 품다, 부화하다 / incumbent (몸을 기울여) 기대는",
       "cubicle 칸막이한 작은 방 / cumbersome 다루기 어려운, 부담되는 / recumbent 누워 있는 / succumb 복종하다"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -793,7 +793,7 @@
     "meaning": "달리다 (run)",
     "origin": "cur = 'to run'",
     "ex": ["current 현행의, 현재의 / curriculum 교과 과정", "excursion 소풍 / occur 생기다 / recur 재발하다"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -805,7 +805,7 @@
       "cure (돌보아) 치료 / curiosity 호기심",
       "accurate 정확한 / security 안전, 무사 / careful 주의깊은 / carve 새기다"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -825,7 +825,7 @@
     "meaning": "부정 (not/negative), 반대(opposite/aginst)",
     "origin": "de = dis = \"not or opposite\"   [refer to the other prefixes 'dis']",
     "ex": ["debate 토론하다 / defy 반항하다 / demerit 단점"],
-    "from": ["Prefix"]
+    "role": ["Prefix"]
   },
   {
     "like": 0,
@@ -842,7 +842,7 @@
     "meaning": "열 (ten)",
     "origin": "dec = deca = deci = decem  \"ten\"    [from Latin deca/decem]",
     "ex": ["decade 십, 십년 / decimal 십진법의"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -864,7 +864,7 @@
     "meaning": "사람들(people)",
     "origin": "dem = demo = \"people\"",
     "ex": ["democracy (사람들이 모여서 하는) 민주주의", "epidemic 유행성의 / pandemic (널리 사람들에게 퍼지는) 유행병"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -878,7 +878,7 @@
       "divert 전환하다 / divorce 다른 곳으로 가서 (이혼하다) /  divulge, divide, division",
       "divulge, divide, division"
     ],
-    "from": ["Prefix"]
+    "role": ["Prefix"]
   },
   {
     "like": 0,
@@ -889,7 +889,7 @@
     "ex": [
       "diagonal (반대편이 각으로가는) 대각선의 / dialect (다른 편의 말인) 방언 / dialogue (서로 가로질러서 하는) 대화"
     ],
-    "from": ["Prefix"]
+    "role": ["Prefix"]
   },
   {
     "like": 0,
@@ -898,7 +898,7 @@
     "meaning": "부정 (not), 반대의(=opposite/against)",
     "origin": "dis = de = \" not or opposite'               [refer to the other prefixes  'de']",
     "ex": ["disarm (무장을 풀어) 무장을 해제하다 / disadvantage (이점이 없어서) 불리"],
-    "from": ["Prefix"]
+    "role": ["Prefix"]
   },
   {
     "like": 0,
@@ -907,7 +907,7 @@
     "meaning": "따로(aprt), 멀리(away), 떨어져 있는(apart)",
     "origin": "dis = di = de = \"off or apart or away\"  [refer to the other prefixes 'di' or 'de']",
     "ex": ["discriminate 구별하다 /", "dispel, dissect, discard"],
-    "from": ["Prefix"]
+    "role": ["Prefix"]
   },
   {
     "like": 0,
@@ -916,7 +916,7 @@
     "meaning": "상태(state), 특성(quality)",
     "origin": "dom = state or quality",
     "ex": ["kingdom 왕국 / wisdom 지혜"],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -932,7 +932,7 @@
       "duke, dock, /  [prob.] team 사람들을 끌어 모아 만든 '팀'",
       ", , ,seductive, ,,"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -941,7 +941,7 @@
     "meaning": "힘 (power)",
     "origin": "dyn = dynam = dynas = dynos = 'power'",
     "ex": ["dynamic 동력의 / dynamite 다이너마이트 / dynasty 왕조 / dynosaur 공룡"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -950,7 +950,7 @@
     "meaning": "밖으로 (outside), 멀리(away)",
     "origin": "e = ec = ex = ef = extra = \"out or outside\" [refer to the other prefixes]",
     "ex": ["emit (밖으로 보내다) 방출하다, 방사하다 /"],
-    "from": ["Prefix"]
+    "role": ["Prefix"]
   },
   {
     "like": 0,
@@ -959,7 +959,7 @@
     "meaning": "밖으로 (outside), 멀리(away)",
     "origin": "ec = ex = ef = e = ecto = \"out or outside\"  [refer to the other prefixes]",
     "ex": ["ecstasy", "eccentric (중심에서 벗어나서) 이상한", "eclipse"],
-    "from": ["Prefix"]
+    "role": ["Prefix"]
   },
   {
     "like": 0,
@@ -990,7 +990,7 @@
       "사람을 나타내는 접미사 ee는 'er'과 달리 주로 수동/피동의 의미를 담고 있다.  예를 들어, payer 돈을 주는 지급인, payee 돈을 받는 수취인.",
       "divorcee 이혼한 사람 / employee 종업원 / payee 돈을 받는 수취인"
     ],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -999,7 +999,7 @@
     "meaning": "~하는 사람(one who)",
     "origin": "eer = er =ar = or = ard = person  [refer to the other suffixes in this dict.]",
     "ex": ["auctioneer 경매인 / volunteer 지원자"],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -1012,7 +1012,7 @@
       "enable 가능하게 하다",
       "embody 구체화하다 / embrace 껴안다"
     ],
-    "from": ["Prefix"]
+    "role": ["Prefix"]
   },
   {
     "like": 0,
@@ -1024,7 +1024,7 @@
       "[주의!] en은 접두사와 접미사,  두 가지로 활용된다.",
       "harden 딱딱하게 만들다 / lessen 줄이다 / weaken 약화시키다"
     ],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -1033,7 +1033,7 @@
     "meaning": "상태(state), 행동(act), 특성(quality)",
     "origin": "ance = ancy = ence = ency = state or act or quality   [refer to the other suffixes in this dict.]",
     "ex": ["competence 자격 / dependence 의존 / residence 주거"],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -1061,7 +1061,7 @@
     "meaning": "사이에 (between)",
     "origin": "enter = entre = \"between\"",
     "ex": ["enterprise 기업, 진취적인 정신 / entertain (서로의 사이에 놓고) 접대하다, 환대하다"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1085,7 +1085,7 @@
       "epigraph 비영, 비문",
       "epidermis 상피, 표피 / epizoon 체외 기생동물 / eponym 기원이 된 인물"
     ],
-    "from": ["Prefix"]
+    "role": ["Prefix"]
   },
   {
     "like": 0,
@@ -1097,7 +1097,7 @@
       "equal 동등한 / equation 균등화 / equator 적도 / equivalent 대등한 / equivocate 얼버무리다",
       "adequate 적절한"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1106,7 +1106,7 @@
     "meaning": "사람 (the one who)",
     "origin": "er = ar = or = person [refer to the suffix 'ar' and 'or']",
     "ex": ["teacher 선생"],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -1118,7 +1118,7 @@
       "energy 에너지 / energize 활기를 돋우다 / synergy 공동 작업, 상승 효과",
       "earning 수입, 소득 / learn 배우다"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1127,7 +1127,7 @@
     "meaning": "관계된(related), 관련이 있는",
     "origin": "ern = related",
     "ex": ["eastern 동쪽의 / modern 현대의 / western 서쪽의"],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -1135,7 +1135,7 @@
     "root": "esque",
     "meaning": "~과 같은 (esque = like = ish), ~의 형식이나 방법으로 (in the manner of), 유사, 관계",
     "origin": "esque = like",
-    "from": ["Suffix"],
+    "role": ["Suffix"],
     "ex": ["pictureesque; burlesque; grostesque", "picturesque"]
   },
   {
@@ -1145,7 +1145,7 @@
     "meaning": "종족(race), 민족(nation)",
     "origin": "ethn = 'race or nation'",
     "ex": ["ethnic 인종의 / ethnology 민족학"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1154,7 +1154,7 @@
     "meaning": "사람 (one who)",
     "origin": "eur = er =ar =an =ant = 'person'  [refer to the other suffix]",
     "ex": ["amateur 아마추어 / entrepreneur 기업가"],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -1163,7 +1163,7 @@
     "meaning": "밖으로 (outside), 멀리(away)",
     "origin": "ex = ec = ef = e = extra = \"out or outside\" [refer to the other prefixes]",
     "ex": ["export (밖으로 날라서) 수출하다 / exceed (밖으로 더 지나가서) 초과하다"],
-    "from": ["Prefix"]
+    "role": ["Prefix"]
   },
   {
     "like": 0,
@@ -1189,7 +1189,7 @@
       "fare 움직여 가는 이동수단의 요금",
       "warfare 전생을 하러 가는 교전 / wellfare 잘 지내면서 가는 복지, 변영"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1226,7 +1226,7 @@
       "effervescent 거품이 부글부글 끓는 / effervesce 거품이 부글부글 끓다",
       "effervescencet 거품이 남"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1254,7 +1254,7 @@
       "confident 신뢰하는 / confidence 신뢰 ",
       "affidavit 선서 진술서 / bonafide 진실의, 진짜의 / confidant 친구, 믿을만한 사람 / confide 털어 놓다 / diffident 자신 없는, 겁이 많은 /  fidelity 충성 / fiduciary 믿고 맡긴 / infidel 이단자, 이교도 / perfidy 배신, 배반 /"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1279,7 +1279,7 @@
       "confine 제한하다/ definite 확실한, 분명한 /  infinite 무한한 / refine 정제하다",
       "finite 끝이나 한계가 있는, 제한된 / affinity 끌림, 친밀감 / definitive 최종적인, 결정적인 / infinitesimal 극소의, 아주 작은"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1288,7 +1288,7 @@
     "meaning": "고정하다(stick), 묶다(fasten)",
     "origin": "fix = \"fasten\"",
     "ex": ["prefix (단어에서 앞에서 고정하는 말인) 접두사 / suffix 접미사 / transfix 못 박다"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1315,7 +1315,7 @@
       "flux 흐름 / affluent 도도하게 흐르는,풍부한 / effluent 흘러나오는, 폐수/ confluence 합류점, 집합 / influx 유입 / fluctuation 번동, 오르내림 / mellifluous 감미로운, 꿀이 흐르는 / superfluous 남아도는, 불필요한",
       "flue 연통, 연관"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1349,7 +1349,7 @@
       "'flor'은 향기(flagrance)가 흘러(flow)가는 아름다운 꽃(flower)이라는 뜻이다. fl(=flow)의 확장된 형태(extended form of root 'fl(=flow)라고 볼 수 있다.",
       "floral 꽃의"
     ],
-    "from": ["Florence 플로렌스 (이탈리아 피렌쩨 Firenze) , 여자 이름"]
+    "role": ["Florence 플로렌스 (이탈리아 피렌쩨 Firenze) , 여자 이름"]
   },
   {
     "like": 0,
@@ -1358,7 +1358,7 @@
     "meaning": "힘 (force)",
     "origin": "for = forc = fort = \"power\"",
     "ex": ["fortress 요새", "force 힘, 권력 / fort (힘이 있는) 요새, 진지"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1367,7 +1367,7 @@
     "meaning": "반대하여(against/opposte), 멀리(away)",
     "origin": "for = \"against or away\"   [refer to the other meaning 'forwad' of 'for' in this dict.]",
     "ex": ["forbid (명령하여 반대하다) 금지하다"],
-    "from": ["Prefix"]
+    "role": ["Prefix"]
   },
   {
     "like": 0,
@@ -1393,7 +1393,7 @@
       "phren(=fr=mind) + o(=combining vowel) + log(=words or learning) + y(=noun suffix) -> 인간의 두개골(skull or head)를 보고 그 사람의 마음을 읽는 학문 -> 골상학",
       ""
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1406,7 +1406,7 @@
       "confuse 혼동하다 / refuse 거절하다 / futile 쓸모없는",
       "trans(=across) + fus(=pour) + ion(=suffix) -> 건너편의 사람에게 피를 건네 주는 것 -> 수혈"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1431,7 +1431,7 @@
     "meaning": "즐겁게 (enjoy) 큰소리로 소리치듯이(shout) 노래하다 (sing)",
     "origin": "gal = to enjoy or sing",
     "ex": ["gale (큰 소리나는) 돌풍 / nightinggale (밤에 우는 새인) 나이팅게일"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1468,7 +1468,7 @@
       "regard 간주하다 / against ~에 대항하여 / engagement 약속 / regain 되찾다 /",
       "ambiguous 애매한 / argument 주장 / disguise 위장하다"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1489,7 +1489,7 @@
       "disingenuous 부정직한 / ingenious 창의성의 / ingenuous 솔직한 / hydrogen 수소 / oxygen 산소",
       "benign (좋은 태생이라서) 친절한"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1498,7 +1498,7 @@
     "meaning": "흙(soil), 지구 (earth)",
     "origin": "geo = soil or earth",
     "ex": ["geography 지리 / geology 지질학 / geometry 기하학 /"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1511,7 +1511,7 @@
       "congestion 혼잡 / digest 소화하다 / exaggerate 과장하다 / register 등록하다",
       "belligerent 호전적인"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1523,7 +1523,7 @@
       "glance 흘끗 보다 / glare 노려보다 / glimpse  흘끗 봄 / glisten 반짝이다 / glow불타다 / gloomy 어두운, 우울한",
       "glow 불타다"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1542,7 +1542,7 @@
     "root": "grad",
     "meaning": "가다(go), 걷다(walk), 단계적으로 가다(step)",
     "origin": "grad =gress = to go or walk [refer to root 'gress']",
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1572,7 +1572,7 @@
       "gratuitous 감사한 마음으로 무료로 주는, 무료의",
       "grin 기쁜 마음을 가지고 소리내지 않고 쓴웃음을 짓다"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1624,7 +1624,7 @@
     "meaning": "동그란 구멍 (hole)",
     "origin": "hol = \"hole\"",
     "ex": ["hole 구멍 / hollow (구멍이 나서) 속이 빈"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1639,7 +1639,7 @@
       "catholic 가톨릭 교회의",
       "holocaust (집단으로 죽이는) 대학살"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1648,7 +1648,7 @@
     "meaning": "잡아서(take), 유지하다(keep)",
     "origin": "hol = hold = \"to take or keep\"  [from Latin 'holden']",
     "ex": ["hold 잡다, 유지하다 / behold 보다"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1660,7 +1660,7 @@
       "hom과 hum은 같은 의미의 어근이다.  인간은 흙(soil/ground/earth)에서 나왔고, 흙으로 돌아간다는 의미를 담고 있다.",
       "homosapiens 호모사피엔스 / homicide 살인"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1674,7 +1674,7 @@
       "preterhuman 초인적인",
       "humus 부엽토, 부식토"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1686,7 +1686,7 @@
       "hum은 구불구불 흘러가는 것(flow)를 연상합니다. 소리가 흘러가고, 물이 흘러가고, 사람의 마음이 흘러가는 것.   예로 유머는 사람의 기분이 좋토록 흘러가게 하는 것이라는 뜻입니다. ",
       "hum 흥얼거리다 / humid (젖어서) 습기가 찬 / humidity 습기 / humor 유머"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1695,7 +1695,7 @@
     "meaning": "집 (house)",
     "origin": "hus = hous = 'house'",
     "ex": ["house 집 / husband (집에 관한 것을 묶어서 처리하는 사람인) 남편 / housewife 가정주부"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1709,7 +1709,7 @@
       "hydra(히드라)는 그리스신화에 나오는 머리가 아홉 개가 달린 큰 재앙을 상징하는 바다뱀이다. 결국 물(바다)과 관련되어 있다. 영어 발음은 '하이드라'",
       "hydraulic 수력학의"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1718,7 +1718,7 @@
     "meaning": "건강 (health)",
     "origin": "hyg = hygi = 'heath'",
     "ex": ["hygiene 위생 / hygienic 위생상의"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1727,7 +1727,7 @@
     "meaning": "가능한 (able to be)",
     "origin": "ible = able = 'able to be'",
     "ex": ["possible 가능한 / visible 명백한"],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -1736,7 +1736,7 @@
     "meaning": "행동(act) , 것(thing)",
     "origin": "ice = act or thing",
     "ex": ["justice 정의 / service 봉사"],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -1745,7 +1745,7 @@
     "meaning": "학문(learning), 과학(science), 체계(system)",
     "origin": "ics = learning or science",
     "ex": ["ethics 윤리학 / linguistics 어학 / physics 물리학"],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -1754,7 +1754,7 @@
     "meaning": "(어근) 자신 (self)",
     "origin": "id = idos = 'self or one's own'",
     "ex": ["id = iden = ident = 'same'"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1763,7 +1763,7 @@
     "meaning": "(어근) 같은 (same/like)",
     "origin": "id = iden = ident = 'same or like'",
     "ex": ["이 어근 id는 접미사로도 사용된다.", "identity 주체성 / identification 신원 확인"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1772,7 +1772,7 @@
     "meaning": "불 (fire)",
     "origin": "ign = 'fire'",
     "ex": ["igneous 불같은 / ignite 불을 붙이다 / ignition 발화"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1792,7 +1792,7 @@
     "meaning": "가능한 (able to be)",
     "origin": "able = ible = ile = 'able to be' [refer to the suffix 'ible' or 'able']",
     "ex": ["mobile 움직일 수 있는", "docile 유순한 / mobile 움직일 수 있는 / fertile 비옥한 / mobile 움직이기 쉬운"],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -1800,7 +1800,7 @@
     "root": "ine",
     "meaning": "유사(like), 관계(related to)  ????",
     "origin": null,
-    "from": ["Adeline : Adelade에 ine라는 프랑스 여성 접미사를 붙인 것 (French femeine ending'-ine' gave Adeline.)"]
+    "role": ["Adeline : Adelade에 ine라는 프랑스 여성 접미사를 붙인 것 (French femeine ending'-ine' gave Adeline.)"]
   },
   {
     "like": 0,
@@ -1809,7 +1809,7 @@
     "meaning": "밑(under), 아래(below)",
     "origin": "infra = infer = \"below or under\"",
     "ex": ["inferior (다른 사람보다 아래의) 열등인", "infrastructure (밑에 깔린) 기반 시설", "infrasonic"],
-    "from": ["Prefix"]
+    "role": ["Prefix"]
   },
   {
     "like": 0,
@@ -1818,7 +1818,7 @@
     "meaning": "상태(condition), 특성(quality), 행동(action)",
     "origin": "ion = sion = tion = state or quality",
     "ex": ["action 활동 / invention 발명 / mission 임무 /omission 생략"],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -1826,7 +1826,7 @@
     "root": "ips",
     "meaning": "자신 (self)",
     "origin": "ips = ipse = ipso = \"self\"",
-    "from": ["Root"],
+    "role": ["Root"],
     "ex": ["ipsilateral 신체의 측면의"]
   },
   {
@@ -1839,7 +1839,7 @@
       "원칙적으로 in이라는 어근에서 다음에 오는 철자에 의하여 영향을 받아 변화한 접두사이다. il + legal = 법적이 아닌 = 불법의 / illegible 읽혀지기 어려운",
       "irrational 비이성적인"
     ],
-    "from": ["Prefix"]
+    "role": ["Prefix"]
   },
   {
     "like": 0,
@@ -1848,7 +1848,7 @@
     "meaning": "행하여(do), 가다 (go)",
     "origin": "ish = is = 'to go or do'",
     "ex": ["ish는 어근 it와 같은 의미다.", "perish 완전히 가서 '사라지다'", "issue 일을 하려고 하는 '이슈, 논쟁점'"],
-    "from": ["Suffix", "Root"]
+    "role": ["Suffix", "Root"]
   },
   {
     "like": 0,
@@ -1857,7 +1857,7 @@
     "meaning": "상태(state), 행동(act), 특성(quality)",
     "origin": "ism = asm = atism = state or quality",
     "ex": ["ism은 주로 '~주의'로 해석하면 좋다.", "conservatism 보수주의 / dogmatism 독단주의 / materialism 물질주의"],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -1869,7 +1869,7 @@
       "사람을 뜻하는 접미사는 ist, ite, er, or, ar, an 등 많다. 이 사전에서 별로도 다루었으니 검색하여 한 번 만 숙지하면 좋다.",
       "dentist 치과 의사 / scientist 과학자"
     ],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -1881,7 +1881,7 @@
       "exit 밖으로 나가는 '출구' / transit 통과하여 지나가는 '갈아타는 곳'",
       "initiate 안에서 가려고 하여 '시작하다'"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
 
   {
@@ -1894,7 +1894,7 @@
       "사람을 뜻하는 접미사는 ist, ite, er, or, ar, an 등 많다. 이 사전에서 별로도 다루었으니 검색하여 한 번 만 숙지하면 좋다.",
       "sybarite 향락주의자"
     ],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -1911,7 +1911,7 @@
     "meaning": "날 (day)",
     "origin": "journ =\"day\"",
     "ex": ["journal 정기 간행물 / journey 여행", "adjourn 휴회하다"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1920,7 +1920,7 @@
     "meaning": "결합 (joint)",
     "origin": "junct = \"joint\"",
     "ex": ["junction 결합, 접합", "conjunction 결합"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1933,7 +1933,7 @@
       "justify 정당화하다",
       "adjust 맞추다 / maladjustment 부적응 / judicious 현명한 / prejudice 편견 / judiciary 사법의"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1942,7 +1942,7 @@
     "meaning": "나르다 (carry)",
     "origin": "lat = \"to carry\"",
     "ex": ["legislator 입법자 / relation 관계 / translate 번역하다 / ventilate 환기하다"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1951,7 +1951,7 @@
     "meaning": "넓게 (wide), 퍼지다(spread out)",
     "origin": "lat = \"wide spread\"",
     "ex": ["latitude 위도", "dilate 팽창시키다"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1960,7 +1960,7 @@
     "meaning": "옆 (side), 측면",
     "origin": "lat = later = \"side\"    [from Latin latus/lateris]",
     "ex": ["latter 후자의 / lattic 격자의", "lateral 옆의, 측면의 / bilateral 양측면의", "ipsilateral 신체의 측면의"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1984,7 +1984,7 @@
       "collect 수집하다 / elect 선출하다 / intellect 지성 / neglect 무시하다 / select 선택하다",
       "illegible 읽혀지기 어려운"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -1996,7 +1996,7 @@
       "leg는 사람들이 지켜서 읽어야 할 것을 적은 것이 법이다. 그러므로 의미상 다른 의미의 어근 leg(읽다)와 의미상 같은 것으로 생각하면서, 기억해두기를 바란다.",
       "legal 법의 /"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2004,7 +2004,7 @@
     "root": "len",
     "meaning": "풀어서(loose/alacken), 가도록(let go) 해주는, 부드러움(soft/mild)",
     "origin": "len = leni = let = lat = last = \"loose or soft or mild\"",
-    "from": ["Root"],
+    "role": ["Root"],
     "ex": [
       "late (느슨하게 온) 늦은 / last (제일 늦은) 마지막의 / let (누군가를 너그럽게 놔두다) 하게 하다 / outlet (밖으로 풀어져 나가는) 출구",
       "lenient (부드러워서) 관대한 / relentless (다시 부드럽지 않아) 잔인한"
@@ -2017,7 +2017,7 @@
     "meaning": "가볍게(light), 들어(lift), 올리다(raise)",
     "origin": "lev = liev = \"to lift or raise\"  [from Latin 'levis/levare]",
     "ex": ["lever (들어 올리는) 지레 / leverage 지레 장치", "elevate 들어 올리다 / elevator 엘레베이터, 승강기"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2030,7 +2030,7 @@
       "deliberate (균형을 잡으려고) 숙고하다 / equilibrium (똑같이 균형을 맞추는 것) 균형",
       "libra (무게 단위인) 파운드"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2060,7 +2060,7 @@
     "meaning": "쳐서(strike), 만들어진 손해(damage)",
     "origin": "lid = lis = \"strike\"",
     "ex": ["collide (서로 쳐서) 충돌하다 / collision 충돌"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2077,7 +2077,7 @@
     "meaning": "줄 (line)",
     "origin": "lin = lign = \"line or flax\"",
     "ex": ["lineal (한 라인의) 직계의 / alignment 정열, 제휴"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2090,7 +2090,7 @@
       "catling (작은 새끼 고양이, 작은 절단칼)",
       "catling (외과 수술용 작은 절단칼)"
     ],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -2099,7 +2099,7 @@
     "meaning": "혀로(tongue),  말하는 언어(language)",
     "origin": "ling = lang = lingu = langu = \"tongue or language\"",
     "ex": ["ling는 어근 lang와 같은 의미다", "linger 말을 꾸물거리다", "linguistic 언어학"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2107,7 +2107,7 @@
     "root": "log",
     "meaning": "말이나 글 (words)로 이루어진 학문(learning)",
     "origin": "log = logy = leg = \"words or learning\"   [refer to the root 'leg' in this dict.]",
-    "from": ["어근 leg 1 참조 바람 :  leg = lect = log = \"to gather or choose or read\" [from Latin legein/legere]"],
+    "role": ["어근 leg 1 참조 바람 :  leg = lect = log = \"to gather or choose or read\" [from Latin legein/legere]"],
     "ex": ["logos 이성 / biology 생물학", "philology 문헌학, 언어학"]
   },
   {
@@ -2116,7 +2116,7 @@
     "root": "luc",
     "meaning": "빛 (light)이 보여(look) 선명한(clear)",
     "origin": "luc = light",
-    "from": ["Root"],
+    "role": ["Root"],
     "ex": ["translucent 빛이 부분적으로 지나가서 '반투명인'"]
   },
   {
@@ -2126,7 +2126,7 @@
     "meaning": "(형용사형 접미사) ~의 특징을 가지는 (having the quality of)",
     "origin": "ly = 'having the quality of'",
     "ex": ["likely ~과 같은", "manly 남자다운"],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -2134,7 +2134,7 @@
     "root": "ly",
     "meaning": "(부사형 접미사) ~하는 방법으로 (in the manner of)",
     "origin": "ly = common adverbial suffix",
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -2162,7 +2162,7 @@
       "emancipate 해방시키다 / mandate 위임, 권한 / manifest 명백한 / manipulate 능숙하게 다루다 /",
       "manual 손의, 육체 노동의 / manuscript 원고"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2182,7 +2182,7 @@
     "meaning": "상태(state), 특성(quality)",
     "origin": "ment = 'state or quality'",
     "ex": ["agreement 동의 / excitement 흥분"],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -2190,7 +2190,7 @@
     "root": "min",
     "meaning": "작은 (small)",
     "origin": "min = small",
-    "from": ["Root"],
+    "role": ["Root"],
     "ex": [
       "diminish 줄이다 / diminutive 아주 작은 / miniature 축소판 / minimal 아주 작은 / minuscule 극소의, 소문자 /",
       "minute 아주 작은, 하찮은 / minutiae 세부항목"
@@ -2210,7 +2210,7 @@
     "root": "mis",
     "meaning": "가도록(let go), 보내다 (send)",
     "origin": "mis = mit = to send     [mit from Latin mittere (send) / mis from Latin missus (course)]",
-    "from": ["Root"],
+    "role": ["Root"],
     "ex": [
       "missive 보내는 '편지' / dismiss 보내버리다, 해고하다 / emissary 사절, 밀사 / remiss 태만한, 소홀한 /",
       "remission 경감, 완화 / submissive 복종하는",
@@ -2224,7 +2224,7 @@
     "meaning": "나쁜 (bad)",
     "origin": "mis = bad or small",
     "ex": ["mischief,", "miscreant, misadventure, misnomer,"],
-    "from": ["Prefix"]
+    "role": ["Prefix"]
   },
   {
     "like": 0,
@@ -2232,7 +2232,7 @@
     "root": "mis",
     "meaning": "보내버리고 싶을 정도로 싫어하는 (hate)",
     "origin": "mis = miso = to hate   [mis from Latin misen]",
-    "from": ["Root"],
+    "role": ["Root"],
     "ex": ["misanthropic 사람을 싫어하여 염세적인"]
   },
   {
@@ -2246,7 +2246,7 @@
       "admit 인정하다, 자백하다 / commit 저지르다 / emit 내보내다 / omit 빠뜨리다 / permit 허락하다 /",
       "remit 송금하다 / submit 제출하다/ transmit 전달하다"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2255,7 +2255,7 @@
     "meaning": "덩어리를 (mass), 건설하여 만들다(build)",
     "origin": "mol = to build or mass",
     "ex": ["molecule 작은 덩어리같은 '분자'"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2276,7 +2276,7 @@
       "narcotic 졸리게 하는, 최면 효과가 있는, 수면제",
       "narcissus / narcolepsy / narcosis / snare"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2285,7 +2285,7 @@
     "meaning": "상태(state), 특성(quality)",
     "origin": "ness = 'state or quality'",
     "ex": ["friendiness 우정 / kindness 친절"],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -2294,7 +2294,7 @@
     "meaning": "이름을(name) 소리쳐(shout) 숫자(number)를  불러서 나누어 주다 (deal out)",
     "origin": "nom = nomy = law or shout or deal out    [from Latin nomos]",
     "ex": ["economy 집을 관리하는 법을 배우는 '경제'"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2307,7 +2307,7 @@
       "inoculate (안에 싹이 나오도록 하다-> 접붙여 넣어 예방하다) / binoculars (쌍안경)",
       "ocular 눈의, 시각의, 눈 접안경 / oculist 안과 의사"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2315,7 +2315,7 @@
     "root": "olig",
     "meaning": "작은(small/little)",
     "origin": "olig = oligo = \"small or little\"",
-    "from": ["Root"],
+    "role": ["Root"],
     "ex": [
       "oligosaccharide (단당류같은 다당류인) 올리고당",
       "olig(=small) + uri(=urine+ a(=suffix) -> 소변을 적게 누는 것 -> 소변 감소증"
@@ -2332,7 +2332,7 @@
       "balloon 풍선,기구 / booth 칸막이 / taboo 금기 / room 방",
       "oocyst / oocyte / oogenesis / oolite / oology"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2341,7 +2341,7 @@
     "meaning": "유사(lileness), 특성(quality), 행동(action)",
     "origin": "ory = ary = likeness or quality or act",
     "ex": ["preparatory 준비의 / promissory 약속의 / regulatory 감독의"],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -2350,7 +2350,7 @@
     "meaning": "[명사형 접미사] 장소 (place)",
     "origin": "ory = ary = \"place which\"",
     "ex": ["factory 만드는 장소인 공장 /", "laboratory 실험실"],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -2358,7 +2358,7 @@
     "root": "ous",
     "meaning": "특성 (having the quality of)",
     "origin": "ous = ious = itious = aceous = atious = uous = ulous = eous = \"having the quality of\"",
-    "from": ["Suffix"],
+    "role": ["Suffix"],
     "ex": [
       "dangerous 위험한 / fabulous 전설적인 / ridiculous 우스운 / tortuous 뒤틀린",
       "igneous 불같은 /  seb(=soap or grease or suet) + aceous(=adjective suffix) -> 기름이 찬 것의 -> 피지를 분비하는"
@@ -2419,7 +2419,7 @@
     "meaning": "발 (foot)",
     "origin": "ped = foot",
     "ex": ["pedal 발로 밟는 페달 / pedestrian 보행자", "expedition 탐험 / impede 방해하다"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2427,7 +2427,7 @@
     "root": "ped",
     "meaning": "어린이 (child)",
     "origin": "ped = child",
-    "from": ["Root"],
+    "role": ["Root"],
     "ex": ["pedagogue 어린이를 행하게 하는 교육자", "pediatrician 어린이를 다루는 소아과 의사"]
   },
   {
@@ -2448,7 +2448,7 @@
     "meaning": "뾰죽한 것(pointed)으로 벌을 주다(punish)",
     "origin": "pen = pun = pain = to punish",
     "ex": ["penality 벌을 주는 것인 '체벌' / pain 고통"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2460,7 +2460,7 @@
       "pendulum 진자 / pension 연금 / ponder 깊이 생각하다",
       "compensation 배상 / depend 의존하다 / expenditure 경비, 지출 / imdependence 독립 / suspend 매달다, 일시중지하다"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2469,7 +2469,7 @@
     "meaning": "요리한(cook) 음식을 소화시키다(digest)",
     "origin": "pep = peps = pept = to cook or digest",
     "ex": ["peptic 소화의, 소화제"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2487,7 +2487,7 @@
     "root": "per",
     "meaning": "분만 이동이나 출생",
     "origin": "per = bear(분만하다)",
-    "from": ["Root"],
+    "role": ["Root"],
     "ex": ["repertoty 다시 이동하여 가져다 놓는 저장 창고 / repertoire 노래 연주 곡목 모음"]
   },
   {
@@ -2505,7 +2505,7 @@
     "meaning": "느끼면서(feel) 사랑하다(love)",
     "origin": "phil = feel or love",
     "ex": ["philanthropist 박애가, 자선가 / philosophy 철학"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2529,7 +2529,7 @@
     "root": "phren",
     "meaning": "마음 (mind/heart)",
     "origin": "phren = fren = fran = \"mind\"",
-    "from": ["Root"],
+    "role": ["Root"],
     "ex": [
       "phrenic 심적인, 정신적인 / frantic (정신이 엇나가서) 광적인",
       "phren(=fr=mind) + o(=combining vowel) + log(=words or learning) + y(=noun suffix) -> 인간의 두개골(skull or head)를 보고 그 사람의 마음을 읽는 학문 -> 골상학"
@@ -2541,7 +2541,7 @@
     "root": "phth",
     "meaning": "사용하고, 소비되어(consume/waste), 없어져 죽는다(die).",
     "origin": "phth = \"use or waste or die\"",
-    "from": ["Root"],
+    "role": ["Root"],
     "ex": ["phth(=waste or die) + is + is(=suffix) -> 소비되어 없어지는 것 -> 소모성 질환"]
   },
   {
@@ -2554,7 +2554,7 @@
       "physics (자연을 공부하는) 물리학",
       "physio(=nature) + log(=words or study or learning) + y(noun suffix) -> 자연적인 생리를 연구하는 학문 -> 생리학"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2567,7 +2567,7 @@
       "phyto(=grow or plant) + pl(=strike or wander) + ankt + on(=suffix) -> 식물성 플랑크톤 / plankton : 이리저리 치면서 돌아다니는 것 -> 플랑크톤",
       "모음앞에서 어근 phyt을 사용. 자음앞에서는 phyto가 사용된다."
     ],
-    "from": ["Root", "Prefix"]
+    "role": ["Root", "Prefix"]
   },
   {
     "like": 0,
@@ -2576,7 +2576,7 @@
     "meaning": "컵에 물을 가득(full), 채우다(fill)",
     "origin": "pl = plen = plet = ply = pli = \"full or fill\"   [from Latin plere/plenus]",
     "ex": ["plenty (가득차서) 풍부", "complete (모두 차서) 완전한"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2585,7 +2585,7 @@
     "meaning": "[접미사] 접어진 겹(fold), 배(times)",
     "origin": "ple = ble = \"fold or times\"",
     "ex": ["접미사 ple는 어근 'pl' (=fold)와 같은 어족이다.", "multiple 몇겹의", "multiple 몇겹의 / quadruple 4배의"],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -2602,7 +2602,7 @@
     "meaning": "한 점(point)을 찌르다(prick)",
     "origin": "pun = punct = pung = point = to prick or point [refer to the root 'pun' in this dict.]",
     "ex": ["appoint 어디로 자리를 찍어서 임명하다, 어디에서 자리를 찍어 약속하다"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2611,7 +2611,7 @@
     "meaning": "놓아(put), 두다(place)",
     "origin": "pon = pos = pound = to put or place  [refer to the root 'pos' in this dict.]",
     "ex": ["component 구성 요소 / compound 합성물 / opponent 상대"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2620,7 +2620,7 @@
     "meaning": "나르다, 운반하다 (carry)",
     "origin": "port = \"to carry\"",
     "ex": ["import 수입하다 / export 수출하다"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2629,7 +2629,7 @@
     "meaning": "놓아(put), 두다(place)",
     "origin": "pos = pon = pound = to put or place",
     "ex": ["pose 두다 / positive 긍정적인", "impose 부과하다 / propose 제안하다 / purpose 목적 / suppose 가정하다"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2638,7 +2638,7 @@
     "meaning": "강해서(strong), 할 수 있는(able)",
     "origin": "pos = pot = strong or able",
     "ex": ["possess 소유하다 / possible 가능한"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2647,7 +2647,7 @@
     "meaning": "강해서(strong), 할 수 있는(able)",
     "origin": "pot = pos = strong or able",
     "ex": ["potent 힘센 / potential 잠재적인"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2656,7 +2656,7 @@
     "meaning": "마시다 (drink)",
     "origin": "pot = drink",
     "ex": ["pot 단지, 항아리 / poeitic 시적인 / poem 시 / poison 독 / pond 연못 / pour 쏟다", "symposium 토론회"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2665,7 +2665,7 @@
     "meaning": "누르다 (press)",
     "origin": "press = press",
     "ex": ["pressure 압력", "depression 불경기, 의기소침 / express 표현하다 / impress 감명을 주다 / oppress 억압하다"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2681,7 +2681,7 @@
       "opprobrium 불명예, 치욕 / probe 철저한 조사 / probation 시험, 시험기간 / probity 정직성 / reprobate 비난하다",
       "probe 철저한 조사 / probation 시험, 시험기간 / probity 정직성"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2701,7 +2701,7 @@
     "root": "pug",
     "meaning": "싸우다 (fight)",
     "origin": "pug = pugn = to fight",
-    "from": ["Root"],
+    "role": ["Root"],
     "ex": ["pugnacious 호전적인 / impugn 의문을 제기하다, 논박하다 / pugilist 권투 선수 / repugnant 혐오스러운, 불쾌한"]
   },
   {
@@ -2711,7 +2711,7 @@
     "meaning": "밀다(push), 치다(strike), 몰다(drive)",
     "origin": "pel = pul = to drive, strike, thrust   [refer to the other suffix 'pel' in this dict.]",
     "ex": ["pulse 밀고 치는 맥박"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2725,7 +2725,7 @@
       "acupuncture 침술 / compunction 양심의 가책, 죄책감 / expunge 지워버리다 / poignant 강렬한, 가슴아픈 /            pungent 찌를듯이 날카로운",
       "pungent 찌를듯이 날카로운 / punctilious 세심한, 꼼꼼한"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2734,7 +2734,7 @@
     "meaning": "머리에 무엇인가를 놓아서(put), 생각하다(think)",
     "origin": "put = think 생각하다",
     "ex": ["computer 컴퓨터 / dispute 논쟁하다 / output 산출하다 / repute 평가하다"],
-    "from": [
+    "role": [
       "인간은 무엇인가를 마음에 둔다(=put). 마음에 두고 생각하는 것이다. 뇌에 무엇인가가 들어가서 도는 것을 연상한다. Computer는 모든 것(com)이 생각하여(put) 돌아가는 것(er)을 의미한다."
     ]
   },
@@ -2745,7 +2745,7 @@
     "meaning": "놓다 (put)",
     "origin": "put = put or set",
     "ex": ["input 입력 / output 출력"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2754,7 +2754,7 @@
     "meaning": "오래 두어(put), 썩은(rotten)",
     "origin": "putr = rotten",
     "ex": ["putrefaction 부패 / putrescent 부패한 / putrid 부패한"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2762,7 +2762,7 @@
     "root": "pyr",
     "meaning": "불(fire)",
     "origin": "pyr = fire",
-    "from": ["Root"],
+    "role": ["Root"],
     "ex": ["pyre 불을 때기 위한 장작더미"]
   },
   {
@@ -2782,7 +2782,7 @@
     "meaning": "불평하다(complain)",
     "origin": "quar = quer = to complain",
     "ex": ["quarrel 불평하면서 말다툼하다"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2796,7 +2796,7 @@
       "conquer 정복하다 / exquisite 정교한, 예민한 / inquire 묻다, 조사하다/ inquisitive 호기심이 많은, 질문을 많이 하는 /",
       "perquisite 부수입, 임시수입 / quest 탐구, 탐색 / require 요구하다, 필요로 하다"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2810,7 +2810,7 @@
       "acquiesce 말없이 따르다 / acquit 무죄를 선언하다, 석방하다 / disquiet 불안, 동요 /",
       "quiescent 고요한, 잠잠한 / requiem 진혼곡, 애가 / tranquil 조용한, 평온한"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2827,7 +2827,7 @@
     "meaning": "뻗어나가는 뿌리(root)",
     "origin": "rad = root",
     "ex": ["radical 근본적인, 급진적인", "eradicate 근절하다"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2836,7 +2836,7 @@
     "meaning": "잡아(take) 채다(snatch)",
     "origin": "rap = to take or snatch",
     "ex": ["rapid 확 잡아채듯이 빠른", "rape 상대를 잡아 추행하는 성폭행 / rapacity 잡아 채서 강탈"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2849,7 +2849,7 @@
       "ridiculous 웃음을 살 수 있는, 웃기는",
       "derision 비웃음, 조롱 / risible 우스꽝스러운, 잘 웃는"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2872,7 +2872,7 @@
     "meaning": "깨지다(break), 터지다",
     "origin": "rup = rupt = break",
     "ex": ["abrupt 돌연한 / bankrupt 파산한 / eruption 폭발 / interrupt 가로막다"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2886,7 +2886,7 @@
       "sacrament 성례, 성체 / sacrilege 신성 모독 / sacrosanct 신성불가침의 / sanction 재가, 승인 /",
       "sanctuary 신성한 장소, 성역, 피난처"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2898,7 +2898,7 @@
       "sult 처럼 t가 붙는 경우가 많고, 모음만 변화한 sal과 sil이 있다.   \"샐-설-실\"크게 소리내어 머리에 쏘~옥 넣는다.",
       "salient 현저한"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2907,7 +2907,7 @@
     "meaning": "건강한 (healthy)",
     "origin": "san = healthy    {from Latin sanus \"sound, healthy}",
     "ex": ["sane 제정신의 / sanitation 공중 위생", "insanitary 비위생적인"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2919,7 +2919,7 @@
       "sap = sip = sav = sag. 어근이 이렇게 변하지만, 많은 단어가 포함되지 않으므로 sap에 통합하여 단어를 정리한다.",
       "savory 맛좋은"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2928,7 +2928,7 @@
     "meaning": "자른(cut), 고기나 육체(flesh)",
     "origin": "sarc = flesh or cut",
     "ex": ["sarcasm 남의 마음을 짜르듯이 말하는 냉소나 야유"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2937,7 +2937,7 @@
     "meaning": "꽉 차서(full) 충분한(enough)",
     "origin": "sat = full or enough",
     "ex": ["satisfy 만족시키다 / saturate 흠뻑 적시다", "insatiable 탐욕스러운"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2946,7 +2946,7 @@
     "meaning": "잘라서 무대를 설치하다 (stage)",
     "origin": "scen = stage",
     "ex": ["scene 장면"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2954,7 +2954,7 @@
     "root": "scen",
     "meaning": "음악 음이 올라가고 (climb) 내려가는 운율이 맞는 지를 조사하다(scan)",
     "origin": "scen = scen = scend = scan = to scan or climb",
-    "from": ["Root"],
+    "role": ["Root"],
     "ex": ["scend 파도에 얹혀 올라가다"]
   },
   {
@@ -2969,7 +2969,7 @@
       "omniscient 모든 것을 알고 있는, 전지의 / prescience 선견지명, 예지 / subconscious 잠재의식의",
       "unconscionable 양심이 없는, 터무니 없는"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -2993,7 +2993,7 @@
       "circumscribe 주위에 선을 긋다, 제한하다 / conscription 징병 / proscribe (앞에 써서 못하게) 금지하다, 처방하다",
       "scribe 필기자, 필경사 / script 손으로 쓴 것, 서체 / transcript 인쇄된 사본, 성적 증명서"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -3011,7 +3011,7 @@
       "",
       "seduction / secretary"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -3026,7 +3026,7 @@
       "non sequitur 불합리한 추론 / obsequious 아부하는 / persecute 박해하다 / prosecute 기소하다, 끝까지 따라가다",
       "prosecute 기소하다, 끝까지 따라가다"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -3042,7 +3042,7 @@
     "root": "sed",
     "meaning": "앉아서(sit) 놓고(set) 계획하다(plan)",
     "origin": "sed = sid = sit = set = sess = to sit or set or plan",
-    "from": ["Root"],
+    "role": ["Root"],
     "ex": [
       "sedate 침착한, 안정된 / sediment 침전물, 찌꺼기",
       "assiduous 아주 열심인, 근면한 / dissident 의견을 달리하는 / insidious 배신의, 위혐에 빠뜨리려는 /",
@@ -3065,7 +3065,7 @@
     "meaning": "~과 같이(like) 보이다(look), ~과 같다(same)",
     "origin": "sim = simil = sem = sembl =seem = like or same   [refer to the root 'sim' in this dict.]",
     "ex": ["seem ~과 같아 보이다 /", "assemble 비슷한 것을 모아 연결하여 조립하다"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -3080,7 +3080,7 @@
       "presentiment 예감 / sensory 감각의 / sentient 감각의, 지각의 / sentinel 파수, 감시인 /",
       "sensual 감각적인, 관능적인 / sensuous 감각적인"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -3089,7 +3089,7 @@
     "meaning": "늙은, 나이가 든(old)",
     "origin": "sen = old",
     "ex": ["senior 손위의", "senator 상원의원 / senatus 원로원"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -3098,7 +3098,7 @@
     "meaning": "썩게 하다 (cause to rot)",
     "origin": "sep = seps =sept = to cause to rot",
     "ex": ["septic 썩게 만드는, 부패시키는 / antiseptic 방부제"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -3110,7 +3110,7 @@
       "serial 연속의 / series 연속물",
       "assertion 단언, 주장 / desert 버리다 / exert 발휘하다 / insert 끼워 넣다 / exercise 운동, 연습"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -3119,7 +3119,7 @@
     "meaning": "지키다 (keep)",
     "origin": "serv = to keep",
     "ex": ["servant 하인 / service 봉사", "conserve 보존하다 / preserve 보호하다 / reserve 예약하다, 비축하다"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -3139,7 +3139,7 @@
       "[매우 중요] 'sh'라는 어근은 '휙' '쉭' 하고 칼을 휘둘러 자르는 것을 연상한다. 'sh'로 시작하는 단어가 거의 이런 의미를 가지고 있으니, 필수 암기 어근이다.",
       "share 자른 자기의 몫 / shear 깎아내다 / shepherd 양치기 / shift 바꾸다, 제거하다 / shiver 떨다"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -3148,7 +3148,7 @@
     "meaning": "상태(condition), 특성(quality)",
     "origin": "ship = 'state or quality'",
     "ex": ["friendship 우정 / hardship 고난 / partnership 협력"],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -3161,7 +3161,7 @@
       "shrub 자른 것 처럼 작은 나무인 관목",
       "shrub 자른 것 처럼 작은 나무인 관목 / shrubbery 관목 숲"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -3170,7 +3170,7 @@
     "meaning": "표시 (sign)",
     "origin": "sign = sign",
     "ex": ["sign 표시, 사인 /", "signification 의미 / transignification  성변화"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -3182,7 +3182,7 @@
       "sult 처럼 t가 붙는 경우가 많고, 모음만 변화한 sal과 sul이 있다.    \"샐-설-실\"크게 소리내어 머리에 쏘~옥 넣는다.",
       "resilient 탄력있는, 되튀는"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -3215,7 +3215,7 @@
     "meaning": "혼자 (alone)",
     "origin": "sol = single or alone",
     "ex": ["solitary 고독한 / solitude 고독", "console 위로하다 / desolate 황량한"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -3231,7 +3231,7 @@
       "irresolute 결단력이 없는 / resoulte 단호한 / resolve 결심하다, 해결하다 / soluble 해결될 수 있는, 용해성이 있는",
       "solvent 지급 능력이 있는, 용해시킬 수 있는"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -3240,7 +3240,7 @@
     "meaning": "특성 (having the quality of)",
     "origin": "some = 'having the quality of'",
     "ex": ["burdensome 번거로운 / onesome 쓸쓸한 / worrisome 곤란한"],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -3269,7 +3269,7 @@
       "conspicuous 쉽게 눈에 띄는, 주목할 만한 / despise 경멸하다 / suspicious 의심스러워하는",
       "perspicuous 명쾌한 / perspicacious 약삭빠른, 영리한"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -3283,7 +3283,7 @@
       "aspire 열망하다 / conspire 공모하다 / expire 만료되다 / gasp 헐떡거리다 / inspire 영감을 주다 / perspire 땀을 흘리다 / transpire 발산하다",
       "perspire 땀을 흘리다 / sprightly 활기찬, 발랄한 /  transpire 발산하다"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -3295,7 +3295,7 @@
       "spouse 약속한 사이인 배우자 / respond 응답하다 / sponsor 보증인",
       "espouse 약속하고 장가나 시집을 보내다, 받아들이고 지지하다"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -3308,7 +3308,7 @@
       "stellar 별의 / stellate 별모양의 / satellite 인공위성",
       "constellation 별자리"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -3316,7 +3316,7 @@
     "root": "sub",
     "meaning": "아래 (below)",
     "origin": "sub = sup",
-    "from": ["Prefix"],
+    "role": ["Prefix"],
     "ex": [
       "subjugate 장악하다, 복종하게 만들다 / subliminal 자신도 모르게 영향을 미치는 / submissive 복종하는 /",
       "subsidiary 보충의, 보조의 / subterranean 지하의 / subterfuge 핑계, 구실 / subtle 섬세한, 날카로운 /",
@@ -3334,7 +3334,7 @@
       "result 결과 / insult 모욕하다",
       "salmon 연어 (상류로 뛰어 올라가는 고기)"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -3353,7 +3353,7 @@
     "root": "super",
     "meaning": "위에 (above)",
     "origin": "super =sur = sopr = supr = \"above\"    [refer to the root 'sur' in this dict.]",
-    "from": ["Prefix"],
+    "role": ["Prefix"],
     "ex": [
       "supersede 대체하다 / superfluous 필요 이상의, 남아도는 / superlative 최상급의 / supercilious 거만한, 건방진"
     ]
@@ -3368,7 +3368,7 @@
       "surpass 능가하다",
       "surfeit 과다, 초과 / surmount 극복하다, 넘어가다 / surplus 잉여, 여분 / surveillance 감시, 감독"
     ],
-    "from": ["Prefix"]
+    "role": ["Prefix"]
   },
   {
     "like": 0,
@@ -3384,7 +3384,7 @@
       "insurgent 모반하는, 반란자, 폭도",
       "insurrection 반란, 폭동"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -3393,7 +3393,7 @@
     "meaning": "모두(together), 같이(with), 있어서 같은(same)",
     "origin": "sym = syn = syl = sy = \"together or with or same\"",
     "ex": ["syllable 음절", "syllepsis / syllogism"],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -3410,7 +3410,7 @@
       "syllepsis / syllogism",
       "symphysis / sympatric / symbiosis"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -3425,7 +3425,7 @@
     "root": "tac",
     "meaning": "말없는 (silent)",
     "origin": "tac = tic = \"silent\"",
-    "from": ["Root"],
+    "role": ["Root"],
     "ex": ["tacit 무언의, 암묵의 / taciturn 말수가 적은 / reticent 말이 없는, 과묵한"]
   },
   {
@@ -3448,7 +3448,7 @@
       "tailer (옷감을 자르는) 재단사",
       "entail 수반하다, 포함하다"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -3491,7 +3491,7 @@
       "기수인 4 (four), 5 (five), 6 (six)에 'th\"를 붙이면 서수가 되는 것이다.  1, 2, 3 등은 예외다.",
       "fourth, fifth, sixth, seventh, eighth, neneth, tenth, eleventh, twelvth"
     ],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -3506,7 +3506,7 @@
       "depth, strength, truth",
       "truthful, trufulness, untruthful, untruthfulness"
     ],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -3529,7 +3529,7 @@
     "root": "therap",
     "meaning": "치료하다(cure/heat/treatment)",
     "origin": "therap = \"cure or heal or treat\"",
-    "from": ["Root"],
+    "role": ["Root"],
     "ex": ["hypno(=sleep) + therap(=cure) + y(=suffix) -> 잠을 자는 동안에 치료하는 것 -> 최면 치료술"]
   },
   {
@@ -3557,7 +3557,7 @@
       "extract 끌어내다, 뽑아내다; 추출물, 발췌 /portract 연장하다 / subtract 빼다, 제하다",
       "distrait 정신 나간, 멍한 / distraught 이리저리 끌려다녀 괴로운, 심란한 / tractable 다루기 쉬운"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -3574,7 +3574,7 @@
       "transact, transaction, transit",
       "transmute 바꾸다, 변환하다"
     ],
-    "from": ["Prefix"]
+    "role": ["Prefix"]
   },
   {
     "like": 0,
@@ -3583,7 +3583,7 @@
     "meaning": "셋 (three), 세배의 (triple)",
     "origin": "tri = 'three'",
     "ex": ["travail (세 개의 기둥에 묶여 있는) 고통"],
-    "from": ["Root", "Prefix"]
+    "role": ["Root", "Prefix"]
   },
   {
     "like": 0,
@@ -3591,7 +3591,7 @@
     "root": "troph",
     "meaning": "영양을(nourish) 주어, 몸이 돌아가게 하다(turn)",
     "origin": "troph = \" turn or nourish\"",
-    "from": ["Root", ""],
+    "role": ["Root", ""],
     "ex": ["hypertrophy ( 과도한 영양으로 비대해지는) 비대증"]
   },
   {
@@ -3617,7 +3617,7 @@
       "capture 잡는 것인 '포착'",
       "capture 잡는 것인 포착,포획 / creature 피조물 / departure 출발 / furniture 가구 / rupture 파열"
     ],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -3626,7 +3626,7 @@
     "meaning": "[접미사] 것 (thing which)",
     "origin": "us = \"Latin suffix\"",
     "ex": ["focus 초점 / impetus 추진력"],
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   },
   {
     "like": 0,
@@ -3669,7 +3669,7 @@
       "reverse 반대, 패배; 뒤집다 / revert 되돌아가다 / subvert 완전히 뒤집어엎다, 완전히 파괴하다",
       "converge, convert, conversion, diverge, diversion, pervert, version, verge, vertex, vertigo, versatile, worth, wrap"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -3697,7 +3697,7 @@
       "visage 이목구비, 외관 / visionary 몽상가 / vista 조망, 전망 / improvise 즉석에서 만들다, 즉흥적으로 하다",
       "improvise 즉석에서 만들다, 즉흥적으로 하다"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -3712,7 +3712,7 @@
       "vitality 활력, 정력 / viable 살 수 있는, 실천 가능한 / vivacious 활기 찬, 생기 있는",
       "convivial 사교적인, 유쾌한"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -3727,7 +3727,7 @@
       "vocation 천직, 직업 / vociferous 시끄러운 /",
       "avocation 취미, 여가 활동 / avow 맹세하다 / convoke 소집하다 / equivocate 얼버무리다 / invoke 기원하다"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -3740,7 +3740,7 @@
       "volition (잘 되기를 바라는) 의지",
       "benevolent 선의의, 자비로운 / malevolent 악의를 갖고 있는"
     ],
-    "from": ["Root"]
+    "role": ["Root"]
   },
   {
     "like": 0,
@@ -3748,6 +3748,6 @@
     "root": "ward",
     "meaning": "[접미사]  ~으로의(toward), 방향 (direction)",
     "origin": "ward = \"toward\"",
-    "from": ["Suffix"]
+    "role": ["Suffix"]
   }
 ]

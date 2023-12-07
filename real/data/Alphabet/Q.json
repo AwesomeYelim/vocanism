@@ -1,0 +1,108 @@
+[
+  {
+    "rank": 1,
+    "root": "qual",
+    "meaning": ["품질"],
+    "origin": ["qualis(Latin)"],
+    "from": "",
+    "ex": {
+      "qualification": "자격[자격증]",
+      "qualify": "자격[자격증]을얻다[취득하다]",
+      "quality": "질"
+    }
+  },
+  {
+    "rank": 2,
+    "root": "quati-(quati, -cuti-, quass-, -cuss-)",
+    "meaning": ["shake"],
+    "origin": ["quatere(Latin)"],
+    "from": "",
+    "ex": {
+      "discuss": "상의[의논/논의]하다",
+      "discussion": "논의",
+      "rescue": "구하다"
+    }
+  },
+  {
+    "rank": 3,
+    "root": "quest(quest, -quer-, -quir-, quesit-, -quisit-)",
+    "meaning": ["찾다", "ask"],
+    "origin": ["quaerere", "quaesitus(Latin)"],
+    "from": "",
+    "ex": {
+      "acquire": "습득하다[얻다]",
+      "acquisition": "습득",
+      "conquer": "정복하다",
+      "conquest": "정복",
+      "enquire": "문의하다",
+      "inquire": "묻다",
+      "inquiry": "연구",
+      "query": "문의",
+      "quest": "",
+      "question": "질문",
+      "questionary": "설문지",
+      "questionnaire": "설문지",
+      "request": "요청[신청]",
+      "require": "필요[요구]하다",
+      "requirement": ""
+    }
+  },
+  {
+    "like": 0,
+    "rank": 4,
+    "root": "quadr",
+    "origin": ["quadr", "quadru", "four(4라는 뜻)"],
+    "ex": {},
+    "moreEx": [
+      "quadruped = quadru(=four) + ped(=foot) => 4개의 다리를 가진 동물 => 4지 동물 (보통 포유동물)",
+      "quarter 4분의 1이라는 단어와 동족어원이다"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 5,
+    "root": "quar",
+    "meaning": "불평하다(complain)",
+    "origin": ["quar", "quer", "to complain"],
+    "ex": { "quarrel": "불평하면서" },
+    "role": ["Root"],
+    "moreEx": ["quarrel 불평하면서 말다툼하다"]
+  },
+  {
+    "like": 0,
+    "rank": 6,
+    "root": "quer",
+    "meaning": "찾아(seek) 묻다(ask)",
+    "origin": ["quer", "quir", "quis", "ques", "\"to ask or seek\""],
+    "ex": {
+      "query": "질문",
+      "acquire": "찾아서",
+      "acquistion": "찾아서",
+      "conquest": "정복",
+      "conquer": "정복하다",
+      "inquisitive": "호기심이"
+    },
+    "role": ["Root"],
+    "moreEx": [
+      "query 질문",
+      "acquire 찾아서 소유하다 / acquistion 찾아서 획득 / conquer (모든 것을 찾아) 정복 / conquest 정복",
+      "conquer 정복하다 / exquisite 정교한, 예민한 / inquire 묻다, 조사하다/ inquisitive 호기심이 많은, 질문을 많이 하는 /",
+      "perquisite 부수입, 임시수입 / quest 탐구, 탐색 / require 요구하다, 필요로 하다"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 7,
+    "root": "quit",
+    "meaning": "조용히(quiet) 자유를 주다(free)",
+    "origin": ["quit", "quiet", "quil", "quies", "quiem", "quiet or free"],
+    "ex": { "acquiesce": "말없이", "acquit": "무죄를" },
+    "role": ["Root"],
+    "moreEx": [
+      "quit (조용히 자유를 가지고) 그만두다 / quiet 조용한, 평온한",
+      "requite 갚다, 보답하다",
+      "acquiesce 말없이 따르다 / acquit 무죄를 선언하다, 석방하다 / disquiet 불안, 동요 /",
+      "quiescent 고요한, 잠잠한 / requiem 진혼곡, 애가 / tranquil 조용한, 평온한"
+    ]
+  }
+]

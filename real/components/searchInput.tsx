@@ -15,7 +15,7 @@ export const SearchInput = (props: React.ComponentProps<'input'> & Props) => {
       <input
         className="rounded-lg bg-gray-3 pb-1 pl-2 pt-1"
         {...rest}
-        placeholder="어근을 입력하세요"
+        placeholder="어근 및 단어를 입력하세요."
       />
     </>
   );

@@ -1,3 +1,10 @@
+/**
+ * 1. 컴포넌트 : dictionary.ts
+ * 2. 작성일 : 2023.12.07 / 15시 12분 17초
+ * 3. 작성자 : 홍예림
+ * 4. 설명 : papagoapi & dictionaryapi 불러오는 함수
+ */
+
 import axios from "axios";
 import dotenv from "dotenv";
 

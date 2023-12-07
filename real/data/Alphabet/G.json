@@ -685,5 +685,143 @@
     "origin": ["gune", "gunaikos"],
     "from": "Greek",
     "ex": { "gynarchy": "여권정치" }
+  },
+  {
+    "like": 0,
+    "rank": 52,
+    "root": "gal",
+    "meaning": "우유 (milk)",
+    "origin": ["gal", "galact", "milk"],
+    "ex": { "galactose": "젖당" },
+    "moreEx": ["galactose 젖당 / galaxy (우유빛 처럼 빛나는) 은하수"]
+  },
+  {
+    "like": 0,
+    "rank": 53,
+    "root": "gam",
+    "meaning": "동물의 다리(leg)",
+    "origin": ["gam", "gamb", "leg"],
+    "ex": { "gambol": "다리로" },
+    "moreEx": ["gambol 다리로 뛰다, 장난치다, 야단법석"]
+  },
+  {
+    "like": 0,
+    "rank": 54,
+    "root": "gar",
+    "meaning": ["지키고(guard)", "보호하고(protect)", "인도하다(guide)"],
+    "origin": ["gar", "gard", "guard", "guarant", "to protect or guard"],
+    "ex": {
+      "guardian": "보호자",
+      "garrison": "수비대",
+      "garment": "의복",
+      "guarantee": "보증하다",
+      "regard": "간주하다",
+      "engagement": "약속",
+      "regain": "되찾다",
+      "ambiguous": "애매한",
+      "argument": "주장",
+      "disguise": "위장하다"
+    },
+    "role": ["Root"],
+    "moreEx": [
+      "guard 지키다, 감시자 / guardian 보호자 / garrison 수비대 / garment 의복 / guarantee 보증하다",
+      "regard 간주하다 / against ~에 대항하여 / engagement 약속 / regain 되찾다 /",
+      "ambiguous 애매한 / argument 주장 / disguise 위장하다"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 55,
+    "root": "ges",
+    "meaning": "무거운 것을 나르는(carry) 것은 참아야 한다(bear)",
+    "origin": ["ges", "gest", "gist", "ger", "\"to carry or bear\""],
+    "ex": {
+      "gesture": "몸짓",
+      "congestion": "혼잡",
+      "digest": "소화하다",
+      "exaggerate": "과장하다",
+      "register": "등록하다",
+      "belligerent": "호전적인"
+    },
+    "role": ["Root"],
+    "moreEx": [
+      "gesture 몸짓",
+      "congestion 혼잡 / digest 소화하다 / exaggerate 과장하다 / register 등록하다",
+      "belligerent 호전적인"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 56,
+    "root": "gl",
+    "meaning": "빛(light)을 보다(see)",
+    "origin": ["gl", "to see or light"],
+    "ex": {
+      "glance": "흘끗",
+      "glare": "노려보다",
+      "glisten": "반짝이다",
+      "glow": "불타다"
+    },
+    "role": ["Root"],
+    "moreEx": [
+      "glance 흘끗 보다 / glare 노려보다 / glimpse  흘끗 봄 / glisten 반짝이다 / glow불타다 / gloomy 어두운, 우울한",
+      "glow 불타다"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 57,
+    "root": "grac",
+    "meaning": ["기쁜(pleased)", "감사하다(thank)"],
+    "origin": [
+      "grac",
+      "grat",
+      "gree",
+      "to thank or please [refer to the root 'grat/gree']"
+    ],
+    "ex": {
+      "grace": "기쁜",
+      "graceful": "영광인",
+      "gracious": "친절한",
+      "disgraceful": "기쁘지",
+      "gratitude": "감사",
+      "congratulate": "축하하다",
+      "agree": "동의하다"
+    },
+    "moreEx": [
+      "grace 기쁜 영광 / graceful 영광인 / gracious 친절한",
+      "disgraceful 기쁘지 않고 수치스러운 / gratitude 감사 / congratulate 축하하다 / agree 동의하다"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 58,
+    "root": "grad",
+    "meaning": ["가다(go)", "걷다(walk)", "단계적으로 가다(step)"],
+    "origin": ["grad", "gress", "to go or walk [refer to root 'gress']"],
+    "role": ["Root"],
+    "ex": {}
+  },
+  {
+    "like": 0,
+    "rank": 59,
+    "root": "gree",
+    "meaning": ["기쁜(pleased)", "감사하다(thank)"],
+    "origin": [
+      "grat",
+      "grac",
+      "gree",
+      "to thank or please [refer to the root 'grac/grat']"
+    ],
+    "ex": {
+      "greet": "기쁘게",
+      "greeting": "기쁜",
+      "agree": "상대에게",
+      "disagree": "동의하지"
+    },
+    "moreEx": [
+      "greet 기쁘게 인사하다 / greeting 기쁜 인사",
+      "agree 상대에게 기쁜 마음으로 동의하다 / disagree 동의하지 않다"
+    ]
   }
 ]

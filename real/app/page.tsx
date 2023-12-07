@@ -25,8 +25,11 @@ export default function Home() {
           </div>
         );
       })} */}
-      <Link href="/note" className="link inline-block text-gray-11">
-        ...
+      <Link href="/note" className="link block text-gray-11">
+        note
+      </Link>
+      <Link href="/main" className="link block text-gray-11">
+        main
       </Link>
     </div>
   );

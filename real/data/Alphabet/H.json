@@ -629,5 +629,69 @@
       "hypothalamus": "시상하부",
       "hypothesis": "가설"
     }
+  },
+  {
+    "like": 0,
+    "rank": 56,
+    "root": "hol",
+    "meaning": "동그란 구멍 (hole)",
+    "origin": ["hol", "\"hole\""],
+    "ex": { "hole": "구멍" },
+    "role": ["Root"],
+    "moreEx": ["hole 구멍 / hollow (구멍이 나서) 속이 빈"]
+  },
+  {
+    "like": 0,
+    "rank": 57,
+    "root": "hom",
+    "meaning": ["사람(man)", "인간(human)"],
+    "origin": [
+      "hom",
+      "hum",
+      "'man or juman'    [refer to the root 'hum in this dict.)"
+    ],
+    "ex": { "homosapiens": "호모사피엔스", "homicide": "살인" },
+    "role": ["Root"],
+    "moreEx": [
+      "hom과 hum은 같은 의미의 어근이다.  인간은 흙(soil/ground/earth)에서 나왔고, 흙으로 돌아간다는 의미를 담고 있다.",
+      "homosapiens 호모사피엔스 / homicide 살인"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 58,
+    "root": "hus",
+    "meaning": "집 (house)",
+    "origin": ["hus", "hous", "'house'"],
+    "ex": { "house": "집", "housewife": "가정주부" },
+    "role": ["Root"],
+    "moreEx": [
+      "house 집 / husband (집에 관한 것을 묶어서 처리하는 사람인) 남편 / housewife 가정주부"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 59,
+    "root": "hydr",
+    "meaning": ["젖은(wet)", "물(water)"],
+    "origin": ["hydr", "\"wet or water\" [from Greek hydr]"],
+    "ex": { "dehydrate": "탈수하다", "hydraulic": "수력학의" },
+    "role": ["Root"],
+    "moreEx": [
+      "hydrant (물을 대는) 소화전",
+      "dehydrate 탈수하다",
+      "hydra(히드라)는 그리스신화에 나오는 머리가 아홉 개가 달린 큰 재앙을 상징하는 바다뱀이다. 결국 물(바다)과 관련되어 있다. 영어 발음은 '하이드라'",
+      "hydraulic 수력학의"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 60,
+    "root": "hyg",
+    "meaning": "건강 (health)",
+    "origin": ["hyg", "hygi", "'heath'"],
+    "ex": { "hygiene": "위생", "hygienic": "위생상의" },
+    "role": ["Root"],
+    "moreEx": ["hygiene 위생 / hygienic 위생상의"]
   }
 ]

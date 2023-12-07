@@ -536,5 +536,39 @@
       "nutritionally": "영양상으로",
       "nutritious": "식품이영양분이많은"
     }
+  },
+  {
+    "like": 0,
+    "rank": 40,
+    "root": "narco",
+    "meaning": ["돌려(turn)", "꼬아서(twist)", "잠(sleep)"],
+    "origin": ["narco", "\"turn or twist or sleep\""],
+    "ex": { "narcotic": "졸리게" },
+    "role": ["Root"],
+    "moreEx": [
+      "돌려(turn) 꼬아서(twist) 만든 올가미(noose)로 동물을 묶으면, 피가 안통해서 무감각하거나(numb) 자게(sleep) 된다.",
+      "narcotic 졸리게 하는, 최면 효과가 있는, 수면제",
+      "narcissus / narcolepsy / narcosis / snare"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 41,
+    "root": "ness",
+    "meaning": ["상태(state)", "특성(quality)"],
+    "origin": ["ness", "'state or quality'"],
+    "ex": { "friendiness": "우정", "kindness": "친절" },
+    "role": ["Suffix"],
+    "moreEx": ["friendiness 우정 / kindness 친절"]
+  },
+  {
+    "like": 0,
+    "rank": 42,
+    "root": "nom",
+    "meaning": "이름을(name) 소리쳐(shout) 숫자(number)를  불러서 나누어 주다 (deal out)",
+    "origin": ["nom", "nomy", "law or shout or deal out    [from Latin nomos]"],
+    "ex": { "economy": "집을" },
+    "role": ["Root"],
+    "moreEx": ["economy 집을 관리하는 법을 배우는 '경제'"]
   }
 ]

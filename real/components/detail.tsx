@@ -6,20 +6,25 @@ import { T_Word } from '~/app/main/[[...slug]]/page';
 
 export const Detail = (word: T_Word): JSX.Element => {
   const { ex, from, meaning, origin, rank, root } = word;
+  const staticScr = [
+    { text: '▸ Etymology:', value: root || '-' },
+    {
+      text: '▸ Meaning:',
+      value:
+        (typeof meaning === 'object' ? meaning.join(', ') : meaning) || '-',
+    },
+    { text: '▸ From:', value: from || '-' },
+    { text: '▸ Origin:', value: origin.join(', ') || '-' },
+  ];
   return (
     <div className="border-gray-300 rounded border p-4">
-      <p className="mb-2">
-        <span className="font-bold">▸ Etymology:</span> {root}
-      </p>
-      <p className="mb-2">
-        <span className="font-bold">▸ Meaning:</span> {meaning.join(', ')}
-      </p>
-      <p className="mb-2">
-        <span className="font-bold">▸ From:</span> {from}
-      </p>
-      <p className="mb-2">
-        <span className="font-bold">▸ Origin:</span> {origin.join(', ')}
-      </p>
+      {staticScr.map((item) => {
+        return (
+          <p className="mb-2" key={JSON.stringify(item)}>
+            <span className="font-bold">{item.text}</span> {item.value}
+          </p>
+        );
+      })}
       <div className="mb-2 flex">
         <span className="block min-w-[90px] font-bold">▸ Example:</span>
         <div>

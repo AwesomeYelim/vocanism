@@ -586,7 +586,14 @@
     "rank": 49,
     "root": "dra(dra-, drama-, drast-)",
     "meaning": ["행동하다", "do", "act"],
-    "origin": ["dran", "drastikos", "drasis", "drama", "dramatos", "dramatikos"],
+    "origin": [
+      "dran",
+      "drastikos",
+      "drasis",
+      "drama",
+      "dramatos",
+      "dramatikos"
+    ],
     "from": "Greek",
     "ex": {
       "drama": "드라마[극]",
@@ -789,5 +796,78 @@
       "dynasty": "역대통치자",
       "dyne": "다인"
     }
+  },
+  {
+    "like": 0,
+    "rank": 67,
+    "root": "de",
+    "meaning": "강조 (intensive)",
+    "origin": ["de", "\"intensive\""],
+    "ex": {},
+    "moreEx": [
+      "[중요] 어근 de는 세가지 의미로 해석된다. 숙지를 해야 한다. 1. 강조(intensive) 2, 부정(not/opposite) 3. 멀리(away/off/apart)",
+      "declare (소리를 내어) 선언하다"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 68,
+    "root": "dec",
+    "meaning": "열 (ten)",
+    "origin": [
+      "dec",
+      "deca",
+      "deci",
+      "decem  \"ten\"    [from Latin deca/decem]"
+    ],
+    "ex": { "decimal": "십진법의" },
+    "role": ["Root"],
+    "moreEx": ["decade 십, 십년 / decimal 십진법의"]
+  },
+  {
+    "like": 0,
+    "rank": 69,
+    "root": "dem",
+    "meaning": "사람들(people)",
+    "origin": ["dem", "demo", "\"people\""],
+    "ex": { "epidemic": "유행성의" },
+    "role": ["Root"],
+    "moreEx": [
+      "democracy (사람들이 모여서 하는) 민주주의",
+      "epidemic 유행성의 / pandemic (널리 사람들에게 퍼지는) 유행병"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 70,
+    "root": "dis",
+    "meaning": ["부정 (not)", "반대의(=opposite/against)"],
+    "origin": [
+      "dis",
+      "de",
+      "\" not or opposite'               [refer to the other prefixes  'de']"
+    ],
+    "ex": {},
+    "role": ["Prefix"],
+    "moreEx": [
+      "disarm (무장을 풀어) 무장을 해제하다 / disadvantage (이점이 없어서) 불리"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 71,
+    "root": "dyn",
+    "meaning": "힘 (power)",
+    "origin": ["dyn", "dynam", "dynas", "dynos", "'power'"],
+    "ex": {
+      "dynamic": "동력의",
+      "dynamite": "다이너마이트",
+      "dynasty": "왕조",
+      "dynosaur": "공룡"
+    },
+    "role": ["Root"],
+    "moreEx": [
+      "dynamic 동력의 / dynamite 다이너마이트 / dynasty 왕조 / dynosaur 공룡"
+    ]
   }
 ]

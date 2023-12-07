@@ -939,5 +939,89 @@
       "paralytic": "인사불성으로취한",
       "paralyze": ""
     }
+  },
+  {
+    "like": 0,
+    "rank": 74,
+    "root": "len",
+    "meaning": [
+      "풀어서(loose/alacken)",
+      "가도록(let go) 해주는",
+      "부드러움(soft/mild)"
+    ],
+    "origin": [
+      "len",
+      "leni",
+      "let",
+      "lat",
+      "last",
+      "\"loose or soft or mild\""
+    ],
+    "role": ["Root"],
+    "ex": {},
+    "moreEx": [
+      "late (느슨하게 온) 늦은 / last (제일 늦은) 마지막의 / let (누군가를 너그럽게 놔두다) 하게 하다 / outlet (밖으로 풀어져 나가는) 출구",
+      "lenient (부드러워서) 관대한 / relentless (다시 부드럽지 않아) 잔인한"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 75,
+    "root": "lib",
+    "meaning": "저울(scale)로 무게를(weight)를 재기 위해서 균형(balance)을 맞추다",
+    "origin": [
+      "lib",
+      "libra",
+      "liber",
+      "level",
+      "\"balance or weight\"   [from Latin libra/librare]"
+    ],
+    "ex": {},
+    "role": ["Root"],
+    "moreEx": [
+      "level 균형, 평형, 평정",
+      "deliberate (균형을 잡으려고) 숙고하다 / equilibrium (똑같이 균형을 맞추는 것) 균형",
+      "libra (무게 단위인) 파운드"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 76,
+    "root": "lid",
+    "meaning": ["쳐서(strike)", "만들어진 손해(damage)"],
+    "origin": ["lid", "lis", "\"strike\""],
+    "ex": { "collision": "충돌" },
+    "role": ["Root"],
+    "moreEx": ["collide (서로 쳐서) 충돌하다 / collision 충돌"]
+  },
+  {
+    "like": 0,
+    "rank": 77,
+    "root": "ling",
+    "meaning": "작은 사람이나 사물 (축소형 접미사)",
+    "origin": [
+      "ling",
+      "l(",
+      "le",
+      "little) + ing(",
+      "man or thing) -> 작은 사람이나 사물을 의미한다"
+    ],
+    "ex": {},
+    "role": ["Suffix"],
+    "moreEx": [
+      "ling의 'l'은 handle(손으로 잡는 작은 핸들)에서 찾아 볼 수 있다.",
+      "catling (작은 새끼 고양이, 작은 절단칼)",
+      "catling (외과 수술용 작은 절단칼)"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 78,
+    "root": "ly",
+    "meaning": "(형용사형 접미사) ~의 특징을 가지는 (having the quality of)",
+    "origin": ["ly", "'having the quality of'"],
+    "ex": { "manly": "남자다운" },
+    "role": ["Suffix"],
+    "moreEx": ["likely ~과 같은", "manly 남자다운"]
   }
 ]

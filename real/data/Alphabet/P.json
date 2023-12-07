@@ -616,5 +616,467 @@
       "reputation": "평판",
       "repute": "평판"
     }
+  },
+  {
+    "like": 0,
+    "rank": 36,
+    "root": "pal",
+    "meaning": ["치고(strike)", "만져서(touch)", "느끼다(feel)"],
+    "origin": ["pal", "palp", "\"strike or touch or feel\""],
+    "ex": { "palpable": "감지할" },
+    "moreEx": [
+      "palp는 strike라는 라틴어에서 온 것으로 보지만, 근원적으로 보면 인도유럽어족의 pel, pul, pol 등과 같은 느낌이다.",
+      "[Proto-Indo-European root, pel, pul, pol  meaning \"to thrust, strike, drive.\" ]",
+      "관련 단어는 propel, repel, pulse등이 있다. 다른 어근 참조바람.",
+      "palpable 감지할 수 있는, 명백한"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 37,
+    "root": "par",
+    "meaning": "분만이나 출생",
+    "origin": ["par", "bear(낳다) or produce(아이를 생산하다)"],
+    "ex": {
+      "parent": "출생을",
+      "primipara": "초산부",
+      "nullipara": "무분만녀",
+      "multipara": "다분만녀",
+      "parturition": "분만",
+      "oviparous": "난생의",
+      "uniparous": "하나만",
+      "viviparous": "태생의"
+    },
+    "moreEx": [
+      "par은 어근 per처럼 모음만 바뀌어서도 사용된다. 예로 repertoire는 우리말로 노래 레퍼토리라고 하는 것인데 자신이 생산하여 만든 저장창고와 같은 노래 모음을 말한다.",
+      "어근 tocia (분만)이 같은 뜻이다",
+      "parent 출생을 하게 한 부모님들",
+      "primipara 초산부 / nullipara 무분만녀 / multipara 다분만녀 / parturition 분만 / oviparous 난생의 / uniparous 하나만 낳는 / viviparous 태생의"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 38,
+    "root": "ped",
+    "meaning": "발 (foot)",
+    "origin": ["ped", "foot"],
+    "ex": {
+      "pedal": "발로",
+      "pedestrian": "보행자",
+      "expedition": "탐험",
+      "impede": "방해하다"
+    },
+    "role": ["Root"],
+    "moreEx": [
+      "pedal 발로 밟는 페달 / pedestrian 보행자",
+      "expedition 탐험 / impede 방해하다"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 39,
+    "root": "pel",
+    "meaning": ["밀다(push)", "치다(strike)", "몰다(drive)"],
+    "origin": [
+      "pel",
+      "pul",
+      "to drive, strike, thrust   [refer to the other suffix 'pul' in this dict.]"
+    ],
+    "ex": {
+      "pulse": "밀고",
+      "appeal": "호소하다",
+      "compel": "강제하다",
+      "impel": "재촉하다",
+      "impulse": "충동",
+      "propel": "추진하다",
+      "repel": "반박하다"
+    },
+    "moreEx": [
+      "pulse 밀고 치는 맥박",
+      "appeal 호소하다 / compel 강제하다 / impel 재촉하다 / impulse 충동 / propel 추진하다 / repel 반박하다"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 40,
+    "root": "pen",
+    "meaning": "뾰죽한 것(pointed)으로 벌을 주다(punish)",
+    "origin": ["pen", "pun", "pain", "to punish"],
+    "ex": { "penality": "벌을", "pain": "고통" },
+    "role": ["Root"],
+    "moreEx": ["penality 벌을 주는 것인 '체벌' / pain 고통"]
+  },
+  {
+    "like": 0,
+    "rank": 41,
+    "root": "pep",
+    "meaning": "요리한(cook) 음식을 소화시키다(digest)",
+    "origin": ["pep", "peps", "pept", "to cook or digest"],
+    "ex": {},
+    "role": ["Root"],
+    "moreEx": ["peptic 소화의, 소화제"]
+  },
+  {
+    "like": 0,
+    "rank": 42,
+    "root": "per",
+    "meaning": ["시도(try)하고 시험(test)하고", "경험(experience)하다"],
+    "origin": [
+      "per",
+      "peri",
+      "pr",
+      "to try or test    [refer to the root 'pr' in this dict.]"
+    ],
+    "ex": {},
+    "moreEx": [
+      "어근 per은 실제로 pr등과 같은 동족의 어근이다.  매우 중요한 의미를 갖는 어근이니 반드시 숙지하여야 한다. 매우 많은 단어들을 생산한다."
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 43,
+    "root": "pher",
+    "meaning": ["나르다(carry)", "참다(bear)"],
+    "origin": [
+      "pher",
+      "fer",
+      "\"to carry or bear or bring\"    [from Greek pherein \"to carry\" ]"
+    ],
+    "ex": {},
+    "moreEx": ["pheromone"]
+  },
+  {
+    "like": 0,
+    "rank": 44,
+    "root": "phon",
+    "meaning": ["소리(sound)", "파장(wave)"],
+    "origin": ["phon", "sound"],
+    "ex": { "phone": "소리를", "telephone": "멀리", "megaphone": "확성기" },
+    "moreEx": [
+      "phone 소리를 듣고 말하는 전화기",
+      "telephone 멀리 소리를 가게 하는 전화기 / megaphone 확성기"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 45,
+    "root": "phot",
+    "meaning": ["빛(light)", "파장(wave)"],
+    "origin": ["phot", "phos", "\"light\""],
+    "ex": { "photograph": "사진", "photosynthesis": "광합성" },
+    "moreEx": [
+      "photograph 사진 / photosynthesis 광합성",
+      "phosphatase (빛을 발산하는 물질인)  포스파타아제"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 46,
+    "root": "phren",
+    "meaning": "마음 (mind/heart)",
+    "origin": ["phren", "fren", "fran", "\"mind\""],
+    "role": ["Root"],
+    "ex": {},
+    "moreEx": [
+      "phrenic 심적인, 정신적인 / frantic (정신이 엇나가서) 광적인",
+      "phren(=fr=mind) + o(=combining vowel) + log(=words or learning) + y(=noun suffix) -> 인간의 두개골(skull or head)를 보고 그 사람의 마음을 읽는 학문 -> 골상학"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 47,
+    "root": "phth",
+    "meaning": ["사용하고", "소비되어(consume/waste)", "없어져 죽는다(die)."],
+    "origin": ["phth", "\"use or waste or die\""],
+    "role": ["Root"],
+    "ex": {},
+    "moreEx": [
+      "phth(=waste or die) + is + is(=suffix) -> 소비되어 없어지는 것 -> 소모성 질환"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 48,
+    "root": "phys",
+    "meaning": "자연 (nature)",
+    "origin": ["phys", "phisi", "physio", "\"nature\"   [physis]"],
+    "ex": {},
+    "role": ["Root"],
+    "moreEx": [
+      "physics (자연을 공부하는) 물리학",
+      "physio(=nature) + log(=words or study or learning) + y(noun suffix) -> 자연적인 생리를 연구하는 학문 -> 생리학"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 49,
+    "root": "phyt",
+    "meaning": ["태어나서 존재하고(be/exist)", "자라는(grow)", "식물(plant)"],
+    "origin": [
+      "phyt",
+      "phyto",
+      "phyton",
+      "\"be or exist or grow\" [from Greek phyton \"plant\"]"
+    ],
+    "ex": { "phytochemical": "피토케미칼" },
+    "role": ["Root", "Prefix"],
+    "moreEx": [
+      "phytochemical 피토케미칼",
+      "phyto(=grow or plant) + pl(=strike or wander) + ankt + on(=suffix) -> 식물성 플랑크톤 / plankton : 이리저리 치면서 돌아다니는 것 -> 플랑크톤",
+      "모음앞에서 어근 phyt을 사용. 자음앞에서는 phyto가 사용된다."
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 50,
+    "root": "pl",
+    "meaning": ["컵에 물을 가득(full)", "채우다(fill)"],
+    "origin": [
+      "pl",
+      "plen",
+      "plet",
+      "ply",
+      "pli",
+      "\"full or fill\"   [from Latin plere/plenus]"
+    ],
+    "ex": {},
+    "role": ["Root"],
+    "moreEx": ["plenty (가득차서) 풍부", "complete (모두 차서) 완전한"]
+  },
+  {
+    "like": 0,
+    "rank": 51,
+    "root": "ple",
+    "meaning": ["[접미사] 접어진 겹(fold)", "배(times)"],
+    "origin": ["ple", "ble", "\"fold or times\""],
+    "ex": { "multiple": "몇겹의" },
+    "role": ["Suffix"],
+    "moreEx": [
+      "접미사 ple는 어근 'pl' (=fold)와 같은 어족이다.",
+      "multiple 몇겹의",
+      "multiple 몇겹의 / quadruple 4배의"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 52,
+    "root": "pnea",
+    "meaning": "숨을 쉬다(breathe)",
+    "origin": [
+      "pnea",
+      "pneu",
+      "\"breathe or wind\" [from PIE root pneu & Greek pnea]"
+    ],
+    "ex": { "pneumonia": "폐염", "apnea": "무호흡" },
+    "moreEx": ["pneumonia 폐염", "apnea 무호흡"]
+  },
+  {
+    "like": 0,
+    "rank": 53,
+    "root": "point",
+    "meaning": "한 점(point)을 찌르다(prick)",
+    "origin": [
+      "pun",
+      "punct",
+      "pung",
+      "point",
+      "to prick or point [refer to the root 'pun' in this dict.]"
+    ],
+    "ex": { "appoint": "어디로" },
+    "role": ["Root"],
+    "moreEx": [
+      "appoint 어디로 자리를 찍어서 임명하다, 어디에서 자리를 찍어 약속하다"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 54,
+    "root": "port",
+    "meaning": ["나르다", "운반하다 (carry)"],
+    "origin": ["port", "\"to carry\""],
+    "ex": { "import": "수입하다", "export": "수출하다" },
+    "role": ["Root"],
+    "moreEx": ["import 수입하다 / export 수출하다"]
+  },
+  {
+    "like": 0,
+    "rank": 55,
+    "root": "pos",
+    "meaning": ["놓아(put)", "두다(place)"],
+    "origin": ["pos", "pon", "pound", "to put or place"],
+    "ex": {
+      "pose": "두다",
+      "positive": "긍정적인",
+      "impose": "부과하다",
+      "propose": "제안하다",
+      "purpose": "목적",
+      "suppose": "가정하다"
+    },
+    "role": ["Root"],
+    "moreEx": [
+      "pose 두다 / positive 긍정적인",
+      "impose 부과하다 / propose 제안하다 / purpose 목적 / suppose 가정하다"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 56,
+    "root": "prob",
+    "meaning": [
+      "시도하다(try)",
+      "시험하다(test)",
+      "좋다고 생각하다(consider good)"
+    ],
+    "origin": [
+      "prob",
+      "prov",
+      "proof",
+      "pro",
+      "to try or test or consider good  [refer to the root 'prov']"
+    ],
+    "ex": {
+      "probable": "있을법한",
+      "prove": "증명하다",
+      "approve": "찬성하다",
+      "improve": "개량하다",
+      "reprove": "꾸짖다",
+      "disprove": "옳지",
+      "probe": "철저한",
+      "probity": "정직성",
+      "reprobate": "비난하다"
+    },
+    "role": ["Root"],
+    "moreEx": [
+      "어근 'prob'와 'prov'는 앞으로(pro)라는 의미가 우선 들어가 있다. 앞으로 내밀어서, 무엇인가를 증명(proof)하기 위해서 시도하고(try), 테스트하고(test), 좋다고 결론을 내어 생각하는 것(consider good)을 말한다.",
+      "probable 있을법한 / prove 증명하다",
+      "approve 찬성하다 / improve 개량하다 / reprove 꾸짖다",
+      "approbation 칭찬, 허가 / disapprove 비난하다, 못마땅하게 생각하다 / disprove 옳지 않음을 증명하다 /",
+      "opprobrium 불명예, 치욕 / probe 철저한 조사 / probation 시험, 시험기간 / probity 정직성 / reprobate 비난하다",
+      "probe 철저한 조사 / probation 시험, 시험기간 / probity 정직성"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 57,
+    "root": "prov",
+    "meaning": [
+      "시도하다(try)",
+      "시험하다(test)",
+      "좋다고 생각하다(consider good)"
+    ],
+    "origin": [
+      "prov",
+      "prob",
+      "proof",
+      "pro",
+      "to try or test or consider good  [refer to the root 'prob']"
+    ],
+    "ex": { "approve": "해보고" },
+    "moreEx": [
+      "어근 'prob'와 'prov'는 앞으로(pro)라는 의미가 우선 들어가 있다. 앞으로 내밀어서, 무엇인가를 증명(proof)하기 위해서 시도하고(try), 테스트하고(test), 좋다고 결론을 내어 생각하는 것(consider good)을 말한다.",
+      "proof 증거, 증명",
+      "approve 해보고 좋다고 인정하다, 찬성하다"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 58,
+    "root": "pug",
+    "meaning": "싸우다 (fight)",
+    "origin": ["pug", "pugn", "to fight"],
+    "role": ["Root"],
+    "ex": { "pugnacious": "호전적인", "impugn": "의문을", "pugilist": "권투" },
+    "moreEx": [
+      "pugnacious 호전적인 / impugn 의문을 제기하다, 논박하다 / pugilist 권투 선수 / repugnant 혐오스러운, 불쾌한"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 59,
+    "root": "pul",
+    "meaning": ["밀다(push)", "치다(strike)", "몰다(drive)"],
+    "origin": [
+      "pel",
+      "pul",
+      "to drive, strike, thrust   [refer to the other suffix 'pel' in this dict.]"
+    ],
+    "ex": { "pulse": "밀고" },
+    "role": ["Root"],
+    "moreEx": ["pulse 밀고 치는 맥박"]
+  },
+  {
+    "like": 0,
+    "rank": 60,
+    "root": "pun",
+    "meaning": "한 점(point)을 찌르다(prick)",
+    "origin": [
+      "pun",
+      "punct",
+      "pung",
+      "punch",
+      "point",
+      "poign",
+      "to prick or point    [refer to the root 'point' in this dict.]"
+    ],
+    "ex": {
+      "punctual": "시간의",
+      "punctuate": "구두점을",
+      "puncture": "찔러서",
+      "punch": "한",
+      "compunction": "양심의",
+      "acupuncture": "침술",
+      "expunge": "지워버리다",
+      "pungent": "찌를듯이"
+    },
+    "role": ["Root"],
+    "moreEx": [
+      "punctual 시간의 점을 정확히 지키는 / punctuate 구두점을 찍다 / puncture 찔러서 난 구멍 / punch 한 방 찌른 펀치",
+      "compunction 온 몸으로 찌르듯이 느끼는 양심의 가책",
+      "acupuncture 침술 / compunction 양심의 가책, 죄책감 / expunge 지워버리다 / poignant 강렬한, 가슴아픈 /            pungent 찌를듯이 날카로운",
+      "pungent 찌를듯이 날카로운 / punctilious 세심한, 꼼꼼한"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 61,
+    "root": "put",
+    "meaning": ["머리에 무엇인가를 놓아서(put)", "생각하다(think)"],
+    "origin": ["put", "think 생각하다"],
+    "ex": {
+      "computer": "컴퓨터",
+      "dispute": "논쟁하다",
+      "output": "산출하다",
+      "repute": "평가하다"
+    },
+    "role": [
+      "인간은 무엇인가를 마음에 둔다(=put). 마음에 두고 생각하는 것이다. 뇌에 무엇인가가 들어가서 도는 것을 연상한다. Computer는 모든 것(com)이 생각하여(put) 돌아가는 것(er)을 의미한다."
+    ],
+    "moreEx": [
+      "computer 컴퓨터 / dispute 논쟁하다 / output 산출하다 / repute 평가하다"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 62,
+    "root": "putr",
+    "meaning": ["오래 두어(put)", "썩은(rotten)"],
+    "origin": ["putr", "rotten"],
+    "ex": {
+      "putrefaction": "부패",
+      "putrescent": "부패한",
+      "putrid": "부패한"
+    },
+    "role": ["Root"],
+    "moreEx": ["putrefaction 부패 / putrescent 부패한 / putrid 부패한"]
+  },
+  {
+    "like": 0,
+    "rank": 63,
+    "root": "pyr",
+    "meaning": "불(fire)",
+    "origin": ["pyr", "fire"],
+    "role": ["Root"],
+    "ex": { "pyre": "불을" },
+    "moreEx": ["pyre 불을 때기 위한 장작더미"]
   }
 ]

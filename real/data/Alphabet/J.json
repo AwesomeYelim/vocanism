@@ -187,5 +187,41 @@
     "origin": ["junior", "juvenis", "iunior", "iuvenis", "juvenior"],
     "from": "Latin",
     "ex": { "junior": "하급의", "juven": "", "juvenile": "청소년의" }
+  },
+  {
+    "like": 0,
+    "rank": 14,
+    "root": "jec",
+    "meaning": "던지다 (throw)",
+    "origin": ["jec", "ject", "'to throw'"],
+    "ex": { "object": "반대하다", "reject": "거절하다", "subject": "주제" },
+    "moreEx": ["object 반대하다 / reject 거절하다 / subject 주제"]
+  },
+  {
+    "like": 0,
+    "rank": 15,
+    "root": "jus",
+    "meaning": ["올바른(right)", "법(law)"],
+    "origin": [
+      "jus",
+      "just",
+      "jur",
+      "jud",
+      "\"right law\"    [refer to the root 'jur or jud' in this dict.]"
+    ],
+    "ex": {
+      "justify": "정당화하다",
+      "adjust": "맞추다",
+      "maladjustment": "부적응",
+      "judicious": "현명한",
+      "prejudice": "편견",
+      "judiciary": "사법의"
+    },
+    "role": ["Root"],
+    "moreEx": [
+      "어근 jus, jur, jud은 같은 의미로서 자음만 변한 것이다.  '저스-저어-저드' 로 소리내어 반복하여 암기한다.",
+      "justify 정당화하다",
+      "adjust 맞추다 / maladjustment 부적응 / judicious 현명한 / prejudice 편견 / judiciary 사법의"
+    ]
   }
 ]

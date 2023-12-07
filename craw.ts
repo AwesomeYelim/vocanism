@@ -1,6 +1,13 @@
+/**
+ * 1. 컴포넌트 : craw.ts
+ * 2. 작성일 : 2023.12.07 / 15시 11분 25초
+ * 3. 작성자 : 홍예림
+ * 4. 설명 : 네이버 블로그 어근별 테이블 크롤링 해오는 함수
+ */
+
 import axios from "axios";
 import fs from "fs";
-import cheerio, { AnyNode, BasicAcceptedElems } from "cheerio";
+import cheerio from "cheerio";
 import prettier from "prettier";
 
 const getHtml = async () => {

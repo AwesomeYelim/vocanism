@@ -276,5 +276,211 @@
       "transit": "수송",
       "transition": "변천"
     }
+  },
+  {
+    "like": 0,
+    "rank": 22,
+    "root": "ible",
+    "meaning": "가능한 (able to be)",
+    "origin": ["ible", "able", "'able to be'"],
+    "ex": { "possible": "가능한", "visible": "명백한" },
+    "role": ["Suffix"],
+    "moreEx": ["possible 가능한 / visible 명백한"]
+  },
+  {
+    "like": 0,
+    "rank": 23,
+    "root": "ice",
+    "meaning": ["행동(act)", "것(thing)"],
+    "origin": ["ice", "act or thing"],
+    "ex": { "justice": "정의", "service": "봉사" },
+    "role": ["Suffix"],
+    "moreEx": ["justice 정의 / service 봉사"]
+  },
+  {
+    "like": 0,
+    "rank": 24,
+    "root": "ics",
+    "meaning": ["학문(learning)", "과학(science)", "체계(system)"],
+    "origin": ["ics", "learning or science"],
+    "ex": { "ethics": "윤리학", "linguistics": "어학", "physics": "물리학" },
+    "role": ["Suffix"],
+    "moreEx": ["ethics 윤리학 / linguistics 어학 / physics 물리학"]
+  },
+  {
+    "like": 0,
+    "rank": 25,
+    "root": "id",
+    "meaning": "(어근) 자신 (self)",
+    "origin": ["id", "idos", "'self or one's own'"],
+    "ex": {},
+    "role": ["Root"],
+    "moreEx": ["id = iden = ident = 'same'"]
+  },
+  {
+    "like": 0,
+    "rank": 26,
+    "root": "ign",
+    "meaning": "불 (fire)",
+    "origin": ["ign", "'fire'"],
+    "ex": { "igneous": "불같은", "ignite": "불을", "ignition": "발화" },
+    "role": ["Root"],
+    "moreEx": ["igneous 불같은 / ignite 불을 붙이다 / ignition 발화"]
+  },
+  {
+    "like": 0,
+    "rank": 27,
+    "root": "il",
+    "meaning": ["부정 (not)", "아님"],
+    "origin": ["il", "ir", "im", "in", "\"not\""],
+    "ex": { "illegible": "읽혀지기" },
+    "moreEx": [
+      "원칙적으로 in이라는 어근에서 다음에 오는 철자에 의하여 영향을 받아 변화한 접두사이다. il + legal = 법적이 아닌 = 불법의",
+      "illegible 읽혀지기 어려운"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 28,
+    "root": "ile",
+    "meaning": "가능한 (able to be)",
+    "origin": [
+      "able",
+      "ible",
+      "ile",
+      "'able to be' [refer to the suffix 'ible' or 'able']"
+    ],
+    "ex": { "mobile": "움직이기", "docile": "유순한", "fertile": "비옥한" },
+    "role": ["Suffix"],
+    "moreEx": [
+      "mobile 움직일 수 있는",
+      "docile 유순한 / mobile 움직일 수 있는 / fertile 비옥한 / mobile 움직이기 쉬운"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 29,
+    "root": "ine",
+    "meaning": ["유사(like)", "관계(related to)  ????"],
+    "origin": null,
+    "role": [
+      "Adeline : Adelade에 ine라는 프랑스 여성 접미사를 붙인 것 (French femeine ending'-ine' gave Adeline.)"
+    ],
+    "ex": {}
+  },
+  {
+    "like": 0,
+    "rank": 30,
+    "root": "infra",
+    "meaning": ["밑(under)", "아래(below)"],
+    "origin": ["infra", "infer", "\"below or under\""],
+    "ex": {},
+    "role": ["Prefix"],
+    "moreEx": [
+      "inferior (다른 사람보다 아래의) 열등인",
+      "infrastructure (밑에 깔린) 기반 시설",
+      "infrasonic"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 31,
+    "root": "ion",
+    "meaning": ["상태(condition)", "특성(quality)", "행동(action)"],
+    "origin": ["ion", "sion", "tion", "state or quality"],
+    "ex": {
+      "action": "활동",
+      "invention": "발명",
+      "mission": "임무",
+      "omission": "생략"
+    },
+    "role": ["Suffix"],
+    "moreEx": ["action 활동 / invention 발명 / mission 임무 /omission 생략"]
+  },
+  {
+    "like": 0,
+    "rank": 32,
+    "root": "ips",
+    "meaning": "자신 (self)",
+    "origin": ["ips", "ipse", "ipso", "\"self\""],
+    "role": ["Root"],
+    "ex": { "ipsilateral": "신체의" },
+    "moreEx": ["ipsilateral 신체의 측면의"]
+  },
+  {
+    "like": 0,
+    "rank": 33,
+    "root": "ir",
+    "meaning": ["부정 (not)", "아님"],
+    "origin": [
+      "ir",
+      "il",
+      "im",
+      "in",
+      "\"not\"   [refer to the other prefixes]"
+    ],
+    "ex": { "illegible": "읽혀지기", "irrational": "비이성적인" },
+    "role": ["Prefix"],
+    "moreEx": [
+      "원칙적으로 in이라는 어근에서 다음에 오는 철자에 의하여 영향을 받아 변화한 접두사이다. il + legal = 법적이 아닌 = 불법의 / illegible 읽혀지기 어려운",
+      "irrational 비이성적인"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 34,
+    "root": "ish",
+    "meaning": ["행하여(do)", "가다 (go)"],
+    "origin": ["ish", "is", "'to go or do'"],
+    "ex": { "perish": "완전히", "issue": "일을" },
+    "role": ["Suffix", "Root"],
+    "moreEx": [
+      "ish는 어근 it와 같은 의미다.",
+      "perish 완전히 가서 '사라지다'",
+      "issue 일을 하려고 하는 '이슈, 논쟁점'"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 35,
+    "root": "ism",
+    "meaning": ["상태(state)", "행동(act)", "특성(quality)"],
+    "origin": ["ism", "asm", "atism", "state or quality"],
+    "ex": {
+      "conservatism": "보수주의",
+      "dogmatism": "독단주의",
+      "materialism": "물질주의"
+    },
+    "role": ["Suffix"],
+    "moreEx": [
+      "ism은 주로 '~주의'로 해석하면 좋다.",
+      "conservatism 보수주의 / dogmatism 독단주의 / materialism 물질주의"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 36,
+    "root": "ist",
+    "meaning": "사람 (one who)",
+    "origin": ["ist", "ite", "person  [refer to the root 'ite']"],
+    "ex": { "dentist": "치과", "scientist": "과학자" },
+    "role": ["Suffix"],
+    "moreEx": [
+      "사람을 뜻하는 접미사는 ist, ite, er, or, ar, an 등 많다. 이 사전에서 별로도 다루었으니 검색하여 한 번 만 숙지하면 좋다.",
+      "dentist 치과 의사 / scientist 과학자"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 37,
+    "root": "ite",
+    "meaning": "사람(one who)",
+    "origin": null,
+    "ex": { "sybarite": "향락주의자" },
+    "role": ["Suffix"],
+    "moreEx": [
+      "사람을 뜻하는 접미사는 ist, ite, er, or, ar, an 등 많다. 이 사전에서 별로도 다루었으니 검색하여 한 번 만 숙지하면 좋다.",
+      "sybarite 향락주의자"
+    ]
   }
 ]

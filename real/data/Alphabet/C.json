@@ -2020,5 +2020,182 @@
     "origin": ["kutos"],
     "from": "Greek",
     "ex": { "leucocyte": "", "oocyte": "난모" }
+  },
+  {
+    "like": 0,
+    "rank": 139,
+    "root": "chron",
+    "meaning": "시간 (time)",
+    "origin": ["chron", "\"time\""],
+    "ex": {
+      "synchronize": "동시에",
+      "chronic": "오랫동안",
+      "chronicle": "연대기",
+      "anachronism": "시대착오",
+      "diachronic": "통시적인"
+    },
+    "role": ["Root"],
+    "moreEx": [
+      "synchronize 동시에 발생하다",
+      "chronic 오랫동안 지속되는, 습관적인 / chronicle 연대기 / chronology연대학, 연대순 배열",
+      "anachronism 시대착오 / diachronic 통시적인"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 140,
+    "root": "circum",
+    "meaning": ["동그랗게 주위를(around)", "회전(circle)"],
+    "origin": ["circum", "circl", "\"circle or around\""],
+    "ex": {},
+    "moreEx": [
+      "circum(=around) + duc(=lead) + t + ion(=suffix) -> 몸축을 중심으로 동그랗게 회전하는 것 -> 회전"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 141,
+    "root": "cl",
+    "meaning": ["굽혀서(bend)", "기울다(lean)"],
+    "origin": [
+      "cl",
+      "clim",
+      "clin",
+      "\"bend or lean\"  [etymology dict: Proto-Indo-European root meaning \"to lean\"]"
+    ],
+    "ex": {
+      "decline": "아래로",
+      "acclivity": "오르막길",
+      "declivity": "내리막길",
+      "disinclination": "마음이"
+    },
+    "role": ["Root"],
+    "moreEx": [
+      "어근 clim, clin, cliv은 원래 출발은 같지만, 엄격하게 말하면 각각의 라틴어의 의미는 klima(=zone), clinare(bend), clivus(hill)이다.",
+      "그러나, 의미상 유사하므로 학습을 위하여 편의상 통합을 한다.",
+      "언덕을(hill) 오르기 위하여, 몸을 기울이고(bend/lean), 정상에 올라가 영역을(region/zone) 확인하는 것을 연상한다.",
+      "climax 최고조, 절정",
+      "decline 아래로 기울이다 / recline 기대다, 눕다",
+      "acclivity 오르막길 / declivity 내리막길 / proclivity 경향, 기호",
+      "disinclination 마음이 내키지 않음 / inclination 성향, 의향 / recline 기대다, 눕다"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 142,
+    "root": "co",
+    "meaning": [
+      "[접두사] 모두 함께 (together)",
+      "더불어",
+      "강조",
+      "완전히(completely)"
+    ],
+    "origin": [
+      "co",
+      "con",
+      "com",
+      "col",
+      "cor",
+      "\"together or with or intensive\"         [refer to the other suffixes in this dict.]"
+    ],
+    "ex": { "coerce": "강요하다", "cogent": "설득력", "cognate": "같은" },
+    "role": ["Prefix"],
+    "moreEx": [
+      "co라는 어근으로 뒤따라 오는 다른 어근와 결합시, 그 어근의 첫 번째 철자와 같은 것을 취한다. 예로 correct = co(r) + rect",
+      "coalesce 합체하다, 합동하다 / coerce 강요하다 / cogent 설득력 있는 / cognate 같은 조상의, 동족의"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 143,
+    "root": "con",
+    "meaning": ["[접두사] 완전히", "모두 함께 (together)"],
+    "origin": [
+      "con",
+      "com",
+      "co",
+      "\"together\" [refer to the other suffixes in this dict.]"
+    ],
+    "ex": {
+      "connect": "연결하다",
+      "condone": "용서하다",
+      "congeal": "굳어지게",
+      "congenial": "같은",
+      "conglomerate": "복합",
+      "conjure": "불러일으키다",
+      "conscientious": "양심적인",
+      "consecrate": "신성하게",
+      "consonate": "일치하는",
+      "constrain": "강요하다",
+      "contentious": "논쟁을",
+      "convalescence": "회복"
+    },
+    "role": ["Prefix"],
+    "moreEx": [
+      "connect 연결하다",
+      "conciliate 달래다, 회유하다 / condone 용서하다 / congeal 굳어지게 하다 / congenial 같은 취향인 / conglomerate 복합 기업",
+      "conglomerate 복합 기업 / conjure 불러일으키다 / conjugal 결혼의, 부부간의 / conscientious 양심적인 /",
+      "consecrate 신성하게 만들다 / consonate 일치하는 / constrain 강요하다 / contentious 논쟁을 좋아하는 /",
+      "contrition 후회, 뉘우침 / convalescence 회복 / convoluted 복잡한, 뒤얽힌"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 144,
+    "root": "contr",
+    "meaning": ["반대하고(opposite)", "대항하여(against)"],
+    "origin": ["contr", "contra", "counter", "\"against or opposite\""],
+    "ex": {
+      "contrary": "반대하는",
+      "contraband": "밀수품",
+      "contradict": "반박하다",
+      "contravene": "역행하다",
+      "incontrovertible": "논의하기가"
+    },
+    "role": ["Prefix"],
+    "moreEx": [
+      "contrary 반대하는 / contrast (반대로 놓아서) 대조하다",
+      "contraband 밀수품 / contradict 반박하다 / contravene 역행하다 / incontrovertible 논의하기가 불가능한, 명백한"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 145,
+    "root": "cor",
+    "meaning": "피부 (skin)",
+    "origin": ["cor", "cori", "cuir", "\"skin\""],
+    "role": ["Root"],
+    "ex": { "corium": "진피", "corious": "가죽의", "cuirass": "갑옷" },
+    "moreEx": [
+      "corium 진피 (복수형) / coria 진피(단수형) / corious 가죽의 / cuirass 갑옷"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 146,
+    "root": "cr",
+    "meaning": "분리하다",
+    "origin": "to sieve, to separate",
+    "ex": {}
+  },
+  {
+    "like": 0,
+    "rank": 147,
+    "root": "cumb",
+    "meaning": ["몸을 굽혀(bend) 기울여(recline)", "눕다(lie down)"],
+    "origin": ["cumb", "cumber", "cub", "'to bend or recline or lie down'"],
+    "ex": {
+      "incubate": "알을",
+      "cubicle": "칸막이한",
+      "cumbersome": "다루기",
+      "recumbent": "누워",
+      "succumb": "복종하다"
+    },
+    "role": ["Root"],
+    "moreEx": [
+      "cube 입방체, 정육면체 / succumb (아래로 몸을 기울여) 복종하다",
+      "incubate 알을 품다, 부화하다 / incumbent (몸을 기울여) 기대는",
+      "cubicle 칸막이한 작은 방 / cumbersome 다루기 어려운, 부담되는 / recumbent 누워 있는 / succumb 복종하다"
+    ]
   }
 ]

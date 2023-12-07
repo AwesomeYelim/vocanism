@@ -1046,5 +1046,326 @@
     "origin": ["afugr"],
     "from": "OldNorse",
     "ex": { "awkward": "어색한", "awkwardness": "어색함" }
+  },
+  {
+    "like": 0,
+    "rank": 82,
+    "root": "a",
+    "meaning": ["[접두사] ~으로(to/toward)", "떨어져(away from)"],
+    "origin": [
+      "a",
+      "ad",
+      "ac",
+      "af",
+      "ag",
+      "ar",
+      "as",
+      "at",
+      "\"toward or to\"  [refer to the other prefixes]"
+    ],
+    "ex": {},
+    "moreEx": [
+      "스펠링 a는 앞으로 나아가는 힘을 가진 알파벳의 으뜸 철자이다.",
+      "'a'는 보통 세개로 나뉜다. 1. 부정(not/without) 2. 방향(on/towrrd/away으로민 나누었다.",
+      "alignment 정열, 제휴",
+      "a priori 선험적인, 연역적인 /  a posteriori 귀납적인"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 83,
+    "root": "ab",
+    "meaning": ["아님", "부정"],
+    "origin": "not",
+    "ex": {}
+  },
+  {
+    "like": 0,
+    "rank": 84,
+    "root": "able",
+    "meaning": "가능한 (able to be)",
+    "origin": [
+      "able",
+      "ible",
+      "ile",
+      "'able to be'   [refer to the suffix 'ible' or 'ile']"
+    ],
+    "role": ["Suffix"],
+    "ex": {}
+  },
+  {
+    "like": 0,
+    "rank": 85,
+    "root": "abs",
+    "meaning": ["~로 부터", "멀리", "분리"],
+    "origin": [
+      "abs",
+      "ab",
+      "ad",
+      "ac",
+      "af",
+      "ag",
+      "ar",
+      "as",
+      "at",
+      "\"toward or to\"  [refer to the other prefixes] [comes from Latin meaning\"from,\" \"away,\" or \"off.\"]"
+    ],
+    "ex": {},
+    "role": ["Prefix"],
+    "moreEx": ["abstract (어디로 당겨서 만든) 추상적인"]
+  },
+  {
+    "like": 0,
+    "rank": 86,
+    "root": "al",
+    "meaning": "다른 품질(quality)이나 모습으로 자라다(grow)",
+    "origin": ["al", "alt", "ol", "ul", "'to grow'"],
+    "ex": {
+      "altitude": "고도",
+      "altimeter": "고도계",
+      "quality": "질",
+      "adolescent": "사춘기의",
+      "abolish": "폐지하다",
+      "adult": "성인"
+    },
+    "role": ["Root"],
+    "moreEx": [
+      "altitude 고도 / altimeter 고도계 / old (자라서) 늙은",
+      "quality 질 / adolescent 사춘기의 / abolish 폐지하다 / adult 성인"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 87,
+    "root": "am",
+    "meaning": "사랑(love)",
+    "origin": ["am", "'love'"],
+    "ex": {
+      "amateur": "아마추어",
+      "amatory": "연애의",
+      "amenity": "상냥함",
+      "amicable": "우호적인",
+      "amorous": "호색의",
+      "enamored": "사랑에",
+      "inamorate": "애인"
+    },
+    "role": ["Amy 사랑스러운 여인이라는 이름"],
+    "moreEx": [
+      "amateur 아마추어",
+      "amatory 연애의 / amenity 상냥함 / amiable  상냥한 / amicable 우호적인 / amity 우호, 친선",
+      "amorous 호색의 / enamored 사랑에 불붙은 / inamorate 애인 / paramour 애인, 정부"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 88,
+    "root": "amb",
+    "meaning": "양쪽의 (both)",
+    "origin": ["amb", "ambi", "amphi", "'both or around\""],
+    "role": ["Root"],
+    "ex": {
+      "ambidextrous": "양손잡이의",
+      "ambivalent": "반대",
+      "ambivalence": "유동성",
+      "amphitheater": "원형"
+    },
+    "moreEx": [
+      "ambidextrous 양손잡이의 / ambiguous 애매한, 모호한 / ambivalent 반대 감정이 병존하는, 양면 가치 /",
+      "ambivalence 유동성 / amphibian 양서동물, 이중인격자 / amphitheater 원형 극장"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 89,
+    "root": "ance",
+    "meaning": ["상태(state)", "행동(act)", "특성(quality)"],
+    "origin": [
+      "ance",
+      "ancy",
+      "ence",
+      "ency",
+      "state or act or quality    [refer to the other suffixes in this dict.]"
+    ],
+    "ex": { "appearance": "출현", "distance": "거리", "resistance": "저항" },
+    "moreEx": ["appearance 출현 / distance 거리 / resistance 저항"]
+  },
+  {
+    "like": 0,
+    "rank": 90,
+    "root": "ancy",
+    "meaning": ["상태(state)", "행동(act)", "특성(quality)"],
+    "origin": [
+      "ancy",
+      "ance",
+      "state or act or quality   [refer to the suffix 'ance']"
+    ],
+    "ex": { "constancy": "불변성", "hesitancy": "주저함" },
+    "role": ["Suffix"],
+    "moreEx": ["constancy 불변성 / hesitancy 주저함"]
+  },
+  {
+    "like": 0,
+    "rank": 91,
+    "root": "angl",
+    "meaning": "각도 (angle)",
+    "origin": ["angl", "angul", "'angle'"],
+    "ex": { "angulometer": "각도기", "rectangle": "직사각형" },
+    "role": ["Root"],
+    "moreEx": [
+      "triangle (각이 세개인) 삼각형 / angulometer 각도기",
+      "rectangle 직사각형"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 92,
+    "root": "ann",
+    "meaning": ["해", "년(year)"],
+    "origin": ["ann", "enn", "year"],
+    "ex": {
+      "annals": "연대기",
+      "annual": "해마다의",
+      "annuity": "연금",
+      "perennial": "다년간",
+      "superannuated": "노령으로"
+    },
+    "role": ["Root"],
+    "moreEx": [
+      "annals 연대기 / anniversary (1년에 한 번 돌아오는) 기념일 / annual 해마다의",
+      "annuity 연금 / biennial 2년마다 발생하는 / perennial 다년간 지속되는 / superannuated 노령으로 퇴직한"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 93,
+    "root": "ant",
+    "meaning": ["전", "전에", "그 전에; 앞으로", "미래를"],
+    "origin": ["ant", "ante", "anti", "before"],
+    "ex": { "antique": "고대의", "antecedent": "앞서" },
+    "role": ["Prefix"],
+    "moreEx": [
+      "이 어근 해석시, 전(before)라는 것은 과거(before)도 되고 미래(향후)도 된다는 것을 유념해야 한다.",
+      "anticipate 예측하다, 예상하다 (미래 개념) / antique 고대의 (과거 개념)",
+      "antecedent 앞서 가는, 앞서는"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 94,
+    "root": "anthrop",
+    "meaning": ["사람", "인간", "인류"],
+    "origin": "man, human being",
+    "ex": {}
+  },
+  {
+    "like": 0,
+    "rank": 95,
+    "root": "ap",
+    "meaning": ["[접두사] ~으로(to/toward)", "떨어져(away from/off)"],
+    "origin": [
+      "a",
+      "ad",
+      "ac",
+      "af",
+      "ag",
+      "ar",
+      "as",
+      "at",
+      "\"toward or to\" [refer to the other prefixes]"
+    ],
+    "ex": {}
+  },
+  {
+    "like": 0,
+    "rank": 96,
+    "root": "ar",
+    "meaning": "함께 맞추다",
+    "origin": "to fit together",
+    "ex": {}
+  },
+  {
+    "like": 0,
+    "rank": 97,
+    "root": "ard",
+    "meaning": "사람 (one who)",
+    "origin": [
+      "ard",
+      "ar",
+      "er",
+      "or",
+      "ist",
+      "person   [refer to the other roots in this dict.]"
+    ],
+    "ex": { "coward": "겁쟁이", "drunkard": "술고래" },
+    "role": ["Suffix"],
+    "moreEx": ["coward 겁쟁이 / drunkard 술고래"]
+  },
+  {
+    "like": 0,
+    "rank": 98,
+    "root": "arg",
+    "meaning": ["은색으로(silver)", "빛나는 (shine)"],
+    "origin": ["arg", "shine or silver"],
+    "role": ["Root"],
+    "ex": { "argent": "은색의" },
+    "moreEx": ["argent 은색의"]
+  },
+  {
+    "like": 0,
+    "rank": 99,
+    "root": "ary",
+    "meaning": [
+      "[형용사형 접미사] 유사(lileness)",
+      "특성(quality)",
+      "행동(action)"
+    ],
+    "origin": ["ory", "ary", "likeness or quality or act"],
+    "ex": { "reactionary": "반동의", "revolutionary": "혁명의" },
+    "role": ["Suffix"],
+    "moreEx": ["reactionary 반동의 / revolutionary 혁명의"]
+  },
+  {
+    "like": 0,
+    "rank": 100,
+    "root": "asm",
+    "meaning": ["상태(state)", "행동(act)", "특성(quality)"],
+    "origin": ["asm", "ism", "state or quality"],
+    "ex": { "enthusiasm": "열중", "sarcasm": "남의" },
+    "role": ["Suffix"],
+    "moreEx": [
+      "enthusiasm 열중 / sarcasm 풍자",
+      "sarcasm 남의 마음을 짜르듯이 말하는 냉소나 야유"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 101,
+    "root": "ate",
+    "meaning": "~하는 사람(one who)",
+    "origin": [
+      "ate",
+      "ar",
+      "ard",
+      "er",
+      "or",
+      "ist",
+      "person   [refer to the other suffixes in this dict.]"
+    ],
+    "ex": { "advocate": "옹호자" },
+    "role": ["Suffix"],
+    "moreEx": [
+      "[주의!] 접미사 ate는 동사, 형용사, 명사 접미사로 활용된다. 여기서는 어떤 특성을 가진 사람을 나타내는 명사형 접미사다. 별도로 구분하였다.",
+      "advocate 옹호자 / delegate대표자"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 102,
+    "root": "atm",
+    "meaning": "호흡 (breath)",
+    "origin": ["atm", "atmo", "breath"],
+    "ex": { "atmosphere": "대기" },
+    "role": ["Root"],
+    "moreEx": ["atmosphere 대기 / atmospheric pressure 기압"]
   }
 ]

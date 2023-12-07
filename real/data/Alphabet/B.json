@@ -1141,5 +1141,43 @@
     "origin": ["byssos"],
     "from": "Greek",
     "ex": { "abysmal": "", "abyss": "심연" }
+  },
+  {
+    "like": 0,
+    "rank": 107,
+    "root": "bal",
+    "meaning": ["부풀어(swollen)", "매우 큰(bulky)", "공(ball)"],
+    "origin": ["bal", "bul", "bulky ball"],
+    "ex": { "balloon": "풍선", "bullet": "탄알" },
+    "role": ["Root"],
+    "moreEx": [
+      "balloon 풍선",
+      "bullet 탄알 / bulletin 게시, 공시 / bulk 크기, 부피"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 108,
+    "root": "ben",
+    "meaning": "좋은 (good)",
+    "origin": ["ben", "bon", "good or well"],
+    "ex": { "benediction": "축복", "bonus": "보너스", "benign": "친절한" },
+    "role": ["Root"],
+    "moreEx": [
+      "benefit (좋게 만들어진) 이익, 혜택 / benediction 축복",
+      "bon vivant 미식가 / bona fide 선의로 / bonus 보너스",
+      "benign (좋은 태생이라서) 친절한",
+      "benign 친절한 / benefactor 후원자, 은인 / beneficent  선을 행하는, 친절한 / benevolent 자선의, 자비로운"
+    ]
+  },
+  {
+    "like": 0,
+    "rank": 109,
+    "root": "bit",
+    "meaning": "물다 (bite)",
+    "origin": ["bit", "bite"],
+    "ex": { "backbite": "험담하다", "bitterly": "몹시" },
+    "role": ["Root"],
+    "moreEx": ["backbite 험담하다 / bitterly 몹시"]
   }
 ]
