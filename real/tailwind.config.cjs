@@ -86,6 +86,9 @@ module.exports = {
       spacing: {
         page: 'var(--page-top)',
       },
+      padding: {
+        '5px': '5px',
+      },
     },
   },
   plugins: [

@@ -8,7 +8,7 @@ type Props = {
 };
 
 export const postsAtom = atom({
-  key: 'alphabet',
+  key: 'etymology',
   default: [],
 });
 

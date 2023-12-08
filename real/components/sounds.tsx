@@ -1,9 +1,10 @@
 'use client';
 
-import React from 'react';
+import React, { useState } from 'react';
 import Image from 'next/image';
 
-export const IdiomSounds = ({ value }: { value: string }): JSX.Element => {
+export const Sounds = ({ value }: { value: string }): JSX.Element => {
+  const [click, setClick] = useState(false);
   const speak = (
     text: string,
     opt_prop: {
@@ -32,10 +33,15 @@ export const IdiomSounds = ({ value }: { value: string }): JSX.Element => {
     speechMsg.text = text;
 
     // SpeechSynthesisUtterance에 저장된 내용을 바탕으로 음성합성 실행
+    setClick(true);
     window.speechSynthesis.speak(speechMsg);
+
+    speechMsg.onend = () => {
+      setClick(false);
+    };
   };
   return (
-    <>
+    <div className="flex items-center">
       <Image
         src={`/img/volume.svg`}
         alt="img"
@@ -53,6 +59,9 @@ export const IdiomSounds = ({ value }: { value: string }): JSX.Element => {
           });
         }}
       />
-    </>
+      {click && (
+        <i className="ml-0.5 inline-block h-4 w-4 bg-[url('/img/sounds.svg')] bg-contain bg-no-repeat" />
+      )}
+    </div>
   );
 };

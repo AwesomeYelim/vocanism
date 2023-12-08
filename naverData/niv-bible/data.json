@@ -1,0 +1,986 @@
+{
+  "be subject to": [
+    "~을 당하기 (입기) 쉬운, 걸리기 쉬운",
+    "~을 따라야 하는, 지배를 받는, 종속된",
+    "~을 조건으로 하는 , 받아야 하는",
+    "~을 해야한다.",
+    "~의 대상이다.",
+    "계획이다."
+  ],
+  "go through": [
+    "1.(특히 무엇을 찾기 위해) ~을 살펴보다[조사하다]",
+    "2.(특히 거듭해서) ~을 검토[고려]하다",
+    "3.(일련의 행동·방법·절차를) 거치다",
+    "4. 거쳐오다. 거쳐가다."
+  ],
+  "atonement": ["대속, 속죄"],
+  "drive out": ["운전하여 외출하다. 떨쳐버리다. 쫓아내다."],
+  "grant": ["(특히 공식적법적으로) 승인[허락]하다", "(내키지 않지만) 인정하다", "(정부나 단체에서 주는) 보조금"],
+  "minister": [
+    "명사",
+    "1.\t성직자, 목사; [영] 비(非)국교파 목사",
+    "a minister of religion ",
+    "2.\t장관, 대신",
+    "the Prime Ministe",
+    "3.\t공사; 외교 사절; = MINISTER of state",
+    "4.\t대리인, 대행자, 앞잡이",
+    "a minister of evil (악의 앞잡이)"
+  ],
+  "persecute": ["(인종,정치,종교등의 이유로) 박해하다. 못살게 굴다"],
+  "wither": [
+    "자동사",
+    "1.\t시들다, 이울다, 말라죽다(dry up, shrivel) ; 약해지다(wilt).",
+    "Flowers and beauty wither. ",
+    "",
+    "꽃과 아름다움은 (언젠가는) 시든다.",
+    "2.\t(애정 따위가) 식다, (희망 등이) 희미해지다(grow weaker)."
+  ],
+  "be aware of": ["~을 깨닫다. ~을 알다."],
+  "neglect": [
+    "타동사",
+    "1.\t소홀히 하다, 돌보지 않다(take no care of, leave unattended, slight) ; 무시하다, 대수롭지 않게 여기다, 등한시하다(disregard) ; 간과하다, 빠뜨리다(overlook).",
+    "neglect one's family (가족을 돌보지 않다.)",
+    "",
+    "2.\t게을리 하다, 태만히 하다(fail to perform).",
+    "neglect one's duties, appointments, &c. ",
+    "3.\t(부주의·게으름 따위로) 잊다, 거르다, …않다(omit).",
+    "neglect to wind up the clock (시계태엽을 감는 것을 잊다.)"
+  ],
+  "flaw": [
+    "1.(보석·도자기 따위의) 흠, 금, 갈라진 틈((in)).",
+    "2.(도덕·성격·논리상의) 결점, 약점((in)).",
+    "3.(법률 문서·수속 등의) 결함, 하자, 불비."
+  ],
+  "accountable": [
+    "형용사",
+    "1.﹤사람이﹥ (사람에게) (행위 등에 대하여) 책임이 있는, 설명[해명]할 의무가 있는(responsible) ((to, for))",
+    "Politicians are accountable to the voters. (정치가는 유권자에 대한 책임이 있다.)",
+    "2.설명[해명]할 수 있는, 그럴듯한 ((for))"
+  ],
+  "mock": ["1.(특히 흉내를 내며)놀리다(조롱하다.)  2.거짓된  3.모의고사 4.모의의 5.무시(경시)하다."],
+  "haunt": [
+    "타동사",
+    "1.\t(어느 곳에) 자주 가다, 무상 출입하다, 자주 드나들다(frequent) ; …과 늘 교제하다(associate with).",
+    "haunt the lowest resorts (천한 유흥장에 무상출입하다.)",
+    "",
+    "2.\t…에 붙어 다니다, 쫓아다니다, 자주 찾아가다 ; …에 달라붙다, 괴롭히다(obsess).",
+    "be haunted by undesirable people (나쁜 패거리들에게 쫓겨 다니다.)",
+    "3.\t(귀신·도깨비 따위가 어느 장소에) 자주 나타나다, 출몰하다(frequent, reside, infest).",
+    "The place is said to be haunted by a ghost. (거기는 귀신이 나온다더라.)",
+    "4.\t(생각·관념·감정 등이) 마음에 끊임없이 떠오르다, …에 붙어 다니다, (항상) 괴롭히다(obsess).",
+    "be haunted by the thought that (…이라는 생각이 머리에서 떠나지 않다[생각이 나서 못 견디다].)"
+  ],
+  "persecution": ["(종교적 박해의.) 피해자들, 박해"],
+  "indulge": [
+    "타동사",
+    "1.\t(욕망 따위를) 만족시키다(gratify).",
+    "indulge one’s desires[inclinations] (욕망[기호]을 만족시키다.)",
+    "2.\t(어린이를) 제멋대로 하게 하다, 응석 받다(pamper, spoil).",
+    "Children must not be indulged too much. (어린이는 지나치게 귀여워해서는 안 된다.)",
+    "3.\t기쁘게 하다 ; 만족시키다, 즐겁게 해주다(give pleasure to, favor).",
+    "indulge oneself in (…에 빠지다.)",
+    "4.\t상업",
+    "(어음 또는 남에게) 지불 유예(猶豫)를 하여주다.",
+    "5.\t드물게",
+    "허용하다, 호의를 베풀다(grant as a favor)."
+  ],
+  "intently": ["집중해서, 열심히(ad)"],
+  "distress": ["1.고통,괴로움2.괴롭히다(타동사) 3.고충,곤경 4.조난(위험)"],
+  "sanctuary": ["1.보호구역 2.안식 3.피난처 4.성소,성역"],
+  "adultery": ["간통, 부정, 간음"],
+  "reckless": [
+    "형용사",
+    "1.\t앞뒤를 가리지 않는, 무모한",
+    "reckless driving (무모한 운전)",
+    "",
+    "2.\t개의치 않는 ((of))",
+    "be reckless of the consequence (결과에 개의치 않다)"
+  ],
+  "dwelling": ["거주, 주거(n)"],
+  "entice": [
+    "동사",
+    "1.\t[usually + adv. / prep.]",
+    "(보통 무엇을 제공하며) 유도[유인]하다",
+    "[VN] The bargain prices are expected to entice customers away from other stores. (그 저렴한 가격으로 고객들을 다른 매장에서 유도해 낼 수 있을 것으로 예상된다)"
+  ],
+  "scron": ["경멸, 경멸하다, 거절하다"],
+  "offense": [
+    "명사",
+    "1.\t(의무·관습 등의) 위반, 반칙(transgression).",
+    "an offense against correctness of speech (올바른 말씨에 대한 위반.)",
+    "",
+    "2.\t(가벼운) 범죄, …범(犯).",
+    "an infamous offense (파렴치죄.)",
+    "3.\t(남의) 감정을 해침, 모욕(insult) ; (그 결과 느끼는) 불쾌 ; 화.",
+    "No offense was meant.=I meant no offense. (악의로 한 말[짓]은 아니다.)",
+    "4.죄의 근원, 실족케 하는 것(stumbling block).",
+    "Woe to that man by whom the offense cometh! (실족케 하는 그 사람에게 화가 있도다)",
+    "5.\t공격(attack) ; [총칭] 공격측[군].",
+    "a war of offense (공격전(offensive war).)",
+    "6.\t고어",
+    "해(害)(injury), 손해(damage)."
+  ],
+  "yield": ["내다(타동사), 산출량, 항복하다. 따르다(자동사)"],
+  "waste away": ["(사람이) (특히 아파서) 쇠약해지다"],
+  "take over~": ["(~뒤를)이어받다(인계받다.) ~을 물려주다."],
+  "vast": [
+    "형용사",
+    "a.\t광막히 넓은, 광대한(very extensive).",
+    "a vast expanse of desert[ocean] (광막한 사막[대양].)",
+    "",
+    "b.\t굉장히 큰, 거대한, 방대한(huge, enormous).",
+    "a vast scheme (방대한 계획.)",
+    "c.\t(수·분량·액수 등이) 매우 큰, 막대한, 거액의.",
+    "a vast sum of money ",
+    "d.\t구어",
+    "굉장한, 다대한(very great).",
+    "a matter of vast importance (매우 중대한 일.)"
+  ],
+  "overwhelm": [
+    "1. (격한 감정이) 휩싸다. 2. 제압하다. 3. (너무 많은 일들로) 어쩔 줄 모르게 만들다. 4. ~을 완전히 뒤덮다."
+  ],
+  "perseverance": [
+    "1.\t인내(력), 참을성, 버팀, 불굴의 노력.",
+    "2.\t견인(堅忍), 궁극 구제(영원한 구원에 이른다고 하는 Calvin 신학의 사상)."
+  ],
+  "foe": ["적, 원수"],
+  "administer": [
+    "타동사",
+    "1.\t…을 관리[운영]하다; 처리하다; 통치하다, 지배하다.",
+    "administer the affairs of state 나라일을 보다.",
+    "유의어",
+    "GOVERN",
+    "",
+    "2.\t〔법률·재판·의식 따위〕를 시행[집행]하다((to)).",
+    "[administer+(目)+(前)+(名)] administer justice to a person 남을 재판하다.",
+    "3.\t〔자선 따위〕를 베풀다, 〔도의(道義) 등〕을 행하다((to)).",
+    "administer justice 정의를 행하다.",
+    "4.\t〔수당 따위〕를 주다; 〔약〕을 복용시키다, 투여하다((to)).",
+    "[administer+(目)+(前)+(名)] administer medicine to a person 남에게 투약하다.",
+    "5.\t〔타격 따위〕를 가하다; 〔선서 등〕을 행하게 하다; …을 부과하다, 지우다, 강요하다.",
+    "[administer+(目)+(前)+(名)] administer an oath to a person 남에게 맹세를 시키다.",
+    "6.\t법률",
+    "〔유산·신탁 재산〕을 관리하다, 처분하다.",
+    "7.\t〔미사·성찬식 등〕을 집행하다."
+  ],
+  "in place of": ["~을 대신해서"],
+  "astonish": [
+    "타동사",
+    "1.\t놀라게 하다, 깜짝 놀래다",
+    "He astonished us by taking a stroll at midnight (그가 한밤중에 나돌아 다녀 모두 놀랐다)"
+  ],
+  "pagan": [
+    "명사",
+    "1.\t이교도(heathen) ; (특히 그리스도교·유대교·회교 이외의) 우상 신자 ; 신앙없는 사람.",
+    "2.\t미개인(barbarian).",
+    "형용사",
+    "1.\t이교(도)의, 사교의(heathen).",
+    "pagan gods (이교의 신들.)",
+    "2.\t우상 숭배의(idolatrous) ; 믿음 없는(irreligious)."
+  ],
+  "encourage": [
+    "타동사",
+    "1.\t용기[기운]를 돋우어주다, …에 자신을 갖게 하다(put courage into, inspirit, hearten)(opp. discourage).",
+    "Your letter encourages me greatly. (당신의 편지가 큰 힘이 됩니다.)",
+    "",
+    "2.\t분기(奮起)시키다, 장려[격려]하다 ; 권하다(try to induce), 자극하다(incite).",
+    "encourage a person to hostility (남을 반항하도록 부추기다.)",
+    "3.\t조장하다(foster, further).",
+    "encourage a natural growth (자연적인 성장을 돕다.)"
+  ],
+  "confess": [
+    "동사",
+    "1.\t(죄·잘못을) 자백하다",
+    "[V] She confessed to the murder. (그녀가 그 살인 행위를 자백했다.)",
+    "2.\t(수치스럽거나 당황스러운 것을) 고백[인정]하다",
+    "[VN] She was reluctant to confess her ignorance. (그녀는 자신의 무지를 인정하기를 꺼렸다.)",
+    "3.\t[자, 타동사V, VN] (특히 가톨릭교에서)",
+    "고해[고백 성사]를 하다",
+    "4.\t타동사 [VN] (신부가)",
+    "고해[고백 성사]를 받다"
+  ],
+  "hostile": [
+    "1.\t적대적인",
+    "2.\t(~을) 강력히 반대[거부]하는",
+    "3.\t(진행·달성을) 어렵게 하는",
+    "4.\t적군의",
+    "5.\t상업 (기업 등의 매수 제의가) 적대적인"
+  ],
+  "relent": ["1. (거부하다가 마침내)동의하다. 2.(기세 강도들이)수그러들다."],
+  "in charge of": ["1.\t…을 맡아서, 담당해서", "2.\t…에게 맡겨져, 위탁되어"],
+  "commotion": ["1.\t[UC]동요(agitation); (작은) 소동(riot)", "be in commotion (동요하고 있다)"],
+  "upright": [
+    "형용사",
+    "1.\t똑바로 선, 똑바른, 직립(直立)의; 수직의",
+    "an úprìght post[tree] (곧추선 기둥[나무])",
+    "",
+    "2.\t올바른, 정직한, 고결한",
+    "an úprìght man[judge] (올바른 사람[재판관])"
+  ],
+  "abound": ["아주많다.  풍부하다."],
+  "consecrate": ["축성하다, 성별하다, 서임하다"],
+  "demolish": [
+    "1.(건물을)철거하다 2. (사고로 무엇을)무너뜨리다 3.(사상.이론을)뒤집다 4.완파하다. 5.재빨리 먹어 치우다."
+  ],
+  "flock": ["떼, 모이다,  무리 ,떼 지어 가다(동사형)"],
+  "vain": [
+    "형용사",
+    "1.\t헛된, 소용없는",
+    "She closed her eyes tightly in a vain attempt to hold back the tears.  (유의어-useless)",
+    "2.\t못마땅함",
+    "자만심이 강한, 허영심이 많은",
+    "She’s too vain to wear glasses.  (유의어-conceited   참고어-vanity)"
+  ],
+  "revere": ["타동사", "1.\t(경건한 마음으로) 숭배하다, 경외하다, 존경하다", "유의어 (worship)"],
+  "stronghold": [
+    "1.명사 (특정 사상·집단의) 근거지[중심지], (특히 특정 정당의) 지지 지역",
+    "2.명사 성채, 요새",
+    "3.명사 (특정 동물의) 활동 무대[서식지]",
+    "4.아성, 본거지, 진지, 성곽"
+  ],
+  "reverence": [
+    "명사",
+    "a.\t숭상, 숭배 ; 존경(esteem, deference) ; 경건한 마음(pious feeling).",
+    "at (the) reverence of (…을 존경하여.)",
+    "",
+    "b.\t경의 ; (고어) 경례(deep bow).",
+    "bow in humble reverence (공손히 경례하다.)",
+    "c.\t덕망, 위엄, 관록(dignity, augustness).",
+    "d.\t[보통 R-]",
+    "Reverend의 존칭을 받는 고위 성직자.",
+    "your[his] Reverence (목사님, 신부님.)"
+  ],
+  "disperse": ["1.(이리저리)흩어지다. 해산하다. 해산시키다. 2. (넓은 지역에) 흩어지다. (확산되다.), 흩다(확산시키다.)"],
+  "robe": ["1. (신분의 상징으로 또는 특별한 의식 때 입는) 예복 (가운) 대례복, 법복 2. 가운(예복)을 입히다.(타동사)"],
+  "wilful": [
+    "Keep your servant also from willful sins; may they not rule over me. Then will I be blameless, innocent of great transgression. (Psalm 19:13)"
+  ],
+  "ascribe": ["1.\t…에 돌리다; …의 탓으로 돌리다 ~의 것으로 하다    2…에 속하는 것으로 생각하다"],
+  "exalt": ["높이다. ~을 칭찬하다. 강화하다. 승격시키다."],
+  "yoke": [
+    "1.(짐을 끌도록 마소에게 씌우는) 멍에 2. (비유적인 뜻의) 멍에, 굴레 3,(마소에게) 멍에를 씌우다. 4. (두사람 국가 생각 들을 함께 )얽어매다."
+  ],
+  "stagger": [
+    "자동사",
+    "1.\t비틀거리다, (술취해) 갈짓자로 걷다",
+    "The drunkard staggered along [across the road, to his feet (그 주정꾼은 비틀거리며 걸어갔다[도로를 횡단하여 갔다, 벌떡 일어섰다)",
+    "",
+    "2.\t망설이다, 마음이 흔들리다, 주저하다",
+    "He staggered at the news (그 뉴스를 듣고 마음이 흔들렸다)"
+  ],
+  "barren": ["1.척박한 2.열매가 안 열리는 3.불임인 4.소득 결실없는,"],
+  "abstain from": ["~을 삼가다(그만두다)"],
+  "prompt": [
+    "1.즉각적인 , 지체없는 (형용사)  2.(어떤 결정을 내리도록, 어떤 일이 일어나도록) 하다 (촉발하다.)  3.\t대사를 상기시켜 주는 말  4.신속한, 시간을 엄수하는"
+  ],
+  "spread out": ["1.\t몸을 뻗다; 넓은 공간을 쓰다[차지하다]", "2.\t(집단에서) 떨어져 나가다; 더 널리 퍼지다"],
+  "let~be~": ["let(have, make) 사역동사 뒤에 동사원형이 옴"],
+  "ruin": ["1.망치다(타동사) 2.붕괴몰락(명사) 3.파산,파탄,파멸,(명사) 4.파산(파멸)시키다. 폐허로 만들다.(타동사)"],
+  "dismay": ["1,실망,경악 2.경악하게 만들다, 크게 실망하다.(타동사)"],
+  "weary": [
+    "형용사",
+    "1.\t(몹시) 지친, 피곤한",
+    "a weary traveller ",
+    "2.\t문예체",
+    "지치게[피곤하게] 하는",
+    "a weary journey",
+    "3.\t격식",
+    "~에 싫증난",
+    "Students soon grow weary of listening to a parade of historical facts."
+  ],
+  "decay": [
+    "자동사",
+    "1.\t썩다, 부패하다(rot)",
+    "Our teeth will decay if they are not taken care of (이를 돌보지 않으면 충치가 된다)",
+    "2.\t쇠하다, 쇠퇴하다(decline); 타락[퇴화)]하다(deteriorate)",
+    "Spain's power decayed after her Armada was destroyed (스페인은 무적함대가 괴멸된 후로부터 세력이 쇠퇴했다)",
+    "3.\t(방사성 물질이 자연히) 붕괴하다"
+  ],
+  "malice": ["1.악의 2.적의 3.독기 4.악감정"],
+  "carcass": ["(큰 동물의) 시체; (식용으로 쓸) 죽은 동물"],
+  "Passover": ["유월절 (n)"],
+  "mere": [
+    "1.겨우 …의, (한낱) …에 불과한 2. 단지 …만의(무엇이 있다는 사실 자체가 뚜렷한 영향을 미치기에 충분하다는 뜻을 나타낼 때 씀)"
+  ],
+  "prevail": ["만연하다.승리하다.이기다(자동사)"],
+  "banquet": ["잔치, 연회"],
+  "slander": ["중상, 중상모략하다, 욕"],
+  "hurl": ["던지다 (타동사) 욕, 비난 모욕을 퍼붓다.(타동사) , 토하다(자동사)"],
+  "vindicate": ["1. 의 정당성을 입증하다.(타동사) 2. 무죄를 입증하다. (타동사)"],
+  "despair": ["절망", "자동사 [V] 절망[체념]하다"],
+  "bloodshed": ["유혈 사태"],
+  "nourish": ["1.영양분을 공급하다 2.(감정,생각등을)키우다"],
+  "mistreat": ["(사람,동물을)학대(혹사)하다.(타동사)"],
+  "repay": ["1.갚다 2.보답하다 3.가치가 있다"],
+  "in addition to": ["…에 더하여, …일 뿐 아니라"],
+  "trample": [
+    "타동사",
+    "1.\t짓밟다, 밟아 뭉개다, 밟아 쓰러뜨리다 ; 밟아서 …하다.",
+    "trample grapes (포도를 밟아 뭉개다.)",
+    "",
+    "2.\t(권리·면목 따위를) 짓밟다, 유린하다(crush) ; 무시하다, 억누르다(suppress)(down).",
+    "trample law and order under foot (법과 질서를 유린하다.)"
+  ],
+  "vengeance": ["1. 복수 , 앙갚음"],
+  "set apart~": ["떼어 두다, 따로 하다; 구별하다, 눈에 띄게 하다; 보류하다. (v)"],
+  "humble": ["겸손한(형용사), 겸허하게 만들다. 쉽게 꺾다."],
+  "strive": ["분투하다. try very hard to do or achieve something"],
+  "make room for": ["…을 위해 자리[장소, 길]를 비키다[만들다], 자리를 양보하다"],
+  "wail": [
+    "1.(슬픔통증 때문에) 울부짖다, 통곡하다, 흐느끼다 2. (큰소리로)투덜거리다(불평하다) -자동사 3. (길고 높은 사이렌 같은 것들이) 소리를 내다(울리다.)"
+  ],
+  "engrave": ["1.(나무, 돌, 쇠붙이 등에)새기다."],
+  "scorch": ["그슬다, 누렇게 마르다, 누렇게 마르게 하다, 전속력으로 달리다.(자동사)"],
+  "indignant": ["1. 분개한, 2.분해하는"],
+  "testimony": ["증거", "증언(보통 법정에서 하는 것)"],
+  "rebuke": ["꾸짖다. 나무라다.힐책하다."],
+  "considerate": ["1.\t사려 깊은, (남을) 배려하는", "She is always polite and considerate towards her employees."],
+  "account for": [
+    "1.\t~을 해명하다[~의 이유가 되다]",
+    "The poor weather may have accounted for the small crowd. (아마 날씨가 안 좋았던 게 관중이 적은 이유였는지 모른다.)",
+    "유의어",
+    "explain",
+    "",
+    "2.\t설명하다",
+    "How do you account for the show’s success? (그 쇼의 성공을 어떻게 설명하시겠어요?)",
+    "3.\t(부분·비율을) 차지하다",
+    "The Japanese market accounts for 35% of the company’s revenue. (일본 시장이 그 회사 수익의 35%를 차지한다.)"
+  ],
+  "proclaim": ["1. 선언(선포)하다. 2.분명히 보여주다. ~의 표시(징후)이다."],
+  "grief": ["(누구의 죽음으로 인한) 비탄(비통) 2. 큰 슬픔(을 주는 것) 3. 고민"],
+  "splendor": ["1.훌륭함, 장려(壯麗), 화려함 2.(명성 등의) 현저, 탁월; 영예, 영광"],
+  "prescribe": ["(의사가) 처방을 내리다, 처방하다; 처방전을 쓰다", ""],
+  "beggar": [
+    "명사 [흔히 ~ oneself로]",
+    "1.풍자",
+    "거지; 가난한 사람; 기부(금) 모집자",
+    "B beggars must not be choosers ((속담)물건을 구걸하는데 투정은 할 수 없다, 「빌어먹는 놈이 콩밥을 마다할까」)",
+    "",
+    "2.\t놈, 녀석(fellow)",
+    "a saucy beggar (건방진 녀석)"
+  ],
+  "engage": [
+    "1.(주의, 관심을) 사로잡다(끌다.) 2. (~으로) 고용하다. 3.(이해심을 갖고)관계를 맺다. 4. 교전을 시작하다.5. (작동될 수 있도록 기계 부품)을 맞물리다."
+  ],
+  "slaughter": ["도살, 도살하다, 학살하다."],
+  "firmly": ["부사", "1.\t단호히, 확고히", "‘I can manage,’ she said firmly."],
+  "set up": ["1.\t건립하다, 설립[수립]하다; 준비하다; …인 체하다; 함정에 빠뜨리다."],
+  "plea": ["애원, 간청, (피고인측의) 답변 또는 항변 , (법원에 제출하는 )사유서"],
+  "precept": ["1.수칙,계율 (유) principle (a rule that says how people should behave)"],
+  "dread": ["몹시 무서워하다, 두려워하다, 두려움, 두려운 것"],
+  "apostle": ["사도(12제자) (n)"],
+  "institute": ["(특히 교육전문 직종과 관련된) 기관[협회], (제도정책 등을) 도입하다; (절차를) 시작하다."],
+  "ransom": ["명사", "1.(납치유괴된 사람에 대한) 몸값", "The kidnappers demanded a ransom of £50,000 from his family."],
+  "attend to": ["…을 돌보다, 시중들다."],
+  "resurrection": ["부활 (n)"],
+  "taunt": ["1.놀리다. 비웃다, 조롱하다.(타동사) 2. 놀림, 비웃음, 조롱"],
+  "redemption": ["구원,상환,구속.도로찾다."],
+  "astray (go astray)": ["길을 잃고; 못된 길에 빠져, 정도에서 벗어나, 타락하여"],
+  "mourn": ["(사람의 죽음을) 애도(슬퍼)하다.  애석해(애통해) 하다."],
+  "submit": [
+    "1.\t타동사 [VN]",
+    "(서류·제안서 등을) 제출하다",
+    "to submit an application/a claim/a complaint",
+    "2.\t항복[굴복]하다, (굴복하여) …하기로 하다",
+    "She refused to submit to threats.",
+    "3.\t타동사 법률또는 격식 [V that]",
+    "말하다, 진술[제안]하다",
+    "Counsel for the defence submitted that the evidence was inadmissible."
+  ],
+  "fragrant": ["1.향기로운 2.향긋한"],
+  "disguise": ["1. 변장(가장)하다. (타동사)  2. 위장하다, 숨기다.(타동사) 3.변장(가장)도구, 4. 변장술"],
+  "wrath": ["분노, 노여움"],
+  "discipline": [
+    "1. U 규율, 훈육 (The school has a reputation for high standards of discipline.)",
+    "2. C 단련법, 수련법 ( Yoga is a good discipline for learning to relax.)",
+    "3. U 절제력 ( He’ll never get anywhere working for himself—he’s got no discipline.)",
+    "4. 지식 분야(대학의)학과목",
+    ""
+  ],
+  "condemn": ["규탄하다, 선고를 내리다. 처하게 만들다."],
+  "excuse": [
+    "1.변명, 이유 2. 구실, 핑계 거리 3.\t아주 나쁜 사례, (…라기엔) 보잘것없는 것  4.(무례나 작은 실수 등을) 용서하다[봐주다] 5.타동사 [VN]",
+    "변명하다, 변명[이유]이 되어 주다. 5.타동사 [VN]  (자리를 뜨는 것에 대해) 양해하다[양해를 구하다] 5.면제해 주다"
+  ],
+  "tear": [
+    "찢다. 찢어진 데(구멍), 구멍을 뚫다.(내다.) 타동사 , (거칠게 잡아 당겨)찢어 (뜯어)내어 버리다. (근육 등을 )찢어지게 하다. 부리나케(신이나서)가다(자동사) ㅡ"
+  ],
+  "divine": [
+    "형용사",
+    "a.\t신의, 신에 관한 ; 신성의 (cf. human).",
+    "the divine Being[Father] 신, 천제",
+    "",
+    "b.\t신이 내려주신, 신수의, 천부의(given or inspired by God).",
+    "a divine inspiration 천부의 영감.",
+    "c.\t신에게 바친(devoted to God) ; 신을 찬양하는(in praise of God) ; 신성한(holy, sacred) ; 종교적인(religious).",
+    "divine service 종교적 의식, 예배, 근행",
+    "d.\t신과 같은(godlike) ; 거룩한, 성스러운, 숭엄한(celestial) ; 초인적으로 뛰어난(supremely excellent).",
+    "divine beauty[purity] (성스러운 아름다움[순결].)",
+    "e.\t구어",
+    "썩 좋은, 훌륭한(very pleasing, attractive).",
+    "What divine weather !"
+  ],
+  "exile": ["망명, 추방,망명을 가게 만들다,추방하다, 망명자, 추방된 사람"],
+  "scheme": ["계획, 책략을 꾸미다, 생각하다."],
+  "rule over": ["~을 지배, 통치하다."],
+  "reproach": ["1. 비난, 책망, 나무람, 2.비난의 말, 잔소리, 3. 치욕, 창피 4. (실망하여)비난(책망)하다. 5. 자책하다."],
+  "reap": [
+    "타동사 [VN] (특히 좋은 결과 등을) 거두다[수확하다]",
+    "[자, 타동사V, VN] (농작물을) 수확하다[거둬들이다]",
+    ""
+  ],
+  "sensible": [
+    "형용사",
+    "1.\t(감각으로) 느낄 수 있는, 지각할 수 있는(cf. intelligible).",
+    "the sensible world round us (감각으로 느낄 수 있는 외부 세계.)",
+    "",
+    "2.\t느낄 수 있을만한, 눈에 띌 정도의, 뚜렷한, 현저한(marked, distinct, considerable).",
+    "a sensible difference[increase, reduction] (현저한 차이[증가, 감소].)",
+    "3.\t알아챈, 의식한(consci-ous)(of) ; 알고 있는 (aware)(of).",
+    "be sensible of a voice crying afar (멀리서 외치는 소리가 들리다.)",
+    "4.\t(사람이) 지각있는, 사려 깊은, 현명한(judicious, sagacious).",
+    "a sensible man (지각있는 사람.)",
+    "5.\t(행동·사상·말 따위가) 현명한, 상식에 어긋나지 않은 제안.",
+    "That is very sensible of him. (그는 꽤 지각이 있다, 참 잘했다.)",
+    "6.\tsensible to pain (고통에 민감한.)"
+  ],
+  "over all": ["1.\t전체에 걸쳐, 전반적으로; 끝에서 끝까지", "I liked their play over all."],
+  "dwell": ["살다, 거주하다 (v)"],
+  "bribe": ["1.뇌물 2.뇌물을 주다"],
+  "flee": ["달아나다, 도망하다."],
+  "ordinance": ["법령, 조례"],
+  "womb": ["자궁"],
+  "flatter": [
+    "동사",
+    "1.\t타동사 [VN]",
+    "아첨하다, 알랑거리다",
+    "Are you trying to flatter me? ",
+    "2.\t자기가 잘난 줄 착각하다",
+    "[VN] ‘How will you manage without me?’ ‘Don't flatter yourself.’",
+    "3.\t타동사 [VN]",
+    "(실제보다) 돋보이게 하다",
+    "That colour doesn't flatter many people."
+  ],
+  "resemble": ["닮다, 비슷하다"],
+  "as he was going": ["그가 가고 있었을때"],
+  "detestable": ["1.혐오(가증)스러운 (형용사)"],
+  "plainly": ["분명히,(말·표현이) 숨김없이,꾸밈없이, 소박하게,명백하게"],
+  "persevere": [
+    "자동사",
+    "1.참다, 인내하다; …에 굴하지 않고 꾸준히 하다, 끝까지 해내다; (설 따위를) 고집하다((at, in, with)); (…을) 계속 신뢰하다((with)).",
+    "persevere in[or with] one’s studies (꾸준히 연구해 나가다.)",
+    "",
+    "타동사",
+    "1.…을 유지하다, 지탱하다.",
+    "persevere in the right (끝까지 정의를 옹호하다.)"
+  ],
+  "snare": ["덫, 덫으로 잡다. 유혹"],
+  "prudent": [
+    "형용사",
+    "1.\t조심성 있는, 신중한(cautious), 세심한(circumspect).",
+    "2.\t분별 있는(discreet), 현명한(sagacious).",
+    "3.\t약삭빠른, 세상 일에 능란한(worldly-wise) ; 타산적인(self-interested)."
+  ],
+  "deceit": ["1.속임수 2.사기 3.기만"],
+  "fertile": [
+    "(땅·토양이)비옥한, 기름진, (사람·동물·식물이) 생식력 있는, 가임의 ,[주로 명사 앞에 씀] 결실을 낳는; 활동하기에 좋은 , [주로 명사 앞에 씀] (상상력·창의력이)풍부한"
+  ],
+  "provoke": ["1.(특정한 반응을) 유발하다 2. 화나게 하다(짜증나게)하다, 도발하다."],
+  "profane": ["1.신성모독적인, 불경한 2,(종교신성한 것과 관련되지 않은) 세속적인 3.신성을 더럽히다[모독하다]"],
+  "give birth to": ["[아이]를 낳다(bear)", "(일이) …을 일으키다, …의 원인이 되다"],
+  "vomit": [
+    "타동사",
+    "1.\t(위에서) 토하다, 게우다(spew, puke).",
+    "vomit one’s dinner ",
+    "",
+    "2.\t(연기·말 등을) 토해내다, 뿜어내다(eject, send out).",
+    "A chimney vomits forth smoke. (연통이 연기를 뿜어낸다.)",
+    "3.\t(남에게) 토하게 하다, 게우게 하다(cause to vomit), (특히 옛날에) 토제(吐劑)로 토하게 하다.",
+    "In the 17th and 18th centuries people were periodically vomit ed, purged, and bled. (17-18세기에는 사람을 정기적으로 토약이나 설사약을 먹였고 피를 뽑았다.)"
+  ],
+  "teem": ["충만하다,많이있다, 아이를 낳다."],
+  "signet": ["1.\t(가락지 등에 새긴) 막도장, 도장, 인장, 인감; 인발"],
+  "appalled": [
+    "형용사",
+    "1.\t(불유쾌한 것 등으로) 섬뜩한, 오싹한, 소름 끼치는; 진저리 나는 ((at, by))",
+    "I was appalled by his arrogant attitude. (나는 그의 거만한 태도에 진저리가 났다.)"
+  ],
+  "grieve": ["1. (누구의 죽음으로 인해) 매우 비통해 하다.  2. 대단히 슬프게 만들다."],
+  "thresh": ["1. 타작(탈곡)하다. 2. 요동치다.요동치게 하다."],
+  "renown": ["명성"],
+  "desecrate": ["(신성한 것을)훼손하다. (타동사)"],
+  "pervert": ["왜곡하다, 변태성욕자, 삐뚤어지게 하다, 그르치게 하다.(타동사)"],
+  "cliff": ["명사", "1.\t(흔히 바닷가) 절벽", "the cliff edge/top"],
+  "covet": ["1.탐내다 2.갈망하다"],
+  "plunder": ["1.약탈하다 2.약탈 3.약탈품"],
+  "hypocrite": ["위선자"],
+  "embrace": [
+    "1.  격식 (껴)안다, 포옹하다",
+    "2. 격식 [VN] (생각·제의 등을 열렬히) 받아들이다[수용하다]",
+    "3. 격식 [VN] 포괄하다, 아우르다"
+  ],
+  "every kind of": ["1.\t모든 종류의"],
+  "arouse": [
+    "1.\t타동사",
+    "(느낌·태도를) 불러일으키다[자아내다]",
+    "to arouse sb’s interest/curiosity/anger",
+    "2.\t타동사",
+    "(성욕을) 자극하다",
+    "유의어",
+    "excite",
+    "3.\t타동사",
+    "분발하게 하다, 각성시키다",
+    "The whole community was aroused by the crime.",
+    "4.\t타동사 격식",
+    "깨우다",
+    "문형",
+    "~ sb (from sth)",
+    "참고어",
+    "rouse"
+  ],
+  "torment": [
+    "1.고통,고뇌(정신적인),고민거리, 고통을 안겨주는 사람.  2.고통을 안겨 주다,괴롭히다.  3.학대하다(잔인하게)괴롭히다."
+  ],
+  "vanish": ["1. (갑자기 불가사의하게) 사라지다.-자동사 2.없어지다.-자동사"],
+  "solid": [
+    "1.\t단단한; 고체의, 고형의",
+    "2.\t견고한, 속이 꽉 찬, (속이) 빈 데가 없는",
+    "3.\t(잘 만들어져) 튼튼한",
+    "4.\t(기반이) 탄탄한, 확실한, 믿을 수 있는",
+    "5.\t알찬; 믿음직한",
+    "6.\t[명사 앞에만 씀]",
+    "순-, 순수한(다른 물질이 섞이지 않은)",
+    "7.\t비격식",
+    "(시간상으로) 꼬박 계속되는, 중단 없는",
+    "8.\t(색깔이) 다른 색깔이 섞이지 않은[완전한]",
+    "9.\t(기하)입체의",
+    "10.\t만장일치의",
+    "명사",
+    "1.\t고체, 고형물",
+    "2.\t기하(입체)"
+  ],
+  "ministry": ["사역,의무,정부의 부처(n)"],
+  "folly": [
+    "명사",
+    "1.\t어리석음, 우매, 우열 (foolishness, stupidity).",
+    "an act of folly (어리석은 짓.)",
+    "",
+    "2.\t어리석은 짓, 어리석은 생각, 우거(foolish action).",
+    "commit a folly (어리석은 짓을 하다.)",
+    "3.\t터무니없이 많은 돈을 들인 것[사업·대건 축](흔히 자금이 계속되지 않아 중단된 것 ; 보통 계획자의 이름을 붙임).",
+    "Allen's Folly. (알렌의 「아방궁」.)",
+    "4.\t부도덕한 행위, 죄악(immoral conduct, sin).",
+    "5.\tpl.",
+    "시사(時事) 풍자극(revue)."
+  ],
+  "cruel": [
+    "1. 형용사\t",
+    "a.\t잔학한, 잔인한, 무자비한, 무정한(inhuman, merciless)(opp. Kind2).",
+    "be cruel to animals (동물을 학대하다.)",
+    "b.\t(광경·운명·고통의) 참혹한, 몸서리나는(harsh, hard to bear), 비참한, 무참한(distressing).",
+    "a cruel sight  (참혹한 광경.)",
+    "c.\t구어",
+    "극심한, 지독한(severe, hard)."
+  ],
+  "move out": ["1.\t(살던 집에서) 이사를 나가다"],
+  "reconcile": [
+    "타동사",
+    "1.\t화해시키다",
+    "The boys were soon reconciled (그 소년들은 곧 화해했다)",
+    "문형(+目/+目+with+名)",
+    "",
+    "2.\t조정하다(settle)",
+    "I reconciled the dispute among the boys (그 소년들의 싸움을 조정해 주었다)",
+    "3.\t조화[일치]시키다(harmonize)",
+    "What he said could not be reconciled with the facts of the case (그가 한 말은 그 경우의 사실과 부합되지 않았다)",
+    "문형(+目+with+名)",
+    "4.\t단념시키다, 만족시키다",
+    "He found it hard to reconcile himself to the disagreeable state (그는 그런 비위에 거슬리는 상태를 감수하기가 어렵다는 것을 알았다)",
+    "문형(+目+to+名 ~ oneself 또는 수동태로)"
+  ],
+  "handful": ["1.줌 움큼. 2.몇 안 되는 수 3.다루기 힘든 사람"],
+  "scoff": [
+    "명사",
+    "a.(보통 scoffs) 비웃음, 조롱, 조소; 놀림(jeer)((at)).",
+    "aim scoffs at a person (남을 비웃다.)",
+    "",
+    "b. 웃음거리, 웃음감((of)).",
+    "the scoff of the world (세상의 웃음거리.)"
+  ],
+  "Though seeing": ["보았을지라도"],
+  "indignation": ["분개, 분함"],
+  "plot": [
+    "구성, 음모하다, 표시하다, 작은땅 대지, (위치항로 등을 지도에) 표시하다, 도표를 만들다[그리다], (좌표를) 나타내다, (그래프를) 그리다, (소설극 등의) 구성[플롯]을 짜다"
+  ],
+
+  "scourge": [
+    "주로 단수로 격식 재앙, 골칫거리",
+    "타동사 문예체 [주로 수동태로] 괴롭히다, 고통을 안겨 주다",
+    "채찍[매]으로 때리다"
+  ],
+  "devastate": [
+    "타동사",
+    "1.\t(국토를) 유린하다, 황폐시키다",
+    "The border towns had been devastate d by the long war (국경의 도시들은 오랜 전쟁으로 황폐되어 있었다)"
+  ],
+  "redeem": ["구속하다. 상환하다. 만회하다. 보상, 교환"],
+  "realm": ["영역, 왕국, 범주, 국토"],
+  "furnace": ["용광로"],
+  "sacred": ["1. 성스러운, 종교적인 2.신성시되는"],
+  "dry up": [
+    "(강·호수 등이) 바싹 마르다[말라붙다]",
+    "(공급이) 줄어들다[고갈되다]",
+    "(무슨 말을 해야 할지 몰라서) 갑자기 말을 멈추다"
+  ],
+  "rarely": ["부사 (more rarely; most rarely)"],
+  "blaspheme": ["신성 모독적인 발언을 하다(자,타동사)"],
+  "triumph": ["1.(큰)업적(승리) 대성공, 2.승리감, 환희, 3.개가 4. 승리를 거두다, 이기다."],
+  "herd": ["떼, 이동하다(동사), 몰다"],
+  "surpass": ["능가하다, 뛰어넘다."],
+  "be unable to": ["능력이 없다", "1.be unable to do", "", "2.be incapable of doing", "3.be incompetent to do"],
+  "plain": ["분명한, 평원, 분명히"],
+  "pledge": ["약속,약속하다,약속하게 하다, 약속하다"],
+  "restore": ["1.회복시키다 2.되찾게 하다 3.복원하다"],
+  "imposing": [
+    "형용사",
+    "1.\t남의 눈을 끄는, 두드러진, 인상적인(striking, impressive), 위엄 있는, 당당한(majestic).",
+    "an imposing air[building] (당당한 풍채[건물])",
+    "an imposing old lady ",
+    "an imposing display of learning"
+  ],
+  "prostitute": ["매춘부, 팔다, 매춘부로 일하다"],
+  "seer": ["(특히 과거에) 앞날[미래]을 내다보는 사람 (omeone who predicts things that will happen in the future)"],
+  "oath": ["1.맹세,서약,선서 2.(화·놀람 등을 나타내는) 욕설"],
+  "submission": [
+    "1.\t복종, 굴복, 굴종(subjection).",
+    "in submission to (…에 복종하여.)",
+    "2.\t유순(submissiveness)(to) ; 유화(柔和)(meekness).",
+    "with all due submission ((경의를 나타내며) 공손하게, 정중하게.)",
+    "3.\t법률",
+    "중재부탁(仲裁付託)(서) 중재 재판에 부탁하여 그 판결에 복종하겠다는 약속."
+  ],
+  "confer": ["자동사 [V]상의하다", "타동사 [VN] (상·학위·명예·자격을) 수여[부여]하다"],
+  "greedy": [
+    "형용사 (greedier ; -iest)",
+    "1.\t식탐을 내는, 게걸스레 먹는, 포식하는(ravenous, voracious).",
+    "He is not hungry, merely greedy. (배가 고픈게 아니라 식탐을 부린다.)",
+    "",
+    "2.\t탐욕한, 욕심 많은(avaricious, covetous)(for, after, of).",
+    "be greedy of[for] gain (이득을 지나치게 바라다.)",
+    "3.\t절실히 바라는, 갈망하는, 열망하는(longing, desirous)(of, for, to do).",
+    "be greedy of praise (칭찬을 갈망하다.)"
+  ],
+  "pass through": ["1.\t…을 빠져 나가다.", "2.\t…에 꿰뚫다[관통하다].", "3.      (어떤 도시 등을) 거쳐[지나]가다", ""],
+  "transgression": ["위반,범죄,(종교,도덕적)죄, 관습에 대한 도전"],
+  "adversary": ["(언쟁, 전투에서) 적수"],
+  "torture": ["1. 고문 2. 고문하다. 3.고문하듯 하다. 지독히 괴롭히다."],
+  "partiality": [
+    "명사 (격식)",
+    "1.\tU 못마땅함",
+    "편애, 편파(적인 지지) - 유의어bias  반의어impartiality",
+    "2.\tsing.",
+    "~을 아주 좋아함",
+    "She has a partiality for exotic flowers. - 유의어fondness"
+  ],
+  "refine": [
+    "타동사",
+    "1.\t정제[정련]하다; (불순물을 제거하여) 맑게 하다(clarify)",
+    "Sugar, oil, and metals are refined before being used (설탕, 기름, 금속은 사용하기 전에 정제된다)",
+    "2.\t고상[우아]하게 하다, 세련되게 하다, 품위[아취]있게 하다; 다듬다(polish)",
+    "You must refine your manners[language] (예의범절을[말씨를] 품위 있게 하지 않으면 안된다)"
+  ],
+  "account of": [
+    "1. 미국·구어",
+    "…때문에, …탓으로",
+    "The game was called off on account of rain. (그 경기는 비 때문에 취소되었다.)"
+  ],
+  "in accordance with": ["~에 부합되게, (규칙·지시 등에) 따라, ~에 따라서, ~에 준하여"],
+  "remnant": [
+    "명사",
+    "1.\t주로 복수로",
+    "남은 부분, 나머지",
+    "The woods are remnants of a huge forest which once covered the whole area. (유의어remains)",
+    "2.\t자투리(천)"
+  ],
+  "courageous": [
+    "1.\t용감한 (형용사)",
+    "a very courageous decision (대단히 용감한 결정)",
+    "유의어 (brave) 반의어 (cowardly)"
+  ],
+  "conscience": ["양심, 가책"],
+  "sore": [
+    "형용사\t",
+    "a.\t(상처 따위가) 다치면 아픈, 아린(painful to the touch), 피부가 까진, 맨살이 나온, 문드러진, 곪긴(inflamed).",
+    "a sore finger (생인손.)",
+    "",
+    "b.\t슬픈, 슬픔에 잠긴(grieved, sorrowful), 애처로운, 슬픔을 자아내는(sad, causing sorrow).",
+    "She is sore at heart. (마음 깊이 슬픔에 잠겨 있다.)",
+    "c.\t남의 마음을 아프게 하는, 약올리는(irritation).",
+    "a sore place[point, spot] (아픈 곳.)",
+    "d.\t괴로운, 쓰라린(grievous), 심한, 맹렬한(intense).",
+    "sore affliction (쓰라린 고생.)",
+    "e.\t구어",
+    "감정이 상한, 화가 난(irritated, offended).",
+    "feel sore about a matter (어떤 일에 성을 내다.)"
+  ],
+  "contend": ["1. (특히 언쟁중에) 주장하다.(maintain)  2.(~을 얻으려고)다투다(겨루다.)"],
+  "compulsion": [
+    "명사",
+    "1.\t강제, 강요, 협박(compelling).",
+    "by compulsion (강제적으로.)",
+    "",
+    "2.\t심리",
+    "협박 (현상), 강제."
+  ],
+  "refuge": [
+    "1,피난(처), 피신(처), 도피(처) 2.은신처가 되어 주는 곳 3.(단기적으로 지낼 곳이 되어 주는) 보호 시설, 쉼터"
+  ],
+  "leprosy": ["나병, 문둥병"],
+  "endure": ["견디다,참다,인내하다(타동사), 오래가다(자동사)"],
+  "detain": [
+    "타동사 (경찰서·교도소 ·병원 등에) 구금[억류]하다",
+    "타동사 격식(어디에 가지 못하게) 붙들다, 지체하게 하다"
+  ],
+  "circumcise": ["할례를 하다.(타동사)"],
+  "siege": ["1. (군사적) 포위작전, 2. (경찰에의한 건물의) 포위(출입 차단)"],
+  "restrain": ["1.저지하다(타동사) 2.억누르다(타동사) 3.억제하다(타동사)"],
+  "woe": ["1.고민,문제 2.비통,비애"],
+  "practice": [
+    "1.실행,실천 2.관행,관례 3.다반사,습관,관습 4.연습,실습 5.to do something again and again in order to become better at it (동사)"
+  ],
+  "shelter": [
+    "a.\t피난처, 은신처; (버스 따위의) 대합실; 방공호, 대피호((from, against)).",
+    "a bus shelter (버스 대기소.)",
+    "",
+    "b.\tU",
+    "보호; 피난; 옹호, 비호, 원호((from)).",
+    "He sought shelter at my house. (그는 우리집으로 피난해 왔다.)",
+    "c.\tU",
+    "주거, 집.",
+    "food, clothing and shelter (의식주.)",
+    "d.\t(일시적인) 보호[수용] 시설; 《美》 (동물의) 수용소."
+  ],
+  "avenge": ["복수하다.(타동사)"],
+  "needy": ["어려운, 궁핍한, 어려운(궁핍한)사람들, 자신감이 없는, 애정에 굶주린"],
+  "devise": [
+    "타동사, 자동사\t",
+    "a.\t(계획·수단·방법 따위를) 궁리하다, 고안하다, 생각해내다(contrive, think out) ; 창안하다, (새 고안품을) 발명하다(invent).",
+    "b.\t법률",
+    "(부동산을) 유증(遺贈)하다(bequeath by will).",
+    "give and devise ",
+    "c.\t폐어",
+    "생각하다, 추측하다(conceive, guess).",
+    "d.\t고어",
+    "(나쁜 일을) 꾀하다, 꾸미다, 음모하다(plot, scheme)."
+  ],
+  "spacious": [
+    "형용사",
+    "1.\t(집·방·뜰·거리 따위) 넓은 자리를 차지하는, 광대한, 널찍한, 넓은(vast, broad), 커다란(large, great).",
+    "a spacious hall, house, room, street, &c. ",
+    "",
+    "2.\t(견해가) 넓은.",
+    "a man of spacious intellect (광범한 지식을 지닌 사람.)"
+  ],
+  "bestow": ["타동사 격식 [VN] (특히 존경의 뜻으로) 수여[부여]하다"],
+  "circumcision": ["할례(의식)"],
+  "just as": [
+    "꼭 …처럼",
+    "You are no alone. Everyone is just as busy as you. ",
+    "",
+    "너만 바쁜 게 아니야. 모두 너만큼 바쁘다고."
+  ],
+  "along with": ["~에 덧붙여, ~와 마찬가지로, ~와 함게, ~에 따라,"],
+  "laughing stock": ["웃음거리"],
+  "vow": ["1.\t맹세, 서약", "to make/take a vow"],
+  "compel": [
+    "1.\t강요[강제]하다; (필요에 따라) …하게 만들다",
+    "The law can compel fathers to make regular payments for their children. (아버지가 자녀들을 위해 정기적으로 돈을 지불하도록 법으로 강제할 수 있다.)",
+    "",
+    "2.\t타동사 [VN 진행형으로는 쓰이지 않음]",
+    "(어떤 반응을) 자아내다[불러오다]",
+    "He spoke with an authority that compelled the attention of the whole crowd. (그는 모든 군중의 관심을 끄는 권위를 풍기며 연설을 했다.)",
+    "참고어",
+    "compulsion"
+  ],
+  "ordain": ["타동사(성직자로) 임명하다", "타동사 격식 (하나님·법률·운명이)명하다; (미리) 정하다"],
+  "interpret": [
+    "(의미를) 설명[해석]하다-타동사, (특정한 뜻으로) 이해[해석]하다-타동사, 통역하다-자동사,  (연주자·배우 등이 음악 작품·배역 등을 나름대로 해석하여) 연주[연기]하다-타동사"
+  ],
+  "fierce": [
+    "1. (특히 사람이나 동물이)사나운, 험악한 2.(특히 행동 감정이) 격렬한, 맹렬한  3.(기상 조건. 기온이)극심한, 맹렬한"
+  ],
+  "desolate": ["황량한,쓸쓸한"],
+  "courage": ["용기", "He showed great courage and determination. ", "(그는 대단한 용기와 결의를 보였다.)"],
+  "treaty": ["조약"],
+  "disturb": ["1.(작업,수면등을)방해하다 2. (제자리에 있는 것을)건드리다 (흩뜨리다.)3.불안하게 만들다"],
+  "reach out": [
+    "1.\t(대중에게)연락을 취하려하다",
+    "2.\t﹤손 등을﹥ 뻗다",
+    "3.\t﹤식물이﹥ 자라다",
+    "4.\t…와 접촉하려고 하다",
+    ""
+  ],
+  "long for": ["열망하다, 갈망하다."],
+  "gnash": ["이를 갈다. 이를 악물다. (동사) 이를 갊(명사)"],
+  "countryman": ["동포 (남자), 같은 나라 사람 compatriot (유의어)", "시골 남자"],
+  "subdue": ["가라앉히다(자동사), 제압하다, 억제하다, 완화하다. 진압하다.(타동사)"],
+  "overtake": ["1.추월하다.2.(수.양 중요도면에서)앞지르다(타동사)3.(불쾌한 일이 사람에게)불시에 닥치다(엄습하다.)"],
+  "be content with": ["~에 만족하다. (I am not content with your work. )"],
+  "as far as": ["1.\t〜에 까지"],
+  "censer": ["향로"],
+  "In the same way": ["같은 방법으로"],
+  "bondage": [
+    "1.\t노예[농노(農奴)]의 신세, 노역(奴役), 천역(賤役)(serfdom).",
+    "2.\t노예[농노]토지 보유권.",
+    "3.\t(행동의) 속박, 굴종(subjugation).",
+    "4.\t붙잡힌[얽매인] 몸(captivity), 노예의 신분(slavery).",
+    "be kept in bondage (얽매인 몸[노예]이 되어 있다.)",
+    "5.\t(정욕 따위에) 빠지기[얽매이기], (…의) 노예임(of).",
+    "the bondage of vice, sin, &c."
+  ],
+  "flee from": ["~에서 달아나다."],
+  "vault": ["둥근 천장, 아치형 천장 ,~을 둥근 천장으로 덮다."],
+  "execute": [
+    "1.처형하다.  2. 실행하다.(수행)하다. 3. (어떤 기술적인 동작을)해내다. 4. 예술작품을 만들어 내다. 5. (법적 문서대로) 집행(이행)하다."
+  ],
+  "graft": [
+    "1.접목, 접 붙이기, 접목한 나뭇가지  2. (피부,뼈 등의) 이식; 이식한 피부[뼈 등] 3.(피부,뼈 등을) 이식하다  4. 접목하다. 접붙이기를 하다."
+  ],
+  "boast": ["자랑하다, 가지고 있다, 뽐내다, 호언장담하다, 내세우다"],
+  "designate": ["1.지정하다 2.지명된(형용사) 3.지명하다"],
+  "cease": ["1.중단되다, 2.그치다, 중단시키다."],
+  "tenant": ["세입자, 임차인, 소작인 (n)"],
+  "integrity": ["1.진실성 2.(나뉘지 않고) 완전한 상태, 온전함"],
+  "revelry": [
+    "흥청대며 먹고 마시는 파티, 흥청대며 놀기",
+    "We could hear sounds of revelry from next door. (옆집에서 사람들이 흥청대며 노는 소리가 들렸다.)",
+    "유의어",
+    "festivity, merrymaking"
+  ],
+  "inflict": ["1.(괴로움 등을) 가하다[안기다] (타동사)"],
+  "envoy": ["사절, 특사"],
+  "haughty": ["거만한,오만한"],
+  "withdraw": ["물러나다, 중단하다(타동사) 탈퇴시키다, 탈퇴하다. 인출하다.(타동사), 틀어박히다(자동사)"],
+  "hinder": [
+    "타동사",
+    "1.\t방해하다, 저지하다(prevent), 훼방하다, 막다, 지체하게 하다, 늦게 하다",
+    "The sand hindered our walking. (모래가 걷는 데 방해가 되었다.)",
+    "",
+    "자동사",
+    "1.\t방해가 되다, 행동에 지장을 주다"
+  ],
+  "distort": ["타동사 (형체·모습·소리를) 비틀다[일그러뜨리다]", "타동사(사실·생각 등을) 왜곡하다"],
+  "decree": ["조례, 천명, 포고, 명령, 신의 뜻,명하다"],
+  "chariot": ["(고대의 전투나 경주용) 마차(전차)"],
+  "assign to": ["…에 배속[배정]하다, (사건의 일시, 장소 등을) …(로) 정하다."],
+  "rebel": ["반역하다, 반항하다(v)"],
+  "devour": ["걸신 들린 듯 먹다,  집어삼킬듯이 읽다, 집어삼키다"],
+  "refrain": [
+    "(동사)\t자동사 격식 [V]",
+    "(특히 하고 싶은 것을) 삼가다 ( Please refrain from smoking. ) 유의어 desist from",
+    "(명사)\t격식",
+    "자주 반복되는 말[불평] Complaints about poor food in schools have become a familiar refrain. 유의어 chorus"
+  ],
+  "forsake": ["저버리다(타동사), 그만두다.(타동사)"],
+  "despise": ["경멸하다,멸시하다"],
+  "destruction": ["파괴, 파멸, 말살"],
+  "swarm": [
+    "1.(한 방향으로 이동하는 곤충의) 떼[무리], 벌 떼",
+    "a swarm of bees/locusts/flies.",
+    "2.(특히 같은 방향으로 급히 이동 중인) 군중[대중]"
+  ],
+  "pour out~": ["(~을)쏟아붇다. ~을 퍼붓다."],
+  "provide for": ["…을 부양[대비]하다."],
+  "ruthless": ["무자비한, 가차없는, 인정사정없는(형용사)"],
+  "widow": ["미망인 , 홀아비"],
+  "conduct": [
+    "(특정한 활동을)하다. 지휘하다, (어떤 장소를 이리저리)안내하다. 행동하다,처신하다 ,(열이나 전기를)전도하다. (특정한 장소나 상황에서의)행동, 경영, 수행, 처리"
+  ],
+  "vulture": ["1.독수리, 콘도르 2.남의 불행을 이용해 먹는 자"],
+  "uproot": ["1.(나무,화초등을) 뿌리째 뽑다 2. 오래 살던 곳에서 떠나다"],
+  "be assured of~": ["~에 대해 확신하다."],
+  "set out": ["출발하다. (일,과제등에)착수하다."],
+  "discharge": [
+    "1.타동사 [VN 주로 수동태로](어떤 장소나 직무에서) 떠나는 것을 허락하다; 해고하다",
+    "2.타동사 [VN 흔히 수동태로] 석방[방면]하다",
+    "3.(기체액체가) 흐르다[방출되다]; 흘리다[방출하다]",
+    "4.전문 용어 (에너지를) 방출하다",
+    "5.타동사 격식 [VN] (임무 등을) 이행하다",
+    "6.타동사 격식 [VN]발사[발포]하다",
+    "명사",
+    "1.\tU, C",
+    "방출, 배출; 배출물, 분비물",
+    "2.\tU, C",
+    "(공식적으로 어디, 특히 병원군대에서) 내보냄; 퇴원; 제대",
+    "3.\tU 격식",
+    "이행"
+  ],
+  "take away": ["제거하다, 치우다 줄이다, 죽이다, 떠나가다."],
+  "garment": ["의복, 옷"],
+  "defile": ["(신성하거나 중요한 것을) 더럽히다 , (산 속의) 좁은 길[골짜기]"],
+  "contempt": ["경멸,멸시,(법규 위험 등을) 개의하지 않음, 무시"],
+  "paralytic": ["인사불성으로 취한, 마비된, 마비를 유발하는 (형용사) - paralysis(마비-명사)"],
+  "crave": [
+    "타동사",
+    "a.\t간청하다, 간절히 바라다(ask earnestly, beg for).",
+    "crave a person's pardon[leave, mercy] ((남의) 용서[허락, 자비]를 빌다.)",
+    "",
+    "b.\t갈망하다, 열망하다(long or yearn for).",
+    "I crave a drink. (한잔하고 싶어 못 견디겠다.)",
+    "c.\t(사물·사정이 …을) 요(구)하다(call for, demand)."
+  ],
+  "right to": ["1.\t~할 권리"],
+  "uphold": ["1.유지시키다.(법,원칙등을)(타동사)2.(특히 법정에서) -판결을 확인하다. (타당성을)인정하다. (타동사)"],
+  "obligation": ["(법적,도의적)의무(가 있음), 의무(마땅히 해야 할 일)"],
+  "solemn": ["1.침통한,근엄한(유의어 serious, 반의어 cheerful) 2.엄숙한"],
+  "jubilee": ["(특히 25주년이나 50주년) 기념일[기념제]"],
+  "deceive": ["1.속이다 2.자신을 속이다 3.현혹하다"],
+  "entrust": ["1.(일을)맡기다.(타동사)"],
+  "tremble": ["1.떨다  2. 떪 3.흔들리다"],
+  "ignorant": ["형용사", "1.무지한, 무식한; 무학의", "2. 무지막지한 (유의어 uncouth)"],
+  "divination": [
+    "1. 점, 2. 점을 침 (e practice of using signs (such as an arrangement of tea leaves or cards) or special powers to predict the future)"
+  ],
+  "calamity": ["재앙, 재난"],
+  "groan": ["신음 소리를 내다, 낮게 탄성을 지르다, 신음, 신음 소리 같은 소리를 내다"],
+  "descend": ["1.내려오다 2.경사지다 3.내려앉다"],
+  "trivial": [
+    "a.\t하찮은, 자질구레한, 사소한(insignificant, trifling) ; 대단치 않은, 경미(輕微)한(slight).",
+    "trivial matters[mistakes] (대수롭지 않은 일[과실].)",
+    "",
+    "b.\t고어",
+    "보통의, 평범한(common, commonplace, ordinary).",
+    "the trivial round of daily life (평범한 일상생활.)",
+    "c.\t통속의, 통칭(通稱)의.",
+    "a trivial name (통칭, 속명(俗名) ; 종명(種名)(cf. generic name).)"
+  ],
+  "take advantage of": ["(호기, 사실 따위를) 이용하다, …을 이용하여 …하다; 편승하다."],
+  "store": [
+    "백화점, (크고작은)가게, 비축(저장)량, (특정한 종류용도의)상품(물품) ,(특정한 종류의 상품)저장고, 저장(보관)하다.  저장(기억)하다."
+  ],
+  "besiege": ["1.포위하다, 에워싸다. 2. (잔뜩) 둘러싸다. 3. (질문등을)퍼붓다. -3개다 타동사"],
+  "affliction": ["고통, 고뇌(distress), 고난, 고생, 불행; 고통의 원인, 재앙, 박해."],
+  "afflict": ["괴롭히다(v)"],
+  "for the sake of": ["~을 위해서"],
+  "consume": [
+    "소모하다.(타동사), 먹다, 마시다(타동사), (강렬한 감정이)사로잡다(휩싸다.) (타동사) , 전소시키다. 휩싸다(타동사)"
+  ],
+  "grumble": ["투덜거리다,불만 사항,우르릉거리는 소리, 우르렁거리다.(자동사)"],
+  "arrogant": ["오만한, 거만한"],
+  "testify": ["(특히 법정에서) 증언[진술]하다", "증명하다", "신앙 간증을 하다"],
+  "anguish": ["(극심한) 괴로움, 비통, (심신의) 고통"],
+  "petition": [
+    "명사",
+    "1.\t진정[탄원/청원](서)",
+    "2.\t법률",
+    "(법원에 법률적 처리를 요청하는) 신청서",
+    "3.\t격식",
+    "기원(祈願)"
+  ],
+  "unfailing": ["1.언제나 변함없는 2, 한결같은"],
+  "desolation": ["황량함, 적막감."],
+  "blameless": [
+    "1.아무 죄[잘못]도 없는(free from blame, innocent) ; 거리낄 것 없는, 결백한(guiltless).",
+    "lead a blameless life (청렴결백한 생활을 하다)"
+  ]
+}

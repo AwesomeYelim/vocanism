@@ -1,15 +1,23 @@
 import Link from 'next/link';
 import { ReactNode } from 'react';
 import { Block } from '~/components/block';
-import { IdiomSounds } from '~/components/idiomSounds';
+import { Sounds } from '~/components/sounds';
+import { WordNote } from '~/components/word-note';
 import { readFile } from '~/service/words';
+import { randomIndex } from '../libs/functions/random-index';
 
 type Props = {
   children: ReactNode;
 };
 export default function MainLayout({ children }: Props) {
-  const data = Object.entries(readFile('idiom'));
-  const randomIndex = Math.floor(Math.random() * data.length);
+  const idiomsData = Object.entries(readFile('idioms', 'data'));
+  const randomIdiom = idiomsData[randomIndex(idiomsData.length)];
+  const todayWords = Object.entries(readFile('TOEIC_TOFLE', 'data'));
+  const randomNum = randomIndex(todayWords.length);
+  const randomTodayWords = todayWords.slice(randomNum, randomNum + 10) as [
+    string,
+    string[],
+  ][];
 
   return (
     <main className="text-tx">
@@ -26,25 +34,29 @@ export default function MainLayout({ children }: Props) {
         <div className="w-80">
           <h2 className="mb-4 font-serif text-gray-11">오늘의 어근</h2>
           {children}
-
           <Link href="/main" className="link inline-block text-gray-11">
             ...
           </Link>
         </div>
         <div className="w-80">
           <>
-            <h2 className="mb-4 inline-block font-serif text-gray-11">
+            <h2 className="mb-4 flex font-serif text-gray-11">
               오늘의 숙어 및 단어
+              <Sounds value={randomIdiom[0]} />
             </h2>
-            <IdiomSounds value={data[randomIndex][0]} />
+
             <div className="border-gray-300 rounded border p-4">
               <div className="mb-2">
                 <span className="block min-w-[90px] font-bold">
-                  {data[randomIndex][0]}
+                  {randomIdiom[0]}
                 </span>
                 <div>
-                  {(data[randomIndex][1] as string[]).map((el) => {
-                    return <div>{el}</div>;
+                  {(randomIdiom[1] as string[]).map((el) => {
+                    return (
+                      <div className="mt-1" key={el}>
+                        {el}
+                      </div>
+                    );
                   })}
                 </div>
               </div>
@@ -54,18 +66,7 @@ export default function MainLayout({ children }: Props) {
             <h2 className="mb-4 mt-4 font-serif text-gray-11">
               오늘의 목표 단어
             </h2>
-            <div className="border-gray-300 rounded border p-4">
-              <div className="mb-2">
-                <span className="block min-w-[90px] font-bold">
-                  {data[randomIndex + 1][0]}
-                </span>
-                <div>
-                  {(data[randomIndex + 1][1] as string[]).map((el) => {
-                    return <div>{el}</div>;
-                  })}
-                </div>
-              </div>
-            </div>
+            <WordNote wordList={randomTodayWords} />
           </>
         </div>
       </div>

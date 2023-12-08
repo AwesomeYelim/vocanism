@@ -1,10 +1,8 @@
 import Link from 'next/link';
 import { Detail } from '~/components/detail';
 import { RootList } from '~/components/rootList';
-import { SearchInput } from '~/components/searchInput';
-import { WordRoot } from '~/components/word-root';
-import { getPost } from '~/service/words';
-import './page.scss';
+import { geteEtymology } from '~/service/words';
+// import './page.scss';
 
 interface Props {
   params: {
@@ -23,14 +21,18 @@ export type T_Word = {
 
 export default async function WordsPage({ params }: Props) {
   const { slug } = params;
-  const res = await getPost(slug);
+  const res = await geteEtymology(slug);
   if (!slug) {
     return <></>;
   }
 
   if (typeof slug === 'object' && (slug as string[]).length > 1) {
     return (
-      <div className="root_wrapper" data-animate data-animate-stage={1}>
+      <div
+        className="flex flex-wrap items-center gap-2"
+        data-animate
+        data-animate-stage={1}
+      >
         <Detail {...res} />
       </div>
     );
@@ -38,7 +40,11 @@ export default async function WordsPage({ params }: Props) {
   const props = { res, slug };
 
   return (
-    <div className="root_wrapper" data-animate data-animate-stage={1}>
+    <div
+      className="flex flex-wrap items-center gap-2"
+      data-animate
+      data-animate-stage={1}
+    >
       <RootList {...props} />
     </div>
   );

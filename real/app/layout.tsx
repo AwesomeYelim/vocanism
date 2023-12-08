@@ -7,7 +7,8 @@ import GoogleAnalytics from '~/components/google-analytics';
 import siteConfig from '~/libs/site-config';
 
 import { Providers } from './providers';
-import Recoil from '~/components/Recoil';
+import Recoil from '~/components/recoil';
+import { DetectSound } from '~/components/detect-sound';
 
 export const metadata: Metadata = {
   title: {
@@ -53,7 +54,9 @@ export default function RootLayout({
           <div className="blur-layer" aria-hidden="true"></div>
           <div className="container mx-auto max-w-page py-page">
             <div className="main-grid">
-              <Recoil>{children}</Recoil>
+              <Recoil>
+                <DetectSound>{children}</DetectSound>
+              </Recoil>
             </div>
             <FloatScrollTopButton />
           </div>

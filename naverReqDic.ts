@@ -9,7 +9,7 @@ import axios from "axios";
 import fs from "fs";
 import prettier from "prettier";
 
-const totalCount = Math.ceil(3720 / 100);
+const totalCount = Math.ceil(11162 / 200);
 
 const naverCrawDicFn = async (j: number) => {
   try {
@@ -18,20 +18,19 @@ const naverCrawDicFn = async (j: number) => {
 
     for (let i = 1 * (j - 1) * 10; i < Math.ceil(middleCount / 20); i++) {
       const res = await axios.get(
-        `https://open-pro.dict.naver.com/ivo-data/dict/entrys?currentPage=${i}&enName=5b78c844225e42e5b45493ebc87be458&pageSize=20&entryStatus=&orderType=all&editorId=&shoulderType=0&entryCategory=&keyword=`
+        `https://open-pro.dict.naver.com/ivo-data/dict/entrys?currentPage=${i}&enName=d47908323470485e874b1a918154ec11&pageSize=20&entryStatus=&orderType=like_num&editorId=&shoulderType=0&entryCategory=&keyword=`
       );
-      //   console.log(res.data.data.items);
 
       res.data.data.items.forEach((item: { [key in string]: string }) => {
         const { entryName, displayedMean } = item;
-        obj[entryName] = [...new Set(displayedMean.split("\n").filter((el) => !/^[\s​]*$/.test(el)))];
+        obj[entryName] = [...new Set(displayedMean.split("<br>").map((el) => el.replace(/^[\s​]*$/, "")))];
       });
     }
-
     console.log(obj);
+
     fs.writeFile(
-      `./naverData/idiom${j}.json`,
-      await prettier.format(JSON.stringify(obj), { filepath: `./naverData/idiom${j}.json` }),
+      `./naverData/niv-bible/data_${j}.json`,
+      await prettier.format(JSON.stringify(obj), { filepath: `./naverData/niv-bible/data_${j}.json` }),
       // JSON.stringify(ulList),
       (err) => console.log(err)
     );
@@ -39,4 +38,7 @@ const naverCrawDicFn = async (j: number) => {
     console.log(error);
   }
 };
-naverCrawDicFn(1);
+
+// for (let i = 5; i < 10; i++) {
+naverCrawDicFn(3);
+// }
