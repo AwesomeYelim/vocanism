@@ -3,10 +3,6 @@
 import { ReactNode, useEffect } from 'react';
 import speak from '~/app/libs/functions/sounds';
 
-interface Props {
-  data?: number;
-}
-
 export const DetectSound = ({
   children,
 }: {
@@ -14,6 +10,9 @@ export const DetectSound = ({
 }): JSX.Element => {
   useEffect(() => {
     window.addEventListener('dblclick', () => {
+      return speak({ text: (window.getSelection() as Selection).toString() });
+    });
+    window.addEventListener('mouseup', () => {
       return speak({ text: (window.getSelection() as Selection).toString() });
     });
   }, [speak]);

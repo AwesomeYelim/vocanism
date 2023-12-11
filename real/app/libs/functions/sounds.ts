@@ -1,14 +1,18 @@
+import { franc } from 'franc';
+
 function speak({
   text,
   opt_prop: opt_prop = { rate: 1, pitch: 1, lang: 'en-US' },
+  momentWorking: { endFn, startFn } = {},
 }: {
   text: string;
   opt_prop?: {
     rate: number;
     pitch: number;
     // lang: selectLang.options[selectLang.selectedIndex].value,
-    lang: 'en-US';
+    lang: string;
   };
+  momentWorking?: { startFn?: () => void; endFn?: () => void };
 }) {
   if (
     typeof SpeechSynthesisUtterance === 'undefined' ||
@@ -17,7 +21,6 @@ function speak({
     alert('이 브라우저는 음성 합성을 지원하지 않습니다.');
     return;
   }
-
   window.speechSynthesis.cancel(); // 현재 읽고있다면 초기화
 
   const prop = opt_prop || {};
@@ -28,7 +31,18 @@ function speak({
   speechMsg.lang = prop.lang || 'ko-KR';
   speechMsg.text = text;
 
+  const detectedLanguage = franc(text, { minLength: 1 });
+  console.log(text, detectedLanguage);
+
+  speechMsg.onstart = () => {
+    startFn?.();
+  };
+
   window.speechSynthesis.speak(speechMsg);
+
+  speechMsg.onend = () => {
+    endFn?.();
+  };
 }
 
 export default speak;

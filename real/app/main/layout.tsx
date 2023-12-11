@@ -1,7 +1,9 @@
+import dynamic from 'next/dynamic';
 import Link from 'next/link';
 import { ReactNode } from 'react';
 import { Block } from '~/components/block';
-import { Sounds } from '~/components/sounds';
+import { IdiomCard } from '~/components/idiom-card';
+import { Sounds } from '~/components/sounds-image';
 import { WordNote } from '~/components/word-note';
 import { readFile } from '~/service/words';
 import { randomIndex } from '../libs/functions/random-index';
@@ -11,7 +13,6 @@ type Props = {
 };
 export default function MainLayout({ children }: Props) {
   const idiomsData = Object.entries(readFile('idioms', 'data'));
-  const randomIdiom = idiomsData[randomIndex(idiomsData.length)];
   const todayWords = Object.entries(readFile('TOEIC_TOFLE', 'data'));
   const randomNum = randomIndex(todayWords.length);
   const randomTodayWords = todayWords.slice(randomNum, randomNum + 10) as [
@@ -39,29 +40,7 @@ export default function MainLayout({ children }: Props) {
           </Link>
         </div>
         <div className="w-80">
-          <>
-            <h2 className="mb-4 flex font-serif text-gray-11">
-              오늘의 숙어 및 단어
-              <Sounds value={randomIdiom[0]} />
-            </h2>
-
-            <div className="border-gray-300 rounded border p-4">
-              <div className="mb-2">
-                <span className="block min-w-[90px] font-bold">
-                  {randomIdiom[0]}
-                </span>
-                <div>
-                  {(randomIdiom[1] as string[]).map((el) => {
-                    return (
-                      <div className="mt-1" key={el}>
-                        {el}
-                      </div>
-                    );
-                  })}
-                </div>
-              </div>
-            </div>
-          </>
+          <IdiomCard list={idiomsData} />
           <>
             <h2 className="mb-4 mt-4 font-serif text-gray-11">
               오늘의 목표 단어
