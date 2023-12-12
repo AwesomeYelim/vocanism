@@ -35,15 +35,16 @@ export const DetectSound = ({
       tooltipRoot.style.borderRadius = '3px';
 
       /** cors 에러로 서버생성 및 우회해서 요청 보냄 -예림 */
-      tooltipRoot.innerText = (await axios
-        .post('/api/trans', JSON.stringify(selectedText), {
-          headers: {
-            'Content-Type': `application/json`,
-          },
-        })
-        .then((res) => {
-          return res.data.res;
-        })) as string;
+      tooltipRoot.innerText =
+        ((await axios
+          .post('/api/trans', JSON.stringify(selectedText), {
+            headers: {
+              'Content-Type': `application/json`,
+            },
+          })
+          .then((res) => {
+            return res.data.res;
+          })) as string) || '-';
     }
     const removeTooltip = () => {
       root.removeChild(tooltipRoot);
