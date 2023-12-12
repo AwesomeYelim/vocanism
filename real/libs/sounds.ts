@@ -32,16 +32,16 @@ function speak({
   speechMsg.text = text;
 
   const detectedLanguage = franc(text, { minLength: 1 });
-  console.log(text, detectedLanguage);
 
   speechMsg.onstart = () => {
-    startFn?.();
+    return startFn?.();
   };
 
-  window.speechSynthesis.speak(speechMsg);
+  if (detectedLanguage !== 'kor') window.speechSynthesis.speak(speechMsg);
 
   speechMsg.onend = () => {
     endFn?.();
+    return () => (startFn as () => void)();
   };
 }
 

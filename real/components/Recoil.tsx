@@ -7,8 +7,16 @@ type Props = {
   children: ReactNode;
 };
 
-export const postsAtom = atom({
+export const rootAtom = atom({
   key: 'etymology',
+  default: [],
+});
+export const idiomAtom = atom<[string, string[]]>({
+  key: 'idiom',
+  default: ['', ['']],
+});
+export const targetWordsAtom = atom({
+  key: 'targetWords',
   default: [],
 });
 

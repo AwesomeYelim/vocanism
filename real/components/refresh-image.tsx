@@ -16,7 +16,7 @@ export const Refresh = ({ handler }: Props): JSX.Element => {
       height={13}
       //   loading="eager"
       //   priority
-      className="ml-1 inline-block cursor-pointer transition-all hover:-rotate-180"
+      className="ml-2 inline-block cursor-pointer transition-all hover:-rotate-180"
       onClick={handler}
     />
   );

@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import { redirect } from 'next/navigation';
 import { Detail } from '~/components/detail';
 import { RootList } from '~/components/rootList';
 import { geteEtymology } from '~/service/words';
@@ -19,11 +20,10 @@ export type T_Word = {
   ex: { [key: string]: string };
 };
 
-export default async function WordsPage({ params }: Props) {
-  const { slug } = params;
+export default async function WordsPage({ params: { slug } }: Props) {
   const res = await geteEtymology(slug);
   if (!slug) {
-    return <></>;
+    redirect('main/A');
   }
 
   if (typeof slug === 'object' && (slug as string[]).length > 1) {

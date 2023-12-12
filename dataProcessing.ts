@@ -115,7 +115,7 @@ const naverCrawDicFn = async () => {
         })()
 
         if (!el.description) {
-          const description = await new Promise(async () => {
+          const description = (async () => {
             if (!obj[from] || !chapter) return
 
             try {
@@ -135,7 +135,7 @@ const naverCrawDicFn = async () => {
               console.error(`Error fetching chapter ${el}:`, error.message)
               return null
             }
-          })
+          })()
           console.log(description)
 
           return {

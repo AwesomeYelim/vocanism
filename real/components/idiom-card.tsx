@@ -1,19 +1,19 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import { randomIndex } from '~/app/libs/functions/random-index';
+import { randomIndex, randomIndexPerDay } from '~/libs/random-index';
 import { Refresh } from './refresh-image';
 import { Sounds } from './sounds-image';
 
 interface Props {
-  list: [string, unknown][];
+  list: [string, string[]][];
 }
 
 export const IdiomCard = ({ list }: Props) => {
-  const [randomIdiom, setRandomIdiom] = useState<[string, unknown]>();
+  const [randomIdiom, setRandomIdiom] = useState<[string, string[]]>();
 
   useEffect(() => {
-    setRandomIdiom(list[randomIndex(list.length)]);
+    setRandomIdiom(list[randomIndexPerDay(list.length)]);
   }, []);
 
   return (
@@ -22,7 +22,9 @@ export const IdiomCard = ({ list }: Props) => {
         오늘의 숙어 및 단어
         <Sounds value={randomIdiom?.[0] as string} />
         <Refresh
-          handler={() => setRandomIdiom(list[randomIndex(list.length)])}
+          handler={() => {
+            setRandomIdiom(list[randomIndex(list.length)]);
+          }}
         />
       </h2>
       <div className="border-gray-300 rounded border p-4">

@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import Image from 'next/image';
-import speak from '~/app/libs/functions/sounds';
+import speak from '~/libs/sounds';
 
 export const Sounds = ({ value }: { value: string }): JSX.Element => {
   const [click, setClick] = useState(false);

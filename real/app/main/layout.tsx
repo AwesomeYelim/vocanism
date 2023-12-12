@@ -3,22 +3,18 @@ import Link from 'next/link';
 import { ReactNode } from 'react';
 import { Block } from '~/components/block';
 import { IdiomCard } from '~/components/idiom-card';
-import { Sounds } from '~/components/sounds-image';
-import { WordNote } from '~/components/word-note';
+import { TargetwordsCard } from '~/components/targetwords-card';
 import { readFile } from '~/service/words';
-import { randomIndex } from '../libs/functions/random-index';
 
 type Props = {
   children: ReactNode;
 };
 export default function MainLayout({ children }: Props) {
-  const idiomsData = Object.entries(readFile('idioms', 'data'));
-  const todayWords = Object.entries(readFile('TOEIC_TOFLE', 'data'));
-  const randomNum = randomIndex(todayWords.length);
-  const randomTodayWords = todayWords.slice(randomNum, randomNum + 10) as [
+  const idiomsData = Object.entries(readFile('idioms', 'data')) as [
     string,
     string[],
   ][];
+  const todayWords = Object.entries(readFile('TOEIC_TOFLE', 'data'));
 
   return (
     <main className="text-tx">
@@ -41,12 +37,7 @@ export default function MainLayout({ children }: Props) {
         </div>
         <div className="w-80">
           <IdiomCard list={idiomsData} />
-          <>
-            <h2 className="mb-4 mt-4 font-serif text-gray-11">
-              오늘의 목표 단어
-            </h2>
-            <WordNote wordList={randomTodayWords} />
-          </>
+          <TargetwordsCard list={todayWords} />
         </div>
       </div>
     </main>
