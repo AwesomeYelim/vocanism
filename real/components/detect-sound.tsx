@@ -2,7 +2,7 @@
 
 import axios from 'axios';
 import { ReactNode, useCallback, useEffect } from 'react';
-import speak from '~/libs/sounds';
+import speak, { detectedLanguage } from '~/libs/sounds';
 
 export const DetectSound = ({
   children,
@@ -13,15 +13,15 @@ export const DetectSound = ({
     const root = document.querySelector('body') as HTMLBodyElement;
 
     const tooltipRoot = document.createElement('div');
-    tooltipRoot.classList.add('tooltip__root');
-    const arrowElement = document.createElement('div');
-    arrowElement.classList.add('tooltip__arrow');
-    tooltipRoot.appendChild(arrowElement);
+    tooltipRoot.classList.add('tooltip');
     root.appendChild(tooltipRoot);
 
     const selectedText = (window.getSelection() as Selection).toString();
 
-    if (selectedText) {
+    if (
+      selectedText.replace(/\s/g, '') &&
+      detectedLanguage(selectedText) !== 'kor'
+    ) {
       const range = (window.getSelection() as Selection).getRangeAt(0);
       const rect = range.getBoundingClientRect();
 
@@ -31,6 +31,7 @@ export const DetectSound = ({
 
       tooltipRoot.style.backgroundColor = 'black';
       tooltipRoot.style.color = '#fff';
+      tooltipRoot.style.fontSize = '0.8rem';
       tooltipRoot.style.padding = '3px 7px';
       tooltipRoot.style.borderRadius = '3px';
 

@@ -1,5 +1,7 @@
 import { franc } from 'franc';
 
+export const detectedLanguage = (text: string) => franc(text, { minLength: 1 });
+
 function speak({
   text,
   opt_prop: opt_prop = { rate: 1, pitch: 1, lang: 'en-US' },
@@ -31,13 +33,11 @@ function speak({
   speechMsg.lang = prop.lang || 'ko-KR';
   speechMsg.text = text;
 
-  const detectedLanguage = franc(text, { minLength: 1 });
-
   speechMsg.onstart = () => {
     return startFn?.();
   };
 
-  if (detectedLanguage !== 'kor') window.speechSynthesis.speak(speechMsg);
+  if (detectedLanguage(text) !== 'kor') window.speechSynthesis.speak(speechMsg);
 
   speechMsg.onend = () => {
     endFn?.();
