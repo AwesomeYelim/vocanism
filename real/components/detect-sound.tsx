@@ -1,7 +1,8 @@
 'use client';
 
 import axios from 'axios';
-import { ReactNode, useCallback, useEffect } from 'react';
+import { type ReactNode, useCallback, useEffect } from 'react';
+
 import speak, { detectedLanguage } from '~/libs/sounds';
 
 export const DetectSound = ({

@@ -1,5 +1,6 @@
 import { allNotes, allWritings } from 'contentlayer/generated';
 import Link from 'next/link';
+
 import { Block } from '~/components/block';
 import {
   GithubIcon,

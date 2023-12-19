@@ -2,13 +2,13 @@ import '~/styles/globals.css';
 
 import type { Metadata } from 'next';
 
+import { DetectSound } from '~/components/detect-sound';
 import FloatScrollTopButton from '~/components/float-scroll-top-button';
 import GoogleAnalytics from '~/components/google-analytics';
+import Recoil from '~/components/recoil';
 import siteConfig from '~/libs/site-config';
 
 import { Providers } from './providers';
-import Recoil from '~/components/recoil';
-import { DetectSound } from '~/components/detect-sound';
 
 export const metadata: Metadata = {
   title: {

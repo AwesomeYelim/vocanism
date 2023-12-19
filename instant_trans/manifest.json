@@ -1,6 +1,6 @@
 {
   "name": "영단어 즉석 번역(instant translation - 네이버 사전)",
-  "version": "0.0.1",
+  "version": "1.0",
   "description": "영어 단어의 뜻을 한번에 번역합니다.",
   "icons": {
     "16": "icon/icon16.png",
