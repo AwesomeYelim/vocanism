@@ -36,44 +36,9 @@ const tooltipEvent = async (e: MouseEvent) => {
       //     });
       //   });
 
-      chrome.runtime.sendMessage({ selectedText }, (response) => {
-        // var checkReady = setInterval(() => {
-        //     if (document.readyState === "complete") {
-        //         clearInterval(checkReady)
-        //         console.log("We're in the injected content script!")
-        //     }
-        // })
-
-        console.log(response)
-      })
+      const res = chrome.runtime.sendMessage({ selectedText })
+      console.log(selectedText, res)
     }
-    //     chrome.tabs.query({ active: true, currentWindow: true }, tabs => {
-    //         const activeTab = tabs[0];
-    //         chrome.tabs.sendMessage(activeTab.id as number, { message: selectedText }, response => {
-    //           console.log('Text from content script:', response.text);
-    //         });
-    //       });
-
-    //   try {
-    //     tooltipRoot.innerText = await axios.post(
-    //       apiUrl,
-    //       { source: 'en', target: 'ko', selectedText },
-    //       config,
-    //     );
-    //   } catch (error) {
-    //     console.log({ error });
-    //   }
-    //   /** cors 에러로 서버생성 및 우회해서 요청 보냄 -예림 */
-    //   tooltipRoot.innerText =
-    //     ((await axios
-    //       .post('/api/trans', JSON.stringify(selectedText), {
-    //         headers: {
-    //           'Content-Type': `application/json`,
-    //         },
-    //       })
-    //       .then((res) => {
-    //         return res.data.res;
-    //       })) as string) || '-';
   }
   const removeTooltip = () => {
     root.removeChild(tooltipRoot)
