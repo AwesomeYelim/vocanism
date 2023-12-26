@@ -22,12 +22,10 @@ chrome.runtime.onMessage.addListener(async (message, sender, sendResponse) => {
     })
 
     const responseData = await res.json()
-    console.log(sender, responseData.message.result.translatedText)
-
-    sendResponse({ data: responseData.message.result.translatedText })
-    return true
+    console.log(responseData.message.result.translatedText)
   } catch (error) {
     console.error('Error during translation:', error)
     sendResponse({ error })
   }
+  return true
 })
