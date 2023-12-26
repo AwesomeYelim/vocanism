@@ -1,0 +1,50 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.bookshelf {
+  width: 300px;
+  height: 400px;
+  background-color: #8b4513; /* Brown for bookshelf */
+  position: relative;
+}
+
+.book {
+  width: 80px;
+  height: 120px;
+  background-color: #ffd700; /* Gold for book */
+  cursor: pointer;
+  position: absolute;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 2;
+}
+
+.modal {
+  width: 100%;
+  height: 100%;
+  background-color: rgb(255, 226, 162);
+}
+/* Optional: Add some styling for book spines on the bookshelf */
+.bookshelf::before,
+.bookshelf::after {
+  content: '';
+  position: absolute;
+  top: 20px;
+  width: 10px;
+  height: 360px;
+  background-color: #d2b48c; /* Tan for book spines */
+}
+
+.bookshelf::before {
+  left: 30px;
+}
+
+.bookshelf::after {
+  right: 30px;
+}
