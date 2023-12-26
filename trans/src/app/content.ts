@@ -1,20 +1,20 @@
 // import axios from "axios";
 import speak, { detectedLanguage } from './sounds'
 
-const tooltipEvent = async (e: MouseEvent) => {
+const tooltipEvent = async (selection: Selection) => {
   const root = document.querySelector('body') as HTMLBodyElement
 
   const tooltipRoot = document.createElement('div')
   tooltipRoot.classList.add('tooltip')
   root.appendChild(tooltipRoot)
 
-  const selectedText = (window.getSelection() as Selection).toString()
+  const selectedText = selection.toString()
 
   if (
     selectedText.replace(/\s/g, '') &&
     detectedLanguage(selectedText) !== 'kor'
   ) {
-    const range = (window.getSelection() as Selection).getRangeAt(0)
+    const range = selection.getRangeAt(0)
     const rect = range.getBoundingClientRect()
 
     tooltipRoot.style.position = 'absolute'
@@ -35,9 +35,14 @@ const tooltipEvent = async (e: MouseEvent) => {
       //       console.log('Text from content script:', response.text);
       //     });
       //   });
-
-      const res = chrome.runtime.sendMessage({ selectedText })
-      console.log(selectedText, res)
+      chrome.runtime.sendMessage({ selectedText }, (response) => {
+        if (chrome.runtime.lastError) {
+          // Handle the error, as the context might be invalidated
+          console.error('Error sending message:', chrome.runtime.lastError)
+        } else {
+          console.log(selectedText, response)
+        }
+      })
     }
   }
   const removeTooltip = () => {
@@ -53,8 +58,9 @@ const tooltipEvent = async (e: MouseEvent) => {
 }
 
 const detectEvent = (e: MouseEvent) => {
-  speak({ text: (window.getSelection() as Selection).toString() })
-  tooltipEvent(e)
+  const seletion = window.getSelection() as Selection
+  speak({ text: seletion.toString() })
+  tooltipEvent(seletion)
 }
 
 window.addEventListener('dblclick', detectEvent)

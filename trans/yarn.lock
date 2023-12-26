@@ -9,12 +9,13 @@
   dependencies:
     axios "*"
 
-"@types/chrome@0.0.75":
-  version "0.0.75"
-  resolved "https://registry.npmjs.org/@types/chrome/-/chrome-0.0.75.tgz"
-  integrity sha512-wfy/8egkLkznDD8zcimbqJBvBoJrmSr0mcptnnVdi5MbzKidlLr7DiRoYVPHIGKdMVlv1kaGIQ8l+RD3moy89A==
+"@types/chrome@^0.0.254":
+  version "0.0.254"
+  resolved "https://registry.npmjs.org/@types/chrome/-/chrome-0.0.254.tgz"
+  integrity sha512-svkOGKwA+6ZZuk9xtrYun8MYpNY/9hD17rgZ19v3KunhsK1ZOKaMESw12/1AXLh1u3UPA8jQIRi2370DXv9wgw==
   dependencies:
     "@types/filesystem" "*"
+    "@types/har-format" "*"
 
 "@types/filesystem@*":
   version "0.0.35"
@@ -32,6 +33,11 @@
   version "5.0.3"
   resolved "https://registry.npmjs.org/@types/franc/-/franc-5.0.3.tgz"
   integrity sha512-YX6o2vVkeiUvOF12bUmnSGf8sezOoBnCWjHHZGeh2lt3tqAutbJ9OL3cDRiZoiAYaZR638nuOc0Ji9bzdad2XA==
+
+"@types/har-format@*", "@types/har-format@^1.2.15":
+  version "1.2.15"
+  resolved "https://registry.npmjs.org/@types/har-format/-/har-format-1.2.15.tgz"
+  integrity sha512-RpQH4rXLuvTXKR0zqHq3go0RVXYv/YVqv4TnPH95VbwUxZdQlK1EtcMvQvMpDngHbt13Csh9Z4qT9AbkiQH5BA==
 
 "@types/prop-types@*":
   version "15.7.11"
@@ -2208,7 +2214,7 @@ postcss@^6.0.1, postcss@^6.0.23:
 
 prettier@^3.1.1:
   version "3.1.1"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.1.1.tgz#6ba9f23165d690b6cbdaa88cb0807278f7019848"
+  resolved "https://registry.npmjs.org/prettier/-/prettier-3.1.1.tgz"
   integrity sha512-22UbSzg8luF4UuZtzgiUOfcGM8s4tjBv6dJRT7j275NXsy2jb4aJa4NNveul5x4eqlF1wuhuR2RElK71RvmVaw==
 
 process-nextick-args@~2.0.0:

@@ -11,7 +11,8 @@
   "author": "hongyelim",
   "devDependencies": {
     "@types/axios": "^0.14.0",
-    "@types/chrome": "0.0.75",
+    "@types/chrome": "^0.0.254",
+    "@types/har-format": "^1.2.15",
     "@types/franc": "^5.0.3",
     "@types/react": "^16.7.8",
     "@types/react-dom": "^16.0.11",
