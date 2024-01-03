@@ -1,6 +1,6 @@
 'use client';
 
-import axios from 'axios';
+// import axios from 'axios';
 import { type ReactNode, useCallback, useEffect } from 'react';
 
 import speak, { detectedLanguage } from '~/libs/sounds';
@@ -37,16 +37,16 @@ export const DetectSound = ({
       tooltipRoot.style.borderRadius = '3px';
 
       /** cors 에러로 서버생성 및 우회해서 요청 보냄 -예림 */
-      tooltipRoot.innerText =
-        ((await axios
-          .post('/api/trans', JSON.stringify(selectedText), {
-            headers: {
-              'Content-Type': `application/json`,
-            },
-          })
-          .then((res) => {
-            return res.data.res;
-          })) as string) || '-';
+      await fetch('/api/trans', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ selectedText }),
+      }).then(async (res) => {
+        const body = await res.json();
+        tooltipRoot.innerText = body.res || '-';
+      });
     }
     const removeTooltip = () => {
       root.removeChild(tooltipRoot);
