@@ -28,7 +28,6 @@ export async function POST(req: Request) {
     });
 
     response = await res.json();
-    console.log(response.message.result.translatedText);
 
     return NextResponse.json({
       message: '성공',

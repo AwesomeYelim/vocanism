@@ -69,7 +69,7 @@ type RelatedInfo = {
 };
 
 function getReplatedInfo(post: DocumentTypes): RelatedInfo {
-  return allDocuments
+  const returnValue = allDocuments
     .sort((a, b) => compareAsc(new Date(a.date), new Date(b.date)))
     .reduce<RelatedInfo>((ac, v, index, list) => {
       if (v.slug === post.slug) {
@@ -96,6 +96,8 @@ function getReplatedInfo(post: DocumentTypes): RelatedInfo {
       }
       return ac;
     }, {});
+
+  return returnValue;
 }
 
 export default function WritingPage({ params }: PageProps) {
