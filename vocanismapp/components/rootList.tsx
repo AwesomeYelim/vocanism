@@ -16,7 +16,9 @@ export const RootList = (props: Props): JSX.Element => {
   const { res, slug } = props;
   const { searchHandler, searchValue } = useSearch();
   const [list, setList] = useState<T_Word[]>(res);
-
+  /**
+   * - value 값에 반응하여 검색어 입력시 반응되는 list 들
+   */
   useEffect(() => {
     const filteredExData = cloneDeep(res)
       .flatMap((item) => Object.keys(item.ex))

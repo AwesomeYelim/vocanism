@@ -10,7 +10,7 @@ export default function sitemap() {
       lastModified: date,
     }));
 
-  const routes = ['', '/writing', '/note'].map((route) => ({
+  const routes = ['', '/main'].map((route) => ({
     url: `${siteConfig.url}${route}`,
     lastModified: new Date().toISOString().split('T')[0],
   }));

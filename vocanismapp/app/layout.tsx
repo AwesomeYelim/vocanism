@@ -1,14 +1,10 @@
-import '~/styles/globals.css';
-
 import type { Metadata } from 'next';
-
 import { DetectSound } from '~/components/detect-sound';
-import FloatScrollTopButton from '~/components/float-scroll-top-button';
-import GoogleAnalytics from '~/components/google-analytics';
-import Recoil from '~/components/recoil';
+import Recoil from '~/components/recoil-comp';
 import siteConfig from '~/libs/site-config';
-
 import { Providers } from './providers';
+
+import '../styles/globals.css';
 
 export const metadata: Metadata = {
   title: {
@@ -17,9 +13,7 @@ export const metadata: Metadata = {
   },
   description: 'Develop about something Soft and Simple.',
   openGraph: {
-    images: [
-      'https://user-images.githubusercontent.com/65283190/262039301-7ca908de-e523-478e-b0af-b70665dd7703.jpg',
-    ],
+    images: [''],
     locale: 'ko_KR',
   },
   icons: {
@@ -50,19 +44,17 @@ export default function RootLayout({
   return (
     <html lang="ko" suppressHydrationWarning>
       <body>
-        <Providers>
-          <div className="blur-layer" aria-hidden="true"></div>
-          <div className="container mx-auto max-w-page py-page">
-            <div className="main-grid">
-              <Recoil>
-                <DetectSound>{children}</DetectSound>
-              </Recoil>
-            </div>
-            <FloatScrollTopButton />
+        {/* <Providers> */}
+        <div className="blur-layer" aria-hidden="true"></div>
+        <div className="container mx-auto max-w-page py-page">
+          <div className="main-grid">
+            <Recoil>
+              <DetectSound>{children}</DetectSound>
+            </Recoil>
           </div>
-        </Providers>
+        </div>
+        {/* </Providers> */}
       </body>
-      {process.env.NODE_ENV === 'production' && <GoogleAnalytics />}
     </html>
   );
 }

@@ -1,15 +1,18 @@
 {
-  "editor.rulers": [80],
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
-  },
-  "css.lint.unknownAtRules": "ignore",
-  "cSpell.words": ["Pretendard"],
-  "pasteImage.defaultName": "YYMMDD-HHmmss",
-  "pasteImage.basePath": "${projectRoot}/public",
-  "pasteImage.path": "${projectRoot}/public/img/${currentFileNameWithoutExt}",
+  "pasteImage.defaultName": "${currentFileNameWithoutExt}hms",
+  "pasteImage.basePath": "${projectRoot}",
+  "pasteImage.path": "${currentFileDir}/img",
+  "pasteImage.namePrefix": "",
   "pasteImage.forceUnixStyleSeparator": true,
-  "pasteImage.insertPattern": "![${imageFileNameWithoutExt}](${imageFilePath})",
-  "pasteImage.prefix": "/"
+  "pasteImage.insertPattern": "![${imageFileNameWithoutExt}](./img/${imageFileName})",
+  "pasteImage.prefix": "/",
+  "pasteImage.filePathConfirmInputBoxMode": "onlyName",
+  "pasteImage.showFilePathConfirmInputBox": true,
+  "markdownlint.config": {
+    "MD033": {
+      "allowed_elements": ["details", "summary", "div", "mark", "del"]
+    },
+    "editor.quickSuggestions": true
+  },
+  "liveServer.settings.port": 5501
 }
