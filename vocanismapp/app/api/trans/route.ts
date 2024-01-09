@@ -2,8 +2,8 @@ import { NextResponse } from 'next/server';
 
 const config = {
   headers: {
-    'X-Naver-Client-Id': process.env.NAVER_CLIENT_ID,
-    'X-Naver-Client-Secret': process.env.NAVER_CLIENT_SECRET,
+    'X-Naver-Client-Id': 'S3GDTg2lKCPUYCK7W0ky',
+    'X-Naver-Client-Secret': 'xC_9vS5aQi',
   },
 };
 

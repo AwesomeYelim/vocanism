@@ -4,7 +4,7 @@ import Recoil from '~/components/recoil-comp';
 import siteConfig from '~/libs/site-config';
 import { Providers } from './providers';
 
-import '~/styles/globals.css';
+import '../styles/globals.css';
 
 export const metadata: Metadata = {
   title: {
