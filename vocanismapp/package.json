@@ -9,18 +9,6 @@
     "lint": "next lint",
     "prettier": "prettier --write '**/*.{mjs,cjs,js,ts,tsx,css}' "
   },
-  "pnpm": {
-    "//": "@see https://github.com/contentlayerdev/contentlayer/issues/506",
-    "overrides": {
-      "@opentelemetry/api": "1.4.1",
-      "@opentelemetry/core": "1.13.0",
-      "@opentelemetry/exporter-trace-otlp-grpc": "0.39.1",
-      "@opentelemetry/resources": "1.13.0",
-      "@opentelemetry/sdk-trace-base": "1.13.0",
-      "@opentelemetry/sdk-trace-node": "1.13.0",
-      "@opentelemetry/semantic-conventions": "1.13.0"
-    }
-  },
   "dependencies": {
     "autoprefixer": "10.4.14",
     "clsx": "^1.2.1",
@@ -45,21 +33,12 @@
     "@types/react-dom": "18.2.6",
     "@typescript-eslint/eslint-plugin": "^5.61.0",
     "@typescript-eslint/parser": "^5.61.0",
-    "contentlayer": "^0.3.4",
     "eslint": "8.44.0",
     "eslint-config-next": "13.4.9",
     "eslint-plugin-simple-import-sort": "^10.0.0",
-    "next-contentlayer": "^0.3.4",
     "postcss": "8.4.25",
     "prettier": "^3.0.0",
     "prettier-plugin-tailwindcss": "^0.4.1",
-    "rehype-autolink-headings": "^6.1.1",
-    "rehype-external-links": "^2.1.0",
-    "rehype-pretty-code": "^0.10.0",
-    "rehype-slug": "^5.1.0",
-    "remark-breaks": "^3.0.3",
-    "remark-gfm": "^3.0.1",
-    "shiki": "^0.14.3",
     "tailwindcss": "3.3.2",
     "typescript": "5.1.6"
   }
