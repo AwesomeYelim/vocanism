@@ -53,7 +53,6 @@ export const DetectSound = ({
       window.removeEventListener('mouseup', removeTooltip);
     };
 
-    window.addEventListener('mouseup', removeTooltip);
     return () => {
       root.removeChild(tooltipRoot);
       window.removeEventListener('mouseup', removeTooltip);
