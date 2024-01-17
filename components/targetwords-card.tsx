@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from 'react';
 import { randomIndex, randomIndexPerDay } from '~/libs/random-index';
-import { Refresh } from './refresh-image';
+import { RefreshIcon } from './icons/fun-icon';
 import { WordNote } from './word-note';
 
 interface Props {
@@ -23,8 +23,9 @@ export const TargetwordsCard = ({ list }: Props) => {
     <>
       <h2 className="mb-4 mt-4 font-serif text-gray-11">
         오늘의 목표 단어
-        <Refresh
-          handler={() => {
+        <RefreshIcon
+          className="ml-2 inline-block cursor-pointer transition-all hover:-rotate-180"
+          onClick={() => {
             setWordList(randomTodayWords(randomNum[1]));
           }}
         />

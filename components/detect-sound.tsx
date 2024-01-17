@@ -60,6 +60,7 @@ export const DetectSound = ({
     };
   }, []);
   const detectEvent = useCallback((e: MouseEvent) => {
+    e.preventDefault();
     speak({ text: (window.getSelection() as Selection).toString() });
     tooltipEvent(e);
   }, []);
