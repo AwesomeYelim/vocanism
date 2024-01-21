@@ -3,7 +3,7 @@
 import { cloneDeep } from 'lodash';
 import React, { useEffect, useState } from 'react';
 import useSearch from '~/app/libs/hooks/useSearch';
-import { T_Word } from '~/app/main/[[...slug]]/page';
+import { type T_Word } from '~/app/main/[[...slug]]/page';
 import { SearchInput } from './searchInput';
 import { WordRoot } from './word-root';
 

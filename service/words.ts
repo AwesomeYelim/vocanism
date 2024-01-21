@@ -1,6 +1,6 @@
 import path from 'path';
 import fs from 'fs';
-import { T_Word } from '~/app/main/[[...slug]]/page';
+import { type T_Word } from '~/app/main/[[...slug]]/page';
 
 export const readFile = (...arg: string[]) => {
   if (arg.length > 1) {

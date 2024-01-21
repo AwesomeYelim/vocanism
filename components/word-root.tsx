@@ -1,8 +1,8 @@
 'use client';
 
 import Link from 'next/link';
-import React, { useState } from 'react';
-import { T_Word } from '~/app/main/[[...slug]]/page';
+import React from 'react';
+import { type T_Word } from '~/app/main/[[...slug]]/page';
 
 interface Props {
   word: T_Word;
