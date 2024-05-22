@@ -59,6 +59,7 @@ export const DetectSound = ({
       window.removeEventListener('mouseup', removeTooltip);
     };
   }, []);
+
   const detectEvent = useCallback((e: MouseEvent) => {
     e.preventDefault();
     speak({ text: (window.getSelection() as Selection).toString() });
