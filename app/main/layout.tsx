@@ -1,4 +1,3 @@
-import dynamic from 'next/dynamic';
 import Link from 'next/link';
 import { ReactNode } from 'react';
 import { Block } from '~/components/block';
@@ -14,7 +13,6 @@ export default function MainLayout({ children }: Props) {
     string,
     string[],
   ][];
-  const todayWords = Object.entries(readFile('TOEIC_TOFLE', 'data'));
 
   return (
     <main className="text-tx">
@@ -37,7 +35,7 @@ export default function MainLayout({ children }: Props) {
         </div>
         <div className="w-80">
           <IdiomCard list={idiomsData} />
-          <TargetwordsCard list={todayWords} />
+          <TargetwordsCard />
         </div>
       </div>
     </main>

@@ -10,6 +10,17 @@ export const readFile = (...arg: string[]) => {
     return JSON.parse(words);
   }
 };
+
+export const readDirectories = (basePath: string) => {
+  const fullPath = path.join(process.cwd(), basePath);
+  const items = fs.readdirSync(fullPath);
+
+  return items.filter((item) => {
+    const itemPath = path.join(fullPath, item);
+    return fs.statSync(itemPath).isDirectory();
+  });
+};
+
 export async function geteEtymology(word: string | string[]) {
   if (word?.length > 1) {
     const target = readFile('etymology', word[0] || 'A').find(
